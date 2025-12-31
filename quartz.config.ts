@@ -1,6 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
-import LatexToUpmath from "./quartz/plugins/latex-to-upmath"
+import LatexToUpmath from "./quartz/plugins/latex-to-upmath.ts"
 
 /**
  * Quartz 4 Configuration
