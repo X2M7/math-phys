@@ -8,7 +8,7 @@ Welcome to mathematical physics wiki.
 
 ---
 
-## Index
+# Index
 
 - [Foundations of Mathematics](/en/foundations_of_mathematics/)
 - [Analysis](/en/analysis/)

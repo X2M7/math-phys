@@ -8,7 +8,7 @@ alt: /en/
 
 ---
 
-## 目录 / Index
+# 目录
 
 - [数学基础](/zh/foundations_of_mathematics/)
 - [分析](/zh/analysis/)
