@@ -5,8 +5,10 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
+
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
 import {
@@ -24,6 +26,37 @@ type ComponentResources = {
   beforeDOMLoaded: string[]
   afterDOMLoaded: string[]
 }
+
+/**
+ * ✅ 这里直接内联 upmath 暗色/亮色切换脚本（避免 import 变成空字符串的问题）
+ * 暗色：加 ?c=eaeaea
+ * 亮色：删除 c 参数
+ */
+const upmathThemeScript = `
+console.log("[upmathTheme] loaded");
+window.__UPMATH_THEME_LOADED__ = true;
+
+const DARK_COLOR = "eaeaea";
+
+function applyUpmathTheme() {
+  const isDark = document.documentElement.getAttribute("saved-theme") === "dark";
+  const imgs = document.querySelectorAll("img.upmath");
+  imgs.forEach((img) => {
+    const raw = img.getAttribute("src");
+    if (!raw) return;
+    try {
+      const u = new URL(raw, window.location.href);
+      if (isDark) u.searchParams.set("c", DARK_COLOR);
+      else u.searchParams.delete("c");
+      img.src = u.toString();
+    } catch (e) {}
+  });
+}
+
+document.addEventListener("nav", applyUpmathTheme);
+document.addEventListener("themechange", applyUpmathTheme);
+setTimeout(applyUpmathTheme, 0);
+`
 
 function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
@@ -66,13 +99,10 @@ function getComponentResources(ctx: BuildCtx): ComponentResources {
 
 async function joinScripts(scripts: string[]): Promise<string> {
   // wrap with iife to prevent scope collision
-  const script = scripts.map((script) => `(function () {${script}})();`).join("\n")
+  const script = scripts.map((s) => `(function () {${s}})();`).join("\n")
 
   // minify with esbuild
-  const res = await transpile(script, {
-    minify: true,
-  })
-
+  const res = await transpile(script, { minify: true })
   return res.code
 }
 
@@ -103,7 +133,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
           gtag('event', 'page_view', { page_title: document.title, page_location: location.href });
         });
       };
-      
       document.head.appendChild(gtagScript);
     `)
   } else if (cfg.analytics?.provider === "plausible") {
@@ -120,7 +149,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
           plausible('pageview');
         });
       };
-
       document.head.appendChild(plausibleScript);
     `)
   } else if (cfg.analytics?.provider === "umami") {
@@ -130,7 +158,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       umamiScript.setAttribute("data-website-id", "${cfg.analytics.websiteId}");
       umamiScript.setAttribute("data-auto-track", "true");
       umamiScript.defer = true;
-
       document.head.appendChild(umamiScript);
     `)
   } else if (cfg.analytics?.provider === "goatcounter") {
@@ -140,7 +167,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
         window.goatcounter = { no_onload: true };
       \`;
       document.head.appendChild(goatcounterScriptPre);
-
       const endpoint = "https://${cfg.analytics.websiteId}.${cfg.analytics.host ?? "goatcounter.com"}/count";
       const goatcounterScript = document.createElement('script');
       goatcounterScript.src = "${cfg.analytics.scriptSrc ?? "https://gc.zgo.at/count.js"}";
@@ -153,7 +179,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
           goatcounter.count({ path: location.pathname });
         });
       };
-
       document.head.appendChild(goatcounterScript);
     `)
   } else if (cfg.analytics?.provider === "posthog") {
@@ -167,7 +192,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       document.addEventListener('nav', () => {
         posthog.capture('$pageview', { path: location.pathname });
       })\`
-
       document.head.appendChild(posthogScript);
     `)
   } else if (cfg.analytics?.provider === "tinylytics") {
@@ -182,7 +206,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
           window.tinylytics.triggerUpdate();
         });
       };
-      
       document.head.appendChild(tinylyticsScript);
     `)
   } else if (cfg.analytics?.provider === "cabin") {
@@ -206,32 +229,24 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       const matomoScript = document.createElement("script");
       matomoScript.innerHTML = \`
       let _paq = window._paq = window._paq || [];
-
-      // Track SPA navigation
-      // https://developer.matomo.org/guides/spa-tracking
       document.addEventListener("nav", () => {
         _paq.push(['setCustomUrl', location.pathname]);
         _paq.push(['setDocumentTitle', document.title]);
         _paq.push(['trackPageView']);
       });
-
       _paq.push(['trackPageView']);
       _paq.push(['enableLinkTracking']);
       (function() {
         const u="//${cfg.analytics.host}/";
         _paq.push(['setTrackerUrl', u+'matomo.php']);
         _paq.push(['setSiteId', ${cfg.analytics.siteId}]);
-        const d=document, g=d.createElement('script'), s=d.getElementsByTagName
-('script')[0];
+        const d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
         g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
       })();
       \`
       document.head.appendChild(matomoScript);
     `)
   } else if (cfg.analytics?.provider === "vercel") {
-    /**
-     * script from {@link https://vercel.com/docs/analytics/quickstart?framework=html#add-the-script-tag-to-your-site|Vercel Docs}
-     */
     componentResources.beforeDOMLoaded.push(`
       window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
     `)
@@ -248,10 +263,12 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       rybbitScript.setAttribute("data-site-id", "${cfg.analytics.siteId}");
       rybbitScript.async = true;
       rybbitScript.defer = true;
-
       document.head.appendChild(rybbitScript);
     `)
   }
+
+  // ✅ 关键：upmath 脚本必须在 SPA router 之前加入 afterDOMLoaded
+  componentResources.afterDOMLoaded.push(upmathThemeScript)
 
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)
@@ -272,8 +289,10 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
     name: "ComponentResources",
     async *emit(ctx, _content, _resources) {
       const cfg = ctx.cfg.configuration
+
       // component specific scripts and styles
       const componentResources = getComponentResources(ctx)
+
       let googleFontsStyleSheet = ""
       if (cfg.theme.fontOrigin === "local") {
         // let the user do it themselves in css
@@ -285,14 +304,12 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
 
         if (theme.typography.title) {
           const title = ctx.cfg.configuration.pageTitle
-          const response = await fetch(googleFontSubsetHref(theme, title))
-          googleFontsStyleSheet += `\n${await response.text()}`
+          const response2 = await fetch(googleFontSubsetHref(theme, title))
+          googleFontsStyleSheet += `\n${await response2.text()}`
         }
 
         if (!cfg.baseUrl) {
-          throw new Error(
-            "baseUrl must be defined when using Google Fonts without cfg.theme.cdnCaching",
-          )
+          throw new Error("baseUrl must be defined when using Google Fonts without cfg.theme.cdnCaching")
         }
 
         const { processedStylesheet, fontFiles } = await processGoogleFonts(
@@ -307,7 +324,6 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
           if (!res.ok) {
             throw new Error(`Failed to fetch font ${fontFile.filename}`)
           }
-
           const buf = await res.arrayBuffer()
           yield write({
             ctx,
@@ -318,7 +334,7 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
         }
       }
 
-      // important that this goes *after* component scripts
+      // important that this goes _after_ component scripts
       // as the "nav" event gets triggered here and we should make sure
       // that everyone else had the chance to register a listener for it
       addGlobalPageResources(ctx, componentResources)

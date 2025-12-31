@@ -46,6 +46,8 @@ export * from "./transformers"
 export * from "./filters"
 export * from "./emitters"
 
+export { default as LatexToUpmath } from "./latex-to-upmath"
+
 declare module "vfile" {
   // inserted in processors.ts
   interface DataMap {

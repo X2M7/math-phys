@@ -23,6 +23,7 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import LanguageToggle from "./LanguageToggle"
 
 export {
   ArticleTitle,
@@ -30,6 +31,7 @@ export {
   TagContent,
   FolderContent,
   Darkmode,
+  LanguageToggle,
   ReaderMode,
   Head,
   PageTitle,

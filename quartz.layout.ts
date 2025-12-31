@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+     // "Powered by Xumin Liang": "https://xumin-liang.net",
     },
   }),
 }
@@ -35,6 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.LanguageToggle() },
         { Component: Component.ReaderMode() },
       ],
     }),
@@ -60,6 +60,7 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.LanguageToggle() },
       ],
     }),
     Component.Explorer(),
