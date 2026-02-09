@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          Powered by <a href="https://xumin-liang.net">Xumin Liang</a>
+          Powered by <a href="https://xumin.net">Xumin Liang</a>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
