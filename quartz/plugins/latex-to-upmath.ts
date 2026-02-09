@@ -2,7 +2,7 @@ import type { QuartzTransformerPlugin } from "./types"
 import remarkMath from "remark-math"
 import { visit } from "unist-util-visit"
 
-const ENDPOINT = "https://xumin.net/svg/"
+const ENDPOINT = "https://tex.xumin.net/svg/"
 
 function remarkUpmath() {
   return (tree: any) => {
