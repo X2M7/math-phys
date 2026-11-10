@@ -204,6 +204,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   if (!searchLayout) return
 
   const idDataMap = Object.keys(data) as FullSlug[]
+  let searchRequest = 0
+  window.addCleanup(() => searchRequest++)
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
   }
@@ -222,6 +224,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   }
 
   function hideSearch() {
+    searchRequest++
     container.classList.remove("active")
     searchBar.value = "" // clear the input when we dismiss the search
     if (sidebar) sidebar.style.zIndex = ""
@@ -420,10 +423,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function displayPreview(el: HTMLElement | null) {
     if (!searchLayout || !enablePreview || !el || !preview) return
+    const request = searchRequest
     const slug = el.id as FullSlug
     const innerDiv = await fetchContent(slug).then((contents) =>
       contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
     )
+    if (request !== searchRequest) return
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")
     previewInner.append(...innerDiv)
@@ -438,7 +443,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
-    currentSearchTerm = (e.target as HTMLInputElement).value
+    const request = ++searchRequest
+    const term = (e.target as HTMLInputElement).value
+    await fillDocument(data)
+    if (request !== searchRequest) return
+
+    currentSearchTerm = term
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
 
@@ -479,6 +489,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       })
     }
 
+    if (request !== searchRequest) return
+
     const getByField = (field: string): number[] => {
       const results = searchResults.filter((x) => x.field === field)
       return results.length === 0 ? [] : ([...results[0].result] as number[])
@@ -510,30 +522,36 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
  * @param index index to fill
  * @param data data to fill index with
  */
-let indexPopulated = false
-async function fillDocument(data: ContentIndex) {
-  if (indexPopulated) return
-  let id = 0
-  const promises: Array<Promise<unknown>> = []
-  for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
-    promises.push(
-      index.addAsync(id++, {
-        id,
-        slug: slug as FullSlug,
-        title: fileData.title,
-        content: fileData.content,
-        tags: fileData.tags,
-      }),
-    )
-  }
+let indexPopulation: Promise<void> | undefined
+function fillDocument(data: ContentIndex): Promise<void> {
+  // Navigation can occur while the first index is still being populated.
+  // All pages and pending queries must share that same work.
+  indexPopulation ??= (async () => {
+    let id = 0
+    const promises: Array<Promise<unknown>> = []
+    for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
+      promises.push(
+        index.addAsync(id++, {
+          id,
+          slug: slug as FullSlug,
+          title: fileData.title,
+          content: fileData.content,
+          tags: fileData.tags,
+        }),
+      )
+    }
 
-  await Promise.all(promises)
-  indexPopulated = true
+    await Promise.all(promises)
+  })()
+  return indexPopulation
 }
 
+let navigationId = 0
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+  const navigation = ++navigationId
   const currentSlug = e.detail.url
   const data = await fetchData
+  if (navigation !== navigationId) return
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
     await setupSearch(element, currentSlug, data)
