@@ -32,6 +32,13 @@
   & > :last-child {
     margin-bottom: 0;
   }
+
+  @media all and ($mobile) {
+    &,
+    h2 {
+      scroll-margin-top: 7rem;
+    }
+  }
 }
 
 .dictionary {
