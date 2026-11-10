@@ -160,6 +160,19 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
         folders.forEach((folder) => affectedFolders.add(folder))
       }
 
+      // Folder index pages can also display dictionary data from other directories.
+      for (const file of allFiles) {
+        const slug = file.slug
+        const fm = file.frontmatter
+        if (
+          slug?.endsWith("/index") &&
+          !slug.startsWith("tags/") &&
+          (fm?.pageType === "dictionary" || fm?.concept !== undefined || fm?.concepts !== undefined)
+        ) {
+          affectedFolders.add(stripSlashes(simplifySlug(slug)) as SimpleSlug)
+        }
+      }
+
       // If there are affected folders, rebuild their pages
       if (affectedFolders.size > 0) {
         const folderInfo = computeFolderInfo(affectedFolders, content, cfg.locale)

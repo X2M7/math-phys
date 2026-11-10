@@ -109,6 +109,19 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         }
       }
 
+      // These pages include concept names and article links from other files.
+      // Refresh them on additions, edits, and deletions during local preview.
+      for (const file of allFiles) {
+        const fm = file.frontmatter
+        if (
+          fm?.pageType === "dictionary" ||
+          fm?.concept !== undefined ||
+          fm?.concepts !== undefined
+        ) {
+          changedSlugs.add(file.slug!)
+        }
+      }
+
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue

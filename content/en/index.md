@@ -10,6 +10,7 @@ Welcome to mathematical physics wiki.
 
 # Index
 
+- [Chinese–English concept dictionary](/dictionary)
 - [Foundations of Mathematics](/en/foundations_of_mathematics/)
 - [Analysis](/en/analysis/)
 - [Algebra](/en/algebra/)

@@ -10,6 +10,7 @@ alt: /en/
 
 # 目录
 
+- [中英文概念词典](/dictionary)
 - [数学基础](/zh/foundations_of_mathematics/)
 - [分析](/zh/analysis/)
 - [代数](/zh/algebra/)

@@ -7,3 +7,4 @@ description: A bilingual mathematics wiki built with Quartz.
 
 - [中文入口](/zh/)
 - [English](/en/)
+- [数学物理词典 / Dictionary](/dictionary)

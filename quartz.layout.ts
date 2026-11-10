@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.Dictionary(), Component.ConceptLinks()],
   footer: Component.Footer({
     links: {},
   }),
@@ -19,11 +19,15 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.frontmatter?.pageType !== "dictionary",
+    }),
     Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
+    Component.DesktopOnly(Component.DictionaryLink()),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -39,9 +43,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => page.fileData.frontmatter?.pageType !== "dictionary",
+    }),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: (page) => page.fileData.frontmatter?.pageType !== "dictionary",
+    }),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => page.fileData.frontmatter?.pageType !== "dictionary",
+    }),
   ],
 }
 
@@ -50,6 +63,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
+    Component.DesktopOnly(Component.DictionaryLink()),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [

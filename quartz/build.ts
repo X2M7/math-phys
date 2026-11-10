@@ -184,116 +184,123 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
   const numChangesInBuild = changes.length
   const release = await mut.acquire()
 
-  // if there's another build after us, release and let them do it
-  if (ctx.buildId !== buildId) {
-    release()
-    return
-  }
+  try {
+    // If there's another build after us, let it handle the pending changes.
+    if (ctx.buildId !== buildId) return
 
-  const perf = new PerfTimer()
-  perf.addEvent("rebuild")
-  console.log(styleText("yellow", "Detected change, rebuilding..."))
+    const perf = new PerfTimer()
+    perf.addEvent("rebuild")
+    console.log(styleText("yellow", "Detected change, rebuilding..."))
 
-  // update changesSinceLastBuild
-  for (const change of changes) {
-    changesSinceLastBuild[change.path] = change.type
-  }
-
-  const staticResources = getStaticResourcesFromPlugins(ctx)
-  const pathsToParse: FilePath[] = []
-  for (const [fp, type] of Object.entries(changesSinceLastBuild)) {
-    if (type === "delete" || path.extname(fp) !== ".md") continue
-    const fullPath = joinSegments(argv.directory, toPosixPath(fp)) as FilePath
-    pathsToParse.push(fullPath)
-  }
-
-  const parsed = await parseMarkdown(ctx, pathsToParse)
-  for (const content of parsed) {
-    contentMap.set(content[1].data.relativePath!, {
-      type: "markdown",
-      content,
-    })
-  }
-
-  // update state using changesSinceLastBuild
-  // we do this weird play of add => compute change events => remove
-  // so that partialEmitters can do appropriate cleanup based on the content of deleted files
-  for (const [file, change] of Object.entries(changesSinceLastBuild)) {
-    if (change === "delete") {
-      // universal delete case
-      contentMap.delete(file as FilePath)
+    // update changesSinceLastBuild
+    for (const change of changes) {
+      changesSinceLastBuild[change.path] = change.type
     }
 
-    // manually track non-markdown files as processed files only
-    // contains markdown files
-    if (change === "add" && path.extname(file) !== ".md") {
-      contentMap.set(file as FilePath, {
-        type: "other",
+    const staticResources = getStaticResourcesFromPlugins(ctx)
+    const pathsToParse: FilePath[] = []
+    for (const [fp, type] of Object.entries(changesSinceLastBuild)) {
+      if (type === "delete" || path.extname(fp) !== ".md") continue
+      const fullPath = joinSegments(argv.directory, toPosixPath(fp)) as FilePath
+      pathsToParse.push(fullPath)
+    }
+
+    const parsed = await parseMarkdown(ctx, pathsToParse)
+    for (const content of parsed) {
+      contentMap.set(content[1].data.relativePath!, {
+        type: "markdown",
+        content,
       })
     }
-  }
 
-  const changeEvents: ChangeEvent[] = Object.entries(changesSinceLastBuild).map(([fp, type]) => {
-    const path = fp as FilePath
-    const processedContent = contentMap.get(path)
-    if (processedContent?.type === "markdown") {
-      const [_tree, file] = processedContent.content
+    // update state using changesSinceLastBuild
+    // we do this weird play of add => compute change events => remove
+    // so that partialEmitters can do appropriate cleanup based on the content of deleted files
+    for (const [file, change] of Object.entries(changesSinceLastBuild)) {
+      if (change === "delete") {
+        // universal delete case
+        contentMap.delete(file as FilePath)
+      }
+
+      // manually track non-markdown files as processed files only
+      // contains markdown files
+      if (change === "add" && path.extname(file) !== ".md") {
+        contentMap.set(file as FilePath, {
+          type: "other",
+        })
+      }
+    }
+
+    const changeEvents: ChangeEvent[] = Object.entries(changesSinceLastBuild).map(([fp, type]) => {
+      const path = fp as FilePath
+      const processedContent = contentMap.get(path)
+      if (processedContent?.type === "markdown") {
+        const [_tree, file] = processedContent.content
+        return {
+          type,
+          path,
+          file,
+        }
+      }
+
       return {
         type,
         path,
-        file,
       }
-    }
+    })
 
-    return {
-      type,
-      path,
-    }
-  })
+    // update allFiles and then allSlugs with the consistent view of content map
+    ctx.allFiles = Array.from(contentMap.keys())
+    ctx.allSlugs = ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath))
+    let processedFiles = filterContent(
+      ctx,
+      Array.from(contentMap.values())
+        .filter((file) => file.type === "markdown")
+        .map((file) => file.content),
+    )
 
-  // update allFiles and then allSlugs with the consistent view of content map
-  ctx.allFiles = Array.from(contentMap.keys())
-  ctx.allSlugs = ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath))
-  let processedFiles = filterContent(
-    ctx,
-    Array.from(contentMap.values())
-      .filter((file) => file.type === "markdown")
-      .map((file) => file.content),
-  )
+    let emittedFiles = 0
+    for (const emitter of cfg.plugins.emitters) {
+      // Try to use partialEmit if available, otherwise assume the output is static
+      const emitFn = emitter.partialEmit ?? emitter.emit
+      const emitted = await emitFn(ctx, processedFiles, staticResources, changeEvents)
+      if (emitted === null) {
+        continue
+      }
 
-  let emittedFiles = 0
-  for (const emitter of cfg.plugins.emitters) {
-    // Try to use partialEmit if available, otherwise assume the output is static
-    const emitFn = emitter.partialEmit ?? emitter.emit
-    const emitted = await emitFn(ctx, processedFiles, staticResources, changeEvents)
-    if (emitted === null) {
-      continue
-    }
-
-    if (Symbol.asyncIterator in emitted) {
-      // Async generator case
-      for await (const file of emitted) {
-        emittedFiles++
+      if (Symbol.asyncIterator in emitted) {
+        // Async generator case
+        for await (const file of emitted) {
+          emittedFiles++
+          if (ctx.argv.verbose) {
+            console.log(`[emit:${emitter.name}] ${file}`)
+          }
+        }
+      } else {
+        // Array case
+        emittedFiles += emitted.length
         if (ctx.argv.verbose) {
-          console.log(`[emit:${emitter.name}] ${file}`)
-        }
-      }
-    } else {
-      // Array case
-      emittedFiles += emitted.length
-      if (ctx.argv.verbose) {
-        for (const file of emitted) {
-          console.log(`[emit:${emitter.name}] ${file}`)
+          for (const file of emitted) {
+            console.log(`[emit:${emitter.name}] ${file}`)
+          }
         }
       }
     }
-  }
 
-  console.log(`Emitted ${emittedFiles} files to \`${argv.output}\` in ${perf.timeSince("rebuild")}`)
-  console.log(styleText("green", `Done rebuilding in ${perf.timeSince()}`))
-  changes.splice(0, numChangesInBuild)
-  clientRefresh()
-  release()
+    console.log(
+      `Emitted ${emittedFiles} files to \`${argv.output}\` in ${perf.timeSince("rebuild")}`,
+    )
+    console.log(styleText("green", `Done rebuilding in ${perf.timeSince()}`))
+    changes.splice(0, numChangesInBuild)
+    clientRefresh()
+  } catch (error) {
+    // Retain pending changes so saving a correction can retry this rebuild.
+    const message = error instanceof Error ? error.message : String(error)
+    console.error(styleText("red", `Failed to rebuild: ${message}`))
+    console.error("Fix the reported error and save a content file to retry.")
+  } finally {
+    release()
+  }
 }
 
 export default async (argv: Argv, mut: Mutex, clientRefresh: () => void) => {

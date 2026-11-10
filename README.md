@@ -14,6 +14,47 @@ npx quartz build
 npx quartz build --serve
 ```
 
+### 中英文概念词典
+
+词典页面位于 `/dictionary`，首页和中英文入口均提供链接。没有搜索词时，
+页面列出所有已收录概念的中英文标题；搜索可匹配中英文名称与别称。
+第一版不预置概念，内容由作者自行录入。
+
+每个概念使用一份 Markdown 文件，同时维护中英文名称：
+
+1. 创建 `content/concepts/` 目录，将 `content/templates/concept.md` 复制到其中的 `<id>.md`。
+2. 填写 `concept.id`、`concept.zh`、`concept.en` 和页面的 `title`，并编写正文。
+3. 如有别称、缩写或不同译名，填入可选的 `concept.variants` 数组。
+4. 运行 `npx quartz build --serve`，在词典页检查标题、搜索与概念链接。
+
+`concept.id` 使用唯一且稳定的英文小写 kebab-case 标识，例如 `tensor-product`。
+文件名建议与 ID 一致。中英文表示同一个概念时共用一个 ID；修改标题或译名时
+保持 ID 不变，便可维持与文章的关联。概念页的 Markdown 正文可写定义、公式、
+注解和参考资料，并通过普通链接或双向链接连接其他页面。
+
+别称应写入 `concept.variants`，例如 `[张量乘积, tensor products]`。
+不要为了词典搜索使用 Quartz 的 `aliases`：该字段会创建重定向页面，含义不同。
+
+普通词条文章可从 `content/templates/article-with-concepts.md` 开始，放入现有的
+`content/zh/`、`content/en/` 或其他内容目录。在文章的 frontmatter 中添加
+`concepts` 数组，即可自动关联到对应概念：
+
+```yaml
+concepts:
+  - tensor-product
+```
+
+上面的 ID 仅为录入示例，使用前需要创建对应概念。一篇文章可以关联多个概念，
+同一概念也可以关联多篇中英文文章。正文中可使用
+`[[concepts/tensor-product|张量积]]` 链接到 `content/concepts/tensor-product.md`；
+这种正文链接供读者跳转，`concepts` 字段用于维护概念与文章的关联。
+
+构建会检查概念 ID 是否重复、中英文名称是否为空、文章引用的 ID 是否存在；
+错误会指出具体文件和字段。预览中遇到这些元数据错误时，修正并保存即可继续重建。
+
+`content/templates/` 已被站点的 `ignorePatterns` 排除，模板不会发布，也不会
+出现在词典中。请先复制模板再录入内容，避免直接编辑模板后期待其出现在网站。
+
 ### Dependency maintenance — 2026-11-10
 
 Dependencies and the lockfile have been refreshed, including Sharp 0.35.5,

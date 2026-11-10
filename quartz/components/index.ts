@@ -24,6 +24,9 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import LanguageToggle from "./LanguageToggle"
+import Dictionary from "./Dictionary"
+import DictionaryLink from "./DictionaryLink"
+import ConceptLinks from "./ConceptLinks"
 
 export {
   ArticleTitle,
@@ -32,6 +35,9 @@ export {
   FolderContent,
   Darkmode,
   LanguageToggle,
+  Dictionary,
+  DictionaryLink,
+  ConceptLinks,
   ReaderMode,
   Head,
   PageTitle,

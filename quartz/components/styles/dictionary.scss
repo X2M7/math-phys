@@ -1,0 +1,161 @@
+@use "../../styles/variables.scss" as *;
+
+.dictionary {
+  margin: 2rem 0;
+
+  [hidden] {
+    display: none !important;
+  }
+
+  .dictionary-search {
+    padding: 1.2rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    background: var(--highlight);
+
+    label {
+      display: block;
+      margin-bottom: 0.6rem;
+      font-weight: 600;
+      color: var(--dark);
+    }
+  }
+
+  .dictionary-search-field {
+    display: flex;
+    gap: 0.5rem;
+
+    input {
+      box-sizing: border-box;
+      width: 100%;
+      min-width: 0;
+      padding: 0.75rem;
+      border: 1px solid var(--gray);
+      border-radius: 4px;
+      background: var(--light);
+      color: var(--dark);
+      font: inherit;
+
+      &::placeholder {
+        color: var(--darkgray);
+      }
+
+      &:disabled {
+        opacity: 0.65;
+      }
+    }
+
+    button {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--gray);
+      border-radius: 4px;
+      background: var(--light);
+      color: var(--secondary);
+      font: inherit;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+  }
+
+  :is(input, button, a, summary):focus-visible {
+    outline: 2px solid var(--secondary);
+    outline-offset: 3px;
+  }
+
+  .dictionary-summary {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem 1rem;
+    margin: 2rem 0 0.75rem;
+
+    h2 {
+      margin: 0;
+      font-size: 1.1rem;
+    }
+
+    p {
+      margin: 0;
+      color: var(--darkgray);
+      font-size: 0.9rem;
+    }
+  }
+
+  .dictionary-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    & > li {
+      border-bottom: 1px solid var(--lightgray);
+      padding: 0.9rem 0.25rem;
+      scroll-margin-top: 5rem;
+    }
+  }
+
+  a.dictionary-term {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem 1.5rem;
+    padding: 0.3rem;
+    border-radius: 4px;
+    overflow-wrap: anywhere;
+    font-size: 1.1rem;
+
+    &:hover {
+      background: var(--highlight);
+    }
+
+    [lang="en"] {
+      color: var(--darkgray);
+      font-weight: 400;
+    }
+  }
+
+  .dictionary-articles {
+    margin: 0.5rem 0.3rem 0;
+    font-size: 0.9rem;
+
+    summary {
+      cursor: pointer;
+      color: var(--darkgray);
+    }
+
+    ul {
+      padding-left: 1.25rem;
+    }
+  }
+
+  .dictionary-empty {
+    border-top: 1px solid var(--lightgray);
+    padding: 3rem 1rem;
+    text-align: center;
+
+    p {
+      margin: 0.4rem 0;
+      color: var(--darkgray);
+    }
+  }
+
+  @media all and ($mobile) {
+    a.dictionary-term {
+      grid-template-columns: 1fr;
+      gap: 0.25rem;
+    }
+  }
+}
+
+@media all and ($desktop) {
+  .page > #quartz-body:has(.dictionary) {
+    grid-template-columns: #{$sidePanelWidth} minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+
+    & > .sidebar.right {
+      display: none;
+    }
+  }
+}
