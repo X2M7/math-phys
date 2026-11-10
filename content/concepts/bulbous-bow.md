@@ -1,15 +1,15 @@
 ---
-title: 球狀船首 / Bulbous bow
-description: 球狀船首 — Bulbous bow。中英文名称、参考来源与关联词条。
+title: 球状船首 / Bulbous bow
+description: 球状船首 — Bulbous bow。中英文名称、参考来源与关联词条。
 socialImage: og-image.png
 graph: false
 concept:
   id: bulbous-bow
-  zh: 球狀船首
+  zh: 球状船首
   en: Bulbous bow
   variants:
-    - 球状船首
     - bulbous bow
+    - 球狀船首
   subjects:
     - 经典力学与连续介质 / Classical and continuum mechanics
 dictionarySource:
@@ -18,22 +18,24 @@ dictionarySource:
   translationBasis: wikipedia-same-wikidata-item
 ---
 
-**球狀船首** · **Bulbous bow**
+**球状船首** · **Bulbous bow**
 
 经典力学与连续介质 / Classical and continuum mechanics
 
 ## 别名 / Variants
 
-球状船首； bulbous bow
+保留来源中的不同译名及简繁写法，便于检索。
+
+bulbous bow； 球狀船首
 
 ## 参考来源 / Sources
 
-- [中文 Wikipedia：球狀船首](https://zh.wikipedia.org/wiki/%E7%90%83%E7%8B%80%E8%88%B9%E9%A6%96)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88093412)）
+- [中文 Wikipedia：球状船首](https://zh.wikipedia.org/wiki/%E7%90%83%E7%8B%80%E8%88%B9%E9%A6%96)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88093412)）
 - [English Wikipedia：Bulbous bow](https://en.wikipedia.org/wiki/Bulbous_bow)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1371702208)）
 - [Wikidata：Q1753464](https://www.wikidata.org/wiki/Q1753464)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2564936603)）
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

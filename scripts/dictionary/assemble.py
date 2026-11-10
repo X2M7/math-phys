@@ -90,6 +90,15 @@ def main():
         for value in zh_page.get('titleVariants', {}).values():
             if value not in [english, chinese] and value not in variants:
                 variants.append(value)
+        # Preserve the source title and URLs as evidence; the public primary name
+        # uses Wikipedia's verified simplified display title. A first assembly
+        # without variants remains a collection draft until title verification.
+        simplified = zh_page.get('titleVariants', {}).get('zh-hans')
+        if simplified:
+            if chinese not in [english, simplified] and chinese not in variants:
+                variants.append(chinese)
+            chinese = simplified
+            variants = [value for value in variants if value not in [english, chinese]]
         entries.append({
             'id': identifier, 'qid': qid, 'zh': chinese, 'en': english,
             'variants': variants, 'subjects': sorted(row['groups']),

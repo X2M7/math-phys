@@ -18,7 +18,8 @@
 不递归抓取整棵分类树。分类范围和核心标题保存在采集脚本旁及清单中。
 
 正式收录要求英文、中文 Wikipedia 页面均实际存在、不是消歧页，并且两个页面的 Wikidata QID 相同。
-中文名称保留中文 Wikipedia 的页面标题；简繁标题由中文 Wikipedia 的 `varianttitles` API 核验，其他别名取自该实体的 Wikidata 标签/别名。
+中文主名称使用中文 Wikipedia `varianttitles` API 核验的 `zh-hans` 简体标题。原始页面标题、URL、页面 ID 和修订版本保留在来源元数据中，繁体标题和其他来源写法保留为可搜索的别名。
+其他别名取自该实体的 Wikidata 标签/别名；不会机械转换来源 URL、标识符或作者自写正文。
 这些变体可搜索，但仍需人工审定；不把跳转到另一页面某个章节的英文标题自动当成同义词。
 
 nLab 通过官方 [nlab-content](https://github.com/ncatlab/nlab-content) 固定提交的源码快照核对页面名称、重定向与类别，
@@ -59,6 +60,7 @@ npx quartz build
 ```
 
 生成器只创建不存在的概念文件。已有文件会核对 ID 与 QID 后原样保留，包括手写正文、译名、分类和别名。
+新生成页面的标题、摘要、概念主名和中文 Wikipedia 显示标签统一使用已核验的简体标题；缺少该标题或主名与其不一致时，检查会报错，须先完成标题变体核验。来源中的繁体写法在别名区明确保留。
 路径被另一概念占用时会报错，不覆盖。正式目录里的 QID 唯一；重新整理目录时沿用已有 QID 的 ID。
 删除正式概念应同时修改目录与概念页，并检查文章的 `concepts` 引用。正常构建无需访问任何词库 API。
 
@@ -93,4 +95,4 @@ npm run dictionary:generate
 ```
 
 重新整理来源不会自动覆盖已有 Markdown 的字段；需要采用来源的新译名/别名时，逐项审阅并手动更新相应概念页。
-更新 `content/dictionary-sources.md` 中的统计和日期，完成构建、搜索、移动端及来源链接检查后再发布。
+更新 `content/dictionary.md` 中 `dictionary-sources` 折叠区的统计和日期，完成构建、搜索、移动端及来源链接检查后再发布。概念页的来源说明链接统一指向 `../dictionary#dictionary-sources`。

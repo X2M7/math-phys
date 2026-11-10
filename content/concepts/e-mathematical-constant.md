@@ -48,6 +48,8 @@ dictionarySource:
 
 ## 别名 / Variants
 
+保留来源中的不同译名及简繁写法，便于检索。
+
 自然底数； 自然常数； 欧拉数； 自然对数的底； 纳皮尔常数； 欧拉的数； 自然常數； 欧拉-納皮爾常数； 自然底数e； 欧拉常数； 無理數e； 納皮爾常數； 自然底數； 歐拉數； Euler's number； Napier's constant； Euler number； base of natural logarithm； natural logarithm base； number e； e number； e constant； Euler constant； constant e； Euler's constant； E \(數學常數\)
 
 ## 参考来源 / Sources
@@ -59,6 +61,6 @@ dictionarySource:
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

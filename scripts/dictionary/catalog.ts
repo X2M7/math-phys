@@ -35,6 +35,12 @@ export interface Catalog {
   entries: CatalogEntry[]
 }
 
+function simplifiedChinese(entry: CatalogEntry): string {
+  const title = entry.sources.zhWikipedia.titleVariants?.["zh-hans"]
+  assert(title && title.trim(), `missing verified Simplified Chinese title: ${entry.id}`)
+  return title
+}
+
 export function validateCatalog(catalog: Catalog, subjects: Record<string, string>): void {
   assert.equal(catalog.schemaVersion, 1, "unsupported catalog schema")
   assert.match(catalog.collectedOn, /^\d{4}-\d{2}-\d{2}$/)
@@ -50,6 +56,22 @@ export function validateCatalog(catalog: Catalog, subjects: Record<string, strin
     ids.add(entry.id)
     qids.add(entry.qid)
     assert(entry.en.trim() && entry.zh.trim(), `missing names: ${entry.id}`)
+    assert.equal(
+      entry.zh,
+      simplifiedChinese(entry),
+      `Chinese primary title must use zh-hans: ${entry.id}`,
+    )
+    for (const sourceTitle of [
+      entry.sources.zhWikipedia.title,
+      entry.sources.zhWikipedia.titleVariants?.["zh-hant"],
+    ]) {
+      if (sourceTitle && sourceTitle !== entry.zh && sourceTitle !== entry.en) {
+        assert(
+          entry.variants.includes(sourceTitle),
+          `missing original Chinese title alias: ${entry.id}`,
+        )
+      }
+    }
     assert(entry.subjects.length > 0, `missing subject: ${entry.id}`)
     for (const subject of entry.subjects) assert(subjects[subject], `unknown subject: ${subject}`)
     assert(entry.variants.every((variant) => typeof variant === "string" && variant.trim()))
@@ -102,14 +124,15 @@ export function renderConcept(
   catalog: Pick<Catalog, "collectedOn" | "nlabSnapshot">,
   subjects: Record<string, string>,
 ): string {
+  const chinese = simplifiedChinese(entry)
   const metadata = {
-    title: `${entry.zh} / ${entry.en}`,
-    description: `${entry.zh} — ${entry.en}。中英文名称、参考来源与关联词条。`,
+    title: `${chinese} / ${entry.en}`,
+    description: `${chinese} — ${entry.en}。中英文名称、参考来源与关联词条。`,
     socialImage: "og-image.png",
     graph: false,
     concept: {
       id: entry.id,
-      zh: entry.zh,
+      zh: chinese,
       en: entry.en,
       variants: entry.variants,
       subjects: entry.subjects.map((subject) => subjects[subject]),
@@ -126,7 +149,7 @@ export function renderConcept(
   ] as const
   const sources = wikipedia.map(
     ([label, page, language]) =>
-      `- ${link(`${label}：${page.title}`, page.url)}（${link("采集时版本", `https://${language}.wikipedia.org/w/index.php?oldid=${page.revisionId}`)}）`,
+      `- ${link(`${label}：${language === "zh" ? chinese : page.title}`, page.url)}（${link("采集时版本", `https://${language}.wikipedia.org/w/index.php?oldid=${page.revisionId}`)}）`,
   )
   for (const page of entry.sources.nlab) {
     sources.push(`- ${link(`nLab：${page.title}`, page.url)}`)
@@ -135,11 +158,11 @@ export function renderConcept(
     `- ${link(`Wikidata：${entry.qid}`, entry.sources.wikidata.url)}（${link("采集时版本", `https://www.wikidata.org/w/index.php?oldid=${entry.sources.wikidata.revisionId}`)}）`,
   )
   const variants = entry.variants.length
-    ? `\n## 别名 / Variants\n\n${entry.variants.map(plain).join("； ")}\n`
+    ? `\n## 别名 / Variants\n\n保留来源中的不同译名及简繁写法，便于检索。\n\n${entry.variants.map(plain).join("； ")}\n`
     : ""
   return `---\n${yaml.dump(metadata, { lineWidth: -1, noRefs: true, quotingType: '"' })}---
 
-**${plain(entry.zh)}** · **${plain(entry.en)}**
+**${plain(chinese)}** · **${plain(entry.en)}**
 
 ${entry.subjects.map((subject) => plain(subjects[subject])).join(" · ")}
 ${variants}
@@ -149,7 +172,7 @@ ${sources.join("\n")}
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。${entry.sources.nlab.length ? "nLab 对应关系经其官方源码快照及 Wikidata 标识核对。" : ""}
 
-采集日期：${catalog.collectedOn}。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：${catalog.collectedOn}。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->
 `

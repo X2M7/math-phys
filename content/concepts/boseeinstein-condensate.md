@@ -42,6 +42,8 @@ dictionarySource:
 
 ## 别名 / Variants
 
+保留来源中的不同译名及简繁写法，便于检索。
+
 玻色-爱因斯坦凝聚； 玻色-爱因斯坦凝结； 博斯-爱因斯坦冷凝物； 波色-爱因斯坦凝结； 玻色－爱因斯坦凝聚； 玻色－爱因斯坦凝聚态； 玻色-爱因斯坦凝聚态； 玻色–爱因斯坦凝态； 玻爱凝聚态； 玻色–爱因斯坦凝聚态； 玻色–愛因斯坦凝聚； 玻色-愛因斯坦凝結； 玻色–愛因斯坦凝聚體； 玻愛凝聚體； 玻色–愛因斯坦凝態； BCE； Bose condensation； BEC； Bose-Einstein condensation； Bose-Einstein Condensate
 
 ## 参考来源 / Sources
@@ -52,6 +54,6 @@ dictionarySource:
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

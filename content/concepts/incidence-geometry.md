@@ -1,16 +1,16 @@
 ---
-title: 重合幾何 / Incidence geometry
-description: 重合幾何 — Incidence geometry。中英文名称、参考来源与关联词条。
+title: 重合几何 / Incidence geometry
+description: 重合几何 — Incidence geometry。中英文名称、参考来源与关联词条。
 socialImage: og-image.png
 graph: false
 concept:
   id: incidence-geometry
-  zh: 重合幾何
+  zh: 重合几何
   en: Incidence geometry
   variants:
     - 關聯幾何
     - incidence geometry
-    - 重合几何
+    - 重合幾何
   subjects:
     - 几何学 / Geometry
 dictionarySource:
@@ -19,23 +19,25 @@ dictionarySource:
   translationBasis: wikipedia-same-wikidata-item
 ---
 
-**重合幾何** · **Incidence geometry**
+**重合几何** · **Incidence geometry**
 
 几何学 / Geometry
 
 ## 别名 / Variants
 
-關聯幾何； incidence geometry； 重合几何
+保留来源中的不同译名及简繁写法，便于检索。
+
+關聯幾何； incidence geometry； 重合幾何
 
 ## 参考来源 / Sources
 
-- [中文 Wikipedia：重合幾何](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%90%88%E5%B9%BE%E4%BD%95)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95484157)）
+- [中文 Wikipedia：重合几何](https://zh.wikipedia.org/wiki/%E9%87%8D%E5%90%88%E5%B9%BE%E4%BD%95)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95484157)）
 - [English Wikipedia：Incidence geometry](https://en.wikipedia.org/wiki/Incidence_geometry)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1371079275)）
 - [nLab：incidence geometry](https://ncatlab.org/nlab/show/incidence+geometry)
 - [Wikidata：Q4582901](https://www.wikidata.org/wiki/Q4582901)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2523463964)）
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

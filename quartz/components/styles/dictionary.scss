@@ -1,5 +1,39 @@
 @use "../../styles/variables.scss" as *;
 
+.dictionary-sources {
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--highlight);
+  scroll-margin-top: 2rem;
+
+  & > summary {
+    color: var(--secondary);
+    font-weight: 600;
+    cursor: pointer;
+
+    &:focus-visible {
+      outline: 2px solid var(--secondary);
+      outline-offset: 4px;
+      border-radius: 2px;
+    }
+  }
+
+  &[open] > summary {
+    margin-bottom: 1.25rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+    scroll-margin-top: 2rem;
+  }
+
+  & > :last-child {
+    margin-bottom: 0;
+  }
+}
+
 .dictionary {
   margin: 2rem 0;
 

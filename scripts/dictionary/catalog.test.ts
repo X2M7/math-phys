@@ -17,7 +17,7 @@ const catalog: Catalog = {
       qid: "Q1163016",
       zh: "张量积",
       en: "Tensor product",
-      variants: ["张量乘积", "A < B", "C*", "[not a link](https://example.org)", "$x$"],
+      variants: ["张量乘积", "張量積", "A < B", "C*", "[not a link](https://example.org)", "$x$"],
       subjects: ["algebra"],
       sources: {
         enWikipedia: {
@@ -27,10 +27,12 @@ const catalog: Catalog = {
           revisionId: 2,
         },
         zhWikipedia: {
-          title: "张量积",
-          url: "https://zh.wikipedia.org/wiki/张量积",
+          title: "張量積",
+          url: "https://zh.wikipedia.org/wiki/張量積",
           pageId: 3,
           revisionId: 4,
+          titleVariants: { "zh-hans": "张量积", "zh-hant": "張量積" },
+          variantRevisionId: 6,
         },
         wikidata: { url: "https://www.wikidata.org/wiki/Q1163016", revisionId: 5 },
         nlab: [
@@ -90,4 +92,34 @@ test("imported mathematical symbols remain literal text while frontmatter keeps 
   assert(body.includes("\\[not a link\\]\\(https://example\\.org\\)"))
   assert(body.includes("\\$x\\$"))
   assert(body.includes("oldid=2"))
+})
+
+test("concept presentation uses verified simplified titles while source identities stay intact", () => {
+  const entry = structuredClone(catalog.entries[0])
+  const before = structuredClone(entry.sources)
+  const result = matter(renderConcept(entry, catalog, subjects))
+  assert.equal(result.data.title, "张量积 / Tensor product")
+  assert.equal(result.data.concept.zh, "张量积")
+  assert(result.data.description.startsWith("张量积 —"))
+  assert(result.data.concept.variants.includes("張量積"))
+  assert(result.content.includes("**张量积**"))
+  assert(
+    result.content.includes("[中文 Wikipedia：张量积](<https://zh.wikipedia.org/wiki/張量積>)"),
+  )
+  assert(result.content.includes("oldid=4"))
+  assert(result.content.includes("../dictionary#dictionary-sources"))
+  assert(!result.content.includes("../dictionary-sources"))
+  assert.deepEqual(entry.sources, before)
+})
+
+test("catalog validation requires a verified simplified primary title and retains original aliases", () => {
+  const stale = structuredClone(catalog)
+  stale.entries[0].zh = "張量積"
+  assert.throws(() => validateCatalog(stale, subjects), /primary title must use zh-hans/)
+  const unverified = structuredClone(catalog)
+  delete unverified.entries[0].sources.zhWikipedia.titleVariants
+  assert.throws(() => validateCatalog(unverified, subjects), /missing verified Simplified Chinese/)
+  const lostAlias = structuredClone(catalog)
+  lostAlias.entries[0].variants = lostAlias.entries[0].variants.filter((name) => name !== "張量積")
+  assert.throws(() => validateCatalog(lostAlias, subjects), /missing original Chinese title alias/)
 })

@@ -1,14 +1,13 @@
 ---
-title: 質能等價 / Mass–energy equivalence
-description: 質能等價 — Mass–energy equivalence。中英文名称、参考来源与关联词条。
+title: 质能等价 / Mass–energy equivalence
+description: 质能等价 — Mass–energy equivalence。中英文名称、参考来源与关联词条。
 socialImage: og-image.png
 graph: false
 concept:
   id: massenergy-equivalence
-  zh: 質能等價
+  zh: 质能等价
   en: Mass–energy equivalence
   variants:
-    - 质能等价
     - 质能转换公式
     - 质能转换方程
     - 質能守恆
@@ -24,6 +23,7 @@ concept:
     - mass-energy equivalence
     - equivalence of mass and energy
     - Einstein formula
+    - 質能等價
   subjects:
     - 相对论与引力 / Relativity and gravitation
 dictionarySource:
@@ -32,22 +32,24 @@ dictionarySource:
   translationBasis: wikipedia-same-wikidata-item
 ---
 
-**質能等價** · **Mass–energy equivalence**
+**质能等价** · **Mass–energy equivalence**
 
 相对论与引力 / Relativity and gravitation
 
 ## 别名 / Variants
 
-质能等价； 质能转换公式； 质能转换方程； 質能守恆； 质能公式； 質能等价； 愛因斯坦質能關係； 質能方程； 質能方程式； 质能关系式； 质能方程； 質能轉換公式； mass–energy equivalence； mass-energy equivalence； equivalence of mass and energy； Einstein formula
+保留来源中的不同译名及简繁写法，便于检索。
+
+质能转换公式； 质能转换方程； 質能守恆； 质能公式； 質能等价； 愛因斯坦質能關係； 質能方程； 質能方程式； 质能关系式； 质能方程； 質能轉換公式； mass–energy equivalence； mass-energy equivalence； equivalence of mass and energy； Einstein formula； 質能等價
 
 ## 参考来源 / Sources
 
-- [中文 Wikipedia：質能等價](https://zh.wikipedia.org/wiki/%E8%B3%AA%E8%83%BD%E7%AD%89%E5%83%B9)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95055899)）
+- [中文 Wikipedia：质能等价](https://zh.wikipedia.org/wiki/%E8%B3%AA%E8%83%BD%E7%AD%89%E5%83%B9)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95055899)）
 - [English Wikipedia：Mass–energy equivalence](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384521568)）
 - [Wikidata：Q35875](https://www.wikidata.org/wiki/Q35875)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2566127935)）
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

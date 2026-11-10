@@ -35,6 +35,8 @@ dictionarySource:
 
 ## 别名 / Variants
 
+保留来源中的不同译名及简繁写法，便于检索。
+
 贝耶斯公式； 贝叶斯法则； 贝叶斯公式； 貝葉斯規則； 貝斯法則； 貝氏定理； Bayes定理； Bayes' rule； Bayes–Price theorem； Bayesian law； Bayes' law； Bayes theorem； 貝葉斯定理
 
 ## 参考来源 / Sources
@@ -45,6 +47,6 @@ dictionarySource:
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

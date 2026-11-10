@@ -1,15 +1,15 @@
 ---
-title: 絕對視界線 / Absolute horizon
-description: 絕對視界線 — Absolute horizon。中英文名称、参考来源与关联词条。
+title: 绝对视界线 / Absolute horizon
+description: 绝对视界线 — Absolute horizon。中英文名称、参考来源与关联词条。
 socialImage: og-image.png
 graph: false
 concept:
   id: absolute-horizon
-  zh: 絕對視界線
+  zh: 绝对视界线
   en: Absolute horizon
   variants:
     - absolute horizon
-    - 绝对视界线
+    - 絕對視界線
   subjects:
     - 相对论与引力 / Relativity and gravitation
 dictionarySource:
@@ -18,22 +18,24 @@ dictionarySource:
   translationBasis: wikipedia-same-wikidata-item
 ---
 
-**絕對視界線** · **Absolute horizon**
+**绝对视界线** · **Absolute horizon**
 
 相对论与引力 / Relativity and gravitation
 
 ## 别名 / Variants
 
-absolute horizon； 绝对视界线
+保留来源中的不同译名及简繁写法，便于检索。
+
+absolute horizon； 絕對視界線
 
 ## 参考来源 / Sources
 
-- [中文 Wikipedia：絕對視界線](https://zh.wikipedia.org/wiki/%E7%B5%95%E5%B0%8D%E8%A6%96%E7%95%8C%E7%B7%9A)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88098845)）
+- [中文 Wikipedia：绝对视界线](https://zh.wikipedia.org/wiki/%E7%B5%95%E5%B0%8D%E8%A6%96%E7%95%8C%E7%B7%9A)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88098845)）
 - [English Wikipedia：Absolute horizon](https://en.wikipedia.org/wiki/Absolute_horizon)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1333849560)）
 - [Wikidata：Q4669818](https://www.wikidata.org/wiki/Q4669818)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2548640289)）
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

@@ -1,14 +1,13 @@
 ---
-title: 唯一分解整環 / Unique factorization domain
-description: 唯一分解整環 — Unique factorization domain。中英文名称、参考来源与关联词条。
+title: 唯一分解整环 / Unique factorization domain
+description: 唯一分解整环 — Unique factorization domain。中英文名称、参考来源与关联词条。
 socialImage: og-image.png
 graph: false
 concept:
   id: unique-factorization-domain
-  zh: 唯一分解整環
+  zh: 唯一分解整环
   en: Unique factorization domain
   variants:
-    - 唯一分解整环
     - 惟一分解
     - 唯一分解
     - 唯一分解環
@@ -17,6 +16,7 @@ concept:
     - 唯一分解域
     - unique factorization domain
     - factorial ring
+    - 唯一分解整環
   subjects:
     - 代数 / Algebra
     - 数论 / Number theory
@@ -26,22 +26,24 @@ dictionarySource:
   translationBasis: wikipedia-same-wikidata-item
 ---
 
-**唯一分解整環** · **Unique factorization domain**
+**唯一分解整环** · **Unique factorization domain**
 
 代数 / Algebra · 数论 / Number theory
 
 ## 别名 / Variants
 
-唯一分解整环； 惟一分解； 唯一分解； 唯一分解環； 惟一分解整环； UFD； 唯一分解域； unique factorization domain； factorial ring
+保留来源中的不同译名及简繁写法，便于检索。
+
+惟一分解； 唯一分解； 唯一分解環； 惟一分解整环； UFD； 唯一分解域； unique factorization domain； factorial ring； 唯一分解整環
 
 ## 参考来源 / Sources
 
-- [中文 Wikipedia：唯一分解整環](https://zh.wikipedia.org/wiki/%E5%94%AF%E4%B8%80%E5%88%86%E8%A7%A3%E6%95%B4%E7%92%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94699429)）
+- [中文 Wikipedia：唯一分解整环](https://zh.wikipedia.org/wiki/%E5%94%AF%E4%B8%80%E5%88%86%E8%A7%A3%E6%95%B4%E7%92%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94699429)）
 - [English Wikipedia：Unique factorization domain](https://en.wikipedia.org/wiki/Unique_factorization_domain)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383355598)）
 - [Wikidata：Q1052579](https://www.wikidata.org/wiki/Q1052579)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2564772500)）
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

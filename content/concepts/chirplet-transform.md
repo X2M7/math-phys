@@ -1,15 +1,15 @@
 ---
-title: Chirplet變換 / Chirplet transform
-description: Chirplet變換 — Chirplet transform。中英文名称、参考来源与关联词条。
+title: Chirplet变换 / Chirplet transform
+description: Chirplet变换 — Chirplet transform。中英文名称、参考来源与关联词条。
 socialImage: og-image.png
 graph: false
 concept:
   id: chirplet-transform
-  zh: Chirplet變換
+  zh: Chirplet变换
   en: Chirplet transform
   variants:
     - 線調頻小波轉換
-    - Chirplet变换
+    - Chirplet變換
   subjects:
     - 分析学 / Analysis
 dictionarySource:
@@ -18,22 +18,24 @@ dictionarySource:
   translationBasis: wikipedia-same-wikidata-item
 ---
 
-**Chirplet變換** · **Chirplet transform**
+**Chirplet变换** · **Chirplet transform**
 
 分析学 / Analysis
 
 ## 别名 / Variants
 
-線調頻小波轉換； Chirplet变换
+保留来源中的不同译名及简繁写法，便于检索。
+
+線調頻小波轉換； Chirplet變換
 
 ## 参考来源 / Sources
 
-- [中文 Wikipedia：Chirplet變換](https://zh.wikipedia.org/wiki/Chirplet%E8%AE%8A%E6%8F%9B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93214832)）
+- [中文 Wikipedia：Chirplet变换](https://zh.wikipedia.org/wiki/Chirplet%E8%AE%8A%E6%8F%9B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93214832)）
 - [English Wikipedia：Chirplet transform](https://en.wikipedia.org/wiki/Chirplet_transform)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1351100996)）
 - [Wikidata：Q4516253](https://www.wikidata.org/wiki/Q4516253)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2544196810)）
 
 中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
-采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

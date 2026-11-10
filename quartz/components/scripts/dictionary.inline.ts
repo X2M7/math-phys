@@ -4,6 +4,37 @@ document.addEventListener("nav", () => {
   const dictionary = document.querySelector<HTMLElement>(".dictionary")
   if (!dictionary) return
 
+  const sources = document.querySelector<HTMLDetailsElement>("details#dictionary-sources")
+  const revealSourceAnchor = (hash: string) => {
+    if (!sources || !hash) return
+    let target: HTMLElement | null
+    try {
+      target = document.getElementById(decodeURIComponent(hash.slice(1)))
+    } catch {
+      return
+    }
+    if (target && (target === sources || sources.contains(target))) {
+      sources.open = true
+      target.scrollIntoView()
+    }
+  }
+  const onHashChange = () => revealSourceAnchor(window.location.hash)
+  const onAnchorClick = (event: MouseEvent) => {
+    if (event.button !== 0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey)
+      return
+    if (!(event.target instanceof Element)) return
+    const anchor = event.target.closest<HTMLAnchorElement>("a[href]")
+    if (!anchor || anchor.target === "_blank" || anchor.hasAttribute("download")) return
+    const url = new URL(anchor.href, window.location.href)
+    if (url.origin === window.location.origin && url.pathname === window.location.pathname) {
+      revealSourceAnchor(url.hash)
+    }
+  }
+  onHashChange()
+  window.addEventListener("hashchange", onHashChange)
+  // Quartz handles same-page anchors with pushState, which does not emit hashchange.
+  document.addEventListener("click", onAnchorClick, true)
+
   const input = dictionary.querySelector<HTMLInputElement>("#dictionary-query")!
   const subject = dictionary.querySelector<HTMLSelectElement>("#dictionary-subject")!
   const clear = dictionary.querySelector<HTMLButtonElement>(".dictionary-clear")!
@@ -59,6 +90,8 @@ document.addEventListener("nav", () => {
   subject.addEventListener("change", update)
   clear.addEventListener("click", reset)
   window.addCleanup(() => {
+    window.removeEventListener("hashchange", onHashChange)
+    document.removeEventListener("click", onAnchorClick, true)
     input.removeEventListener("input", update)
     input.removeEventListener("keydown", keydown)
     subject.removeEventListener("change", update)
