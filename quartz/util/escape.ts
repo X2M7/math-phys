@@ -15,3 +15,6 @@ export const unescapeHTML = (html: string) => {
     .replaceAll("&quot;", '"')
     .replaceAll("&#039;", "'")
 }
+
+/** Treat user-entered notation as literal text when constructing a regular expression. */
+export const escapeRegExp = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")

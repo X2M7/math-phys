@@ -14,7 +14,9 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
-    "check": "tsc --noEmit && npx prettier . --check",
+    "check": "tsc --noEmit && npm run dictionary:check && npx prettier . --check",
+    "dictionary:check": "tsx scripts/dictionary/cli.ts check",
+    "dictionary:generate": "tsx scripts/dictionary/cli.ts generate",
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"

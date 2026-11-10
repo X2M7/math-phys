@@ -1,0 +1,40 @@
+---
+title: 凸共轭 / Convex conjugate
+description: 凸共轭 — Convex conjugate。中英文名称、参考来源与关联词条。
+socialImage: og-image.png
+graph: false
+concept:
+  id: convex-conjugate
+  zh: 凸共轭
+  en: Convex conjugate
+  variants:
+    - convex conjugate
+    - Convex conjugation
+    - 凸共軛
+  subjects:
+    - 数值分析与优化 / Numerical analysis and optimization
+dictionarySource:
+  qid: Q3075186
+  collectedOn: "2026-11-10"
+  translationBasis: wikipedia-same-wikidata-item
+---
+
+**凸共轭** · **Convex conjugate**
+
+数值分析与优化 / Numerical analysis and optimization
+
+## 别名 / Variants
+
+convex conjugate； Convex conjugation； 凸共軛
+
+## 参考来源 / Sources
+
+- [中文 Wikipedia：凸共轭](https://zh.wikipedia.org/wiki/%E5%87%B8%E5%85%B1%E8%BD%AD)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90528332)）
+- [English Wikipedia：Convex conjugate](https://en.wikipedia.org/wiki/Convex_conjugate)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1368748739)）
+- [Wikidata：Q3075186](https://www.wikidata.org/wiki/Q3075186)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563507175)）
+
+中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
+
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+
+<!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

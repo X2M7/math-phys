@@ -1,0 +1,44 @@
+---
+title: 超流体 / Superfluidity
+description: 超流体 — Superfluidity。中英文名称、参考来源与关联词条。
+socialImage: og-image.png
+graph: false
+concept:
+  id: superfluidity
+  zh: 超流体
+  en: Superfluidity
+  variants:
+    - 超流體
+    - 超流性
+    - 超流态
+    - 超流
+    - 超液体
+    - superfluidity
+  subjects:
+    - 经典力学与连续介质 / Classical and continuum mechanics
+    - 凝聚态物理 / Condensed matter physics
+dictionarySource:
+  qid: Q106667
+  collectedOn: "2026-11-10"
+  translationBasis: wikipedia-same-wikidata-item
+---
+
+**超流体** · **Superfluidity**
+
+经典力学与连续介质 / Classical and continuum mechanics · 凝聚态物理 / Condensed matter physics
+
+## 别名 / Variants
+
+超流體； 超流性； 超流态； 超流； 超液体； superfluidity
+
+## 参考来源 / Sources
+
+- [中文 Wikipedia：超流体](https://zh.wikipedia.org/wiki/%E8%B6%85%E6%B5%81%E4%BD%93)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94762497)）
+- [English Wikipedia：Superfluidity](https://en.wikipedia.org/wiki/Superfluidity)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384833777)）
+- [Wikidata：Q106667](https://www.wikidata.org/wiki/Q106667)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2556455501)）
+
+中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
+
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+
+<!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

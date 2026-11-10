@@ -1,0 +1,1155 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-11-10",
+  "source_catalog": "Wikipedia category/core catalog before final core supplement",
+  "source_sha256": "7c9a98c98c270002604a07af34d3ec90512041d253eee16d4fc78e18102a70c8",
+  "verified_count_reviewed_snapshot": 3682,
+  "method": "对源站标题、Wikidata描述、P31和Wikipedia分类进行独立风险筛选及人工抽查；不是对全部词条定义逐条审校。明确排除与边界待审分开。",
+  "exclude": [
+    {
+      "qid": "Q194245",
+      "title": "Apeiron",
+      "zh_title": "阿派朗",
+      "reason": "古希腊形而上学概念，不是当前数学或物理术语。",
+      "source_url": "https://en.wikipedia.org/wiki/Apeiron",
+      "source_revision": 1336381959,
+      "instance_of": ["Q33104279"],
+      "kind": "philosophy"
+    },
+    {
+      "qid": "Q215304",
+      "title": "Creation myth",
+      "zh_title": "創世神話",
+      "reason": "创世神话类型，不是物理宇宙学理论。",
+      "source_url": "https://en.wikipedia.org/wiki/Creation_myth",
+      "source_revision": 1383937233,
+      "instance_of": [],
+      "kind": "mythology"
+    },
+    {
+      "qid": "Q390248",
+      "title": "Origin myth",
+      "zh_title": "起源神话",
+      "reason": "起源神话类型，不是数学或物理概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Origin_myth",
+      "source_revision": 1373030249,
+      "instance_of": ["Q223393"],
+      "kind": "mythology"
+    },
+    {
+      "qid": "Q830200",
+      "title": "Pascal's wager",
+      "zh_title": "帕斯卡的賭注",
+      "reason": "关于信仰与上帝存在的论证，不是概率论定理。",
+      "source_url": "https://en.wikipedia.org/wiki/Pascal%27s_wager",
+      "source_revision": 1383268387,
+      "instance_of": ["Q186619"],
+      "kind": "religious-argument"
+    },
+    {
+      "qid": "Q7773068",
+      "title": "The Void (philosophy)",
+      "zh_title": "虛空 (佛教)",
+      "reason": "哲学中的虚无，不应与物理真空概念混列。",
+      "source_url": "https://en.wikipedia.org/wiki/The_Void_(philosophy)",
+      "source_revision": 1381510714,
+      "instance_of": ["Q33104279"],
+      "kind": "philosophy"
+    },
+    {
+      "qid": "Q11274284",
+      "title": "Why is there anything at all?",
+      "zh_title": "为何存在万物而非一无所有？",
+      "reason": "形而上学问题，不是形式化数学或物理概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F",
+      "source_revision": 1383336234,
+      "instance_of": ["Q28109781"],
+      "kind": "philosophy"
+    },
+    {
+      "qid": "Q1128259",
+      "title": "Magnet therapy",
+      "zh_title": "磁療",
+      "reason": "条目描述磁疗这一伪科学替代医疗实践，不是磁学术语。",
+      "source_url": "https://en.wikipedia.org/wiki/Magnet_therapy",
+      "source_revision": 1318308189,
+      "instance_of": ["Q31338769"],
+      "kind": "pseudoscientific-therapy"
+    },
+    {
+      "qid": "Q1065345",
+      "title": "Bohr–Einstein debates",
+      "zh_title": "玻爾-愛因斯坦之爭",
+      "reason": "玻尔与爱因斯坦之间的历史辩论事件；相关量子解释概念另行保留。",
+      "source_url": "https://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates",
+      "source_revision": 1380892714,
+      "instance_of": ["Q179875"],
+      "kind": "historical-event"
+    },
+    {
+      "qid": "Q278891",
+      "title": "Great Debate (astronomy)",
+      "zh_title": "沙普利-柯蒂斯之争",
+      "reason": "1920年的具体天文学辩论事件，不是物理概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Great_Debate_(astronomy)",
+      "source_revision": 1384197951,
+      "instance_of": ["Q179875"],
+      "kind": "historical-event"
+    },
+    {
+      "qid": "Q5462709",
+      "title": "Fluid Dynamics Prize (APS)",
+      "zh_title": "美国物理学会流体力学奖",
+      "reason": "美国物理学会的具体奖项，不是流体动力学术语。",
+      "source_url": "https://en.wikipedia.org/wiki/Fluid_Dynamics_Prize_(APS)",
+      "source_revision": 1365854216,
+      "instance_of": ["Q618779", "Q139634099"],
+      "kind": "award"
+    },
+    {
+      "qid": "Q375668",
+      "title": "Cole Prize",
+      "zh_title": "柯爾獎",
+      "reason": "美国数学会的具体奖项，不是数学概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Cole_Prize",
+      "source_revision": 1380970976,
+      "instance_of": ["Q25536240"],
+      "kind": "award"
+    },
+    {
+      "qid": "Q3152339",
+      "title": "International Institute of Refrigeration",
+      "zh_title": "国际制冷学会",
+      "reason": "国际制冷领域组织，不是热力学概念。",
+      "source_url": "https://en.wikipedia.org/wiki/International_Institute_of_Refrigeration",
+      "source_revision": 1377295991,
+      "instance_of": ["Q484652"],
+      "kind": "organization"
+    },
+    {
+      "qid": "Q164255",
+      "title": "Dortmund Data Bank",
+      "zh_title": "多特蒙德資料庫",
+      "reason": "具体热物性数据库，不是热力学概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Dortmund_Data_Bank",
+      "source_revision": 1250496320,
+      "instance_of": ["Q7094076"],
+      "kind": "database"
+    },
+    {
+      "qid": "Q3135350",
+      "title": "High-Z Supernova Search Team",
+      "zh_title": "高红移超新星搜索队",
+      "reason": "具体宇宙学研究团队，不是宇宙学概念。",
+      "source_url": "https://en.wikipedia.org/wiki/High-Z_Supernova_Search_Team",
+      "source_revision": 1364797777,
+      "instance_of": [],
+      "kind": "research-team"
+    },
+    {
+      "qid": "Q18193875",
+      "title": "Illustris project",
+      "zh_title": "揭示計畫",
+      "reason": "具体宇宙模拟项目，不是模拟方法本身。",
+      "source_url": "https://en.wikipedia.org/wiki/Illustris_project",
+      "source_revision": 1358240064,
+      "instance_of": ["Q20180539"],
+      "kind": "research-project"
+    },
+    {
+      "qid": "Q5204801",
+      "title": "DEEP2 Redshift Survey",
+      "zh_title": "深度2紅移巡天",
+      "reason": "具体红移巡天项目；泛称Redshift survey可保留。",
+      "source_url": "https://en.wikipedia.org/wiki/DEEP2_Redshift_Survey",
+      "source_revision": 1375443096,
+      "instance_of": ["Q3935817"],
+      "kind": "research-survey"
+    },
+    {
+      "qid": "Q1931562",
+      "title": "MICROSCOPE",
+      "zh_title": "显微镜卫星",
+      "reason": "具体科研卫星，不是等效原理等物理概念。",
+      "source_url": "https://en.wikipedia.org/wiki/MICROSCOPE",
+      "source_revision": 1314052470,
+      "instance_of": ["Q105839698", "Q131597913"],
+      "kind": "specific-satellite"
+    },
+    {
+      "qid": "Q25382402",
+      "title": "Quantum Experiments at Space Scale",
+      "zh_title": "量子科学实验卫星",
+      "reason": "具体量子科学实验卫星，不是量子通信概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Quantum_Experiments_at_Space_Scale",
+      "source_revision": 1380902078,
+      "instance_of": ["Q105839698"],
+      "kind": "specific-satellite"
+    },
+    {
+      "qid": "Q78045330",
+      "title": "Sycamore (processor)",
+      "zh_title": "悬铃木处理器",
+      "reason": "Google的具体量子处理器，不是量子计算概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Sycamore_(processor)",
+      "source_revision": 1370690868,
+      "instance_of": ["Q176555"],
+      "kind": "specific-hardware"
+    },
+    {
+      "qid": "Q208935",
+      "title": "Bullet Cluster",
+      "zh_title": "子彈星系團",
+      "reason": "具体星系团系统；星系团及暗物质等通用概念应保留。",
+      "source_url": "https://en.wikipedia.org/wiki/Bullet_Cluster",
+      "source_revision": 1370773976,
+      "instance_of": ["Q204107", "Q2154519", "Q72054258", "Q185243"],
+      "kind": "specific-astronomical-object"
+    },
+    {
+      "qid": "Q138499213",
+      "title": "CDG-2",
+      "zh_title": "CDG-2",
+      "reason": "具体暗星系；Dark galaxy这一通用概念应保留。",
+      "source_url": "https://en.wikipedia.org/wiki/CDG-2",
+      "source_revision": 1379825176,
+      "instance_of": ["Q1266034"],
+      "kind": "specific-astronomical-object"
+    },
+    {
+      "qid": "Q107209253",
+      "title": "Giant Arc",
+      "zh_title": "巨弧",
+      "reason": "具体命名的宇宙大尺度结构，不是通用理论概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Giant_Arc",
+      "source_revision": 1363768306,
+      "instance_of": ["Q1364887", "Q1133705"],
+      "kind": "specific-astronomical-object"
+    },
+    {
+      "qid": "Q1619069",
+      "title": "Himiko (Lyman-alpha blob)",
+      "zh_title": "卑彌呼 (天體)",
+      "reason": "具体命名的遥远星系，不是通用概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Himiko_(Lyman-alpha_blob)",
+      "source_revision": 1360399368,
+      "instance_of": ["Q1552818", "Q72802508"],
+      "kind": "specific-astronomical-object"
+    },
+    {
+      "qid": "Q18351011",
+      "title": "MACS J0416.1−2403",
+      "zh_title": "MACS0416.1-2403",
+      "reason": "具体编号的星系团，不是通用概念。",
+      "source_url": "https://en.wikipedia.org/wiki/MACS_J0416.1%E2%88%922403",
+      "source_revision": 1380320076,
+      "instance_of": ["Q204107", "Q2154519", "Q185243"],
+      "kind": "specific-astronomical-object"
+    },
+    {
+      "qid": "Q741255",
+      "title": "Hubble Deep Field",
+      "zh_title": "哈勃深空",
+      "reason": "哈勃望远镜的具体深场影像，不是光学或宇宙学概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Hubble_Deep_Field",
+      "source_revision": 1370780060,
+      "instance_of": ["Q550089", "Q16537358"],
+      "kind": "specific-image"
+    },
+    {
+      "qid": "Q1117262",
+      "title": "Hubble Deep Field South",
+      "zh_title": "哈勃南天深空",
+      "reason": "哈勃望远镜的具体南天深场影像，不是概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Hubble_Deep_Field_South",
+      "source_revision": 1348430846,
+      "instance_of": ["Q550089", "Q16537358"],
+      "kind": "specific-image"
+    },
+    {
+      "qid": "Q63614385",
+      "title": "Hubble Legacy Field",
+      "zh_title": "哈伯遺贈場",
+      "reason": "具体哈勃遗产场合成影像，不是概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Hubble_Legacy_Field",
+      "source_revision": 1360688911,
+      "instance_of": ["Q280855", "Q550089", "Q16537358"],
+      "kind": "specific-image"
+    },
+    {
+      "qid": "Q429670",
+      "title": "Hubble Ultra-Deep Field",
+      "zh_title": "哈勃超深空",
+      "reason": "具体哈勃超深场影像，不是概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field",
+      "source_revision": 1370780062,
+      "instance_of": ["Q550089", "Q16537358"],
+      "kind": "specific-image"
+    },
+    {
+      "qid": "Q7644178",
+      "title": "Supersplit supersymmetry",
+      "zh_title": "超分裂超对称",
+      "reason": "条目明确属于April Fools’ Day jokes，不宜作为正式物理理论词条发布。",
+      "source_url": "https://en.wikipedia.org/wiki/Supersplit_supersymmetry",
+      "source_revision": 1311900925,
+      "instance_of": ["Q29063418"],
+      "kind": "joke"
+    },
+    {
+      "qid": "Q5262612",
+      "title": "Derivation of the conjugate gradient method",
+      "zh_title": "共轭梯度法的推导",
+      "reason": "共轭梯度法的推导教程页，不应与Conjugate gradient method概念重复收录。",
+      "source_url": "https://en.wikipedia.org/wiki/Derivation_of_the_conjugate_gradient_method",
+      "source_revision": 1333045632,
+      "instance_of": [],
+      "kind": "derivation-page"
+    },
+    {
+      "qid": "Q7250032",
+      "title": "Proofs of quadratic reciprocity",
+      "zh_title": "二次互反律的证明",
+      "reason": "二次互反律的证明汇总页，不应与Quadratic reciprocity概念重复收录。",
+      "source_url": "https://en.wikipedia.org/wiki/Proofs_of_quadratic_reciprocity",
+      "source_revision": 1364779449,
+      "instance_of": [],
+      "kind": "proof-page"
+    },
+    {
+      "qid": "Q1458306",
+      "title": "Soft tissue",
+      "zh_title": "軟組織",
+      "reason": "软组织是解剖学对象，虽可成为连续介质模型的研究对象，本身不是数学物理术语。",
+      "source_url": "https://en.wikipedia.org/wiki/Soft_tissue",
+      "source_revision": 1352306597,
+      "instance_of": ["Q103843025"],
+      "kind": "anatomy"
+    },
+    {
+      "qid": "Q797428",
+      "title": "BaBar experiment",
+      "zh_title": "BaBar实验",
+      "reason": "具体BaBar探测器实验与合作项目，不是一般数学物理概念。",
+      "source_url": "https://en.wikipedia.org/wiki/BaBar_experiment",
+      "source_revision": 1318283904
+    },
+    {
+      "qid": "Q815821",
+      "title": "Belle experiment",
+      "zh_title": "貝爾實驗",
+      "reason": "具体Belle探测器实验，不是一般数学物理概念。",
+      "source_url": "https://en.wikipedia.org/wiki/Belle_experiment",
+      "source_revision": 1338110695
+    }
+  ],
+  "needs_review": [
+    {
+      "qid": "Q575625",
+      "title": "Anti-gravity",
+      "zh_title": "反重力",
+      "reason": "Anti-gravity被标注为Fringe physics/Pseudoscience和虚构技术。若保留，需要显式区分假想技术与已确立物理现象；建议首批待审。",
+      "source_url": "https://en.wikipedia.org/wiki/Anti-gravity",
+      "source_revision": 1383297689,
+      "instance_of": ["Q1055307", "Q17028492", "Q3526250"]
+    },
+    {
+      "qid": "Q210251",
+      "title": "Open–closed principle",
+      "zh_title": "开闭原则",
+      "reason": "Open–closed principle是软件设计原则，分类邻接Type theory，但不是形式类型论的数学结构；建议待审。",
+      "source_url": "https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle",
+      "source_revision": 1326635636,
+      "instance_of": ["Q1550643"]
+    },
+    {
+      "qid": "Q599967",
+      "title": "Autopoiesis",
+      "zh_title": "自生系统论",
+      "reason": "Autopoiesis是生物/系统理论概念，与动力系统关联但非明确数学物理术语；建议待审。",
+      "source_url": "https://en.wikipedia.org/wiki/Autopoiesis",
+      "source_revision": 1382978899,
+      "instance_of": ["Q96253971"]
+    },
+    {
+      "qid": "Q582477",
+      "title": "Magnetoreception",
+      "zh_title": "磁感",
+      "reason": "Magnetoreception是生物感官现象；是否纳入取决于是否覆盖生物物理。",
+      "source_url": "https://en.wikipedia.org/wiki/Magnetoreception",
+      "source_revision": 1374786003,
+      "instance_of": ["Q2996394"]
+    },
+    {
+      "qid": "Q781492",
+      "title": "Optogenetics",
+      "zh_title": "光遺傳學",
+      "reason": "Optogenetics属于神经科学技术；是否纳入取决于是否覆盖生物物理技术。",
+      "source_url": "https://en.wikipedia.org/wiki/Optogenetics",
+      "source_revision": 1380576054,
+      "instance_of": []
+    },
+    {
+      "qid": "Q1258900",
+      "title": "Pythagorean cup",
+      "zh_title": "九龍杯",
+      "reason": "Pythagorean cup是教学/玩笑装置；优先收录其虹吸物理原理，装置名称可待审。",
+      "source_url": "https://en.wikipedia.org/wiki/Pythagorean_cup",
+      "source_revision": 1360317075,
+      "instance_of": ["Q472134"]
+    },
+    {
+      "qid": "Q898823",
+      "title": "Steam digester",
+      "zh_title": "蒸汽蒸煮器",
+      "reason": "Steam digester是历史压力锅装置类别；与热力学概念相关，但是否收录器械名须明确边界。",
+      "source_url": "https://en.wikipedia.org/wiki/Steam_digester",
+      "source_revision": 1363902054,
+      "instance_of": []
+    },
+    {
+      "qid": "Q5428142",
+      "title": "Optical manufacturing and testing",
+      "zh_title": "光学构件的制作和检测",
+      "reason": "Optical manufacturing and testing是工业工艺主题页；可按应用光学覆盖范围决定。",
+      "source_url": "https://en.wikipedia.org/wiki/Optical_manufacturing_and_testing",
+      "source_revision": 1314705875,
+      "instance_of": []
+    },
+    {
+      "qid": "Q584049",
+      "title": "Ventilation (architecture)",
+      "zh_title": "通風",
+      "reason": "Ventilation (architecture)偏建筑技术；建议以流体力学概念优先。",
+      "source_url": "https://en.wikipedia.org/wiki/Ventilation_(architecture)",
+      "source_revision": 1375961096,
+      "instance_of": ["Q4284762", "Q5377030"]
+    },
+    {
+      "qid": "Q15909572",
+      "title": "Quadratic formula",
+      "zh_title": "二次方程",
+      "reason": "英文二次方程求根公式对应中文二次方程页面；名称粒度不同，需人工核对后确定术语译名。",
+      "source_url": "https://en.wikipedia.org/wiki/Quadratic_formula",
+      "source_revision": 1382357522
+    },
+    {
+      "qid": "Q1475614",
+      "title": "Galaxy rotation curve",
+      "zh_title": "星系自轉問題",
+      "reason": "英文星系旋转曲线对应中文星系自转问题；概念粒度不同，需人工核对。",
+      "source_url": "https://en.wikipedia.org/wiki/Galaxy_rotation_curve",
+      "source_revision": 1378650903
+    },
+    {
+      "qid": "Q55231683",
+      "title": "1-Butyl-3-methylimidazolium tetrachloroferrate",
+      "zh_title": "1-正丁基-3-甲基咪唑鎓四氯鐵酸鹽",
+      "reason": "具体化合物，经磁学分类邻接进入；是否作为数学物理术语收录需人工确认。",
+      "source_url": "https://en.wikipedia.org/wiki/1-Butyl-3-methylimidazolium_tetrachloroferrate",
+      "source_revision": 1380034750
+    },
+    {
+      "qid": "Q25105181",
+      "title": "Uranium ruthenium silicide",
+      "zh_title": "二硅化二钌铀",
+      "reason": "具体化合物，经超导分类邻接进入；是否作为数学物理术语收录需人工确认。",
+      "source_url": "https://en.wikipedia.org/wiki/Uranium_ruthenium_silicide",
+      "source_revision": 1308225746
+    },
+    {
+      "qid": "Q1194458",
+      "title": "Cyclotron motion",
+      "zh_title": "拉莫頻率",
+      "reason": "英文Cyclotron motion为回旋运动，中文主标题为拉莫频率；运动与频率不是等价术语，需复核。",
+      "source_url": "https://en.wikipedia.org/wiki/Cyclotron_motion",
+      "source_revision": 1373606168
+    },
+    {
+      "qid": "Q7621125",
+      "title": "Strain-rate tensor",
+      "zh_title": "速度梯度",
+      "reason": "应变率张量为速度梯度的对称部分；英文Strain-rate tensor与中文速度梯度并非同义，需复核。",
+      "source_url": "https://en.wikipedia.org/wiki/Strain-rate_tensor",
+      "source_revision": 1303395725
+    }
+  ],
+  "core_missing_candidates": [
+    {
+      "title": "Empty set",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Intersection (set theory)",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Power set",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Countable set",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Uncountable set",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Zermelo–Fraenkel set theory",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Proposition",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Propositional calculus",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Quantifier (logic)",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Axiom",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Theorem",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Lemma (mathematics)",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Corollary",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Definition",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Proof by contradiction",
+      "group": "foundations",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Matrix (mathematics)",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Direct sum",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Orthogonality",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Unitary matrix",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Orthogonal matrix",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Hermitian matrix",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Tensor algebra",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Tensor contraction",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Symmetric tensor",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Antisymmetric tensor",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Minimal polynomial (linear algebra)",
+      "group": "algebra",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Real number",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Sequence",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Series (mathematics)",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Convergence tests",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Absolute convergence",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Uniform convergence",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Partial derivative",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Gradient",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Divergence",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Curl (mathematics)",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Jacobian matrix and determinant",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Hessian matrix",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Implicit function theorem",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Dominated convergence theorem",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Monotone convergence theorem",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Fubini's theorem",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Banach fixed-point theorem",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Riesz representation theorem",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Spectral radius",
+      "group": "analysis",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Object (category theory)",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Morphism",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Endomorphism",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Monomorphism",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Epimorphism",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Product (category theory)",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Coproduct",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Coequalizer",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Pullback (category theory)",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Pushout (category theory)",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Initial and terminal objects",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Opposite category",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Duality (category theory)",
+      "group": "category-theory",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Sample space",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Event (probability theory)",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Probability measure",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Cumulative distribution function",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Independence (probability theory)",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Characteristic function (probability theory)",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Moment-generating function",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Moment (mathematics)",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Cumulant",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Binomial distribution",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Exponential distribution",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Chi-squared distribution",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Correlation",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Standard deviation",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Regression analysis",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Least squares",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Confidence interval",
+      "group": "probability-statistics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Mass",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Position (geometry)",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Velocity",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Acceleration",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Momentum",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Energy",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Kinetic energy",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Potential energy",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Power (physics)",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Torque",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Moment of inertia",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Angular velocity",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Symplectic form",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Liouville measure",
+      "group": "classical-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Permittivity",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Permeability (electromagnetism)",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Vacuum permeability",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Electric flux",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Inductance",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Capacitance",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Refractive index",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Wavelength",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Frequency",
+      "group": "electromagnetism-optics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Planck constant",
+      "group": "quantum-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Reduced Planck constant",
+      "group": "quantum-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Proton",
+      "group": "quantum-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Neutron",
+      "group": "quantum-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Heisenberg equation of motion",
+      "group": "quantum-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Schrödinger picture",
+      "group": "quantum-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Projection postulate",
+      "group": "quantum-mechanics",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Scattering amplitude",
+      "group": "quantum-field-theory-particle",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Running coupling",
+      "group": "quantum-field-theory-particle",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Feynman propagator",
+      "group": "quantum-field-theory-particle",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Feynman path integral",
+      "group": "quantum-field-theory-particle",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    },
+    {
+      "title": "Lie algebra representation",
+      "group": "quantum-field-theory-particle",
+      "status": "candidate-needs-api-resolution",
+      "reason": "在当前已核验的英文主标题中未找到；须用API解析重定向及QID后确认，不能只匹配别名。"
+    }
+  ],
+  "false_positive_exclusions": [
+    {
+      "qid": "Q85769258",
+      "title": "Index of a Lie algebra",
+      "reason": "Index of在此表示李代数的数学不变量，不是页面索引；不应以标题前缀通杀。恢复为候选后仍需中文对应核验，当前未见中文证据。",
+      "source_url": "https://en.wikipedia.org/wiki/Index_of_a_Lie_algebra"
+    }
+  ],
+  "retain_rules": [
+    "保留人物命名的定理、方程、结构、原则；不可只凭人名分类排除。",
+    "保留形式逻辑、类型论、数学基础；不可因philosophy/programming分类排除。",
+    "保留量子力学诠释与思想实验、相对论与宇宙学中的正式理论问题。",
+    "保留物理量、数学常数、整数与数系；数字分类不代表具体无关对象。",
+    "保留天体类别与现象，排除具体编号天体、具体图像与任务。"
+  ],
+  "browser_regressions": ["全站搜索C*、SU(2)、[、(等符号不应产生正则异常或错误匹配。"]
+}

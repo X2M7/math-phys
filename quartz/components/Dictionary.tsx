@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { collectDictionaryConcepts, normalizeDictionaryText } from "../util/dictionary"
+import { getDictionaryConcepts, normalizeDictionaryText } from "../util/dictionary"
 import { resolveRelative } from "../util/path"
 import style from "./styles/dictionary.scss"
 // @ts-ignore
@@ -8,7 +8,10 @@ import script from "./scripts/dictionary.inline"
 const Dictionary: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   if (fileData.frontmatter?.pageType !== "dictionary") return null
 
-  const concepts = collectDictionaryConcepts(allFiles)
+  const concepts = getDictionaryConcepts(allFiles)
+  const subjects = [...new Set(concepts.flatMap((concept) => concept.subjects))].sort((a, b) =>
+    a.localeCompare(b, "zh-Hans-CN"),
+  )
   return (
     <section class="dictionary" aria-label="概念词典 / Concept dictionary">
       <div class="dictionary-search" role="search">
@@ -25,8 +28,22 @@ const Dictionary: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProp
             disabled
           />
           <button type="button" class="dictionary-clear" hidden>
-            清除 / Clear
+            清除筛选 / Clear filters
           </button>
+        </div>
+        <div class="dictionary-subject-field">
+          <label for="dictionary-subject">学科 / Subject</label>
+          <select
+            id="dictionary-subject"
+            aria-controls="dictionary-list"
+            aria-describedby="dictionary-count"
+            disabled
+          >
+            <option value="">所有学科 / All subjects</option>
+            {subjects.map((subject) => (
+              <option value={subject}>{subject}</option>
+            ))}
+          </select>
         </div>
       </div>
       <noscript>开启 JavaScript 后可筛选下方概念。 Enable JavaScript to filter the list.</noscript>
@@ -41,6 +58,7 @@ const Dictionary: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProp
           <li
             id={`concept-${concept.id}`}
             data-dictionary-entry
+            data-subjects={JSON.stringify(concept.subjects)}
             data-search={normalizeDictionaryText(
               [concept.zh, concept.en, ...concept.variants].join(" "),
             )}
@@ -76,8 +94,8 @@ const Dictionary: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProp
         </div>
       )}
       <div class="dictionary-no-results dictionary-empty" hidden>
-        <p>没有找到匹配的概念</p>
-        <p lang="en">No matching concepts. Try another name or clear your search.</p>
+        <p>没有找到匹配的概念，请更换名称、学科或清除筛选。</p>
+        <p lang="en">No matching concepts. Try another name or subject, or clear the filters.</p>
       </div>
     </section>
   )

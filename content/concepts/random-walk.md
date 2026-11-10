@@ -1,0 +1,42 @@
+---
+title: 隨機漫步 / Random walk
+description: 隨機漫步 — Random walk。中英文名称、参考来源与关联词条。
+socialImage: og-image.png
+graph: false
+concept:
+  id: random-walk
+  zh: 隨機漫步
+  en: Random walk
+  variants:
+    - 随机漫步
+    - 随机徘徊
+    - 隨機游動
+    - 随机游走
+    - random walk
+  subjects:
+    - 概率与统计 / Probability and statistics
+dictionarySource:
+  qid: Q856741
+  collectedOn: "2026-11-10"
+  translationBasis: wikipedia-same-wikidata-item
+---
+
+**隨機漫步** · **Random walk**
+
+概率与统计 / Probability and statistics
+
+## 别名 / Variants
+
+随机漫步； 随机徘徊； 隨機游動； 随机游走； random walk
+
+## 参考来源 / Sources
+
+- [中文 Wikipedia：隨機漫步](https://zh.wikipedia.org/wiki/%E9%9A%A8%E6%A9%9F%E6%BC%AB%E6%AD%A5)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90612457)）
+- [English Wikipedia：Random walk](https://en.wikipedia.org/wiki/Random_walk)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384334009)）
+- [Wikidata：Q856741](https://www.wikidata.org/wiki/Q856741)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553761117)）
+
+中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
+
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+
+<!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

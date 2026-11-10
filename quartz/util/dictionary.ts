@@ -6,6 +6,7 @@ export interface DictionaryConcept {
   zh: string
   en: string
   variants: string[]
+  subjects: string[]
   slug: FullSlug
   articles: { title: string; slug: FullSlug }[]
 }
@@ -40,6 +41,12 @@ function conceptId(file: QuartzPluginData, value: unknown, field: string): strin
   return value
 }
 
+function optionalTextList(file: QuartzPluginData, value: unknown, field: string): string[] {
+  if (value === undefined) return []
+  if (!Array.isArray(value)) invalid(file, `${field} must be a list of non-empty strings`)
+  return [...new Set(value.map((item) => requiredText(file, item, field)))]
+}
+
 /** Build the dictionary from concept records and articles that reference their stable IDs. */
 export function collectDictionaryConcepts(allFiles: QuartzPluginData[]): DictionaryConcept[] {
   const concepts = new Map<string, DictionaryConcept>()
@@ -58,17 +65,12 @@ export function collectDictionaryConcepts(allFiles: QuartzPluginData[]): Diction
       invalid(file, `duplicate concept.id "${id}"; it is already defined in "${existing.slug}"`)
     }
 
-    if (record.variants !== undefined && !Array.isArray(record.variants)) {
-      invalid(file, "concept.variants must be a list of non-empty strings")
-    }
-    const variants = (record.variants ?? []) as unknown[]
     concepts.set(id, {
       id,
       zh: requiredText(file, record.zh, "concept.zh"),
       en: requiredText(file, record.en, "concept.en"),
-      variants: [
-        ...new Set(variants.map((value) => requiredText(file, value, "concept.variants"))),
-      ],
+      variants: optionalTextList(file, record.variants, "concept.variants"),
+      subjects: optionalTextList(file, record.subjects, "concept.subjects"),
       slug: pageSlug(file),
       articles: [],
     })
@@ -101,6 +103,22 @@ export function collectDictionaryConcepts(allFiles: QuartzPluginData[]): Diction
   return [...concepts.values()].sort(
     (a, b) => alphabetical.compare(a.en, b.en) || alphabetical.compare(a.id, b.id),
   )
+}
+
+const dictionaryByBuild = new WeakMap<QuartzPluginData[], DictionaryConcept[]>()
+
+/**
+ * Reuse the index while rendering a build's immutable allFiles snapshot. Emitters
+ * create a new array for each build, including incremental preview updates.
+ * Call collectDictionaryConcepts directly when working with mutable input.
+ */
+export function getDictionaryConcepts(allFiles: QuartzPluginData[]): DictionaryConcept[] {
+  let concepts = dictionaryByBuild.get(allFiles)
+  if (concepts === undefined) {
+    concepts = collectDictionaryConcepts(allFiles)
+    dictionaryByBuild.set(allFiles, concepts)
+  }
+  return concepts
 }
 
 /** Shared by generated search data and browser filtering; no Node runtime dependencies. */

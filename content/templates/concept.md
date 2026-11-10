@@ -7,6 +7,8 @@ concept:
   en: English concept title
   # 可选：中英文别称、缩写或不同译名；不需要时可删除 variants。
   variants: []
+  # 可选：使用与现有概念一致的学科名称，可参见 data/dictionary/subjects.json。
+  subjects: []
 ---
 
 在此填写概念的定义、说明或公式，可使用 Markdown 与站点支持的数学语法。

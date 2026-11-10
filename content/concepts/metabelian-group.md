@@ -1,0 +1,40 @@
+---
+title: 亞阿貝爾群 / Metabelian group
+description: 亞阿貝爾群 — Metabelian group。中英文名称、参考来源与关联词条。
+socialImage: og-image.png
+graph: false
+concept:
+  id: metabelian-group
+  zh: 亞阿貝爾群
+  en: Metabelian group
+  variants:
+    - metabelian group
+    - 亚阿贝尔群
+  subjects:
+    - 代数 / Algebra
+dictionarySource:
+  qid: Q6822327
+  collectedOn: "2026-11-10"
+  translationBasis: wikipedia-same-wikidata-item
+---
+
+**亞阿貝爾群** · **Metabelian group**
+
+代数 / Algebra
+
+## 别名 / Variants
+
+metabelian group； 亚阿贝尔群
+
+## 参考来源 / Sources
+
+- [中文 Wikipedia：亞阿貝爾群](https://zh.wikipedia.org/wiki/%E4%BA%9E%E9%98%BF%E8%B2%9D%E7%88%BE%E7%BE%A4)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=83445435)）
+- [English Wikipedia：Metabelian group](https://en.wikipedia.org/wiki/Metabelian_group)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1368103158)）
+- [nLab：metabelian group](https://ncatlab.org/nlab/show/metabelian+group)
+- [Wikidata：Q6822327](https://www.wikidata.org/wiki/Q6822327)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2306908098)）
+
+中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
+
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+
+<!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

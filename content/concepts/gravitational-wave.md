@@ -1,0 +1,48 @@
+---
+title: 引力波 / Gravitational wave
+description: 引力波 — Gravitational wave。中英文名称、参考来源与关联词条。
+socialImage: og-image.png
+graph: false
+concept:
+  id: gravitational-wave
+  zh: 引力波
+  en: Gravitational wave
+  variants:
+    - 重力波
+    - 引力辐射
+    - 曲率波
+    - 引力波通信
+    - 重力波通信
+    - 重力波通訊
+    - gravitational wave
+    - gravitational waves
+    - gravitational wave communication
+    - gravitational radiation
+  subjects:
+    - 相对论与引力 / Relativity and gravitation
+dictionarySource:
+  qid: Q190035
+  collectedOn: "2026-11-10"
+  translationBasis: wikipedia-same-wikidata-item
+---
+
+**引力波** · **Gravitational wave**
+
+相对论与引力 / Relativity and gravitation
+
+## 别名 / Variants
+
+重力波； 引力辐射； 曲率波； 引力波通信； 重力波通信； 重力波通訊； gravitational wave； gravitational waves； gravitational wave communication； gravitational radiation
+
+## 参考来源 / Sources
+
+- [中文 Wikipedia：引力波](https://zh.wikipedia.org/wiki/%E5%BC%95%E5%8A%9B%E6%B3%A2)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95433118)）
+- [English Wikipedia：Gravitational wave](https://en.wikipedia.org/wiki/Gravitational_wave)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384440347)）
+- [nLab：gravitational wave](https://ncatlab.org/nlab/show/gravitational+wave)
+- [Wikidata：Q190035](https://www.wikidata.org/wiki/Q190035)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2546948097)）
+
+中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
+
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+
+<!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

@@ -1,4 +1,3 @@
-import type { ContentDetails } from "../../plugins/emitters/contentIndex"
 import {
   SimulationNodeDatum,
   SimulationLinkDatum,
@@ -19,6 +18,7 @@ import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
+import { getGraphData } from "../../util/graph"
 
 type GraphicsInfo = {
   color: string
@@ -89,12 +89,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     enableRadial,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
-  const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
-      simplifySlug(k as FullSlug),
-      v,
-    ]),
-  )
+  const data = getGraphData(await fetchData)
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
   const validLinks = new Set(data.keys())

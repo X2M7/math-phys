@@ -40,12 +40,16 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => node.slugSegment !== "tags" && node.slug !== "concepts/index",
+    }),
   ],
   right: [
     Component.ConditionalRender({
       component: Component.Graph(),
-      condition: (page) => page.fileData.frontmatter?.pageType !== "dictionary",
+      condition: (page) =>
+        page.fileData.frontmatter?.pageType !== "dictionary" &&
+        page.fileData.frontmatter?.graph !== false,
     }),
     Component.ConditionalRender({
       component: Component.DesktopOnly(Component.TableOfContents()),
@@ -75,7 +79,9 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.LanguageToggle() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => node.slugSegment !== "tags" && node.slug !== "concepts/index",
+    }),
   ],
   right: [],
 }

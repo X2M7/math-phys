@@ -1,0 +1,22 @@
+{
+  "foundations": "数学基础与逻辑 / Foundations and logic",
+  "algebra": "代数 / Algebra",
+  "category-theory": "范畴论 / Category theory",
+  "topology": "拓扑学 / Topology",
+  "geometry": "几何学 / Geometry",
+  "analysis": "分析学 / Analysis",
+  "differential-equations": "微分方程与动力系统 / Differential equations and dynamics",
+  "probability-statistics": "概率与统计 / Probability and statistics",
+  "number-theory": "数论 / Number theory",
+  "discrete-math": "离散数学 / Discrete mathematics",
+  "numerical-math": "数值分析与优化 / Numerical analysis and optimization",
+  "classical-mechanics": "经典力学与连续介质 / Classical and continuum mechanics",
+  "electromagnetism-optics": "电磁学与光学 / Electromagnetism and optics",
+  "thermodynamics-statistical-physics": "热力学与统计物理 / Thermodynamics and statistical physics",
+  "quantum-mechanics": "量子力学与量子信息 / Quantum mechanics and information",
+  "relativity-gravitation": "相对论与引力 / Relativity and gravitation",
+  "quantum-field-theory-particle": "量子场论与粒子物理 / Quantum field theory and particles",
+  "condensed-matter": "凝聚态物理 / Condensed matter physics",
+  "mathematical-physics": "数学物理与量子引力 / Mathematical physics and quantum gravity",
+  "cosmology": "宇宙学 / Cosmology"
+}

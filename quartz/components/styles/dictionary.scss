@@ -23,9 +23,11 @@
 
   .dictionary-search-field {
     display: flex;
+    flex-wrap: wrap;
     gap: 0.5rem;
 
     input {
+      flex: 1 1 16rem;
       box-sizing: border-box;
       width: 100%;
       min-width: 0;
@@ -57,7 +59,26 @@
     }
   }
 
-  :is(input, button, a, summary):focus-visible {
+  .dictionary-subject-field {
+    margin-top: 1rem;
+
+    select {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid var(--gray);
+      border-radius: 4px;
+      background: var(--light);
+      color: var(--dark);
+      font: inherit;
+
+      &:disabled {
+        opacity: 0.65;
+      }
+    }
+  }
+
+  :is(input, select, button, a, summary):focus-visible {
     outline: 2px solid var(--secondary);
     outline-offset: 3px;
   }

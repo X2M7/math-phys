@@ -2,6 +2,7 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { escapeRegExp } from "../../util/escape"
 
 interface Item {
   id: number
@@ -133,7 +134,7 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
       // see if this tok is prefixed by any search terms
       for (const searchTok of tokenizedTerms) {
         if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          const regex = new RegExp(searchTok.toLowerCase(), "gi")
+          const regex = new RegExp(escapeRegExp(searchTok), "gi")
           return tok.replace(regex, `<span class="highlight">$&</span>`)
         }
       }
@@ -161,7 +162,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   const highlightTextNodes = (node: Node, term: string) => {
     if (node.nodeType === Node.TEXT_NODE) {
       const nodeText = node.nodeValue ?? ""
-      const regex = new RegExp(term.toLowerCase(), "gi")
+      const regex = new RegExp(escapeRegExp(term), "gi")
       const matches = nodeText.match(regex)
       if (!matches || matches.length === 0) return
       const spanContainer = document.createElement("span")

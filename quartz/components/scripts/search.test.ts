@@ -1,5 +1,29 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
+import { escapeRegExp } from "../../util/escape"
+
+describe("literal search highlighting", () => {
+  test("mathematical punctuation matches the literal term without interpreting operators", () => {
+    for (const term of ["C*", "SU(2)", "[a,b]", "x+y", "a.b", "f(x)^2", "\\psi", "a|b", "${x}"]) {
+      const regex = new RegExp(escapeRegExp(term), "gi")
+      const text = `Before ${term} after ${term.toUpperCase()}`
+      assert.deepStrictEqual(text.match(regex), [term, term.toUpperCase()])
+    }
+    assert.deepStrictEqual(
+      "C*-algebra and CCCC and C*-algebra".match(new RegExp(escapeRegExp("C*"), "gi")),
+      ["C*", "C*"],
+    )
+    assert.strictEqual(new RegExp(escapeRegExp("a.b"), "gi").test("axb"), false)
+    assert.strictEqual(new RegExp(escapeRegExp("SU(2)"), "gi").test("SU2"), false)
+  })
+
+  test("partially typed notation cannot create an invalid regular expression", () => {
+    for (const term of ["(", "[", "*", "?", "+", "{", "\\"]) {
+      const regex = new RegExp(escapeRegExp(term), "gi")
+      assert.deepStrictEqual(`left${term}right`.match(regex), [term])
+    }
+  })
+})
 
 // Inline the encoder function from search.inline.ts for testing
 const encoder = (str: string): string[] => {

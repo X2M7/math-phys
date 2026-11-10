@@ -18,7 +18,9 @@ npx quartz build --serve
 
 词典页面位于 `/dictionary`，首页和中英文入口均提供链接。没有搜索词时，
 页面列出所有已收录概念的中英文标题；搜索可匹配中英文名称与别称。
-第一版不预置概念，内容由作者自行录入。
+词库按 20 个学科分组，整合中英文 Wikipedia 对应与经核对的 nLab 来源。
+[词库数据与维护说明](data/dictionary/README.md)记录收录条件、待审候选、来源快照和更新方法。
+可以直接编辑已有概念页，补充自己的定义、例子和文章关联。
 
 每个概念使用一份 Markdown 文件，同时维护中英文名称：
 
@@ -44,7 +46,7 @@ concepts:
   - tensor-product
 ```
 
-上面的 ID 仅为录入示例，使用前需要创建对应概念。一篇文章可以关联多个概念，
+`tensor-product` 已收录，可直接关联；使用其他 ID 前先在词典中确认。一篇文章可以关联多个概念，
 同一概念也可以关联多篇中英文文章。正文中可使用
 `[[concepts/tensor-product|张量积]]` 链接到 `content/concepts/tensor-product.md`；
 这种正文链接供读者跳转，`concepts` 字段用于维护概念与文章的关联。

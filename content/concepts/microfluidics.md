@@ -1,0 +1,42 @@
+---
+title: 微流控 / Microfluidics
+description: 微流控 — Microfluidics。中英文名称、参考来源与关联词条。
+socialImage: og-image.png
+graph: false
+concept:
+  id: microfluidics
+  zh: 微流控
+  en: Microfluidics
+  variants:
+    - 米罗流体工程
+    - 微流體
+    - 微流體學
+    - microfluidics
+    - microhydrodynamics
+  subjects:
+    - 经典力学与连续介质 / Classical and continuum mechanics
+dictionarySource:
+  qid: Q138845
+  collectedOn: "2026-11-10"
+  translationBasis: wikipedia-same-wikidata-item
+---
+
+**微流控** · **Microfluidics**
+
+经典力学与连续介质 / Classical and continuum mechanics
+
+## 别名 / Variants
+
+米罗流体工程； 微流體； 微流體學； microfluidics； microhydrodynamics
+
+## 参考来源 / Sources
+
+- [中文 Wikipedia：微流控](https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%B5%81%E6%8E%A7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94649802)）
+- [English Wikipedia：Microfluidics](https://en.wikipedia.org/wiki/Microfluidics)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382353548)）
+- [Wikidata：Q138845](https://www.wikidata.org/wiki/Q138845)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2549735913)）
+
+中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
+
+采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary-sources)。
+
+<!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

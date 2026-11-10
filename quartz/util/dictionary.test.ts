@@ -4,6 +4,7 @@ import type { QuartzPluginData } from "../plugins/vfile"
 import type { FullSlug } from "./path"
 import {
   collectDictionaryConcepts,
+  getDictionaryConcepts,
   matchesDictionaryQuery,
   normalizeDictionaryText,
 } from "./dictionary"
@@ -42,6 +43,7 @@ describe("dictionary records", () => {
     for (const record of records) {
       assert.deepEqual(record.articles, [{ title: "张量积 II", slug: "notes/tensors-II" }])
       assert.deepEqual(record.variants, [])
+      assert.deepEqual(record.subjects, [])
     }
   })
 
@@ -76,6 +78,29 @@ describe("dictionary records", () => {
     assert.deepEqual(source, original)
   })
 
+  test("optional subject labels are trimmed and deduplicated without changing source metadata", () => {
+    const source = page("concepts/linear-map", {
+      concept: {
+        id: "linear-map",
+        zh: "线性映射",
+        en: "Linear map",
+        subjects: [
+          " 线性代数 / Linear algebra ",
+          "范畴论 / Category theory",
+          "线性代数 / Linear algebra",
+        ],
+      },
+    })
+    const original = structuredClone(source)
+    const [record] = collectDictionaryConcepts([source])
+    assert.deepEqual(record.subjects, ["线性代数 / Linear algebra", "范畴论 / Category theory"])
+    assert.deepEqual(source, original)
+    const empty = page("concepts/empty", {
+      concept: { id: "empty", zh: "空", en: "Empty", subjects: [] },
+    })
+    assert.deepEqual(collectDictionaryConcepts([empty])[0].subjects, [])
+  })
+
   test("duplicate IDs identify both conflicting pages", () => {
     assert.throws(
       () =>
@@ -99,6 +124,10 @@ describe("dictionary records", () => {
       [{ ...valid, en: 123 }, /concept\.en.*non-empty string/],
       [{ ...valid, variants: "张量乘积" }, /concept\.variants.*list/],
       [{ ...valid, variants: [null] }, /concept\.variants.*non-empty string/],
+      [{ ...valid, subjects: "线性代数 / Linear algebra" }, /concept\.subjects.*list/],
+      [{ ...valid, subjects: null }, /concept\.subjects.*list/],
+      [{ ...valid, subjects: [" "] }, /concept\.subjects.*non-empty string/],
+      [{ ...valid, subjects: [42] }, /concept\.subjects.*non-empty string/],
     ]
     for (const [value, detail] of invalid) {
       assert.throws(
@@ -131,6 +160,48 @@ describe("dictionary records", () => {
       () => collectDictionaryConcepts([concept("", "tensor-product", "张量积", "Tensor product")]),
       /valid page slug is required/,
     )
+  })
+})
+
+describe("dictionary build snapshots", () => {
+  test("pages in the same render batch share an index while a new batch reflects edits", () => {
+    const firstBatch = [
+      concept("concepts/linear-map", "linear-map", "线性映射", "Linear map"),
+      page("notes/first", { title: "First article", concepts: ["linear-map"] }),
+    ]
+    const firstIndex = getDictionaryConcepts(firstBatch)
+    assert.equal(getDictionaryConcepts(firstBatch), firstIndex)
+
+    const nextBatch = [
+      page("concepts/linear-map", {
+        concept: {
+          id: "linear-map",
+          zh: "线性变换",
+          en: "Linear transformation",
+          subjects: ["线性代数 / Linear algebra"],
+        },
+      }),
+      page("notes/second", { title: "Second article", concepts: ["linear-map"] }),
+    ]
+    const nextIndex = getDictionaryConcepts(nextBatch)
+    assert.equal(nextIndex[0].zh, "线性变换")
+    assert.deepEqual(nextIndex[0].subjects, ["线性代数 / Linear algebra"])
+    assert.deepEqual(nextIndex[0].articles, [{ title: "Second article", slug: "notes/second" }])
+    assert.equal(firstIndex[0].zh, "线性映射")
+    assert.deepEqual(firstIndex[0].articles, [{ title: "First article", slug: "notes/first" }])
+    assert.deepEqual(getDictionaryConcepts([]), [])
+  })
+
+  test("uncached collection revalidates mutable inputs even after an index has been cached", () => {
+    const files = [concept("concepts/tensor", "tensor", "张量", "Tensor")]
+    getDictionaryConcepts(files)
+    files.push(concept("concepts/dual", "dual-space", "对偶空间", "Dual space"))
+    assert.deepEqual(
+      collectDictionaryConcepts(files).map((record) => record.id),
+      ["dual-space", "tensor"],
+    )
+    files.push(concept("concepts/duplicate", "tensor", "张量", "Tensor"))
+    assert.throws(() => collectDictionaryConcepts(files), /duplicate concept\.id "tensor"/)
   })
 })
 

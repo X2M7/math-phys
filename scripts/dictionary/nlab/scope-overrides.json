@@ -1,0 +1,212 @@
+{
+  "Q11500": {
+    "groups": ["geometry"]
+  },
+  "Q3303153": {
+    "groups": ["foundations"]
+  },
+  "Q1069818": {
+    "groups": ["geometry", "topology"]
+  },
+  "Q5121446": {
+    "groups": ["geometry", "topology"]
+  },
+  "Q602136": {
+    "groups": ["discrete-math"]
+  },
+  "Q5156434": {
+    "groups": ["discrete-math"]
+  },
+  "Q18705746": {
+    "groups": ["geometry", "topology"]
+  },
+  "Q319141": {
+    "groups": ["foundations"]
+  },
+  "Q5163667": {
+    "groups": ["category-theory", "topology"]
+  },
+  "Q1137814": {
+    "groups": ["foundations"]
+  },
+  "Q274502": {
+    "groups": ["classical-mechanics", "thermodynamics-statistical-physics"]
+  },
+  "Q2363730": {
+    "groups": ["discrete-math"]
+  },
+  "Q1625065": {
+    "groups": ["analysis"]
+  },
+  "Q1079166": {
+    "groups": ["foundations"]
+  },
+  "Q1755512": {
+    "groups": ["algebra", "category-theory"]
+  },
+  "Q3284266": {
+    "groups": ["foundations"]
+  },
+  "Q130998": {
+    "groups": ["foundations"]
+  },
+  "Q1154996": {
+    "groups": ["geometry", "topology"]
+  },
+  "Q577835": {
+    "groups": ["algebra"]
+  },
+  "Q217608": {
+    "groups": ["topology", "analysis"]
+  },
+  "Q650738": {
+    "groups": ["numerical-math"]
+  },
+  "Q5477902": {
+    "groups": ["geometry"]
+  },
+  "Q2661997": {
+    "groups": ["foundations"]
+  },
+  "Q1855669": {
+    "groups": ["algebra"]
+  },
+  "Q1126309": {
+    "groups": ["foundations"]
+  },
+  "Q12453": {
+    "groups": ["mathematical-physics"]
+  },
+  "Q845677": {
+    "groups": ["geometry"]
+  },
+  "Q640119": {
+    "groups": ["foundations"]
+  },
+  "Q1948412": {
+    "groups": ["category-theory"]
+  },
+  "Q2348": {
+    "groups": ["quantum-field-theory-particle"]
+  },
+  "Q4202": {
+    "groups": ["cosmology", "relativity-gravitation"]
+  },
+  "Q743179": {
+    "groups": ["algebra"]
+  },
+  "Q724168": {
+    "groups": ["discrete-math"]
+  },
+  "Q2103196": {
+    "groups": ["analysis"]
+  },
+  "Q863912": {
+    "groups": ["algebra"]
+  },
+  "Q4200951": {
+    "groups": ["geometry", "topology"]
+  },
+  "Q1308999": {
+    "groups": ["foundations"]
+  },
+  "Q753035": {
+    "groups": ["geometry", "analysis"]
+  },
+  "Q11574": {
+    "groups": ["mathematical-physics"]
+  },
+  "Q3077649": {
+    "groups": ["number-theory", "analysis"]
+  },
+  "Q425265": {
+    "groups": ["probability-statistics"]
+  },
+  "Q652446": {
+    "groups": ["topology"]
+  },
+  "Q1896657": {
+    "groups": ["foundations"]
+  },
+  "Q338021": {
+    "groups": ["foundations"]
+  },
+  "Q577": {
+    "groups": ["mathematical-physics"]
+  },
+  "Q23389": {
+    "groups": ["numerical-math"]
+  },
+  "Q1144925": {
+    "groups": ["foundations"]
+  },
+  "Q2976255": {
+    "groups": ["foundations"]
+  },
+  "Q2502253": {
+    "groups": ["foundations"]
+  },
+  "Q677161": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q835041": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q179168": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q83368": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q379168": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q525506": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q3944788": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q14041": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q321": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q40605": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q1518855": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q42848": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q528053": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q193544": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q16928028": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q336700": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q7935160": {
+    "exclude": "Manual scope review: software, philosophy, information systems, education, political concept, named facility or named astronomical object rather than a mathematics/physics concept"
+  },
+  "Q797428": {
+    "exclude": "Named experiment/collaboration/detector project, outside concept-dictionary scope"
+  },
+  "Q815821": {
+    "exclude": "Named experiment/collaboration/detector project, outside concept-dictionary scope"
+  },
+  "Q15909572": {
+    "pending": "Term granularity mismatch: Quadratic formula names a formula, while 二次方程 names the equation; same Wikidata ID is insufficient for a direct terminology pair"
+  },
+  "Q1475614": {
+    "pending": "Term granularity mismatch: Galaxy rotation curve names a curve, while 星系自轉問題 names the associated problem; manual bilingual review required"
+  }
+}

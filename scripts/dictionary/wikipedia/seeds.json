@@ -1,0 +1,145 @@
+{
+  "foundations": [
+    "Set theory",
+    "Mathematical logic",
+    "Type theory",
+    "Computability theory",
+    "Model theory",
+    "Proof theory"
+  ],
+  "algebra": [
+    "Linear algebra",
+    "Abstract algebra",
+    "Group theory",
+    "Ring theory",
+    "Field theory",
+    "Commutative algebra",
+    "Representation theory",
+    "Homological algebra",
+    "Lie algebras"
+  ],
+  "category-theory": [
+    "Category theory",
+    "Higher category theory",
+    "Topos theory",
+    "Monoidal categories"
+  ],
+  "topology": [
+    "General topology",
+    "Algebraic topology",
+    "Homotopy theory",
+    "Geometric topology",
+    "Knot theory",
+    "Topological spaces"
+  ],
+  "geometry": [
+    "Differential geometry",
+    "Algebraic geometry",
+    "Symplectic geometry",
+    "Riemannian geometry",
+    "Complex geometry",
+    "Differential topology",
+    "Lie groups"
+  ],
+  "analysis": [
+    "Real analysis",
+    "Complex analysis",
+    "Functional analysis",
+    "Harmonic analysis",
+    "Measure theory",
+    "Fourier analysis",
+    "Operator theory",
+    "Special functions"
+  ],
+  "differential-equations": [
+    "Ordinary differential equations",
+    "Partial differential equations",
+    "Dynamical systems",
+    "Chaos theory",
+    "Calculus of variations"
+  ],
+  "probability-statistics": [
+    "Probability theory",
+    "Stochastic processes",
+    "Stochastic differential equations",
+    "Mathematical statistics",
+    "Probability distributions",
+    "Statistical theory"
+  ],
+  "number-theory": [
+    "Number theory",
+    "Algebraic number theory",
+    "Analytic number theory",
+    "Arithmetic geometry",
+    "Modular forms"
+  ],
+  "discrete-math": [
+    "Combinatorics",
+    "Graph theory",
+    "Algebraic combinatorics",
+    "Order theory",
+    "Discrete mathematics"
+  ],
+  "numerical-math": [
+    "Numerical analysis",
+    "Numerical linear algebra",
+    "Mathematical optimization",
+    "Convex analysis"
+  ],
+  "classical-mechanics": [
+    "Classical mechanics",
+    "Hamiltonian mechanics",
+    "Lagrangian mechanics",
+    "Continuum mechanics",
+    "Fluid dynamics"
+  ],
+  "electromagnetism-optics": [
+    "Electromagnetism",
+    "Classical electromagnetism",
+    "Optics",
+    "Wave mechanics"
+  ],
+  "thermodynamics-statistical-physics": [
+    "Thermodynamics",
+    "Statistical mechanics",
+    "Phase transitions",
+    "Non-equilibrium thermodynamics"
+  ],
+  "quantum-mechanics": [
+    "Quantum mechanics",
+    "Quantum information science",
+    "Quantum computing",
+    "Quantum measurement",
+    "Interpretations of quantum mechanics"
+  ],
+  "relativity-gravitation": [
+    "General relativity",
+    "Special relativity",
+    "Theories of gravitation",
+    "Black holes",
+    "Spacetime"
+  ],
+  "quantum-field-theory-particle": [
+    "Quantum field theory",
+    "Gauge theories",
+    "Particle physics",
+    "Quantum electrodynamics",
+    "Quantum chromodynamics",
+    "Supersymmetry",
+    "Renormalization group"
+  ],
+  "condensed-matter": [
+    "Condensed matter physics",
+    "Solid state physics",
+    "Superconductivity",
+    "Magnetism",
+    "Quasiparticles"
+  ],
+  "mathematical-physics": [
+    "Mathematical physics",
+    "Quantum gravity",
+    "String theory",
+    "Topological quantum field theory"
+  ],
+  "cosmology": ["Physical cosmology", "Cosmogony", "Dark matter"]
+}

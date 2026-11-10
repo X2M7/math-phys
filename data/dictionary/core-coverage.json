@@ -1,0 +1,4073 @@
+{
+  "collectedOn": "2026-11-10",
+  "seedCount": 510,
+  "coverage": [
+    {
+      "seed": "Set (mathematics)",
+      "group": "foundations",
+      "canonical": "Set (mathematics)",
+      "wikidata_id": "Q36161",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Element (mathematics)",
+      "group": "foundations",
+      "canonical": "Element of a set",
+      "wikidata_id": "Q379825",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Subset",
+      "group": "foundations",
+      "canonical": "Subset",
+      "wikidata_id": "Q177646",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cartesian product",
+      "group": "foundations",
+      "canonical": "Cartesian product",
+      "wikidata_id": "Q173740",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Binary relation",
+      "group": "foundations",
+      "canonical": "Binary relation",
+      "wikidata_id": "Q130901",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Equivalence relation",
+      "group": "foundations",
+      "canonical": "Equivalence relation",
+      "wikidata_id": "Q130998",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Partial order",
+      "group": "foundations",
+      "canonical": "Partially ordered set",
+      "wikidata_id": "Q474715",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Well-order",
+      "group": "foundations",
+      "canonical": "Well-order",
+      "wikidata_id": "Q659746",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cardinal number",
+      "group": "foundations",
+      "canonical": "Cardinal number",
+      "wikidata_id": "Q163875",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ordinal number",
+      "group": "foundations",
+      "canonical": "Ordinal number",
+      "wikidata_id": "Q191780",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Axiom of choice",
+      "group": "foundations",
+      "canonical": "Axiom of choice",
+      "wikidata_id": "Q179692",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Zorn's lemma",
+      "group": "foundations",
+      "canonical": "Zorn's lemma",
+      "wikidata_id": "Q290810",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gödel's incompleteness theorems",
+      "group": "foundations",
+      "canonical": "Gödel's incompleteness theorems",
+      "wikidata_id": "Q200787",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Type theory",
+      "group": "foundations",
+      "canonical": "Type theory",
+      "wikidata_id": "Q1056428",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lambda calculus",
+      "group": "foundations",
+      "canonical": "Lambda calculus",
+      "wikidata_id": "Q242028",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Turing machine",
+      "group": "foundations",
+      "canonical": "Turing machine",
+      "wikidata_id": "Q163310",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Formal proof",
+      "group": "foundations",
+      "canonical": "Formal proof",
+      "wikidata_id": "Q2762418",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Predicate (mathematical logic)",
+      "group": "foundations",
+      "canonical": "Predicate (logic)",
+      "wikidata_id": "Q1144319",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dependent type",
+      "group": "foundations",
+      "canonical": "Dependent type",
+      "wikidata_id": "Q997433",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Homotopy type theory",
+      "group": "foundations",
+      "canonical": "Homotopy type theory",
+      "wikidata_id": "Q5891840",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Empty set",
+      "group": "foundations",
+      "canonical": "Empty set",
+      "wikidata_id": "Q226183",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Intersection (set theory)",
+      "group": "foundations",
+      "canonical": "Intersection (set theory)",
+      "wikidata_id": "Q185837",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Power set",
+      "group": "foundations",
+      "canonical": "Power set",
+      "wikidata_id": "Q205170",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Countable set",
+      "group": "foundations",
+      "canonical": "Countable set",
+      "wikidata_id": "Q66707394",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Uncountable set",
+      "group": "foundations",
+      "canonical": "Uncountable set",
+      "wikidata_id": "Q1128796",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Zermelo–Fraenkel set theory",
+      "group": "foundations",
+      "canonical": "Zermelo–Fraenkel set theory",
+      "wikidata_id": "Q191849",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Proposition",
+      "group": "foundations",
+      "canonical": "Proposition",
+      "wikidata_id": "Q108163",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Propositional calculus",
+      "group": "foundations",
+      "canonical": "Propositional logic",
+      "wikidata_id": "Q200694",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantifier (logic)",
+      "group": "foundations",
+      "canonical": "Quantifier (logic)",
+      "wikidata_id": "Q592911",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Axiom",
+      "group": "foundations",
+      "canonical": "Axiom",
+      "wikidata_id": "Q17736",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Theorem",
+      "group": "foundations",
+      "canonical": "Theorem",
+      "wikidata_id": "Q65943",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lemma (mathematics)",
+      "group": "foundations",
+      "canonical": "Lemma (mathematics)",
+      "wikidata_id": "Q207505",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Corollary",
+      "group": "foundations",
+      "canonical": "Corollary",
+      "wikidata_id": "Q1343870",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Definition",
+      "group": "foundations",
+      "canonical": "Definition",
+      "wikidata_id": "Q101072",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Proof by contradiction",
+      "group": "foundations",
+      "canonical": "Reductio ad absurdum",
+      "wikidata_id": "Q14402006",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Group (mathematics)",
+      "group": "algebra",
+      "canonical": "Group (mathematics)",
+      "wikidata_id": "Q83478",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ring (mathematics)",
+      "group": "algebra",
+      "canonical": "Ring (mathematics)",
+      "wikidata_id": "Q161172",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Field (mathematics)",
+      "group": "algebra",
+      "canonical": "Field (mathematics)",
+      "wikidata_id": "Q190109",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Vector space",
+      "group": "algebra",
+      "canonical": "Vector space",
+      "wikidata_id": "Q125977",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Linear map",
+      "group": "algebra",
+      "canonical": "Linear map",
+      "wikidata_id": "Q207643",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Basis (linear algebra)",
+      "group": "algebra",
+      "canonical": "Basis (linear algebra)",
+      "wikidata_id": "Q189569",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Tensor product",
+      "group": "algebra",
+      "canonical": "Tensor product",
+      "wikidata_id": "Q1163016",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dual space",
+      "group": "algebra",
+      "canonical": "Dual space",
+      "wikidata_id": "Q752487",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Exterior algebra",
+      "group": "algebra",
+      "canonical": "Exterior algebra",
+      "wikidata_id": "Q1196652",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Symmetric algebra",
+      "group": "algebra",
+      "canonical": "Symmetric algebra",
+      "wikidata_id": "Q1052674",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Clifford algebra",
+      "group": "algebra",
+      "canonical": "Clifford algebra",
+      "wikidata_id": "Q674689",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lie algebra",
+      "group": "algebra",
+      "canonical": "Lie algebra",
+      "wikidata_id": "Q664495",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Module (mathematics)",
+      "group": "algebra",
+      "canonical": "Module (mathematics)",
+      "wikidata_id": "Q18848",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Algebra over a field",
+      "group": "algebra",
+      "canonical": "Algebra over a field",
+      "wikidata_id": "Q1000660",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ideal (ring theory)",
+      "group": "algebra",
+      "canonical": "Ideal (ring theory)",
+      "wikidata_id": "Q44649",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quotient group",
+      "group": "algebra",
+      "canonical": "Quotient group",
+      "wikidata_id": "Q1138961",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Group homomorphism",
+      "group": "algebra",
+      "canonical": "Group homomorphism",
+      "wikidata_id": "Q868169",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Representation theory",
+      "group": "algebra",
+      "canonical": "Representation theory",
+      "wikidata_id": "Q13220368",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Chain complex",
+      "group": "algebra",
+      "canonical": "Chain complex",
+      "wikidata_id": "Q1143328",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Homology (mathematics)",
+      "group": "algebra",
+      "canonical": "Homology (mathematics)",
+      "wikidata_id": "Q1144780",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Matrix (mathematics)",
+      "group": "algebra",
+      "canonical": "Matrix (mathematics)",
+      "wikidata_id": "Q44337",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Direct sum",
+      "group": "algebra",
+      "canonical": "Direct sum",
+      "wikidata_id": "Q13582243",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Orthogonality",
+      "group": "algebra",
+      "canonical": "Orthogonality",
+      "wikidata_id": "Q215067",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Unitary matrix",
+      "group": "algebra",
+      "canonical": "Unitary matrix",
+      "wikidata_id": "Q727103",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Orthogonal matrix",
+      "group": "algebra",
+      "canonical": "Orthogonal matrix",
+      "wikidata_id": "Q333871",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hermitian matrix",
+      "group": "algebra",
+      "canonical": "Hermitian matrix",
+      "wikidata_id": "Q652941",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Tensor algebra",
+      "group": "algebra",
+      "canonical": "Tensor algebra",
+      "wikidata_id": "Q2296021",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Tensor contraction",
+      "group": "algebra",
+      "canonical": "Tensor contraction",
+      "wikidata_id": "Q428091",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Symmetric tensor",
+      "group": "algebra",
+      "canonical": "Symmetric tensor",
+      "wikidata_id": "Q2204117",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Antisymmetric tensor",
+      "group": "algebra",
+      "canonical": "Antisymmetric tensor",
+      "wikidata_id": "Q1325769",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Minimal polynomial (linear algebra)",
+      "group": "algebra",
+      "canonical": "Minimal polynomial (linear algebra)",
+      "wikidata_id": "Q1163608",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Category (mathematics)",
+      "group": "category-theory",
+      "canonical": "Category (mathematics)",
+      "wikidata_id": "Q719395",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Functor",
+      "group": "category-theory",
+      "canonical": "Functor",
+      "wikidata_id": "Q864475",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Natural transformation",
+      "group": "category-theory",
+      "canonical": "Natural transformation",
+      "wikidata_id": "Q1442189",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Adjoint functors",
+      "group": "category-theory",
+      "canonical": "Adjoint functors",
+      "wikidata_id": "Q357858",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Limit (category theory)",
+      "group": "category-theory",
+      "canonical": "Limit (category theory)",
+      "wikidata_id": "Q1322614",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Colimit",
+      "group": "category-theory",
+      "canonical": "Limit (category theory)",
+      "wikidata_id": "Q1322614",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Yoneda lemma",
+      "group": "category-theory",
+      "canonical": "Yoneda lemma",
+      "wikidata_id": "Q320577",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Representable functor",
+      "group": "category-theory",
+      "canonical": "Representable functor",
+      "wikidata_id": "Q386320",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Monoidal category",
+      "group": "category-theory",
+      "canonical": "Monoidal category",
+      "wikidata_id": "Q1945014",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Closed monoidal category",
+      "group": "category-theory",
+      "canonical": "Closed monoidal category",
+      "wikidata_id": "Q5135347",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Enriched category",
+      "group": "category-theory",
+      "canonical": "Enriched category",
+      "wikidata_id": "Q5379515",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Abelian category",
+      "group": "category-theory",
+      "canonical": "Abelian category",
+      "wikidata_id": "Q318737",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Derived category",
+      "group": "category-theory",
+      "canonical": "Derived category",
+      "wikidata_id": "Q5262626",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Triangulated category",
+      "group": "category-theory",
+      "canonical": "Triangulated category",
+      "wikidata_id": "Q7840150",
+      "status": "pending",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Model category",
+      "group": "category-theory",
+      "canonical": "Model category",
+      "wikidata_id": "Q1941896",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Grothendieck topology",
+      "group": "category-theory",
+      "canonical": "Grothendieck topology",
+      "wikidata_id": "Q1062242",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Topos",
+      "group": "category-theory",
+      "canonical": "Topos",
+      "wikidata_id": "Q2143621",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Higher category theory",
+      "group": "category-theory",
+      "canonical": "Higher category theory",
+      "wikidata_id": "Q5758318",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Infinity-category",
+      "group": "category-theory",
+      "canonical": "Quasi-category",
+      "wikidata_id": "Q7269442",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Category of sets",
+      "group": "category-theory",
+      "canonical": "Category of sets",
+      "wikidata_id": "Q2518298",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Object (category theory)",
+      "group": "category-theory",
+      "canonical": "Category (mathematics)",
+      "wikidata_id": "Q719395",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Morphism",
+      "group": "category-theory",
+      "canonical": "Morphism",
+      "wikidata_id": "Q1948412",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Endomorphism",
+      "group": "category-theory",
+      "canonical": "Endomorphism",
+      "wikidata_id": "Q1340800",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Monomorphism",
+      "group": "category-theory",
+      "canonical": "Monomorphism",
+      "wikidata_id": "Q1945067",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Epimorphism",
+      "group": "category-theory",
+      "canonical": "Epimorphism",
+      "wikidata_id": "Q1347208",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Product (category theory)",
+      "group": "category-theory",
+      "canonical": "Product (category theory)",
+      "wikidata_id": "Q919107",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Coproduct",
+      "group": "category-theory",
+      "canonical": "Coproduct",
+      "wikidata_id": "Q692689",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Coequalizer",
+      "group": "category-theory",
+      "canonical": "Coequalizer",
+      "wikidata_id": "Q5140810",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Pullback (category theory)",
+      "group": "category-theory",
+      "canonical": "Pullback (category theory)",
+      "wikidata_id": "Q1397439",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Pushout (category theory)",
+      "group": "category-theory",
+      "canonical": "Pushout (category theory)",
+      "wikidata_id": "Q1633079",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Initial and terminal objects",
+      "group": "category-theory",
+      "canonical": "Initial and terminal objects",
+      "wikidata_id": "Q529752",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Opposite category",
+      "group": "category-theory",
+      "canonical": "Opposite category",
+      "wikidata_id": "Q7098616",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Duality (category theory)",
+      "group": "category-theory",
+      "canonical": "Dual (category theory)",
+      "wikidata_id": "Q2361385",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Topological space",
+      "group": "topology",
+      "canonical": "Topological space",
+      "wikidata_id": "Q179899",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Continuous function",
+      "group": "topology",
+      "canonical": "Continuous function",
+      "wikidata_id": "Q170058",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Homeomorphism",
+      "group": "topology",
+      "canonical": "Homeomorphism",
+      "wikidata_id": "Q202906",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Homotopy",
+      "group": "topology",
+      "canonical": "Homotopy",
+      "wikidata_id": "Q746083",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fundamental group",
+      "group": "topology",
+      "canonical": "Fundamental group",
+      "wikidata_id": "Q662830",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Homotopy group",
+      "group": "topology",
+      "canonical": "Homotopy group",
+      "wikidata_id": "Q1626416",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Covering space",
+      "group": "topology",
+      "canonical": "Covering space",
+      "wikidata_id": "Q332648",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fiber bundle",
+      "group": "topology",
+      "canonical": "Fiber bundle",
+      "wikidata_id": "Q1154996",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fibration",
+      "group": "topology",
+      "canonical": "Fibration",
+      "wikidata_id": "Q493941",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cofibration",
+      "group": "topology",
+      "canonical": "Cofibration",
+      "wikidata_id": "Q1048949",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "CW complex",
+      "group": "topology",
+      "canonical": "CW complex",
+      "wikidata_id": "Q189061",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Simplicial complex",
+      "group": "topology",
+      "canonical": "Simplicial complex",
+      "wikidata_id": "Q994399",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Simplicial set",
+      "group": "topology",
+      "canonical": "Simplicial set",
+      "wikidata_id": "Q1467124",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cohomology",
+      "group": "topology",
+      "canonical": "Cohomology",
+      "wikidata_id": "Q1198376",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cup product",
+      "group": "topology",
+      "canonical": "Cup product",
+      "wikidata_id": "Q3388699",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Spectral sequence",
+      "group": "topology",
+      "canonical": "Spectral sequence",
+      "wikidata_id": "Q3503315",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Eilenberg–MacLane space",
+      "group": "topology",
+      "canonical": "Eilenberg–MacLane space",
+      "wikidata_id": "Q5349490",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Classifying space",
+      "group": "topology",
+      "canonical": "Classifying space",
+      "wikidata_id": "Q5128445",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Homotopy limit",
+      "group": "topology",
+      "canonical": "Homotopy colimit and limit",
+      "wikidata_id": "Q17030678",
+      "status": "pending",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Manifold",
+      "group": "geometry",
+      "canonical": "Manifold",
+      "wikidata_id": "Q203920",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Differentiable manifold",
+      "group": "geometry",
+      "canonical": "Differentiable manifold",
+      "wikidata_id": "Q3552958",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Tangent space",
+      "group": "geometry",
+      "canonical": "Tangent space",
+      "wikidata_id": "Q909601",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Tangent bundle",
+      "group": "geometry",
+      "canonical": "Tangent bundle",
+      "wikidata_id": "Q746550",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cotangent bundle",
+      "group": "geometry",
+      "canonical": "Cotangent bundle",
+      "wikidata_id": "Q1142143",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Vector bundle",
+      "group": "geometry",
+      "canonical": "Vector bundle",
+      "wikidata_id": "Q658429",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Principal bundle",
+      "group": "geometry",
+      "canonical": "Principal bundle",
+      "wikidata_id": "Q1365548",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Connection (differential geometry)",
+      "group": "geometry",
+      "canonical": "Connection (mathematics)",
+      "wikidata_id": "Q31924",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Covariant derivative",
+      "group": "geometry",
+      "canonical": "Covariant derivative",
+      "wikidata_id": "Q2287715",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Differential form",
+      "group": "geometry",
+      "canonical": "Differential form",
+      "wikidata_id": "Q1047080",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Exterior derivative",
+      "group": "geometry",
+      "canonical": "Exterior derivative",
+      "wikidata_id": "Q1754547",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lie derivative",
+      "group": "geometry",
+      "canonical": "Lie derivative",
+      "wikidata_id": "Q579267",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Riemannian manifold",
+      "group": "geometry",
+      "canonical": "Riemannian manifold",
+      "wikidata_id": "Q632814",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Riemann curvature tensor",
+      "group": "geometry",
+      "canonical": "Riemann curvature tensor",
+      "wikidata_id": "Q855112",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ricci curvature",
+      "group": "geometry",
+      "canonical": "Ricci curvature",
+      "wikidata_id": "Q1195879",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Symplectic manifold",
+      "group": "geometry",
+      "canonical": "Symplectic manifold",
+      "wikidata_id": "Q1064500",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Poisson manifold",
+      "group": "geometry",
+      "canonical": "Poisson manifold",
+      "wikidata_id": "Q1464936",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Kähler manifold",
+      "group": "geometry",
+      "canonical": "Kähler manifold",
+      "wikidata_id": "Q1353916",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Algebraic variety",
+      "group": "geometry",
+      "canonical": "Algebraic variety",
+      "wikidata_id": "Q648995",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Scheme (mathematics)",
+      "group": "geometry",
+      "canonical": "Scheme (mathematics)",
+      "wikidata_id": "Q1155772",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Limit (mathematics)",
+      "group": "analysis",
+      "canonical": "Limit (mathematics)",
+      "wikidata_id": "Q177239",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Derivative",
+      "group": "analysis",
+      "canonical": "Derivative",
+      "wikidata_id": "Q29175",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Integral",
+      "group": "analysis",
+      "canonical": "Integral",
+      "wikidata_id": "Q80091",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Measure (mathematics)",
+      "group": "analysis",
+      "canonical": "Measure (mathematics)",
+      "wikidata_id": "Q192276",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lebesgue integral",
+      "group": "analysis",
+      "canonical": "Lebesgue integral",
+      "wikidata_id": "Q853831",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lebesgue measure",
+      "group": "analysis",
+      "canonical": "Lebesgue measure",
+      "wikidata_id": "Q827230",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hilbert space",
+      "group": "analysis",
+      "canonical": "Hilbert space",
+      "wikidata_id": "Q190056",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Banach space",
+      "group": "analysis",
+      "canonical": "Banach space",
+      "wikidata_id": "Q194397",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Norm (mathematics)",
+      "group": "analysis",
+      "canonical": "Norm (mathematics)",
+      "wikidata_id": "Q956437",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Inner product space",
+      "group": "analysis",
+      "canonical": "Inner product space",
+      "wikidata_id": "Q214159",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Bounded operator",
+      "group": "analysis",
+      "canonical": "Bounded operator",
+      "wikidata_id": "Q2342396",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Spectral theorem",
+      "group": "analysis",
+      "canonical": "Spectral theorem",
+      "wikidata_id": "Q1425077",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Distribution (mathematics)",
+      "group": "analysis",
+      "canonical": "Distribution (mathematical analysis)",
+      "wikidata_id": "Q865811",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Sobolev space",
+      "group": "analysis",
+      "canonical": "Sobolev space",
+      "wikidata_id": "Q1501536",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fourier transform",
+      "group": "analysis",
+      "canonical": "Fourier transform",
+      "wikidata_id": "Q6520159",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Laplace transform",
+      "group": "analysis",
+      "canonical": "Laplace transform",
+      "wikidata_id": "Q199691",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Holomorphic function",
+      "group": "analysis",
+      "canonical": "Holomorphic function",
+      "wikidata_id": "Q207476",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Residue theorem",
+      "group": "analysis",
+      "canonical": "Residue theorem",
+      "wikidata_id": "Q830513",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Analytic continuation",
+      "group": "analysis",
+      "canonical": "Analytic continuation",
+      "wikidata_id": "Q485287",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cauchy's integral formula",
+      "group": "analysis",
+      "canonical": "Cauchy's integral formula",
+      "wikidata_id": "Q913764",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Real number",
+      "group": "analysis",
+      "canonical": "Real number",
+      "wikidata_id": "Q12916",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Sequence",
+      "group": "analysis",
+      "canonical": "Sequence",
+      "wikidata_id": "Q133250",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Series (mathematics)",
+      "group": "analysis",
+      "canonical": "Series (mathematics)",
+      "wikidata_id": "Q170198",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Convergence tests",
+      "group": "analysis",
+      "canonical": "Convergence tests",
+      "wikidata_id": "Q3979448",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Absolute convergence",
+      "group": "analysis",
+      "canonical": "Absolute convergence",
+      "wikidata_id": "Q332465",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Uniform convergence",
+      "group": "analysis",
+      "canonical": "Uniform convergence",
+      "wikidata_id": "Q1411887",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Partial derivative",
+      "group": "analysis",
+      "canonical": "Partial derivative",
+      "wikidata_id": "Q186475",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gradient",
+      "group": "analysis",
+      "canonical": "Gradient",
+      "wikidata_id": "Q173582",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Divergence",
+      "group": "analysis",
+      "canonical": "Divergence",
+      "wikidata_id": "Q189000",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Curl (mathematics)",
+      "group": "analysis",
+      "canonical": "Curl (mathematics)",
+      "wikidata_id": "Q206310",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Jacobian matrix and determinant",
+      "group": "analysis",
+      "canonical": "Jacobian matrix and determinant",
+      "wikidata_id": "Q506041",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hessian matrix",
+      "group": "analysis",
+      "canonical": "Hessian matrix",
+      "wikidata_id": "Q620495",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Implicit function theorem",
+      "group": "analysis",
+      "canonical": "Implicit function theorem",
+      "wikidata_id": "Q848375",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dominated convergence theorem",
+      "group": "analysis",
+      "canonical": "Dominated convergence theorem",
+      "wikidata_id": "Q1067156",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Monotone convergence theorem",
+      "group": "analysis",
+      "canonical": "Monotone convergence theorem",
+      "wikidata_id": "Q1153584",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fubini's theorem",
+      "group": "analysis",
+      "canonical": "Fubini's theorem",
+      "wikidata_id": "Q1149022",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Banach fixed-point theorem",
+      "group": "analysis",
+      "canonical": "Banach fixed-point theorem",
+      "wikidata_id": "Q220680",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Riesz representation theorem",
+      "group": "analysis",
+      "canonical": "Riesz representation theorem",
+      "wikidata_id": "Q1357684",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Spectral radius",
+      "group": "analysis",
+      "canonical": "Spectral radius",
+      "wikidata_id": "Q249748",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ordinary differential equation",
+      "group": "differential-equations",
+      "canonical": "Ordinary differential equation",
+      "wikidata_id": "Q465274",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Partial differential equation",
+      "group": "differential-equations",
+      "canonical": "Partial differential equation",
+      "wikidata_id": "Q271977",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dynamical system",
+      "group": "differential-equations",
+      "canonical": "Dynamical system",
+      "wikidata_id": "Q638328",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Initial value problem",
+      "group": "differential-equations",
+      "canonical": "Initial value problem",
+      "wikidata_id": "Q10167591",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Boundary value problem",
+      "group": "differential-equations",
+      "canonical": "Boundary value problem",
+      "wikidata_id": "Q1332643",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Picard–Lindelöf theorem",
+      "group": "differential-equations",
+      "canonical": "Picard–Lindelöf theorem",
+      "wikidata_id": "Q530152",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Green's function",
+      "group": "differential-equations",
+      "canonical": "Green's function",
+      "wikidata_id": "Q378435",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Weak solution",
+      "group": "differential-equations",
+      "canonical": "Weak solution",
+      "wikidata_id": "Q7977966",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Heat equation",
+      "group": "differential-equations",
+      "canonical": "Heat equation",
+      "wikidata_id": "Q6510488",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Wave equation",
+      "group": "differential-equations",
+      "canonical": "Wave equation",
+      "wikidata_id": "Q193846",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Laplace's equation",
+      "group": "differential-equations",
+      "canonical": "Laplace's equation",
+      "wikidata_id": "Q339444",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Poisson's equation",
+      "group": "differential-equations",
+      "canonical": "Poisson's equation",
+      "wikidata_id": "Q827688",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Sturm–Liouville theory",
+      "group": "differential-equations",
+      "canonical": "Sturm–Liouville theory",
+      "wikidata_id": "Q1154082",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Navier–Stokes equations",
+      "group": "differential-equations",
+      "canonical": "Navier–Stokes equations",
+      "wikidata_id": "Q201321",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lyapunov stability",
+      "group": "differential-equations",
+      "canonical": "Lyapunov stability",
+      "wikidata_id": "Q1341651",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Bifurcation theory",
+      "group": "differential-equations",
+      "canonical": "Bifurcation theory",
+      "wikidata_id": "Q1154357",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ergodic theory",
+      "group": "differential-equations",
+      "canonical": "Ergodic theory",
+      "wikidata_id": "Q5498822",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hamilton–Jacobi equation",
+      "group": "differential-equations",
+      "canonical": "Hamilton–Jacobi equation",
+      "wikidata_id": "Q1060137",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Euler–Lagrange equation",
+      "group": "differential-equations",
+      "canonical": "Euler–Lagrange equation",
+      "wikidata_id": "Q875744",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Korteweg–De Vries equation",
+      "group": "differential-equations",
+      "canonical": "Korteweg–De Vries equation",
+      "wikidata_id": "Q601796",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Probability space",
+      "group": "probability-statistics",
+      "canonical": "Probability space",
+      "wikidata_id": "Q623472",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Random variable",
+      "group": "probability-statistics",
+      "canonical": "Random variable",
+      "wikidata_id": "Q176623",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Probability distribution",
+      "group": "probability-statistics",
+      "canonical": "Probability distribution",
+      "wikidata_id": "Q200726",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Expected value",
+      "group": "probability-statistics",
+      "canonical": "Expected value",
+      "wikidata_id": "Q200125",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Variance",
+      "group": "probability-statistics",
+      "canonical": "Variance",
+      "wikidata_id": "Q175199",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Covariance",
+      "group": "probability-statistics",
+      "canonical": "Covariance",
+      "wikidata_id": "Q201984",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Conditional probability",
+      "group": "probability-statistics",
+      "canonical": "Conditional probability",
+      "wikidata_id": "Q327069",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Bayes' theorem",
+      "group": "probability-statistics",
+      "canonical": "Bayes' theorem",
+      "wikidata_id": "Q182505",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Law of large numbers",
+      "group": "probability-statistics",
+      "canonical": "Law of large numbers",
+      "wikidata_id": "Q207952",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Central limit theorem",
+      "group": "probability-statistics",
+      "canonical": "Central limit theorem",
+      "wikidata_id": "Q190391",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gaussian distribution",
+      "group": "probability-statistics",
+      "canonical": "Normal distribution",
+      "wikidata_id": "Q133871",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Poisson distribution",
+      "group": "probability-statistics",
+      "canonical": "Poisson distribution",
+      "wikidata_id": "Q205692",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Markov chain",
+      "group": "probability-statistics",
+      "canonical": "Markov chain",
+      "wikidata_id": "Q176645",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Stochastic process",
+      "group": "probability-statistics",
+      "canonical": "Stochastic process",
+      "wikidata_id": "Q176737",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Brownian motion",
+      "group": "probability-statistics",
+      "canonical": "Brownian motion",
+      "wikidata_id": "Q178036",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Martingale (probability theory)",
+      "group": "probability-statistics",
+      "canonical": "Martingale (probability theory)",
+      "wikidata_id": "Q534112",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Itô calculus",
+      "group": "probability-statistics",
+      "canonical": "Itô calculus",
+      "wikidata_id": "Q947053",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fokker–Planck equation",
+      "group": "probability-statistics",
+      "canonical": "Fokker–Planck equation",
+      "wikidata_id": "Q891766",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Maximum likelihood estimation",
+      "group": "probability-statistics",
+      "canonical": "Maximum likelihood estimation",
+      "wikidata_id": "Q1045555",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Statistical hypothesis test",
+      "group": "probability-statistics",
+      "canonical": "Statistical hypothesis test",
+      "wikidata_id": "Q210832",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Sample space",
+      "group": "probability-statistics",
+      "canonical": "Sample space",
+      "wikidata_id": "Q467440",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Event (probability theory)",
+      "group": "probability-statistics",
+      "canonical": "Event (probability theory)",
+      "wikidata_id": "Q10290214",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Probability measure",
+      "group": "probability-statistics",
+      "canonical": "Probability measure",
+      "wikidata_id": "Q355020",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cumulative distribution function",
+      "group": "probability-statistics",
+      "canonical": "Cumulative distribution function",
+      "wikidata_id": "Q386228",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Independence (probability theory)",
+      "group": "probability-statistics",
+      "canonical": "Independence (probability theory)",
+      "wikidata_id": "Q625303",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Characteristic function (probability theory)",
+      "group": "probability-statistics",
+      "canonical": "Characteristic function (probability theory)",
+      "wikidata_id": "Q822139",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Moment-generating function",
+      "group": "probability-statistics",
+      "canonical": "Moment generating function",
+      "wikidata_id": "Q535587",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Moment (mathematics)",
+      "group": "probability-statistics",
+      "canonical": "Moment (mathematics)",
+      "wikidata_id": "Q638982",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cumulant",
+      "group": "probability-statistics",
+      "canonical": "Cumulant",
+      "wikidata_id": "Q746007",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Binomial distribution",
+      "group": "probability-statistics",
+      "canonical": "Binomial distribution",
+      "wikidata_id": "Q185547",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Exponential distribution",
+      "group": "probability-statistics",
+      "canonical": "Exponential distribution",
+      "wikidata_id": "Q237193",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Chi-squared distribution",
+      "group": "probability-statistics",
+      "canonical": "Chi-squared distribution",
+      "wikidata_id": "Q243462",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Correlation",
+      "group": "probability-statistics",
+      "canonical": "Correlation",
+      "wikidata_id": "Q186290",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Standard deviation",
+      "group": "probability-statistics",
+      "canonical": "Standard deviation",
+      "wikidata_id": "Q159375",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Regression analysis",
+      "group": "probability-statistics",
+      "canonical": "Regression analysis",
+      "wikidata_id": "Q208042",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Least squares",
+      "group": "probability-statistics",
+      "canonical": "Least squares",
+      "wikidata_id": "Q74304",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Confidence interval",
+      "group": "probability-statistics",
+      "canonical": "Confidence interval",
+      "wikidata_id": "Q208498",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Prime number",
+      "group": "number-theory",
+      "canonical": "Prime number",
+      "wikidata_id": "Q49008",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Divisibility",
+      "group": "number-theory",
+      "canonical": "Divisor",
+      "wikidata_id": "Q50708",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Congruence relation",
+      "group": "number-theory",
+      "canonical": "Congruence relation",
+      "wikidata_id": "Q8349849",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Modular arithmetic",
+      "group": "number-theory",
+      "canonical": "Modular arithmetic",
+      "wikidata_id": "Q319400",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Diophantine equation",
+      "group": "number-theory",
+      "canonical": "Diophantine equation",
+      "wikidata_id": "Q905896",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Algebraic number",
+      "group": "number-theory",
+      "canonical": "Algebraic number",
+      "wikidata_id": "Q168817",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Algebraic integer",
+      "group": "number-theory",
+      "canonical": "Algebraic integer",
+      "wikidata_id": "Q646245",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Number field",
+      "group": "number-theory",
+      "canonical": "Algebraic number field",
+      "wikidata_id": "Q616608",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Galois theory",
+      "group": "number-theory",
+      "canonical": "Galois theory",
+      "wikidata_id": "Q92552",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Galois group",
+      "group": "number-theory",
+      "canonical": "Galois group",
+      "wikidata_id": "Q730384",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Elliptic curve",
+      "group": "number-theory",
+      "canonical": "Elliptic curve",
+      "wikidata_id": "Q268493",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Modular form",
+      "group": "number-theory",
+      "canonical": "Modular form",
+      "wikidata_id": "Q870797",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Riemann zeta function",
+      "group": "number-theory",
+      "canonical": "Riemann zeta function",
+      "wikidata_id": "Q187235",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dirichlet series",
+      "group": "number-theory",
+      "canonical": "Dirichlet series",
+      "wikidata_id": "Q620595",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "L-function",
+      "group": "number-theory",
+      "canonical": "L-function",
+      "wikidata_id": "Q1789063",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "P-adic number",
+      "group": "number-theory",
+      "canonical": "P-adic number",
+      "wikidata_id": "Q311627",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Adele ring",
+      "group": "number-theory",
+      "canonical": "Adele ring",
+      "wikidata_id": "Q355356",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quadratic reciprocity",
+      "group": "number-theory",
+      "canonical": "Quadratic reciprocity",
+      "wikidata_id": "Q472883",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Prime number theorem",
+      "group": "number-theory",
+      "canonical": "Prime number theorem",
+      "wikidata_id": "Q386292",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Langlands program",
+      "group": "number-theory",
+      "canonical": "Langlands program",
+      "wikidata_id": "Q1393253",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Graph (discrete mathematics)",
+      "group": "discrete-math",
+      "canonical": "Graph (discrete mathematics)",
+      "wikidata_id": "Q141488",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Vertex (graph theory)",
+      "group": "discrete-math",
+      "canonical": "Vertex (graph theory)",
+      "wikidata_id": "Q1304193",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Tree (graph theory)",
+      "group": "discrete-math",
+      "canonical": "Tree (graph theory)",
+      "wikidata_id": "Q272735",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Graph coloring",
+      "group": "discrete-math",
+      "canonical": "Graph coloring",
+      "wikidata_id": "Q504843",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Planar graph",
+      "group": "discrete-math",
+      "canonical": "Planar graph",
+      "wikidata_id": "Q547823",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Eulerian path",
+      "group": "discrete-math",
+      "canonical": "Eulerian path",
+      "wikidata_id": "Q624580",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hamiltonian path",
+      "group": "discrete-math",
+      "canonical": "Hamiltonian path",
+      "wikidata_id": "Q273037",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Combinatorics",
+      "group": "discrete-math",
+      "canonical": "Combinatorics",
+      "wikidata_id": "Q76592",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Permutation",
+      "group": "discrete-math",
+      "canonical": "Permutation",
+      "wikidata_id": "Q161519",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Combination",
+      "group": "discrete-math",
+      "canonical": "Combination",
+      "wikidata_id": "Q202805",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Generating function",
+      "group": "discrete-math",
+      "canonical": "Generating function",
+      "wikidata_id": "Q860609",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Binomial theorem",
+      "group": "discrete-math",
+      "canonical": "Binomial theorem",
+      "wikidata_id": "Q26708",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Inclusion–exclusion principle",
+      "group": "discrete-math",
+      "canonical": "Inclusion–exclusion principle",
+      "wikidata_id": "Q849335",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Pigeonhole principle",
+      "group": "discrete-math",
+      "canonical": "Pigeonhole principle",
+      "wikidata_id": "Q188276",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Matroid",
+      "group": "discrete-math",
+      "canonical": "Matroid",
+      "wikidata_id": "Q898572",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Partially ordered set",
+      "group": "discrete-math",
+      "canonical": "Partially ordered set",
+      "wikidata_id": "Q474715",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lattice (order)",
+      "group": "discrete-math",
+      "canonical": "Lattice (order)",
+      "wikidata_id": "Q595364",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Boolean algebra",
+      "group": "discrete-math",
+      "canonical": "Boolean algebra",
+      "wikidata_id": "Q173183",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Möbius inversion formula",
+      "group": "discrete-math",
+      "canonical": "Möbius inversion formula",
+      "wikidata_id": "Q1072771",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Numerical analysis",
+      "group": "numerical-math",
+      "canonical": "Numerical analysis",
+      "wikidata_id": "Q11216",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Floating-point arithmetic",
+      "group": "numerical-math",
+      "canonical": "Floating-point arithmetic",
+      "wikidata_id": "Q117879",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Numerical stability",
+      "group": "numerical-math",
+      "canonical": "Numerical stability",
+      "wikidata_id": "Q1430640",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Condition number",
+      "group": "numerical-math",
+      "canonical": "Condition number",
+      "wikidata_id": "Q1147936",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Round-off error",
+      "group": "numerical-math",
+      "canonical": "Round-off error",
+      "wikidata_id": "Q2145211",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Numerical integration",
+      "group": "numerical-math",
+      "canonical": "Numerical integration",
+      "wikidata_id": "Q753445",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Finite difference method",
+      "group": "numerical-math",
+      "canonical": "Finite difference method",
+      "wikidata_id": "Q1147751",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Finite element method",
+      "group": "numerical-math",
+      "canonical": "Finite element method",
+      "wikidata_id": "Q220184",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Finite volume method",
+      "group": "numerical-math",
+      "canonical": "Finite volume method",
+      "wikidata_id": "Q1401936",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Runge–Kutta methods",
+      "group": "numerical-math",
+      "canonical": "Runge–Kutta methods",
+      "wikidata_id": "Q725944",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Newton's method",
+      "group": "numerical-math",
+      "canonical": "Newton's method",
+      "wikidata_id": "Q374195",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gradient descent",
+      "group": "numerical-math",
+      "canonical": "Gradient descent",
+      "wikidata_id": "Q1199743",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Convex optimization",
+      "group": "numerical-math",
+      "canonical": "Convex optimization",
+      "wikidata_id": "Q463359",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Linear programming",
+      "group": "numerical-math",
+      "canonical": "Linear programming",
+      "wikidata_id": "Q202843",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lagrange multiplier",
+      "group": "numerical-math",
+      "canonical": "Lagrange multiplier",
+      "wikidata_id": "Q598870",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Karush–Kuhn–Tucker conditions",
+      "group": "numerical-math",
+      "canonical": "Karush–Kuhn–Tucker conditions",
+      "wikidata_id": "Q2075125",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Singular value decomposition",
+      "group": "numerical-math",
+      "canonical": "Singular value decomposition",
+      "wikidata_id": "Q420904",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "QR decomposition",
+      "group": "numerical-math",
+      "canonical": "QR decomposition",
+      "wikidata_id": "Q653242",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Monte Carlo method",
+      "group": "numerical-math",
+      "canonical": "Monte Carlo method",
+      "wikidata_id": "Q232207",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fast Fourier transform",
+      "group": "numerical-math",
+      "canonical": "Fast Fourier transform",
+      "wikidata_id": "Q623950",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Newton's laws of motion",
+      "group": "classical-mechanics",
+      "canonical": "Newton's laws of motion",
+      "wikidata_id": "Q38433",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Conservation of energy",
+      "group": "classical-mechanics",
+      "canonical": "Conservation of energy",
+      "wikidata_id": "Q11382",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Angular momentum",
+      "group": "classical-mechanics",
+      "canonical": "Angular momentum",
+      "wikidata_id": "Q161254",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Force",
+      "group": "classical-mechanics",
+      "canonical": "Force",
+      "wikidata_id": "Q11402",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Work (physics)",
+      "group": "classical-mechanics",
+      "canonical": "Work (physics)",
+      "wikidata_id": "Q42213",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Action (physics)",
+      "group": "classical-mechanics",
+      "canonical": "Action (physics)",
+      "wikidata_id": "Q846785",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Principle of least action",
+      "group": "classical-mechanics",
+      "canonical": "Action principles",
+      "wikidata_id": "Q722799",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lagrangian mechanics",
+      "group": "classical-mechanics",
+      "canonical": "Lagrangian mechanics",
+      "wikidata_id": "Q324669",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hamiltonian mechanics",
+      "group": "classical-mechanics",
+      "canonical": "Hamiltonian mechanics",
+      "wikidata_id": "Q477921",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hamiltonian vector field",
+      "group": "classical-mechanics",
+      "canonical": "Hamiltonian vector field",
+      "wikidata_id": "Q2256693",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Phase space",
+      "group": "classical-mechanics",
+      "canonical": "Phase space",
+      "wikidata_id": "Q62542",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Canonical transformation",
+      "group": "classical-mechanics",
+      "canonical": "Canonical transformation",
+      "wikidata_id": "Q1366892",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Poisson bracket",
+      "group": "classical-mechanics",
+      "canonical": "Poisson bracket",
+      "wikidata_id": "Q1052775",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Noether's theorem",
+      "group": "classical-mechanics",
+      "canonical": "Noether's theorem",
+      "wikidata_id": "Q578555",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Legendre transformation",
+      "group": "classical-mechanics",
+      "canonical": "Legendre transformation",
+      "wikidata_id": "Q908652",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Harmonic oscillator",
+      "group": "classical-mechanics",
+      "canonical": "Harmonic oscillator",
+      "wikidata_id": "Q190070",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Rigid body",
+      "group": "classical-mechanics",
+      "canonical": "Rigid body",
+      "wikidata_id": "Q192788",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Continuum mechanics",
+      "group": "classical-mechanics",
+      "canonical": "Continuum mechanics",
+      "wikidata_id": "Q193463",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Stress (mechanics)",
+      "group": "classical-mechanics",
+      "canonical": "Stress (mechanics)",
+      "wikidata_id": "Q206175",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Mass",
+      "group": "classical-mechanics",
+      "canonical": "Mass",
+      "wikidata_id": "Q11423",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Position (geometry)",
+      "group": "classical-mechanics",
+      "canonical": "Position (geometry)",
+      "wikidata_id": "Q192388",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Velocity",
+      "group": "classical-mechanics",
+      "canonical": "Velocity",
+      "wikidata_id": "Q11465",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Acceleration",
+      "group": "classical-mechanics",
+      "canonical": "Acceleration",
+      "wikidata_id": "Q11376",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Momentum",
+      "group": "classical-mechanics",
+      "canonical": "Momentum",
+      "wikidata_id": "Q41273",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Energy",
+      "group": "classical-mechanics",
+      "canonical": "Energy",
+      "wikidata_id": "Q11379",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Kinetic energy",
+      "group": "classical-mechanics",
+      "canonical": "Kinetic energy",
+      "wikidata_id": "Q46276",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Potential energy",
+      "group": "classical-mechanics",
+      "canonical": "Potential energy",
+      "wikidata_id": "Q155640",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Power (physics)",
+      "group": "classical-mechanics",
+      "canonical": "Power (physics)",
+      "wikidata_id": "Q25342",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Torque",
+      "group": "classical-mechanics",
+      "canonical": "Torque",
+      "wikidata_id": "Q48103",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Moment of inertia",
+      "group": "classical-mechanics",
+      "canonical": "Moment of inertia",
+      "wikidata_id": "Q165618",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Angular velocity",
+      "group": "classical-mechanics",
+      "canonical": "Angular velocity",
+      "wikidata_id": "Q161635",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Symplectic form",
+      "group": "classical-mechanics",
+      "canonical": "Symplectic form",
+      "wikidata_id": "Q3077487",
+      "status": "excluded",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Liouville measure",
+      "group": "classical-mechanics",
+      "canonical": "Symplectic manifold",
+      "wikidata_id": "Q1064500",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Electric field",
+      "group": "electromagnetism-optics",
+      "canonical": "Electric field",
+      "wikidata_id": "Q46221",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Magnetic field",
+      "group": "electromagnetism-optics",
+      "canonical": "Magnetic field",
+      "wikidata_id": "Q11408",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Electric charge",
+      "group": "electromagnetism-optics",
+      "canonical": "Electric charge",
+      "wikidata_id": "Q1111",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Electric current",
+      "group": "electromagnetism-optics",
+      "canonical": "Electric current",
+      "wikidata_id": "Q11651",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Electric potential",
+      "group": "electromagnetism-optics",
+      "canonical": "Electric potential",
+      "wikidata_id": "Q55451",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Magnetic vector potential",
+      "group": "electromagnetism-optics",
+      "canonical": "Magnetic vector potential",
+      "wikidata_id": "Q2299100",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Electromagnetic tensor",
+      "group": "electromagnetism-optics",
+      "canonical": "Electromagnetic tensor",
+      "wikidata_id": "Q1076013",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Maxwell's equations",
+      "group": "electromagnetism-optics",
+      "canonical": "Maxwell's equations",
+      "wikidata_id": "Q51501",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gauss's law",
+      "group": "electromagnetism-optics",
+      "canonical": "Gauss's law",
+      "wikidata_id": "Q173356",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ampère's circuital law",
+      "group": "electromagnetism-optics",
+      "canonical": "Ampère's circuital law",
+      "wikidata_id": "Q51500",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Faraday's law of induction",
+      "group": "electromagnetism-optics",
+      "canonical": "Faraday's law of induction",
+      "wikidata_id": "Q181465",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lorentz force",
+      "group": "electromagnetism-optics",
+      "canonical": "Lorentz force",
+      "wikidata_id": "Q172137",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Electromagnetic wave equation",
+      "group": "electromagnetism-optics",
+      "canonical": "Electromagnetic wave equation",
+      "wikidata_id": "Q533281",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Poynting vector",
+      "group": "electromagnetism-optics",
+      "canonical": "Poynting vector",
+      "wikidata_id": "Q504186",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gauge invariance",
+      "group": "electromagnetism-optics",
+      "canonical": "Gauge fixing",
+      "wikidata_id": "Q832289",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Polarization (waves)",
+      "group": "electromagnetism-optics",
+      "canonical": "Polarization (waves)",
+      "wikidata_id": "Q193760",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Diffraction",
+      "group": "electromagnetism-optics",
+      "canonical": "Diffraction",
+      "wikidata_id": "Q133900",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Interference (wave propagation)",
+      "group": "electromagnetism-optics",
+      "canonical": "Wave interference",
+      "wikidata_id": "Q136980",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Geometrical optics",
+      "group": "electromagnetism-optics",
+      "canonical": "Geometrical optics",
+      "wikidata_id": "Q467980",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fermat's principle",
+      "group": "electromagnetism-optics",
+      "canonical": "Fermat's principle",
+      "wikidata_id": "Q331041",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Permittivity",
+      "group": "electromagnetism-optics",
+      "canonical": "Permittivity",
+      "wikidata_id": "Q211569",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Permeability (electromagnetism)",
+      "group": "electromagnetism-optics",
+      "canonical": "Permeability (electromagnetism)",
+      "wikidata_id": "Q28352",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Vacuum permeability",
+      "group": "electromagnetism-optics",
+      "canonical": "Vacuum permeability",
+      "wikidata_id": "Q1515261",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Electric flux",
+      "group": "electromagnetism-optics",
+      "canonical": "Electric flux",
+      "wikidata_id": "Q501267",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Inductance",
+      "group": "electromagnetism-optics",
+      "canonical": "Inductance",
+      "wikidata_id": "Q177897",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Capacitance",
+      "group": "electromagnetism-optics",
+      "canonical": "Capacitance",
+      "wikidata_id": "Q164399",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Refractive index",
+      "group": "electromagnetism-optics",
+      "canonical": "Refractive index",
+      "wikidata_id": "Q174102",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Wavelength",
+      "group": "electromagnetism-optics",
+      "canonical": "Wavelength",
+      "wikidata_id": "Q41364",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Frequency",
+      "group": "electromagnetism-optics",
+      "canonical": "Frequency",
+      "wikidata_id": "Q11652",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Temperature",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Temperature",
+      "wikidata_id": "Q11466",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Entropy",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Entropy",
+      "wikidata_id": "Q45003",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Internal energy",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Internal energy",
+      "wikidata_id": "Q180241",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Enthalpy",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Enthalpy",
+      "wikidata_id": "Q161064",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gibbs free energy",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Gibbs free energy",
+      "wikidata_id": "Q334631",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Helmholtz free energy",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Helmholtz free energy",
+      "wikidata_id": "Q865821",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Chemical potential",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Chemical potential",
+      "wikidata_id": "Q737004",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "First law of thermodynamics",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "First law of thermodynamics",
+      "wikidata_id": "Q179380",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Second law of thermodynamics",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Second law of thermodynamics",
+      "wikidata_id": "Q177045",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Third law of thermodynamics",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Third law of thermodynamics",
+      "wikidata_id": "Q29166",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Statistical ensemble",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Ensemble (mathematical physics)",
+      "wikidata_id": "Q898535",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Microcanonical ensemble",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Microcanonical ensemble",
+      "wikidata_id": "Q1077769",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Canonical ensemble",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Canonical ensemble",
+      "wikidata_id": "Q1077753",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Grand canonical ensemble",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Grand canonical ensemble",
+      "wikidata_id": "Q1153553",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Partition function (statistical mechanics)",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Partition function (statistical mechanics)",
+      "wikidata_id": "Q230963",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Boltzmann distribution",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Boltzmann distribution",
+      "wikidata_id": "Q834200",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fermi–Dirac statistics",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Fermi–Dirac statistics",
+      "wikidata_id": "Q274072",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Bose–Einstein statistics",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Bose–Einstein statistics",
+      "wikidata_id": "Q191076",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Phase transition",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Phase transition",
+      "wikidata_id": "Q185357",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Renormalization group",
+      "group": "thermodynamics-statistical-physics",
+      "canonical": "Renormalization group",
+      "wikidata_id": "Q1203669",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum state",
+      "group": "quantum-mechanics",
+      "canonical": "Quantum state",
+      "wikidata_id": "Q230883",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Wave function",
+      "group": "quantum-mechanics",
+      "canonical": "Wave function",
+      "wikidata_id": "Q2362761",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Schrödinger equation",
+      "group": "quantum-mechanics",
+      "canonical": "Schrödinger equation",
+      "wikidata_id": "Q165498",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Born rule",
+      "group": "quantum-mechanics",
+      "canonical": "Born rule",
+      "wikidata_id": "Q894014",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Observable",
+      "group": "quantum-mechanics",
+      "canonical": "Observable",
+      "wikidata_id": "Q845789",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hermitian operator",
+      "group": "quantum-mechanics",
+      "canonical": "Self-adjoint operator",
+      "wikidata_id": "Q6500908",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Commutator",
+      "group": "quantum-mechanics",
+      "canonical": "Commutator",
+      "wikidata_id": "Q2989763",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Uncertainty principle",
+      "group": "quantum-mechanics",
+      "canonical": "Uncertainty principle",
+      "wikidata_id": "Q44746",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Density matrix",
+      "group": "quantum-mechanics",
+      "canonical": "Density matrix",
+      "wikidata_id": "Q831774",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum entanglement",
+      "group": "quantum-mechanics",
+      "canonical": "Quantum entanglement",
+      "wikidata_id": "Q215675",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum superposition",
+      "group": "quantum-mechanics",
+      "canonical": "Quantum superposition",
+      "wikidata_id": "Q830791",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Spin (physics)",
+      "group": "quantum-mechanics",
+      "canonical": "Spin (physics)",
+      "wikidata_id": "Q133673",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Pauli matrices",
+      "group": "quantum-mechanics",
+      "canonical": "Pauli matrices",
+      "wikidata_id": "Q336233",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Pauli exclusion principle",
+      "group": "quantum-mechanics",
+      "canonical": "Pauli exclusion principle",
+      "wikidata_id": "Q131594",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum tunnelling",
+      "group": "quantum-mechanics",
+      "canonical": "Quantum tunnelling",
+      "wikidata_id": "Q175751",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum harmonic oscillator",
+      "group": "quantum-mechanics",
+      "canonical": "Quantum harmonic oscillator",
+      "wikidata_id": "Q677864",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Bra–ket notation",
+      "group": "quantum-mechanics",
+      "canonical": "Bra–ket notation",
+      "wikidata_id": "Q59090",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Path integral formulation",
+      "group": "quantum-mechanics",
+      "canonical": "Path-integral formulation",
+      "wikidata_id": "Q898323",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Berry phase",
+      "group": "quantum-mechanics",
+      "canonical": "Geometric phase",
+      "wikidata_id": "Q3283",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum decoherence",
+      "group": "quantum-mechanics",
+      "canonical": "Quantum decoherence",
+      "wikidata_id": "Q578430",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Planck constant",
+      "group": "quantum-mechanics",
+      "canonical": "Planck constant",
+      "wikidata_id": "Q122894",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Proton",
+      "group": "quantum-mechanics",
+      "canonical": "Proton",
+      "wikidata_id": "Q2294",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Neutron",
+      "group": "quantum-mechanics",
+      "canonical": "Neutron",
+      "wikidata_id": "Q2348",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Heisenberg picture",
+      "group": "quantum-mechanics",
+      "canonical": "Heisenberg picture",
+      "wikidata_id": "Q900653",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Schrödinger picture",
+      "group": "quantum-mechanics",
+      "canonical": "Schrödinger picture",
+      "wikidata_id": "Q898601",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Special relativity",
+      "group": "relativity-gravitation",
+      "canonical": "Special relativity",
+      "wikidata_id": "Q11455",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "General relativity",
+      "group": "relativity-gravitation",
+      "canonical": "General relativity",
+      "wikidata_id": "Q11452",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Spacetime",
+      "group": "relativity-gravitation",
+      "canonical": "Spacetime",
+      "wikidata_id": "Q133327",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Minkowski space",
+      "group": "relativity-gravitation",
+      "canonical": "Minkowski spacetime",
+      "wikidata_id": "Q464794",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lorentz transformation",
+      "group": "relativity-gravitation",
+      "canonical": "Lorentz transformation",
+      "wikidata_id": "Q217255",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Proper time",
+      "group": "relativity-gravitation",
+      "canonical": "Proper time",
+      "wikidata_id": "Q1056595",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Four-vector",
+      "group": "relativity-gravitation",
+      "canonical": "Four-vector",
+      "wikidata_id": "Q844610",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Mass–energy equivalence",
+      "group": "relativity-gravitation",
+      "canonical": "Mass–energy equivalence",
+      "wikidata_id": "Q35875",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Equivalence principle",
+      "group": "relativity-gravitation",
+      "canonical": "Equivalence principle",
+      "wikidata_id": "Q210546",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Metric tensor (general relativity)",
+      "group": "relativity-gravitation",
+      "canonical": "Metric tensor (general relativity)",
+      "wikidata_id": "Q2045231",
+      "status": "pending",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Einstein field equations",
+      "group": "relativity-gravitation",
+      "canonical": "Einstein field equations",
+      "wikidata_id": "Q273711",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Stress–energy tensor",
+      "group": "relativity-gravitation",
+      "canonical": "Stress–energy tensor",
+      "wikidata_id": "Q876346",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Geodesic",
+      "group": "relativity-gravitation",
+      "canonical": "Geodesic",
+      "wikidata_id": "Q213488",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Schwarzschild metric",
+      "group": "relativity-gravitation",
+      "canonical": "Schwarzschild metric",
+      "wikidata_id": "Q742969",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Kerr metric",
+      "group": "relativity-gravitation",
+      "canonical": "Kerr metric",
+      "wikidata_id": "Q1068747",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Black hole",
+      "group": "relativity-gravitation",
+      "canonical": "Black hole",
+      "wikidata_id": "Q589",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Event horizon",
+      "group": "relativity-gravitation",
+      "canonical": "Event horizon",
+      "wikidata_id": "Q181741",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gravitational wave",
+      "group": "relativity-gravitation",
+      "canonical": "Gravitational wave",
+      "wikidata_id": "Q190035",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Penrose diagram",
+      "group": "relativity-gravitation",
+      "canonical": "Penrose diagram",
+      "wikidata_id": "Q864015",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hawking radiation",
+      "group": "relativity-gravitation",
+      "canonical": "Hawking radiation",
+      "wikidata_id": "Q497396",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum field theory",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Quantum field theory",
+      "wikidata_id": "Q54505",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Scalar field theory",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Scalar field theory",
+      "wikidata_id": "Q5979196",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dirac equation",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Dirac equation",
+      "wikidata_id": "Q272621",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Klein–Gordon equation",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Klein–Gordon equation",
+      "wikidata_id": "Q868967",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Creation and annihilation operators",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Creation and annihilation operators",
+      "wikidata_id": "Q902336",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Feynman diagram",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Feynman diagram",
+      "wikidata_id": "Q386272",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Propagator",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Propagator",
+      "wikidata_id": "Q302518",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "S-matrix",
+      "group": "quantum-field-theory-particle",
+      "canonical": "S-matrix",
+      "wikidata_id": "Q581505",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Wick's theorem",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Wick's theorem",
+      "wikidata_id": "Q850495",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Renormalization",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Renormalization",
+      "wikidata_id": "Q1047702",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Regularization (physics)",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Regularization (physics)",
+      "wikidata_id": "Q1156020",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Gauge theory",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Gauge theory",
+      "wikidata_id": "Q214850",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Yang–Mills theory",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Yang–Mills theory",
+      "wikidata_id": "Q1192873",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Standard Model",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Standard Model",
+      "wikidata_id": "Q18338",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Spontaneous symmetry breaking",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Spontaneous symmetry breaking",
+      "wikidata_id": "Q736716",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Goldstone boson",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Goldstone boson",
+      "wikidata_id": "Q1153441",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Higgs mechanism",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Higgs mechanism",
+      "wikidata_id": "Q747702",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum anomaly",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Anomaly (physics)",
+      "wikidata_id": "Q567560",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Supersymmetry",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Supersymmetry",
+      "wikidata_id": "Q193442",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "BRST quantization",
+      "group": "quantum-field-theory-particle",
+      "canonical": "BRST quantization",
+      "wikidata_id": "Q2752849",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Scattering amplitude",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Scattering amplitude",
+      "wikidata_id": "Q1322810",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Feynman path integral",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Path-integral formulation",
+      "wikidata_id": "Q898323",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lie algebra representation",
+      "group": "quantum-field-theory-particle",
+      "canonical": "Lie algebra representation",
+      "wikidata_id": "Q1136782",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Crystal structure",
+      "group": "condensed-matter",
+      "canonical": "Crystal structure",
+      "wikidata_id": "Q895901",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Bravais lattice",
+      "group": "condensed-matter",
+      "canonical": "Bravais lattice",
+      "wikidata_id": "Q865788",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Reciprocal lattice",
+      "group": "condensed-matter",
+      "canonical": "Reciprocal lattice",
+      "wikidata_id": "Q164129",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Brillouin zone",
+      "group": "condensed-matter",
+      "canonical": "Brillouin zone",
+      "wikidata_id": "Q917246",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Bloch's theorem",
+      "group": "condensed-matter",
+      "canonical": "Bloch's theorem",
+      "wikidata_id": "Q4454926",
+      "status": "pending",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Electronic band structure",
+      "group": "condensed-matter",
+      "canonical": "Electronic band structure",
+      "wikidata_id": "Q806380",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Fermi surface",
+      "group": "condensed-matter",
+      "canonical": "Fermi surface",
+      "wikidata_id": "Q1406417",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Phonon",
+      "group": "condensed-matter",
+      "canonical": "Phonon",
+      "wikidata_id": "Q186608",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quasiparticle",
+      "group": "condensed-matter",
+      "canonical": "Quasiparticle",
+      "wikidata_id": "Q1047683",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Magnon",
+      "group": "condensed-matter",
+      "canonical": "Magnon",
+      "wikidata_id": "Q1377101",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Exciton",
+      "group": "condensed-matter",
+      "canonical": "Exciton",
+      "wikidata_id": "Q858289",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Superconductivity",
+      "group": "condensed-matter",
+      "canonical": "Superconductivity",
+      "wikidata_id": "Q124131",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "BCS theory",
+      "group": "condensed-matter",
+      "canonical": "BCS theory",
+      "wikidata_id": "Q722131",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cooper pair",
+      "group": "condensed-matter",
+      "canonical": "Cooper pair",
+      "wikidata_id": "Q620057",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Superfluidity",
+      "group": "condensed-matter",
+      "canonical": "Superfluidity",
+      "wikidata_id": "Q106667",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum Hall effect",
+      "group": "condensed-matter",
+      "canonical": "Quantum Hall effect",
+      "wikidata_id": "Q1047822",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Topological insulator",
+      "group": "condensed-matter",
+      "canonical": "Topological insulator",
+      "wikidata_id": "Q1488689",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Ising model",
+      "group": "condensed-matter",
+      "canonical": "Ising model",
+      "wikidata_id": "Q1076349",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hubbard model",
+      "group": "condensed-matter",
+      "canonical": "Hubbard model",
+      "wikidata_id": "Q1571298",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Landau theory",
+      "group": "condensed-matter",
+      "canonical": "Landau theory",
+      "wikidata_id": "Q1626812",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Mathematical physics",
+      "group": "mathematical-physics",
+      "canonical": "Mathematical physics",
+      "wikidata_id": "Q156495",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Geometric quantization",
+      "group": "mathematical-physics",
+      "canonical": "Geometric quantization",
+      "wikidata_id": "Q630426",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Deformation quantization",
+      "group": "mathematical-physics",
+      "canonical": "Deformation quantization",
+      "wikidata_id": "Q131143202",
+      "status": "pending",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Canonical quantization",
+      "group": "mathematical-physics",
+      "canonical": "Canonical quantization",
+      "wikidata_id": "Q5961083",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Topological quantum field theory",
+      "group": "mathematical-physics",
+      "canonical": "Topological quantum field theory",
+      "wikidata_id": "Q721094",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Conformal field theory",
+      "group": "mathematical-physics",
+      "canonical": "Conformal field theory",
+      "wikidata_id": "Q1191271",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Operator product expansion",
+      "group": "mathematical-physics",
+      "canonical": "Operator product expansion",
+      "wikidata_id": "Q3883909",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Vertex operator algebra",
+      "group": "mathematical-physics",
+      "canonical": "Vertex operator algebra",
+      "wikidata_id": "Q28509",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Virasoro algebra",
+      "group": "mathematical-physics",
+      "canonical": "Virasoro algebra",
+      "wikidata_id": "Q1366201",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Kac–Moody algebra",
+      "group": "mathematical-physics",
+      "canonical": "Kac–Moody algebra",
+      "wikidata_id": "Q856666",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Quantum group",
+      "group": "mathematical-physics",
+      "canonical": "Quantum group",
+      "wikidata_id": "Q2122223",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Noncommutative geometry",
+      "group": "mathematical-physics",
+      "canonical": "Noncommutative geometry",
+      "wikidata_id": "Q2746792",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "String theory",
+      "group": "mathematical-physics",
+      "canonical": "String theory",
+      "wikidata_id": "Q33198",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "M-theory",
+      "group": "mathematical-physics",
+      "canonical": "M-theory",
+      "wikidata_id": "Q232184",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "D-brane",
+      "group": "mathematical-physics",
+      "canonical": "D-brane",
+      "wikidata_id": "Q137880",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "AdS/CFT correspondence",
+      "group": "mathematical-physics",
+      "canonical": "AdS/CFT correspondence",
+      "wikidata_id": "Q543413",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Mirror symmetry (string theory)",
+      "group": "mathematical-physics",
+      "canonical": "Mirror symmetry (string theory)",
+      "wikidata_id": "Q5914418",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Chern–Simons theory",
+      "group": "mathematical-physics",
+      "canonical": "Chern–Simons theory",
+      "wikidata_id": "Q1528019",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Instanton",
+      "group": "mathematical-physics",
+      "canonical": "Instanton",
+      "wikidata_id": "Q1192916",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Soliton",
+      "group": "mathematical-physics",
+      "canonical": "Soliton",
+      "wikidata_id": "Q464949",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cosmological principle",
+      "group": "cosmology",
+      "canonical": "Cosmological principle",
+      "wikidata_id": "Q319903",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Big Bang",
+      "group": "cosmology",
+      "canonical": "Big Bang",
+      "wikidata_id": "Q323",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cosmic inflation",
+      "group": "cosmology",
+      "canonical": "Cosmic inflation",
+      "wikidata_id": "Q273508",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cosmic microwave background",
+      "group": "cosmology",
+      "canonical": "Cosmic microwave background",
+      "wikidata_id": "Q15605",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Hubble's law",
+      "group": "cosmology",
+      "canonical": "Hubble's law",
+      "wikidata_id": "Q179916",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Friedmann equations",
+      "group": "cosmology",
+      "canonical": "Friedmann equations",
+      "wikidata_id": "Q467736",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Friedmann–Lemaître–Robertson–Walker metric",
+      "group": "cosmology",
+      "canonical": "Friedmann–Lemaître–Robertson–Walker metric",
+      "wikidata_id": "Q742982",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cosmological constant",
+      "group": "cosmology",
+      "canonical": "Cosmological constant",
+      "wikidata_id": "Q59151",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dark matter",
+      "group": "cosmology",
+      "canonical": "Dark matter",
+      "wikidata_id": "Q79925",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Dark energy",
+      "group": "cosmology",
+      "canonical": "Dark energy",
+      "wikidata_id": "Q18343",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Lambda-CDM model",
+      "group": "cosmology",
+      "canonical": "Lambda-CDM model",
+      "wikidata_id": "Q692197",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Scale factor (cosmology)",
+      "group": "cosmology",
+      "canonical": "Scale factor (cosmology)",
+      "wikidata_id": "Q1332997",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Redshift",
+      "group": "cosmology",
+      "canonical": "Redshift",
+      "wikidata_id": "Q76250",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cosmic horizon",
+      "group": "cosmology",
+      "canonical": "Particle horizon",
+      "wikidata_id": "Q2482717",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Particle horizon",
+      "group": "cosmology",
+      "canonical": "Particle horizon",
+      "wikidata_id": "Q2482717",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Big Bang nucleosynthesis",
+      "group": "cosmology",
+      "canonical": "Big Bang nucleosynthesis",
+      "wikidata_id": "Q837317",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Baryogenesis",
+      "group": "cosmology",
+      "canonical": "Baryogenesis",
+      "wikidata_id": "Q790454",
+      "status": "verified",
+      "publicationStatus": "published"
+    },
+    {
+      "seed": "Cosmological perturbation theory",
+      "group": "cosmology",
+      "canonical": "Cosmological perturbation theory",
+      "wikidata_id": "Q3526841",
+      "status": "labelBased",
+      "publicationStatus": "pending-or-excluded"
+    },
+    {
+      "seed": "Large-scale structure of the universe",
+      "group": "cosmology",
+      "canonical": "Large-scale structure of the universe",
+      "wikidata_id": "Q1364887",
+      "status": "verified",
+      "publicationStatus": "published"
+    }
+  ],
+  "sectionRedirects": [
+    {
+      "seed": "Homotopy equivalence",
+      "group": "topology",
+      "to": "Homotopy",
+      "fragment": "Homotopy equivalence"
+    },
+    {
+      "seed": "Edge (graph theory)",
+      "group": "discrete-math",
+      "to": "Glossary of graph theory",
+      "fragment": "edge"
+    },
+    {
+      "seed": "Conservation of momentum",
+      "group": "classical-mechanics",
+      "to": "Momentum",
+      "fragment": "Conservation"
+    },
+    {
+      "seed": "Reduced Planck constant",
+      "group": "quantum-mechanics",
+      "to": "Planck constant",
+      "fragment": "Reduced Planck constant"
+    },
+    {
+      "seed": "Lüders rule",
+      "group": "quantum-mechanics",
+      "to": "Measurement in quantum mechanics",
+      "fragment": "State change due to measurement"
+    },
+    {
+      "seed": "Running coupling",
+      "group": "quantum-field-theory-particle",
+      "to": "Coupling constant",
+      "fragment": "Running coupling"
+    },
+    {
+      "seed": "Feynman propagator",
+      "group": "quantum-field-theory-particle",
+      "to": "Propagator",
+      "fragment": "Feynman propagator"
+    },
+    {
+      "seed": "Cosmological redshift",
+      "group": "cosmology",
+      "to": "Redshift",
+      "fragment": "Cosmological"
+    }
+  ],
+  "missing": []
+}
