@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Offline assembly of audited source metadata; never translates or copies article prose."""
 import argparse
+from datetime import date
 import json
 import re
 import unicodedata
@@ -22,6 +23,7 @@ def main():
     parser.add_argument('--supplement', required=True, type=Path)
     parser.add_argument('--review', required=True, type=Path)
     parser.add_argument('--title-variants', type=Path, help='Verified Wikipedia simplified/traditional page titles')
+    parser.add_argument('--english-only', type=Path, help='Editorially reviewed translations with verified English Wikipedia identities (defaults to data/dictionary/english-only-reviewed.json)')
     parser.add_argument('--output', type=Path, default=Path(__file__).resolve().parents[2] / 'data/dictionary')
     args = parser.parse_args()
     wiki, nlab, supplement, review = map(read, [args.wikipedia, args.nlab, args.supplement, args.review])
@@ -29,11 +31,27 @@ def main():
     output.mkdir(parents=True, exist_ok=True)
     subjects = read(output / 'subjects.json')
     old = read(output / 'catalog.json') if (output / 'catalog.json').exists() else {'entries': []}
+    reviewed_path = args.english_only or Path(__file__).resolve().parents[2] / 'data/dictionary/english-only-reviewed.json'
+    if not reviewed_path.exists() and (args.english_only or any(entry.get('translation') for entry in old['entries'])):
+        parser.error(f'reviewed translations file is missing: {reviewed_path}; refusing to drop published translations')
+    reviewed = read(reviewed_path) if reviewed_path.exists() else {'entries': []}
     stable_ids = {entry['qid']: entry['id'] for entry in old['entries']}
     old_by_qid = {entry['qid']: entry for entry in old['entries']}
     variant_data = read(args.title_variants) if args.title_variants else {'entries': [], 'unresolved': []}
     title_variants = {row['pageId']: row for row in variant_data['entries']}
     reserved_ids = {entry['id']: entry['qid'] for entry in old['entries']}
+    def identifier_for(qid, english):
+        if qid in stable_ids:
+            return stable_ids[qid]
+        letters = unicodedata.normalize('NFKD', english).encode('ascii', 'ignore').decode()
+        letters = letters.replace('*', ' star ').replace('+', ' plus ')
+        base = re.sub(r'[^a-z0-9]+', '-', letters.lower()).strip('-') or qid.lower()
+        identifier = base
+        if identifier in reserved_ids and reserved_ids[identifier] != qid:
+            identifier = base + '-' + qid.lower()
+        assert identifier not in reserved_ids or reserved_ids[identifier] == qid
+        reserved_ids[identifier] = qid
+        return identifier
     exclusions = {row['qid']: row for row in review['exclude']}
     held = {row['qid']: row for row in review.get('needs_review', [])}
     nlab_by_qid = {row['qid']: row for kind in ['verified', 'pending'] for row in nlab[kind]}
@@ -51,16 +69,7 @@ def main():
     for qid, row in sorted(merged.items()):
         english, chinese = row['en']['title'], row['zh']['title']
         assert row['groups'] and all(group in subjects for group in row['groups']), (qid, row['groups'])
-        identifier = stable_ids.get(qid)
-        if not identifier:
-            letters = unicodedata.normalize('NFKD', english).encode('ascii', 'ignore').decode()
-            letters = letters.replace('*', ' star ').replace('+', ' plus ')
-            base = re.sub(r'[^a-z0-9]+', '-', letters.lower()).strip('-') or qid.lower()
-            identifier = base
-            if identifier in reserved_ids and reserved_ids[identifier] != qid:
-                identifier = base + '-' + qid.lower()
-            assert identifier not in reserved_ids or reserved_ids[identifier] == qid
-            reserved_ids[identifier] = qid
+        identifier = identifier_for(qid, english)
         labels = row.get('wikidata_labels', {})
         alias_groups = row.get('wikidata_aliases', {})
         variants = []
@@ -108,6 +117,29 @@ def main():
                 'nlab': nlab_pages,
             },
         })
+    reviewed_qids = set()
+    for row in reviewed['entries']:
+        qid = row['qid']
+        assert qid not in reviewed_qids, (qid, 'duplicate reviewed translation')
+        reviewed_qids.add(qid)
+        assert qid not in exclusions and qid not in held, (qid, 'translation does not override scope review')
+        # A newly verified Chinese Wikipedia counterpart takes precedence on refresh.
+        if qid in merged:
+            continue
+        assert not row['sources'].get('zhWikipedia'), (qid, 'English-only record has a Chinese page')
+        verification = row['wikipediaVerification']
+        assert verification['enQid'] == qid and verification['zhSitelink'] is None
+        english_page = row['sources']['enWikipedia']
+        assert verification['enPageId'] == english_page['pageId']
+        assert verification['enRevisionId'] == english_page['revisionId']
+        assert date.fromisoformat(verification['verifiedOn']).isoformat() == verification['verifiedOn']
+        assert row['en'] == english_page['title'], (qid, 'English name differs from verified page title')
+        assert row['translation']['basis'] in {'official-terminology', 'academic-usage'}
+        assert row['translation']['sources'] and row['zh'].strip()
+        assert row['subjects'] and all(group in subjects for group in row['subjects'])
+        entry = {key: row[key] for key in ['qid', 'en', 'zh', 'variants', 'subjects', 'sources', 'translation', 'wikipediaVerification']}
+        entry['id'] = identifier_for(qid, row['en'])
+        entries.append(entry)
     entries.sort(key=lambda entry: (entry['en'].casefold(), entry['qid']))
     published = {entry['qid'] for entry in entries}
     pending, excluded = {}, {}
@@ -159,14 +191,16 @@ def main():
     manifest = {
         'schemaVersion': 1, 'collectedOn': collected,
         'published': len(entries), 'withNlab': sum(bool(entry['sources']['nlab']) for entry in entries),
+        'withChineseWikipedia': sum(bool(entry['sources'].get('zhWikipedia')) for entry in entries),
+        'withSourcedTranslation': sum(bool(entry.get('translation')) and not entry['sources'].get('zhWikipedia') for entry in entries),
         'pending': len(pending), 'excluded': len(excluded), 'bySubject': counts,
-        'method': 'Bounded Wikipedia category/core seeds and nLab P4215 concepts; canonical en/zh pages verified with the same Wikidata QID. Aliases are source-derived, not individually editorially reviewed. No article prose imported.',
+        'method': 'Bounded Wikipedia category/core seeds and nLab P4215 concepts; paired en/zh pages share a verified Wikidata QID. English-only entries require separately reviewed Chinese terminology references and recorded page identity checks. Existing source-derived aliases are not all editorially reviewed. No article prose imported.',
         'nlabSnapshot': snapshot,
         'nlabSource': 'https://github.com/ncatlab/nlab-content/tree/' + snapshot,
         'wikipediaSeeds': wiki['seeds'],
         'coreSeeds': wiki.get('core_seeds', {}),
     }
-    manifest['withChineseTitleVariants'] = sum(bool(entry['sources']['zhWikipedia'].get('titleVariants')) for entry in entries)
+    manifest['withChineseTitleVariants'] = sum(bool(entry['sources'].get('zhWikipedia', {}).get('titleVariants')) for entry in entries)
     if args.title_variants:
         write(output / 'variant-review.json', {'collectedOn': variant_data['collectedOn'], 'unresolved': variant_data['unresolved']})
     core_path = args.wikipedia.parent / 'core-report.json'

@@ -1278,16 +1278,6 @@
       ]
     },
     {
-      "qid": "Q4682630",
-      "en": "Adiabatic wall",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Adiabatic_wall",
-        "https://www.wikidata.org/wiki/Q4682630"
-      ]
-    },
-    {
       "qid": "Q4683172",
       "en": "Adjoint state method",
       "origins": ["wikipedia-categories-and-core"],
@@ -1570,21 +1560,6 @@
       ]
     },
     {
-      "qid": "Q686291",
-      "en": "Affine group",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Affine_group",
-        "https://ncatlab.org/nlab/show/affine+group",
-        "https://www.wikidata.org/wiki/Q686291"
-      ],
-      "zhCandidate": "仿射群"
-    },
-    {
       "qid": "Q4688934",
       "en": "Affine Hecke algebra",
       "origins": ["wikipedia-categories-and-core"],
@@ -1593,21 +1568,6 @@
         "https://en.wikipedia.org/wiki/Affine_Hecke_algebra",
         "https://www.wikidata.org/wiki/Q4688934"
       ]
-    },
-    {
-      "qid": "Q632521",
-      "en": "Affine Lie algebra",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Affine_Lie_algebra",
-        "https://ncatlab.org/nlab/show/affine+Lie+algebra",
-        "https://www.wikidata.org/wiki/Q632521"
-      ],
-      "zhCandidate": "仿射李代数"
     },
     {
       "qid": "Q4688943",
@@ -2121,21 +2081,6 @@
       ]
     },
     {
-      "qid": "Q4723996",
-      "en": "Algebraic cycle",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Algebraic_cycle",
-        "https://ncatlab.org/nlab/show/algebraic+cycle",
-        "https://www.wikidata.org/wiki/Q4723996"
-      ],
-      "zhCandidate": "代数闭链"
-    },
-    {
       "qid": "Q162608",
       "en": "Algebraic element",
       "origins": ["wikipedia-categories-and-core"],
@@ -2144,20 +2089,6 @@
         "https://en.wikipedia.org/wiki/Algebraic_element",
         "https://www.wikidata.org/wiki/Q162608"
       ]
-    },
-    {
-      "qid": "Q4724000",
-      "en": "Algebraic function field",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Algebraic_function_field",
-        "https://www.wikidata.org/wiki/Q4724000"
-      ],
-      "zhCandidate": "函數域"
     },
     {
       "qid": "Q4724002",
@@ -2188,21 +2119,6 @@
         "https://en.wikipedia.org/wiki/Algebraic_homotopy",
         "https://www.wikidata.org/wiki/Q130349201"
       ]
-    },
-    {
-      "qid": "Q2553675",
-      "en": "Algebraic K-theory",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Algebraic_K-theory",
-        "https://ncatlab.org/nlab/show/algebraic+K-theory",
-        "https://www.wikidata.org/wiki/Q2553675"
-      ],
-      "zhCandidate": "代数K-理论"
     },
     {
       "qid": "Q602011",
@@ -2473,16 +2389,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Almost_contact_manifold",
         "https://www.wikidata.org/wiki/Q104865046"
-      ]
-    },
-    {
-      "qid": "Q4734002",
-      "en": "Almost flat manifold",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Almost_flat_manifold",
-        "https://www.wikidata.org/wiki/Q4734002"
       ]
     },
     {
@@ -3018,16 +2924,6 @@
       ]
     },
     {
-      "qid": "Q491409",
-      "en": "Anderson localization",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Anderson_localization",
-        "https://www.wikidata.org/wiki/Q491409"
-      ]
-    },
-    {
       "qid": "Q4754231",
       "en": "Anderson orthogonality theorem",
       "origins": ["wikipedia-categories-and-core"],
@@ -3080,20 +2976,6 @@
         "https://en.wikipedia.org/wiki/Angles_between_flats",
         "https://www.wikidata.org/wiki/Q17099657"
       ]
-    },
-    {
-      "qid": "Q545228",
-      "en": "Anharmonicity",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Anharmonicity",
-        "https://www.wikidata.org/wiki/Q545228"
-      ],
-      "zhCandidate": "非谐性"
     },
     {
       "qid": "Q140052913",
@@ -4731,20 +4613,6 @@
       ]
     },
     {
-      "qid": "Q2976990",
-      "en": "Avoided crossing",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Avoided_crossing",
-        "https://www.wikidata.org/wiki/Q2976990"
-      ],
-      "zhCandidate": "避免交叉"
-    },
-    {
       "qid": "Q17002576",
       "en": "AW*-algebra",
       "origins": ["wikipedia-categories-and-core"],
@@ -4752,16 +4620,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/AW*-algebra",
         "https://www.wikidata.org/wiki/Q17002576"
-      ]
-    },
-    {
-      "qid": "Q116881953",
-      "en": "Axial current",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Axial_current",
-        "https://www.wikidata.org/wiki/Q116881953"
       ]
     },
     {
@@ -5122,20 +4980,6 @@
       ]
     },
     {
-      "qid": "Q1150180",
-      "en": "Baire space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Baire_space",
-        "https://www.wikidata.org/wiki/Q1150180"
-      ],
-      "zhCandidate": "貝爾空間"
-    },
-    {
       "qid": "Q803936",
       "en": "Baire space (set theory)",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -5243,21 +5087,6 @@
         "https://ncatlab.org/nlab/show/Banach+lattice",
         "https://www.wikidata.org/wiki/Q30676598"
       ]
-    },
-    {
-      "qid": "Q3554819",
-      "en": "Banach manifold",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Banach_manifold",
-        "https://ncatlab.org/nlab/show/Banach+manifold",
-        "https://www.wikidata.org/wiki/Q3554819"
-      ],
-      "zhCandidate": "Banach流形"
     },
     {
       "qid": "Q9382505",
@@ -5408,30 +5237,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Bardeen%E2%80%93Pines_interaction",
         "https://www.wikidata.org/wiki/Q135440667"
-      ]
-    },
-    {
-      "qid": "Q4860307",
-      "en": "Bare mass",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Bare_mass",
-        "https://www.wikidata.org/wiki/Q4860307"
-      ],
-      "zhCandidate": "裸质量"
-    },
-    {
-      "qid": "Q4860309",
-      "en": "Bare particle",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Bare_particle",
-        "https://www.wikidata.org/wiki/Q4860309"
       ]
     },
     {
@@ -6367,20 +6172,6 @@
       ]
     },
     {
-      "qid": "Q831226",
-      "en": "Bethe ansatz",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Bethe_ansatz",
-        "https://www.wikidata.org/wiki/Q831226"
-      ],
-      "zhCandidate": "贝特拟设"
-    },
-    {
       "qid": "Q4898424",
       "en": "Better-quasi-ordering",
       "origins": ["wikipedia-categories-and-core"],
@@ -6631,20 +6422,6 @@
         "https://en.wikipedia.org/wiki/Bidomain_model",
         "https://www.wikidata.org/wiki/Q4904213"
       ]
-    },
-    {
-      "qid": "Q1976324",
-      "en": "Biexciton",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Biexciton",
-        "https://www.wikidata.org/wiki/Q1976324"
-      ],
-      "zhCandidate": "雙激子"
     },
     {
       "qid": "Q4904816",
@@ -6979,16 +6756,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Biomagnetics",
         "https://www.wikidata.org/wiki/Q107292784"
-      ]
-    },
-    {
-      "qid": "Q4915071",
-      "en": "Biomagnetism",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Biomagnetism",
-        "https://www.wikidata.org/wiki/Q4915071"
       ]
     },
     {
@@ -7496,20 +7263,6 @@
       ]
     },
     {
-      "qid": "Q1201510",
-      "en": "Blast wave",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Blast_wave",
-        "https://www.wikidata.org/wiki/Q1201510"
-      ],
-      "zhCandidate": "爆炸波"
-    },
-    {
       "qid": "Q16910803",
       "en": "Blitzar",
       "origins": ["wikipedia-categories-and-core"],
@@ -7547,16 +7300,6 @@
         "https://www.wikidata.org/wiki/Q637725"
       ],
       "zhCandidate": "布洛赫振荡"
-    },
-    {
-      "qid": "Q4927106",
-      "en": "Bloch space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Bloch_space",
-        "https://www.wikidata.org/wiki/Q4927106"
-      ]
     },
     {
       "qid": "Q4927109",
@@ -8070,20 +7813,6 @@
         "https://en.wikipedia.org/wiki/Boothby-Wang_construction",
         "https://www.wikidata.org/wiki/Q113929761"
       ]
-    },
-    {
-      "qid": "Q4944080",
-      "en": "Bootstrap model",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Bootstrap_model",
-        "https://www.wikidata.org/wiki/Q4944080"
-      ],
-      "zhCandidate": "自举模型"
     },
     {
       "qid": "Q85850287",
@@ -8782,21 +8511,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Brauer_algebra",
         "https://www.wikidata.org/wiki/Q4958224"
-      ]
-    },
-    {
-      "qid": "Q900456",
-      "en": "Brauer group",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Brauer_group",
-        "https://ncatlab.org/nlab/show/Brauer+group",
-        "https://www.wikidata.org/wiki/Q900456"
       ]
     },
     {
@@ -10100,20 +9814,6 @@
       ]
     },
     {
-      "qid": "Q4212891",
-      "en": "Capillary pressure",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Capillary_pressure",
-        "https://www.wikidata.org/wiki/Q4212891"
-      ],
-      "zhCandidate": "毛细血管压"
-    },
-    {
       "qid": "Q5035397",
       "en": "Capillary surface",
       "origins": ["wikipedia-categories-and-core"],
@@ -10894,21 +10594,6 @@
       ]
     },
     {
-      "qid": "Q5051859",
-      "en": "Category of rings",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Category_of_rings",
-        "https://ncatlab.org/nlab/show/Ring",
-        "https://www.wikidata.org/wiki/Q5051859"
-      ],
-      "zhCandidate": "环范畴"
-    },
-    {
       "qid": "Q5051852",
       "en": "Category of small categories",
       "origins": ["nlab-wikidata"],
@@ -11231,16 +10916,6 @@
       ]
     },
     {
-      "qid": "Q30674282",
-      "en": "Cellular space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cellular_space",
-        "https://www.wikidata.org/wiki/Q30674282"
-      ]
-    },
-    {
       "qid": "Q5010277",
       "en": "CENBOL",
       "origins": ["wikipedia-categories-and-core"],
@@ -11300,26 +10975,6 @@
       "sources": [
         "https://ncatlab.org/nlab/show/center+of+an+additive+category",
         "https://www.wikidata.org/wiki/Q139882717"
-      ]
-    },
-    {
-      "qid": "Q3775868",
-      "en": "Center of curvature",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Center_of_curvature",
-        "https://www.wikidata.org/wiki/Q3775868"
-      ]
-    },
-    {
-      "qid": "Q2945388",
-      "en": "Center of percussion",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Center_of_percussion",
-        "https://www.wikidata.org/wiki/Q2945388"
       ]
     },
     {
@@ -11855,16 +11510,6 @@
       ]
     },
     {
-      "qid": "Q11498021",
-      "en": "Character table",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Character_table",
-        "https://www.wikidata.org/wiki/Q11498021"
-      ]
-    },
-    {
       "qid": "Q5073766",
       "en": "Characteristic mode analysis",
       "origins": ["wikipedia-categories-and-core"],
@@ -11933,26 +11578,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Charge_invariance",
         "https://www.wikidata.org/wiki/Q16858987"
-      ]
-    },
-    {
-      "qid": "Q5074270",
-      "en": "Charge ordering",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Charge_ordering",
-        "https://www.wikidata.org/wiki/Q5074270"
-      ]
-    },
-    {
-      "qid": "Q5074271",
-      "en": "Charge qubit",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Charge_qubit",
-        "https://www.wikidata.org/wiki/Q5074271"
       ]
     },
     {
@@ -12237,36 +11862,6 @@
         "https://en.wikipedia.org/wiki/Chip-firing_game",
         "https://www.wikidata.org/wiki/Q33072077"
       ]
-    },
-    {
-      "qid": "Q5101825",
-      "en": "Chiral algebra",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Chiral_algebra",
-        "https://ncatlab.org/nlab/show/chiral+algebra",
-        "https://www.wikidata.org/wiki/Q5101825"
-      ],
-      "zhCandidate": "手徵代數"
-    },
-    {
-      "qid": "Q5101826",
-      "en": "Chiral anomaly",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Chiral_anomaly",
-        "https://ncatlab.org/nlab/show/chiral+anomaly",
-        "https://www.wikidata.org/wiki/Q5101826"
-      ],
-      "zhCandidate": "手徵反常"
     },
     {
       "qid": "Q5101831",
@@ -12969,21 +12564,6 @@
       "zhCandidate": "流形分类"
     },
     {
-      "qid": "Q5128445",
-      "en": "Classifying space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Classifying_space",
-        "https://ncatlab.org/nlab/show/classifying+space",
-        "https://www.wikidata.org/wiki/Q5128445"
-      ],
-      "zhCandidate": "分類空間"
-    },
-    {
       "qid": "Q5128444",
       "en": "Classifying space for O(n)",
       "origins": ["wikipedia-categories-and-core"],
@@ -13432,26 +13012,6 @@
       ]
     },
     {
-      "qid": "Q5136697",
-      "en": "Cluster expansion",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cluster_expansion",
-        "https://www.wikidata.org/wiki/Q5136697"
-      ]
-    },
-    {
-      "qid": "Q5136706",
-      "en": "Cluster state",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cluster_state",
-        "https://www.wikidata.org/wiki/Q5136706"
-      ]
-    },
-    {
       "qid": "Q5136742",
       "en": "Clutching construction",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -13474,26 +13034,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/CM-field",
         "https://www.wikidata.org/wiki/Q5012824"
-      ]
-    },
-    {
-      "qid": "Q5013062",
-      "en": "CN-group",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/CN-group",
-        "https://www.wikidata.org/wiki/Q5013062"
-      ]
-    },
-    {
-      "qid": "Q5137392",
-      "en": "Cnoidal wave",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cnoidal_wave",
-        "https://www.wikidata.org/wiki/Q5137392"
       ]
     },
     {
@@ -13723,21 +13263,6 @@
         "https://en.wikipedia.org/wiki/Cocurvature",
         "https://www.wikidata.org/wiki/Q5139919"
       ]
-    },
-    {
-      "qid": "Q5139921",
-      "en": "Cocycle",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cocycle",
-        "https://ncatlab.org/nlab/show/cocycle",
-        "https://www.wikidata.org/wiki/Q5139921"
-      ],
-      "zhCandidate": "闭上链"
     },
     {
       "qid": "Q16958842",
@@ -14108,16 +13633,6 @@
       "zhCandidate": "上同伦群"
     },
     {
-      "qid": "Q119039804",
-      "en": "Coincidence method",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Coincidence_method",
-        "https://www.wikidata.org/wiki/Q119039804"
-      ]
-    },
-    {
       "qid": "Q4227156",
       "en": "Coinduction",
       "origins": ["wikipedia-categories-and-core"],
@@ -14204,20 +13719,6 @@
         "https://en.wikipedia.org/wiki/Collar_neighbourhood",
         "https://www.wikidata.org/wiki/Q25383585"
       ]
-    },
-    {
-      "qid": "Q1571347",
-      "en": "Collimated beam",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Collimated_beam",
-        "https://www.wikidata.org/wiki/Q1571347"
-      ],
-      "zhCandidate": "准直"
     },
     {
       "qid": "Q48802931",
@@ -14428,21 +13929,6 @@
         "https://www.wikidata.org/wiki/Q2668364"
       ],
       "zhCandidate": "组合爆炸"
-    },
-    {
-      "qid": "Q2940480",
-      "en": "Combinatorial map",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Combinatorial_map",
-        "https://ncatlab.org/nlab/show/combinatorial+map",
-        "https://www.wikidata.org/wiki/Q2940480"
-      ],
-      "zhCandidate": "組合映射"
     },
     {
       "qid": "Q60791559",
@@ -14867,21 +14353,6 @@
       "zhCandidate": "完備範疇"
     },
     {
-      "qid": "Q5156498",
-      "en": "Complete field",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Complete_field",
-        "https://ncatlab.org/nlab/show/complete+field",
-        "https://www.wikidata.org/wiki/Q5156498"
-      ]
-    },
-    {
       "qid": "Q5156502",
       "en": "Complete intersection",
       "origins": ["wikipedia-categories-and-core"],
@@ -15112,16 +14583,6 @@
       ]
     },
     {
-      "qid": "Q5156567",
-      "en": "Complex beam parameter",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Complex_beam_parameter",
-        "https://www.wikidata.org/wiki/Q5156567"
-      ]
-    },
-    {
       "qid": "Q5156571",
       "en": "Complex cobordism",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -15232,21 +14693,6 @@
         "https://en.wikipedia.org/wiki/Complex_Lie_algebra",
         "https://ncatlab.org/nlab/show/complex+Lie+algebra",
         "https://www.wikidata.org/wiki/Q85753695"
-      ]
-    },
-    {
-      "qid": "Q5156554",
-      "en": "Complex Lie group",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Complex_Lie_group",
-        "https://ncatlab.org/nlab/show/complex+Lie+group",
-        "https://www.wikidata.org/wiki/Q5156554"
       ]
     },
     {
@@ -15425,20 +14871,6 @@
         "https://en.wikipedia.org/wiki/Component_(group_theory)",
         "https://www.wikidata.org/wiki/Q5156688"
       ]
-    },
-    {
-      "qid": "Q971062",
-      "en": "Composite fermion",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Composite_fermion",
-        "https://www.wikidata.org/wiki/Q971062"
-      ],
-      "zhCandidate": "費米海"
     },
     {
       "qid": "Q5156751",
@@ -15728,21 +15160,6 @@
       ]
     },
     {
-      "qid": "Q107427296",
-      "en": "Condensed mathematics",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Condensed_mathematics",
-        "https://ncatlab.org/nlab/show/condensed+mathematics",
-        "https://www.wikidata.org/wiki/Q107427296"
-      ]
-    },
-    {
       "qid": "Q5159259",
       "en": "Conditional event algebra",
       "origins": ["wikipedia-categories-and-core"],
@@ -15854,20 +15271,6 @@
       ]
     },
     {
-      "qid": "Q3726376",
-      "en": "Configuration entropy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Configuration_entropy",
-        "https://www.wikidata.org/wiki/Q3726376"
-      ],
-      "zhCandidate": "位形熵"
-    },
-    {
       "qid": "Q16000067",
       "en": "Configurational mechanics",
       "origins": ["wikipedia-categories-and-core"],
@@ -15938,20 +15341,6 @@
         "https://ncatlab.org/nlab/show/conformal+connection",
         "https://www.wikidata.org/wiki/Q5160248"
       ]
-    },
-    {
-      "qid": "Q513175",
-      "en": "Conformal geometry",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Conformal_geometry",
-        "https://www.wikidata.org/wiki/Q513175"
-      ],
-      "zhCandidate": "保形几何学"
     },
     {
       "qid": "Q301122",
@@ -16068,21 +15457,6 @@
         "https://en.wikipedia.org/wiki/Congruence_ideal",
         "https://www.wikidata.org/wiki/Q5160995"
       ]
-    },
-    {
-      "qid": "Q5161000",
-      "en": "Congruence subgroup",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Congruence_subgroup",
-        "https://ncatlab.org/nlab/show/congruence+subgroup",
-        "https://www.wikidata.org/wiki/Q5161000"
-      ],
-      "zhCandidate": "非同餘子群"
     },
     {
       "qid": "Q3071325",
@@ -16359,20 +15733,6 @@
         "https://www.wikidata.org/wiki/Q23808682"
       ],
       "zhCandidate": "保守函子"
-    },
-    {
-      "qid": "Q9077988",
-      "en": "Conservative system",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Conservative_system",
-        "https://www.wikidata.org/wiki/Q9077988"
-      ],
-      "zhCandidate": "守恆系統"
     },
     {
       "qid": "Q5163158",
@@ -17014,16 +16374,6 @@
       ]
     },
     {
-      "qid": "Q768656",
-      "en": "Convergence in measure",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Convergence_in_measure",
-        "https://www.wikidata.org/wiki/Q768656"
-      ]
-    },
-    {
       "qid": "Q1248241",
       "en": "Converse relation",
       "origins": ["wikipedia-categories-and-core"],
@@ -17331,20 +16681,6 @@
       ]
     },
     {
-      "qid": "Q5172849",
-      "en": "Correlation dimension",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Correlation_dimension",
-        "https://www.wikidata.org/wiki/Q5172849"
-      ],
-      "zhCandidate": "关联维数"
-    },
-    {
       "qid": "Q2496679",
       "en": "Correlation function (quantum field theory)",
       "origins": ["wikipedia-categories-and-core"],
@@ -17545,20 +16881,6 @@
       "zhCandidate": "宇宙自然选择"
     },
     {
-      "qid": "Q3526841",
-      "en": "Cosmological perturbation theory",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cosmological_perturbation_theory",
-        "https://www.wikidata.org/wiki/Q3526841"
-      ],
-      "zhCandidate": "宇宙微扰理论"
-    },
-    {
       "qid": "Q25451613",
       "en": "Cosmon",
       "origins": ["wikipedia-categories-and-core"],
@@ -17622,20 +16944,6 @@
       ]
     },
     {
-      "qid": "Q1713076",
-      "en": "Cotangent space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cotangent_space",
-        "https://www.wikidata.org/wiki/Q1713076"
-      ],
-      "zhCandidate": "餘切空間"
-    },
-    {
       "qid": "Q5175339",
       "en": "Cotes's spiral",
       "origins": ["wikipedia-categories-and-core"],
@@ -17682,26 +16990,6 @@
         "https://www.wikidata.org/wiki/Q3518152"
       ],
       "zhCandidate": "科顿张量"
-    },
-    {
-      "qid": "Q5176150",
-      "en": "Coulomb gap",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Coulomb_gap",
-        "https://www.wikidata.org/wiki/Q5176150"
-      ]
-    },
-    {
-      "qid": "Q121590477",
-      "en": "Coulomb gas",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Coulomb_gas",
-        "https://www.wikidata.org/wiki/Q121590477"
-      ]
     },
     {
       "qid": "Q56296592",
@@ -17917,20 +17205,6 @@
         "https://en.wikipedia.org/wiki/Cover_time",
         "https://www.wikidata.org/wiki/Q137653493"
       ]
-    },
-    {
-      "qid": "Q5179253",
-      "en": "Covering group",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Covering_group",
-        "https://www.wikidata.org/wiki/Q5179253"
-      ],
-      "zhCandidate": "覆盖群"
     },
     {
       "qid": "Q5179263",
@@ -18159,20 +17433,6 @@
         "https://en.wikipedia.org/wiki/Crepant_resolution",
         "https://www.wikidata.org/wiki/Q5184228"
       ]
-    },
-    {
-      "qid": "Q18747500",
-      "en": "Critical field",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Critical_field",
-        "https://www.wikidata.org/wiki/Q18747500"
-      ],
-      "zhCandidate": "临界磁场"
     },
     {
       "qid": "Q5186725",
@@ -18407,20 +17667,6 @@
       ]
     },
     {
-      "qid": "Q430909",
-      "en": "Crystal optics",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Crystal_optics",
-        "https://www.wikidata.org/wiki/Q430909"
-      ],
-      "zhCandidate": "晶体光学"
-    },
-    {
       "qid": "Q107087877",
       "en": "Crystal plasticity",
       "origins": ["wikipedia-categories-and-core"],
@@ -18433,21 +17679,6 @@
         "https://www.wikidata.org/wiki/Q107087877"
       ],
       "zhCandidate": "晶体范性"
-    },
-    {
-      "qid": "Q5191431",
-      "en": "Crystalline cohomology",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Crystalline_cohomology",
-        "https://ncatlab.org/nlab/show/crystalline+cohomology",
-        "https://www.wikidata.org/wiki/Q5191431"
-      ]
     },
     {
       "qid": "Q861555",
@@ -18615,21 +17846,6 @@
       ]
     },
     {
-      "qid": "Q1454725",
-      "en": "Current algebra",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Current_algebra",
-        "https://ncatlab.org/nlab/show/current+algebra",
-        "https://www.wikidata.org/wiki/Q1454725"
-      ],
-      "zhCandidate": "流代数"
-    },
-    {
       "qid": "Q17098585",
       "en": "Curtright field",
       "origins": ["wikipedia-categories-and-core"],
@@ -18682,16 +17898,6 @@
         "https://www.wikidata.org/wiki/Q40139"
       ],
       "zhCandidate": "黎曼度規曲面"
-    },
-    {
-      "qid": "Q4240689",
-      "en": "Curved spacetime",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Curved_spacetime",
-        "https://www.wikidata.org/wiki/Q4240689"
-      ]
     },
     {
       "qid": "Q2400580",
@@ -18810,16 +18016,6 @@
         "https://www.wikidata.org/wiki/Q245446"
       ],
       "zhCandidate": "循環指標"
-    },
-    {
-      "qid": "Q56351016",
-      "en": "Cyclic algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Cyclic_algebra",
-        "https://www.wikidata.org/wiki/Q56351016"
-      ]
     },
     {
       "qid": "Q85754894",
@@ -19521,20 +18717,6 @@
       ]
     },
     {
-      "qid": "Q3363554",
-      "en": "Deceleration parameter",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Deceleration_parameter",
-        "https://www.wikidata.org/wiki/Q3363554"
-      ],
-      "zhCandidate": "減速因子"
-    },
-    {
       "qid": "Q430001",
       "en": "Decidability (logic)",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -19785,21 +18967,6 @@
       "zhCandidate": "变形理论"
     },
     {
-      "qid": "Q131143202",
-      "en": "Deformation quantization",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Deformation_quantization",
-        "https://ncatlab.org/nlab/show/deformation+quantization",
-        "https://www.wikidata.org/wiki/Q131143202"
-      ]
-    },
-    {
       "qid": "Q124729584",
       "en": "Deformation retract",
       "origins": ["nlab-wikidata", "nlab-wikipedia-verification"],
@@ -19890,21 +19057,6 @@
         "https://www.wikidata.org/wiki/Q3675173"
       ],
       "zhCandidate": "Dehn手术"
-    },
-    {
-      "qid": "Q5252320",
-      "en": "Dehn twist",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dehn_twist",
-        "https://ncatlab.org/nlab/show/Dehn+twist",
-        "https://www.wikidata.org/wiki/Q5252320"
-      ],
-      "zhCandidate": "德恩扭转"
     },
     {
       "qid": "Q5252352",
@@ -20345,21 +19497,6 @@
         "https://en.wikipedia.org/wiki/Derivator",
         "https://www.wikidata.org/wiki/Q5262625"
       ]
-    },
-    {
-      "qid": "Q16959942",
-      "en": "Derived algebraic geometry",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Derived_algebraic_geometry",
-        "https://ncatlab.org/nlab/show/derived+algebraic+geometry",
-        "https://www.wikidata.org/wiki/Q16959942"
-      ],
-      "zhCandidate": "导出代数几何"
     },
     {
       "qid": "Q96376257",
@@ -20841,20 +19978,6 @@
       ]
     },
     {
-      "qid": "Q1195643",
-      "en": "Dichroism",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dichroism",
-        "https://www.wikidata.org/wiki/Q1195643"
-      ],
-      "zhCandidate": "二向色性"
-    },
-    {
       "qid": "Q5272547",
       "en": "Dichromatic reflectance model",
       "origins": ["wikipedia-categories-and-core"],
@@ -20863,20 +19986,6 @@
         "https://en.wikipedia.org/wiki/Dichromatic_reflectance_model",
         "https://www.wikidata.org/wiki/Q5272547"
       ]
-    },
-    {
-      "qid": "Q5272550",
-      "en": "Dichromatism",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dichromatism",
-        "https://www.wikidata.org/wiki/Q5272550"
-      ],
-      "zhCandidate": "二色性"
     },
     {
       "qid": "Q131411954",
@@ -20929,20 +20038,6 @@
         "https://www.wikidata.org/wiki/Q466500"
       ],
       "zhCandidate": "射频加热"
-    },
-    {
-      "qid": "Q1417868",
-      "en": "Dielectric loss",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dielectric_loss",
-        "https://www.wikidata.org/wiki/Q1417868"
-      ],
-      "zhCandidate": "电介质损耗"
     },
     {
       "qid": "Q5275226",
@@ -21085,20 +20180,6 @@
       ]
     },
     {
-      "qid": "Q2916283",
-      "en": "Differential graded algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Differential_graded_algebra",
-        "https://www.wikidata.org/wiki/Q2916283"
-      ],
-      "zhCandidate": "微分分级代数"
-    },
-    {
       "qid": "Q5275347",
       "en": "Differential graded category",
       "origins": ["wikipedia-categories-and-core"],
@@ -21155,16 +20236,6 @@
       "sources": [
         "https://ncatlab.org/nlab/show/differential+ideal",
         "https://www.wikidata.org/wiki/Q5275350"
-      ]
-    },
-    {
-      "qid": "Q5275353",
-      "en": "Differential invariant",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Differential_invariant",
-        "https://www.wikidata.org/wiki/Q5275353"
       ]
     },
     {
@@ -21277,20 +20348,6 @@
         "https://www.wikidata.org/wiki/Q956803"
       ],
       "zhCandidate": "擴散阻尼"
-    },
-    {
-      "qid": "Q1977001",
-      "en": "Diffusionless transformation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Diffusionless_transformation",
-        "https://www.wikidata.org/wiki/Q1977001"
-      ],
-      "zhCandidate": "無擴散的相變"
     },
     {
       "qid": "Q112160940",
@@ -21512,20 +20569,6 @@
       "zhCandidate": "狄拉克伴旋量"
     },
     {
-      "qid": "Q3895805",
-      "en": "Dirac bracket",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dirac_bracket",
-        "https://www.wikidata.org/wiki/Q3895805"
-      ],
-      "zhCandidate": "约束系统的量子化"
-    },
-    {
       "qid": "Q385599",
       "en": "Dirac comb",
       "origins": ["wikipedia-categories-and-core"],
@@ -21737,20 +20780,6 @@
       ]
     },
     {
-      "qid": "Q13582243",
-      "en": "Direct sum",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Direct_sum",
-        "https://www.wikidata.org/wiki/Q13582243"
-      ],
-      "zhCandidate": "直和"
-    },
-    {
       "qid": "Q134607551",
       "en": "Direct sum of matrices",
       "origins": ["wikipedia-categories-and-core"],
@@ -21895,16 +20924,6 @@
       ]
     },
     {
-      "qid": "Q5280767",
-      "en": "Dirichlet space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dirichlet_space",
-        "https://www.wikidata.org/wiki/Q5280767"
-      ]
-    },
-    {
       "qid": "Q48814784",
       "en": "Dirichlet's ellipsoidal problem",
       "origins": ["wikipedia-categories-and-core"],
@@ -21947,20 +20966,6 @@
         "https://en.wikipedia.org/wiki/Discharging_method_(discrete_mathematics)",
         "https://www.wikidata.org/wiki/Q5281445"
       ]
-    },
-    {
-      "qid": "Q5281493",
-      "en": "Disclination",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Disclination",
-        "https://www.wikidata.org/wiki/Q5281493"
-      ],
-      "zhCandidate": "向错"
     },
     {
       "qid": "Q115821277",
@@ -22326,16 +21331,6 @@
       ]
     },
     {
-      "qid": "Q1229326",
-      "en": "Dissipative operator",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dissipative_operator",
-        "https://www.wikidata.org/wiki/Q1229326"
-      ]
-    },
-    {
       "qid": "Q5282787",
       "en": "Dissociated press",
       "origins": ["wikipedia-categories-and-core"],
@@ -22589,20 +21584,6 @@
       "zhCandidate": "整除"
     },
     {
-      "qid": "Q1231309",
-      "en": "Division algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Division_algebra",
-        "https://www.wikidata.org/wiki/Q1231309"
-      ],
-      "zhCandidate": "可除代數"
-    },
-    {
       "qid": "Q97367236",
       "en": "Divisor sum identities",
       "origins": ["wikipedia-categories-and-core"],
@@ -22849,20 +21830,6 @@
         "https://en.wikipedia.org/wiki/Doomsday_conjecture",
         "https://www.wikidata.org/wiki/Q5297129"
       ]
-    },
-    {
-      "qid": "Q625398",
-      "en": "Doppler cooling",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Doppler_cooling",
-        "https://www.wikidata.org/wiki/Q625398"
-      ],
-      "zhCandidate": "都卜勒冷卻"
     },
     {
       "qid": "Q5298067",
@@ -23495,16 +22462,6 @@
         "https://en.wikipedia.org/wiki/Dualizing_module",
         "https://ncatlab.org/nlab/show/dualizing+module",
         "https://www.wikidata.org/wiki/Q5310268"
-      ]
-    },
-    {
-      "qid": "Q55610054",
-      "en": "Dualizing sheaf",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Dualizing_sheaf",
-        "https://www.wikidata.org/wiki/Q55610054"
       ]
     },
     {
@@ -24694,16 +23651,6 @@
       "zhCandidate": "二階導數的本徵值與本徵向量"
     },
     {
-      "qid": "Q5348943",
-      "en": "Eight-vertex model",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Eight-vertex_model",
-        "https://www.wikidata.org/wiki/Q5348943"
-      ]
-    },
-    {
       "qid": "Q84752530",
       "en": "Eighth power",
       "origins": ["wikipedia-categories-and-core"],
@@ -24920,26 +23867,6 @@
       ]
     },
     {
-      "qid": "Q20180462",
-      "en": "Elastance",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Elastance",
-        "https://www.wikidata.org/wiki/Q20180462"
-      ]
-    },
-    {
-      "qid": "Q891408",
-      "en": "Elastic energy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Elastic_energy",
-        "https://www.wikidata.org/wiki/Q891408"
-      ]
-    },
-    {
       "qid": "Q3799193",
       "en": "Elastic instability",
       "origins": ["wikipedia-categories-and-core"],
@@ -25034,16 +23961,6 @@
         "https://www.wikidata.org/wiki/Q25312907"
       ],
       "zhCandidate": "电偶极子自旋共振"
-    },
-    {
-      "qid": "Q5357578",
-      "en": "Electric dipole transition",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Electric_dipole_transition",
-        "https://www.wikidata.org/wiki/Q5357578"
-      ]
     },
     {
       "qid": "Q5357276",
@@ -25168,20 +24085,6 @@
       ]
     },
     {
-      "qid": "Q1326936",
-      "en": "Electromagnetic mass",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Electromagnetic_mass",
-        "https://www.wikidata.org/wiki/Q1326936"
-      ],
-      "zhCandidate": "電磁質量"
-    },
-    {
       "qid": "Q140429641",
       "en": "Electromagnetic metamaterial",
       "origins": ["wikipedia-categories-and-core"],
@@ -25274,20 +24177,6 @@
       "zhCandidate": "電子束離子阱"
     },
     {
-      "qid": "Q245591",
-      "en": "Electron cyclotron resonance",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Electron_cyclotron_resonance",
-        "https://www.wikidata.org/wiki/Q245591"
-      ],
-      "zhCandidate": "电子回旋共振"
-    },
-    {
       "qid": "Q85758935",
       "en": "Electron magnetic resonance",
       "origins": ["wikipedia-categories-and-core"],
@@ -25367,16 +24256,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Electronic_entropy",
         "https://www.wikidata.org/wiki/Q25303972"
-      ]
-    },
-    {
-      "qid": "Q28455414",
-      "en": "Electronic specific heat",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Electronic_specific_heat",
-        "https://www.wikidata.org/wiki/Q28455414"
       ]
     },
     {
@@ -25797,16 +24676,6 @@
       ]
     },
     {
-      "qid": "Q5375816",
-      "en": "End correction",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/End_correction",
-        "https://www.wikidata.org/wiki/Q5375816"
-      ]
-    },
-    {
       "qid": "Q5375818",
       "en": "End extension",
       "origins": ["wikipedia-categories-and-core"],
@@ -25885,16 +24754,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Energy_carrier",
         "https://www.wikidata.org/wiki/Q568469"
-      ]
-    },
-    {
-      "qid": "Q48995606",
-      "en": "Energy gap",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Energy_gap",
-        "https://www.wikidata.org/wiki/Q48995606"
       ]
     },
     {
@@ -26051,16 +24910,6 @@
       ]
     },
     {
-      "qid": "Q130781312",
-      "en": "Entanglement swapping",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Entanglement_swapping",
-        "https://www.wikidata.org/wiki/Q130781312"
-      ]
-    },
-    {
       "qid": "Q5380093",
       "en": "Entanglement-assisted classical capacity",
       "origins": ["wikipedia-categories-and-core"],
@@ -26127,20 +24976,6 @@
         "https://en.wikipedia.org/wiki/Entrance_length_(fluid_dynamics)",
         "https://www.wikidata.org/wiki/Q18206845"
       ]
-    },
-    {
-      "qid": "Q359518",
-      "en": "Entrance pupil",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Entrance_pupil",
-        "https://www.wikidata.org/wiki/Q359518"
-      ],
-      "zhCandidate": "入射光瞳"
     },
     {
       "qid": "Q5380802",
@@ -26218,21 +25053,6 @@
         "https://www.wikidata.org/wiki/Q1347059"
       ],
       "zhCandidate": "上境圖"
-    },
-    {
-      "qid": "Q1347208",
-      "en": "Epimorphism",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Epimorphism",
-        "https://ncatlab.org/nlab/show/epimorphism",
-        "https://www.wikidata.org/wiki/Q1347208"
-      ],
-      "zhCandidate": "蓋同態 (數學)"
     },
     {
       "qid": "Q9471",
@@ -26642,21 +25462,6 @@
         "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Tenenbaum%E2%80%93Ford_constant",
         "https://www.wikidata.org/wiki/Q55610987"
       ]
-    },
-    {
-      "qid": "Q174196",
-      "en": "Ergodic hypothesis",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Ergodic_hypothesis",
-        "https://ncatlab.org/nlab/show/ergodic+theory",
-        "https://www.wikidata.org/wiki/Q174196"
-      ],
-      "zhCandidate": "遍历假设"
     },
     {
       "qid": "Q17010888",
@@ -28003,36 +26808,6 @@
       ]
     },
     {
-      "qid": "Q117019164",
-      "en": "Factorization algebra",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Factorization_algebra",
-        "https://ncatlab.org/nlab/show/factorization+algebra",
-        "https://www.wikidata.org/wiki/Q117019164"
-      ],
-      "zhCandidate": "分解代数"
-    },
-    {
-      "qid": "Q39046233",
-      "en": "Factorization homology",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Factorization_homology",
-        "https://ncatlab.org/nlab/show/factorization+homology",
-        "https://www.wikidata.org/wiki/Q39046233"
-      ]
-    },
-    {
       "qid": "Q5428744",
       "en": "Factorization lemma",
       "origins": ["nlab-wikidata"],
@@ -28408,20 +27183,6 @@
       ]
     },
     {
-      "qid": "Q5444391",
-      "en": "Fermi arc",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fermi_arc",
-        "https://www.wikidata.org/wiki/Q5444391"
-      ],
-      "zhCandidate": "费米弧"
-    },
-    {
       "qid": "Q18207087",
       "en": "Fermi ball",
       "origins": ["wikipedia-categories-and-core"],
@@ -28486,20 +27247,6 @@
         "https://www.wikidata.org/wiki/Q5444400"
       ],
       "zhCandidate": "费米运动"
-    },
-    {
-      "qid": "Q5444401",
-      "en": "Fermi point",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fermi_point",
-        "https://www.wikidata.org/wiki/Q5444401"
-      ],
-      "zhCandidate": "费米点"
     },
     {
       "qid": "Q5444414",
@@ -28773,20 +27520,6 @@
       ]
     },
     {
-      "qid": "Q1365197",
-      "en": "Field strength",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Field_strength",
-        "https://www.wikidata.org/wiki/Q1365197"
-      ],
-      "zhCandidate": "场强"
-    },
-    {
       "qid": "Q2450665",
       "en": "Field trace",
       "origins": ["wikipedia-categories-and-core"],
@@ -28919,21 +27652,6 @@
         "https://en.wikipedia.org/wiki/Filter_on_a_set",
         "https://www.wikidata.org/wiki/Q16545258"
       ]
-    },
-    {
-      "qid": "Q5449241",
-      "en": "Filtered algebra",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Filtered_algebra",
-        "https://ncatlab.org/nlab/show/filtered+ring",
-        "https://www.wikidata.org/wiki/Q5449241"
-      ],
-      "zhCandidate": "濾套代數"
     },
     {
       "qid": "Q1187724",
@@ -29145,20 +27863,6 @@
         "https://ncatlab.org/nlab/show/finitely+generated+algebra",
         "https://www.wikidata.org/wiki/Q2835968"
       ]
-    },
-    {
-      "qid": "Q21083858",
-      "en": "Finitely generated group",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Finitely_generated_group",
-        "https://www.wikidata.org/wiki/Q21083858"
-      ],
-      "zhCandidate": "有限生成群"
     },
     {
       "qid": "Q1340572",
@@ -29854,13 +28558,6 @@
       ]
     },
     {
-      "qid": "Q1068152",
-      "en": "Fluxon",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": ["https://en.wikipedia.org/wiki/Fluxon", "https://www.wikidata.org/wiki/Q1068152"]
-    },
-    {
       "qid": "Q139891340",
       "en": "Fluxonium",
       "origins": ["wikipedia-categories-and-core"],
@@ -29879,35 +28576,6 @@
         "https://en.wikipedia.org/wiki/Focal_molography",
         "https://www.wikidata.org/wiki/Q108102034"
       ]
-    },
-    {
-      "qid": "Q899044",
-      "en": "Fock space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fock_space",
-        "https://ncatlab.org/nlab/show/Fock+space",
-        "https://www.wikidata.org/wiki/Q899044"
-      ],
-      "zhCandidate": "福克空間"
-    },
-    {
-      "qid": "Q678317",
-      "en": "Fock state",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fock_state",
-        "https://www.wikidata.org/wiki/Q678317"
-      ],
-      "zhCandidate": "福柯态"
     },
     {
       "qid": "Q5463893",
@@ -30202,21 +28870,6 @@
       "zhCandidate": "礼节"
     },
     {
-      "qid": "Q17097900",
-      "en": "Formally real field",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Formally_real_field",
-        "https://ncatlab.org/nlab/show/formally+real+field",
-        "https://www.wikidata.org/wiki/Q17097900"
-      ]
-    },
-    {
       "qid": "Q5469991",
       "en": "Formally smooth map",
       "origins": ["wikipedia-categories-and-core"],
@@ -30349,16 +29002,6 @@
       ]
     },
     {
-      "qid": "Q4031215",
-      "en": "Four-tensor",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Four-tensor",
-        "https://www.wikidata.org/wiki/Q4031215"
-      ]
-    },
-    {
       "qid": "Q5475787",
       "en": "Fourier algebra",
       "origins": ["wikipedia-categories-and-core"],
@@ -30381,20 +29024,6 @@
         "https://en.wikipedia.org/wiki/Fourier_extension_operator",
         "https://www.wikidata.org/wiki/Q135938243"
       ]
-    },
-    {
-      "qid": "Q4262191",
-      "en": "Fourier integral operator",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fourier_integral_operator",
-        "https://www.wikidata.org/wiki/Q4262191"
-      ],
-      "zhCandidate": "傅里葉積分算子"
     },
     {
       "qid": "Q3984053",
@@ -30420,20 +29049,6 @@
         "https://www.wikidata.org/wiki/Q5475795"
       ],
       "zhCandidate": "傅里叶算符"
-    },
-    {
-      "qid": "Q1003236",
-      "en": "Fourier optics",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fourier_optics",
-        "https://www.wikidata.org/wiki/Q1003236"
-      ],
-      "zhCandidate": "傅立叶光学"
     },
     {
       "qid": "Q5475803",
@@ -30565,13 +29180,6 @@
         "https://www.wikidata.org/wiki/Q5477566"
       ],
       "zhCandidate": "分數化"
-    },
-    {
-      "qid": "Q537062",
-      "en": "Fracton",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": ["https://en.wikipedia.org/wiki/Fracton", "https://www.wikidata.org/wiki/Q537062"]
     },
     {
       "qid": "Q55611958",
@@ -30761,20 +29369,6 @@
       "zhCandidate": "弗雷德霍姆理論"
     },
     {
-      "qid": "Q5500180",
-      "en": "Free algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Free_algebra",
-        "https://www.wikidata.org/wiki/Q5500180"
-      ],
-      "zhCandidate": "自由代數"
-    },
-    {
       "qid": "Q5500200",
       "en": "Free carrier absorption",
       "origins": ["wikipedia-categories-and-core"],
@@ -30823,21 +29417,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Free_factor_complex",
         "https://www.wikidata.org/wiki/Q30593823"
-      ]
-    },
-    {
-      "qid": "Q5500226",
-      "en": "Free field",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Free_field",
-        "https://ncatlab.org/nlab/show/free+field",
-        "https://www.wikidata.org/wiki/Q5500226"
       ]
     },
     {
@@ -31546,21 +30125,6 @@
       ]
     },
     {
-      "qid": "Q5507585",
-      "en": "Fukaya category",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fukaya_category",
-        "https://ncatlab.org/nlab/show/Fukaya+category",
-        "https://www.wikidata.org/wiki/Q5507585"
-      ],
-      "zhCandidate": "深谷范畴"
-    },
-    {
       "qid": "Q5507834",
       "en": "Fulde–Ferrell–Larkin–Ovchinnikov phase",
       "origins": ["wikipedia-categories-and-core"],
@@ -31991,21 +30555,6 @@
         "https://www.wikidata.org/wiki/Q902630"
       ],
       "zhCandidate": "弗斯滕伯格对素数无限性的证明"
-    },
-    {
-      "qid": "Q30672665",
-      "en": "Fusion category",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Fusion_category",
-        "https://ncatlab.org/nlab/show/fusion+category",
-        "https://www.wikidata.org/wiki/Q30672665"
-      ]
     },
     {
       "qid": "Q17015058",
@@ -32819,20 +31368,6 @@
       ]
     },
     {
-      "qid": "Q1499675",
-      "en": "Gelfand representation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Gelfand_representation",
-        "https://www.wikidata.org/wiki/Q1499675"
-      ],
-      "zhCandidate": "蓋爾范德表示"
-    },
-    {
       "qid": "Q18343672",
       "en": "Gelfand ring",
       "origins": ["wikipedia-categories-and-core"],
@@ -33392,21 +31927,6 @@
         "https://en.wikipedia.org/wiki/GENERIC_formalism",
         "https://www.wikidata.org/wiki/Q4491865"
       ]
-    },
-    {
-      "qid": "Q449470",
-      "en": "Generic point",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Generic_point",
-        "https://ncatlab.org/nlab/show/generic+point",
-        "https://www.wikidata.org/wiki/Q449470"
-      ],
-      "zhCandidate": "泛點"
     },
     {
       "qid": "Q5532677",
@@ -34329,20 +32849,6 @@
       ]
     },
     {
-      "qid": "Q5583136",
-      "en": "Good quantum number",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Good_quantum_number",
-        "https://www.wikidata.org/wiki/Q5583136"
-      ],
-      "zhCandidate": "好量子数"
-    },
-    {
       "qid": "Q25489089",
       "en": "Goodman's conjecture",
       "origins": ["wikipedia-categories-and-core"],
@@ -34776,16 +33282,6 @@
       ]
     },
     {
-      "qid": "Q5597095",
-      "en": "Graph state",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Graph_state",
-        "https://www.wikidata.org/wiki/Q5597095"
-      ]
-    },
-    {
       "qid": "Q5597061",
       "en": "GraphCrunch",
       "origins": ["wikipedia-categories-and-core"],
@@ -34878,16 +33374,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Gravitational_decoherence",
         "https://www.wikidata.org/wiki/Q105475412"
-      ]
-    },
-    {
-      "qid": "Q11860645",
-      "en": "Gravitational instability",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Gravitational_instability",
-        "https://www.wikidata.org/wiki/Q11860645"
       ]
     },
     {
@@ -35297,21 +33783,6 @@
       ]
     },
     {
-      "qid": "Q1128678",
-      "en": "Grothendieck group",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Grothendieck_group",
-        "https://ncatlab.org/nlab/show/Grothendieck+group",
-        "https://www.wikidata.org/wiki/Q1128678"
-      ],
-      "zhCandidate": "格罗滕迪克群"
-    },
-    {
       "qid": "Q5610724",
       "en": "Grothendieck local duality",
       "origins": ["wikipedia-categories-and-core"],
@@ -35409,16 +33880,6 @@
         "https://www.wikidata.org/wiki/Q431411"
       ],
       "zhCandidate": "基础表达式"
-    },
-    {
-      "qid": "Q5610931",
-      "en": "Ground field",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Ground_field",
-        "https://www.wikidata.org/wiki/Q5610931"
-      ]
     },
     {
       "qid": "Q523759",
@@ -35962,21 +34423,6 @@
       ]
     },
     {
-      "qid": "Q1562471",
-      "en": "H-space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/H-space",
-        "https://ncatlab.org/nlab/show/H-space",
-        "https://www.wikidata.org/wiki/Q1562471"
-      ],
-      "zhCandidate": "H空间"
-    },
-    {
       "qid": "Q3780331",
       "en": "H-stable potential",
       "origins": ["wikipedia-categories-and-core"],
@@ -36081,20 +34527,6 @@
         "https://en.wikipedia.org/wiki/Hadamard%27s_method_of_descent",
         "https://www.wikidata.org/wiki/Q17020301"
       ]
-    },
-    {
-      "qid": "Q1456042",
-      "en": "Hadronization",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Hadronization",
-        "https://www.wikidata.org/wiki/Q1456042"
-      ],
-      "zhCandidate": "強子化"
     },
     {
       "qid": "Q5638112",
@@ -37021,20 +35453,6 @@
       "zhCandidate": "重费米子"
     },
     {
-      "qid": "Q5695236",
-      "en": "Heavy fermion superconductor",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Heavy_fermion_superconductor",
-        "https://www.wikidata.org/wiki/Q5695236"
-      ],
-      "zhCandidate": "重費米子超導體"
-    },
-    {
       "qid": "Q1295988",
       "en": "Heavy quark effective theory",
       "origins": ["wikipedia-categories-and-core"],
@@ -37073,20 +35491,6 @@
         "https://en.wikipedia.org/wiki/Hecke_character",
         "https://www.wikidata.org/wiki/Q1948965"
       ]
-    },
-    {
-      "qid": "Q1592959",
-      "en": "Hecke operator",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Hecke_operator",
-        "https://www.wikidata.org/wiki/Q1592959"
-      ],
-      "zhCandidate": "赫克算子"
     },
     {
       "qid": "Q104868325",
@@ -37647,20 +36051,6 @@
       ]
     },
     {
-      "qid": "Q1992087",
-      "en": "Heteroclinic orbit",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Heteroclinic_orbit",
-        "https://www.wikidata.org/wiki/Q1992087"
-      ],
-      "zhCandidate": "异宿轨道"
-    },
-    {
       "qid": "Q5747218",
       "en": "Heterogeneous random walk in one dimension",
       "origins": ["wikipedia-categories-and-core"],
@@ -37872,20 +36262,6 @@
         "https://www.wikidata.org/wiki/Q5754513"
       ],
       "zhCandidate": "高维回归分析"
-    },
-    {
-      "qid": "Q12416032",
-      "en": "High-energy nuclear physics",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/High-energy_nuclear_physics",
-        "https://www.wikidata.org/wiki/Q12416032"
-      ],
-      "zhCandidate": "重离子物理"
     },
     {
       "qid": "Q107584789",
@@ -38132,21 +36508,6 @@
         "https://www.wikidata.org/wiki/Q1618171"
       ],
       "zhCandidate": "希爾伯特立方"
-    },
-    {
-      "qid": "Q3554824",
-      "en": "Hilbert manifold",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Hilbert_manifold",
-        "https://ncatlab.org/nlab/show/Hilbert+manifold",
-        "https://www.wikidata.org/wiki/Q3554824"
-      ]
     },
     {
       "qid": "Q3527215",
@@ -38770,20 +37131,6 @@
       ]
     },
     {
-      "qid": "Q690494",
-      "en": "Homoclinic orbit",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Homoclinic_orbit",
-        "https://www.wikidata.org/wiki/Q690494"
-      ],
-      "zhCandidate": "同宿轨道"
-    },
-    {
       "qid": "Q5891331",
       "en": "Homogeneous distribution",
       "origins": ["wikipedia-categories-and-core"],
@@ -38846,16 +37193,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Homological_stability",
         "https://www.wikidata.org/wiki/Q28455886"
-      ]
-    },
-    {
-      "qid": "Q5891460",
-      "en": "Homology manifold",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Homology_manifold",
-        "https://www.wikidata.org/wiki/Q5891460"
       ]
     },
     {
@@ -39074,21 +37411,6 @@
         "https://www.wikidata.org/wiki/Q5891835"
       ],
       "zhCandidate": "h-原则"
-    },
-    {
-      "qid": "Q5891833",
-      "en": "Homotopy sphere",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Homotopy_sphere",
-        "https://ncatlab.org/nlab/show/homotopy+sphere",
-        "https://www.wikidata.org/wiki/Q5891833"
-      ],
-      "zhCandidate": "同伦球面"
     },
     {
       "qid": "Q9357062",
@@ -39818,20 +38140,6 @@
       "zhCandidate": "双曲正弦"
     },
     {
-      "qid": "Q1878538",
-      "en": "Hyperbolic space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Hyperbolic_space",
-        "https://www.wikidata.org/wiki/Q1878538"
-      ],
-      "zhCandidate": "雙曲空間"
-    },
-    {
       "qid": "Q1274703",
       "en": "Hyperbolic tangent",
       "origins": ["nlab-wikidata"],
@@ -40113,16 +38421,6 @@
       "zhCandidate": "下境圖"
     },
     {
-      "qid": "Q5959976",
-      "en": "Hyponormal operator",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Hyponormal_operator",
-        "https://www.wikidata.org/wiki/Q5959976"
-      ]
-    },
-    {
       "qid": "Q5961184",
       "en": "Hypostatic abstraction",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -40170,16 +38468,6 @@
         "https://en.wikipedia.org/wiki/H%C3%B6rmander%27s_condition",
         "https://ncatlab.org/nlab/show/H%C3%B6rmander%27s+condition",
         "https://www.wikidata.org/wiki/Q5964696"
-      ]
-    },
-    {
-      "qid": "Q112182519",
-      "en": "I-adic topology",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/I-adic_topology",
-        "https://www.wikidata.org/wiki/Q112182519"
       ]
     },
     {
@@ -40274,16 +38562,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Ibragimov%E2%80%93Iosifescu_conjecture_for_%CF%86-mixing_sequences",
         "https://www.wikidata.org/wiki/Q115803023"
-      ]
-    },
-    {
-      "qid": "Q5985139",
-      "en": "Ice-type model",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Ice-type_model",
-        "https://www.wikidata.org/wiki/Q5985139"
       ]
     },
     {
@@ -40494,21 +38772,6 @@
         "https://en.wikipedia.org/wiki/Identifiability_analysis",
         "https://www.wikidata.org/wiki/Q25053512"
       ]
-    },
-    {
-      "qid": "Q5988368",
-      "en": "Identity component",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Identity_component",
-        "https://ncatlab.org/nlab/show/identity+component",
-        "https://www.wikidata.org/wiki/Q5988368"
-      ],
-      "zhCandidate": "單位連通區"
     },
     {
       "qid": "Q128032193",
@@ -40931,20 +39194,6 @@
       ]
     },
     {
-      "qid": "Q1982410",
-      "en": "Incongruent melting",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Incongruent_melting",
-        "https://www.wikidata.org/wiki/Q1982410"
-      ],
-      "zhCandidate": "不一致共熔"
-    },
-    {
       "qid": "Q6015335",
       "en": "Increasing process",
       "origins": ["wikipedia-categories-and-core"],
@@ -41046,16 +39295,6 @@
       ]
     },
     {
-      "qid": "Q453471",
-      "en": "Index ellipsoid",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Index_ellipsoid",
-        "https://www.wikidata.org/wiki/Q453471"
-      ]
-    },
-    {
       "qid": "Q4669947",
       "en": "Index group",
       "origins": ["wikipedia-categories-and-core"],
@@ -41074,21 +39313,6 @@
         "https://en.wikipedia.org/wiki/Index_of_a_Lie_algebra",
         "https://www.wikidata.org/wiki/Q85769258"
       ]
-    },
-    {
-      "qid": "Q1464168",
-      "en": "Index of a subgroup",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Index_of_a_subgroup",
-        "https://ncatlab.org/nlab/show/index+of+a+subgroup",
-        "https://www.wikidata.org/wiki/Q1464168"
-      ],
-      "zhCandidate": "子群指數"
     },
     {
       "qid": "Q4386723",
@@ -41250,21 +39474,6 @@
         "https://ncatlab.org/nlab/show/induced+metric",
         "https://www.wikidata.org/wiki/Q3855711"
       ]
-    },
-    {
-      "qid": "Q3427423",
-      "en": "Induced representation",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Induced_representation",
-        "https://ncatlab.org/nlab/show/induced+representation",
-        "https://www.wikidata.org/wiki/Q3427423"
-      ],
-      "zhCandidate": "誘導表示"
     },
     {
       "qid": "Q23807952",
@@ -41690,21 +39899,6 @@
         "https://en.wikipedia.org/wiki/Infraparticle",
         "https://ncatlab.org/nlab/show/infraparticle",
         "https://www.wikidata.org/wiki/Q6031458"
-      ]
-    },
-    {
-      "qid": "Q3032223",
-      "en": "Infrared divergence",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Infrared_divergence",
-        "https://ncatlab.org/nlab/show/infrared+divergence",
-        "https://www.wikidata.org/wiki/Q3032223"
       ]
     },
     {
@@ -42344,16 +40538,6 @@
       "zhCandidate": "星际互联网"
     },
     {
-      "qid": "Q3058180",
-      "en": "Interpolation space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Interpolation_space",
-        "https://www.wikidata.org/wiki/Q3058180"
-      ]
-    },
-    {
       "qid": "Q18744949",
       "en": "Interpolative decomposition",
       "origins": ["wikipedia-categories-and-core"],
@@ -42526,20 +40710,6 @@
       ]
     },
     {
-      "qid": "Q6058729",
-      "en": "Intrinsic parity",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Intrinsic_parity",
-        "https://www.wikidata.org/wiki/Q6058729"
-      ],
-      "zhCandidate": "內在宇稱"
-    },
-    {
       "qid": "Q3527201",
       "en": "Invariance of domain",
       "origins": ["wikipedia-categories-and-core"],
@@ -42615,20 +40785,6 @@
       "sources": ["https://en.wikipedia.org/wiki/Invariant_imbedding"]
     },
     {
-      "qid": "Q4200518",
-      "en": "Invariant measure",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Invariant_measure",
-        "https://www.wikidata.org/wiki/Q4200518"
-      ],
-      "zhCandidate": "不变测度"
-    },
-    {
       "qid": "Q2920801",
       "en": "Invariant polynomial",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -42662,20 +40818,6 @@
         "https://en.wikipedia.org/wiki/Invariants_of_tensors",
         "https://www.wikidata.org/wiki/Q9009080"
       ]
-    },
-    {
-      "qid": "Q24902133",
-      "en": "Invasion percolation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Invasion_percolation",
-        "https://www.wikidata.org/wiki/Q24902133"
-      ],
-      "zhCandidate": "入侵渗透"
     },
     {
       "qid": "Q48969663",
@@ -45273,21 +43415,6 @@
       ]
     },
     {
-      "qid": "Q4116484",
-      "en": "Kleinian group",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Kleinian_group",
-        "https://ncatlab.org/nlab/show/Kleinian+group",
-        "https://www.wikidata.org/wiki/Q4116484"
-      ],
-      "zhCandidate": "克莱因群"
-    },
-    {
       "qid": "Q17047747",
       "en": "Kleinian integer",
       "origins": ["wikipedia-categories-and-core"],
@@ -45553,16 +43680,6 @@
       ]
     },
     {
-      "qid": "Q239719",
-      "en": "Kohn anomaly",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Kohn_anomaly",
-        "https://www.wikidata.org/wiki/Q239719"
-      ]
-    },
-    {
       "qid": "Q121878894",
       "en": "Kohn–Luttinger superconductivity",
       "origins": ["wikipedia-categories-and-core"],
@@ -45758,21 +43875,6 @@
         "https://en.wikipedia.org/wiki/Koszul_cohomology",
         "https://www.wikidata.org/wiki/Q6433698"
       ]
-    },
-    {
-      "qid": "Q6433699",
-      "en": "Koszul complex",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Koszul_complex",
-        "https://ncatlab.org/nlab/show/Koszul+complex",
-        "https://www.wikidata.org/wiki/Q6433699"
-      ],
-      "zhCandidate": "科斯居尔复形"
     },
     {
       "qid": "Q16981474",
@@ -46106,16 +44208,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Kubilius_model",
         "https://www.wikidata.org/wiki/Q55616267"
-      ]
-    },
-    {
-      "qid": "Q114769",
-      "en": "Kubo formula",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Kubo_formula",
-        "https://www.wikidata.org/wiki/Q114769"
       ]
     },
     {
@@ -46745,21 +44837,6 @@
       ]
     },
     {
-      "qid": "Q4371287",
-      "en": "Landau pole",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Landau_pole",
-        "https://ncatlab.org/nlab/show/Landau+pole",
-        "https://www.wikidata.org/wiki/Q4371287"
-      ],
-      "zhCandidate": "朗道极点"
-    },
-    {
       "qid": "Q1626812",
       "en": "Landau theory",
       "origins": ["wikipedia-categories-and-core"],
@@ -46772,20 +44849,6 @@
         "https://www.wikidata.org/wiki/Q1626812"
       ],
       "zhCandidate": "朗道理论"
-    },
-    {
-      "qid": "Q4491929",
-      "en": "Landauer formula",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Landauer_formula",
-        "https://www.wikidata.org/wiki/Q4491929"
-      ],
-      "zhCandidate": "朗道尔公式"
     },
     {
       "qid": "Q129738018",
@@ -47239,16 +45302,6 @@
         "https://www.wikidata.org/wiki/Q6166044"
       ],
       "zhCandidate": "格点QCD"
-    },
-    {
-      "qid": "Q6497134",
-      "en": "Lattice scattering",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Lattice_scattering",
-        "https://www.wikidata.org/wiki/Q6497134"
-      ]
     },
     {
       "qid": "Q140408185",
@@ -48423,16 +46476,6 @@
       ]
     },
     {
-      "qid": "Q6546246",
-      "en": "Light valve",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Light_valve",
-        "https://www.wikidata.org/wiki/Q6546246"
-      ]
-    },
-    {
       "qid": "Q6545927",
       "en": "Light's associativity test",
       "origins": ["wikipedia-categories-and-core"],
@@ -48620,20 +46663,6 @@
       "zhCandidate": "林德斯特倫-蓋塞爾-維諾特引理"
     },
     {
-      "qid": "Q3198879",
-      "en": "Line element",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Line_element",
-        "https://www.wikidata.org/wiki/Q3198879"
-      ],
-      "zhCandidate": "线元素"
-    },
-    {
       "qid": "Q6553248",
       "en": "Line field",
       "origins": ["wikipedia-categories-and-core"],
@@ -48773,16 +46802,6 @@
       "zhCandidate": "线性光学量子计算"
     },
     {
-      "qid": "Q30715269",
-      "en": "Linear optics",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Linear_optics",
-        "https://www.wikidata.org/wiki/Q30715269"
-      ]
-    },
-    {
       "qid": "Q364089",
       "en": "Linear recurrence with constant coefficients",
       "origins": ["wikipedia-categories-and-core"],
@@ -48842,16 +46861,6 @@
         "https://www.wikidata.org/wiki/Q1064600"
       ],
       "zhCandidate": "线性可分"
-    },
-    {
-      "qid": "Q6553535",
-      "en": "Linear transport theory",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Linear_transport_theory",
-        "https://www.wikidata.org/wiki/Q6553535"
-      ]
     },
     {
       "qid": "Q108032351",
@@ -49878,20 +47887,6 @@
       ]
     },
     {
-      "qid": "Q589603",
-      "en": "Logistic distribution",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Logistic_distribution",
-        "https://www.wikidata.org/wiki/Q589603"
-      ],
-      "zhCandidate": "逻辑分布"
-    },
-    {
       "qid": "Q1868104",
       "en": "Logit",
       "origins": ["wikipedia-categories-and-core"],
@@ -50075,21 +48070,6 @@
         "https://en.wikipedia.org/wiki/Loop_representation_in_gauge_theories_and_quantum_gravity",
         "https://www.wikidata.org/wiki/Q18350298"
       ]
-    },
-    {
-      "qid": "Q2066070",
-      "en": "Loop space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Loop_space",
-        "https://ncatlab.org/nlab/show/loop+space",
-        "https://www.wikidata.org/wiki/Q2066070"
-      ],
-      "zhCandidate": "閉路空間"
     },
     {
       "qid": "Q3822213",
@@ -50464,20 +48444,6 @@
         "https://en.wikipedia.org/wiki/Luzin_N_property",
         "https://www.wikidata.org/wiki/Q1160012"
       ]
-    },
-    {
-      "qid": "Q65076454",
-      "en": "Lyapunov dimension",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Lyapunov_dimension",
-        "https://www.wikidata.org/wiki/Q65076454"
-      ],
-      "zhCandidate": "李雅普諾夫維數"
     },
     {
       "qid": "Q6707088",
@@ -50956,16 +48922,6 @@
       ]
     },
     {
-      "qid": "Q117468458",
-      "en": "Magnetic buoyancy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_buoyancy",
-        "https://www.wikidata.org/wiki/Q117468458"
-      ]
-    },
-    {
       "qid": "Q6731520",
       "en": "Magnetic catalysis",
       "origins": ["wikipedia-categories-and-core"],
@@ -50999,16 +48955,6 @@
       ]
     },
     {
-      "qid": "Q17102951",
-      "en": "Magnetic damping",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_damping",
-        "https://www.wikidata.org/wiki/Q17102951"
-      ]
-    },
-    {
       "qid": "Q109660601",
       "en": "Magnetic diffusion",
       "origins": ["wikipedia-categories-and-core"],
@@ -51021,20 +48967,6 @@
         "https://www.wikidata.org/wiki/Q109660601"
       ],
       "zhCandidate": "磁擴散"
-    },
-    {
-      "qid": "Q390314",
-      "en": "Magnetic dipole",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_dipole",
-        "https://www.wikidata.org/wiki/Q390314"
-      ],
-      "zhCandidate": "磁偶极"
     },
     {
       "qid": "Q97143703",
@@ -51074,40 +49006,6 @@
       "zhCandidate": "偶極-偶極相互作用"
     },
     {
-      "qid": "Q3725254",
-      "en": "Magnetic energy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_energy",
-        "https://www.wikidata.org/wiki/Q3725254"
-      ],
-      "zhCandidate": "磁能"
-    },
-    {
-      "qid": "Q6731551",
-      "en": "Magnetic form factor",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_form_factor",
-        "https://www.wikidata.org/wiki/Q6731551"
-      ]
-    },
-    {
-      "qid": "Q6731558",
-      "en": "Magnetic impurity",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_impurity",
-        "https://www.wikidata.org/wiki/Q6731558"
-      ]
-    },
-    {
       "qid": "Q6731572",
       "en": "Magnetic logic",
       "origins": ["wikipedia-categories-and-core"],
@@ -51138,20 +49036,6 @@
       ]
     },
     {
-      "qid": "Q383041",
-      "en": "Magnetic pressure",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_pressure",
-        "https://www.wikidata.org/wiki/Q383041"
-      ],
-      "zhCandidate": "磁壓"
-    },
-    {
       "qid": "Q18351502",
       "en": "Magnetic resonance (quantum mechanics)",
       "origins": ["wikipedia-categories-and-core"],
@@ -51170,20 +49054,6 @@
         "https://en.wikipedia.org/wiki/Magnetic_river",
         "https://www.wikidata.org/wiki/Q3016121"
       ]
-    },
-    {
-      "qid": "Q2663154",
-      "en": "Magnetic separation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetic_separation",
-        "https://www.wikidata.org/wiki/Q2663154"
-      ],
-      "zhCandidate": "磁選"
     },
     {
       "qid": "Q20085217",
@@ -51274,20 +49144,6 @@
       ]
     },
     {
-      "qid": "Q6578855",
-      "en": "Magnetoelectric effect",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetoelectric_effect",
-        "https://www.wikidata.org/wiki/Q6578855"
-      ],
-      "zhCandidate": "磁电效应"
-    },
-    {
       "qid": "Q65090098",
       "en": "Magnetogenetics",
       "origins": ["wikipedia-categories-and-core"],
@@ -51305,16 +49161,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Magnetohydrodynamic_converter",
         "https://www.wikidata.org/wiki/Q55621732"
-      ]
-    },
-    {
-      "qid": "Q18351509",
-      "en": "Magnetomechanical effect",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Magnetomechanical_effect",
-        "https://www.wikidata.org/wiki/Q18351509"
       ]
     },
     {
@@ -51699,16 +49545,6 @@
         "https://www.wikidata.org/wiki/Q6754178"
       ],
       "zhCandidate": "映射锥"
-    },
-    {
-      "qid": "Q131374881",
-      "en": "Mapping space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Mapping_space",
-        "https://www.wikidata.org/wiki/Q131374881"
-      ]
     },
     {
       "qid": "Q25098921",
@@ -52934,16 +50770,6 @@
       ]
     },
     {
-      "qid": "Q6804195",
-      "en": "Measure of non-compactness",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Measure_of_non-compactness",
-        "https://www.wikidata.org/wiki/Q6804195"
-      ]
-    },
-    {
       "qid": "Q25351574",
       "en": "Measure problem (cosmology)",
       "origins": ["wikipedia-categories-and-core"],
@@ -53430,16 +51256,6 @@
       ]
     },
     {
-      "qid": "Q2563425",
-      "en": "Method of images",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Method_of_images",
-        "https://www.wikidata.org/wiki/Q2563425"
-      ]
-    },
-    {
       "qid": "Q1826712",
       "en": "Method of lines",
       "origins": ["wikipedia-categories-and-core"],
@@ -53597,34 +51413,6 @@
         "https://www.wikidata.org/wiki/Q17103730"
       ],
       "zhCandidate": "微尺度和宏观模型"
-    },
-    {
-      "qid": "Q2110770",
-      "en": "Microscopic reversibility",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Microscopic_reversibility",
-        "https://www.wikidata.org/wiki/Q2110770"
-      ],
-      "zhCandidate": "微观可逆性"
-    },
-    {
-      "qid": "Q48967832",
-      "en": "Microwave spectroscopy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Microwave_spectroscopy",
-        "https://www.wikidata.org/wiki/Q48967832"
-      ],
-      "zhCandidate": "微波光谱学"
     },
     {
       "qid": "Q107750840",
@@ -54395,20 +52183,6 @@
       "zhCandidate": "波的模式转换"
     },
     {
-      "qid": "Q6888105",
-      "en": "Mode coupling",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Mode_coupling",
-        "https://www.wikidata.org/wiki/Q6888105"
-      ],
-      "zhCandidate": "模式耦合"
-    },
-    {
       "qid": null,
       "en": "Mode-coupling theory",
       "origins": ["wikipedia-categories-and-core"],
@@ -54539,20 +52313,6 @@
       ]
     },
     {
-      "qid": "Q1834342",
-      "en": "Modular group",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Modular_group",
-        "https://www.wikidata.org/wiki/Q1834342"
-      ],
-      "zhCandidate": "模羣"
-    },
-    {
       "qid": "Q133284149",
       "en": "Modular group representation",
       "origins": ["wikipedia-categories-and-core"],
@@ -54591,16 +52351,6 @@
       ]
     },
     {
-      "qid": "Q12204668",
-      "en": "Modular Lie algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Modular_Lie_algebra",
-        "https://www.wikidata.org/wiki/Q12204668"
-      ]
-    },
-    {
       "qid": "Q6889737",
       "en": "Modular symbol",
       "origins": ["wikipedia-categories-and-core"],
@@ -54608,16 +52358,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Modular_symbol",
         "https://www.wikidata.org/wiki/Q6889737"
-      ]
-    },
-    {
-      "qid": "Q133155047",
-      "en": "Modular tensor category",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Modular_tensor_category",
-        "https://www.wikidata.org/wiki/Q133155047"
       ]
     },
     {
@@ -55236,16 +52976,6 @@
       "zhCandidate": "月光模"
     },
     {
-      "qid": "Q1516604",
-      "en": "Montel space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Montel_space",
-        "https://www.wikidata.org/wiki/Q1516604"
-      ]
-    },
-    {
       "qid": "Q6905620",
       "en": "Montgomery's pair correlation conjecture",
       "origins": ["wikipedia-categories-and-core"],
@@ -55395,16 +53125,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Mori_dream_space",
         "https://www.wikidata.org/wiki/Q6912118"
-      ]
-    },
-    {
-      "qid": "Q3537669",
-      "en": "Morin transition",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Morin_transition",
-        "https://www.wikidata.org/wiki/Q3537669"
       ]
     },
     {
@@ -55916,20 +53636,6 @@
       ]
     },
     {
-      "qid": "Q6932011",
-      "en": "Muffin-tin approximation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Muffin-tin_approximation",
-        "https://www.wikidata.org/wiki/Q6932011"
-      ],
-      "zhCandidate": "线性缀加平面波方法"
-    },
-    {
       "qid": "Q6934426",
       "en": "Multi-attribute global inference of quality",
       "origins": ["wikipedia-categories-and-core"],
@@ -55975,16 +53681,6 @@
       ]
     },
     {
-      "qid": "Q6934620",
-      "en": "Multicritical point",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Multicritical_point",
-        "https://www.wikidata.org/wiki/Q6934620"
-      ]
-    },
-    {
       "qid": "Q17104301",
       "en": "Multidimensional system",
       "origins": ["wikipedia-categories-and-core"],
@@ -55993,20 +53689,6 @@
         "https://en.wikipedia.org/wiki/Multidimensional_system",
         "https://www.wikidata.org/wiki/Q17104301"
       ]
-    },
-    {
-      "qid": "Q1432148",
-      "en": "Multiferroics",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Multiferroics",
-        "https://www.wikidata.org/wiki/Q1432148"
-      ],
-      "zhCandidate": "多铁性材料"
     },
     {
       "qid": "Q1413101",
@@ -56102,16 +53784,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Multiple-scale_analysis",
         "https://www.wikidata.org/wiki/Q6934874"
-      ]
-    },
-    {
-      "qid": "Q4598301",
-      "en": "Multiplet",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Multiplet",
-        "https://www.wikidata.org/wiki/Q4598301"
       ]
     },
     {
@@ -57205,20 +54877,6 @@
       ]
     },
     {
-      "qid": "Q11700633",
-      "en": "Negative probability",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Negative_probability",
-        "https://www.wikidata.org/wiki/Q11700633"
-      ],
-      "zhCandidate": "负概率"
-    },
-    {
       "qid": "Q911348",
       "en": "Negative thermal expansion",
       "origins": ["wikipedia-categories-and-core"],
@@ -57456,20 +55114,6 @@
         "https://en.wikipedia.org/wiki/Neuman%E2%80%93S%C3%A1ndor_mean",
         "https://www.wikidata.org/wiki/Q48969791"
       ]
-    },
-    {
-      "qid": "Q2990328",
-      "en": "Neutral particle",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Neutral_particle",
-        "https://www.wikidata.org/wiki/Q2990328"
-      ],
-      "zhCandidate": "中性粒子"
     },
     {
       "qid": "Q7003021",
@@ -57759,16 +55403,6 @@
       ]
     },
     {
-      "qid": "Q16155107",
-      "en": "Nilpotent algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Nilpotent_algebra",
-        "https://www.wikidata.org/wiki/Q16155107"
-      ]
-    },
-    {
       "qid": "Q7037178",
       "en": "Nilpotent cone",
       "origins": ["wikipedia-categories-and-core"],
@@ -57799,16 +55433,6 @@
         "https://www.wikidata.org/wiki/Q15148889"
       ],
       "zhCandidate": "冪零李代數"
-    },
-    {
-      "qid": "Q7037181",
-      "en": "Nilpotent operator",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Nilpotent_operator",
-        "https://www.wikidata.org/wiki/Q7037181"
-      ]
     },
     {
       "qid": "Q7037180",
@@ -58641,16 +56265,6 @@
       ]
     },
     {
-      "qid": "Q6954919",
-      "en": "NOON state",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/NOON_state",
-        "https://www.wikidata.org/wiki/Q6954919"
-      ]
-    },
-    {
       "qid": "Q134437272",
       "en": "Nori motive",
       "origins": ["wikipedia-categories-and-core"],
@@ -59029,20 +56643,6 @@
       ]
     },
     {
-      "qid": "Q3269677",
-      "en": "Nuclear magnetic moment",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Nuclear_magnetic_moment",
-        "https://www.wikidata.org/wiki/Q3269677"
-      ],
-      "zhCandidate": "核子磁矩"
-    },
-    {
       "qid": "Q847019",
       "en": "Nuclear magnetic resonance quantum computer",
       "origins": ["wikipedia-categories-and-core"],
@@ -59055,20 +56655,6 @@
         "https://www.wikidata.org/wiki/Q847019"
       ],
       "zhCandidate": "核磁共振量子计算机"
-    },
-    {
-      "qid": "Q96396744",
-      "en": "Nuclear operator",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Nuclear_operator",
-        "https://www.wikidata.org/wiki/Q96396744"
-      ],
-      "zhCandidate": "核型算子"
     },
     {
       "qid": "Q11536200",
@@ -59093,35 +56679,6 @@
         "https://en.wikipedia.org/wiki/Nuclear_shadowing",
         "https://www.wikidata.org/wiki/Q137612264"
       ]
-    },
-    {
-      "qid": "Q283804",
-      "en": "Nuclear space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Nuclear_space",
-        "https://ncatlab.org/nlab/show/nuclear+space",
-        "https://www.wikidata.org/wiki/Q283804"
-      ],
-      "zhCandidate": "核空间"
-    },
-    {
-      "qid": "Q3500674",
-      "en": "Nuclear structure",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Nuclear_structure",
-        "https://www.wikidata.org/wiki/Q3500674"
-      ],
-      "zhCandidate": "核結構"
     },
     {
       "qid": "Q113669061",
@@ -59280,20 +56837,6 @@
         "https://en.wikipedia.org/wiki/Numerical_error",
         "https://www.wikidata.org/wiki/Q7069656"
       ]
-    },
-    {
-      "qid": "Q24262840",
-      "en": "Numerical method",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Numerical_method",
-        "https://www.wikidata.org/wiki/Q24262840"
-      ],
-      "zhCandidate": "數值方法"
     },
     {
       "qid": "Q55627115",
@@ -60228,16 +57771,6 @@
       ]
     },
     {
-      "qid": "Q7098832",
-      "en": "Optical bistability",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Optical_bistability",
-        "https://www.wikidata.org/wiki/Q7098832"
-      ]
-    },
-    {
       "qid": "Q7098833",
       "en": "Optical black hole",
       "origins": ["wikipedia-categories-and-core"],
@@ -60341,20 +57874,6 @@
         "https://en.wikipedia.org/wiki/Optical_scalars",
         "https://www.wikidata.org/wiki/Q7098894"
       ]
-    },
-    {
-      "qid": "Q1942321",
-      "en": "Optical transfer function",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Optical_transfer_function",
-        "https://www.wikidata.org/wiki/Q1942321"
-      ],
-      "zhCandidate": "光學調節傳送功能"
     },
     {
       "qid": "Q56276866",
@@ -60956,16 +58475,6 @@
       ]
     },
     {
-      "qid": "Q3058185",
-      "en": "Orlicz space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Orlicz_space",
-        "https://www.wikidata.org/wiki/Q3058185"
-      ]
-    },
-    {
       "qid": "Q7103671",
       "en": "Ornstein–Uhlenbeck operator",
       "origins": ["wikipedia-categories-and-core"],
@@ -61013,21 +58522,6 @@
         "https://www.wikidata.org/wiki/Q2031860"
       ],
       "zhCandidate": "正交陣列"
-    },
-    {
-      "qid": "Q3306808",
-      "en": "Orthogonal basis",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Orthogonal_basis",
-        "https://ncatlab.org/nlab/show/orthogonal+basis",
-        "https://www.wikidata.org/wiki/Q3306808"
-      ],
-      "zhCandidate": "正交基"
     },
     {
       "qid": "Q7104529",
@@ -61158,16 +58652,6 @@
         "https://www.wikidata.org/wiki/Q7106417"
       ],
       "zhCandidate": "谐振子表象"
-    },
-    {
-      "qid": "Q2036580",
-      "en": "Oscillatory integral",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Oscillatory_integral",
-        "https://www.wikidata.org/wiki/Q2036580"
-      ]
     },
     {
       "qid": "Q4274197",
@@ -61389,16 +58873,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Overlapping_interval_topology",
         "https://www.wikidata.org/wiki/Q7113765"
-      ]
-    },
-    {
-      "qid": "Q7113777",
-      "en": "Overlayer",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Overlayer",
-        "https://www.wikidata.org/wiki/Q7113777"
       ]
     },
     {
@@ -62124,35 +59598,6 @@
       "zhCandidate": "部分置換"
     },
     {
-      "qid": "Q7140394",
-      "en": "Partial trace",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Partial_trace",
-        "https://ncatlab.org/nlab/show/partial+trace",
-        "https://www.wikidata.org/wiki/Q7140394"
-      ],
-      "zhCandidate": "偏跡數"
-    },
-    {
-      "qid": "Q7140398",
-      "en": "Partial-wave analysis",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Partial-wave_analysis",
-        "https://www.wikidata.org/wiki/Q7140398"
-      ],
-      "zhCandidate": "分波分析"
-    },
-    {
       "qid": "Q7140405",
       "en": "Partially ordered ring",
       "origins": ["wikipedia-categories-and-core"],
@@ -62329,21 +59774,6 @@
         "https://en.wikipedia.org/wiki/Partition_function_(quantum_field_theory)",
         "https://www.wikidata.org/wiki/Q7140637"
       ]
-    },
-    {
-      "qid": "Q191690",
-      "en": "Partition of unity",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Partition_of_unity",
-        "https://ncatlab.org/nlab/show/partition+of+unity",
-        "https://www.wikidata.org/wiki/Q191690"
-      ],
-      "zhCandidate": "单位分解法"
     },
     {
       "qid": "Q17127067",
@@ -62574,20 +60004,6 @@
       ]
     },
     {
-      "qid": "Q7158218",
-      "en": "Pearl vortex",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Pearl_vortex",
-        "https://www.wikidata.org/wiki/Q7158218"
-      ],
-      "zhCandidate": "珀爾渦旋"
-    },
-    {
       "qid": "Q1044068",
       "en": "Peccei–Quinn theory",
       "origins": ["wikipedia-categories-and-core"],
@@ -62753,31 +60169,6 @@
         "https://en.wikipedia.org/wiki/Perfect_complex",
         "https://www.wikidata.org/wiki/Q25098898"
       ]
-    },
-    {
-      "qid": "Q897715",
-      "en": "Perfect conductor",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Perfect_conductor",
-        "https://www.wikidata.org/wiki/Q897715"
-      ]
-    },
-    {
-      "qid": "Q2997817",
-      "en": "Perfect field",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Perfect_field",
-        "https://ncatlab.org/nlab/show/perfect+field",
-        "https://www.wikidata.org/wiki/Q2997817"
-      ],
-      "zhCandidate": "完美域"
     },
     {
       "qid": "Q121733955",
@@ -63087,16 +60478,6 @@
       "zhCandidate": "微擾量子色動力學"
     },
     {
-      "qid": "Q76416136",
-      "en": "Perturbed angular correlation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Perturbed_angular_correlation",
-        "https://www.wikidata.org/wiki/Q76416136"
-      ]
-    },
-    {
       "qid": "Q17086746",
       "en": "Perverse sheaf",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -63159,16 +60540,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Petkov%C5%A1ek%27s_algorithm",
         "https://www.wikidata.org/wiki/Q16896735"
-      ]
-    },
-    {
-      "qid": "Q4223027",
-      "en": "Petrov classification",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Petrov_classification",
-        "https://www.wikidata.org/wiki/Q4223027"
       ]
     },
     {
@@ -63241,16 +60612,6 @@
       "zhCandidate": "幻影映射"
     },
     {
-      "qid": "Q2993351",
-      "en": "Phase conjugation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Phase_conjugation",
-        "https://www.wikidata.org/wiki/Q2993351"
-      ]
-    },
-    {
       "qid": "Q124053932",
       "en": "Phase kickback",
       "origins": ["wikipedia-categories-and-core"],
@@ -63273,16 +60634,6 @@
         "https://www.wikidata.org/wiki/Q7180953"
       ],
       "zhCandidate": "相線"
-    },
-    {
-      "qid": "Q7180959",
-      "en": "Phase qubit",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Phase_qubit",
-        "https://www.wikidata.org/wiki/Q7180959"
-      ]
     },
     {
       "qid": "Q60769125",
@@ -63357,13 +60708,6 @@
         "https://en.wikipedia.org/wiki/Phase-space_wavefunctions",
         "https://www.wikidata.org/wiki/Q104845479"
       ]
-    },
-    {
-      "qid": "Q943631",
-      "en": "Phason",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": ["https://en.wikipedia.org/wiki/Phason", "https://www.wikidata.org/wiki/Q943631"]
     },
     {
       "qid": "Q17050521",
@@ -63478,20 +60822,6 @@
       ]
     },
     {
-      "qid": "Q7187311",
-      "en": "Phonon scattering",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Phonon_scattering",
-        "https://www.wikidata.org/wiki/Q7187311"
-      ],
-      "zhCandidate": "声子散射"
-    },
-    {
       "qid": "Q25110190",
       "en": "Phonovoltaic",
       "origins": ["wikipedia-categories-and-core"],
@@ -63529,16 +60859,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Photoacoustic_Doppler_effect",
         "https://www.wikidata.org/wiki/Q7187700"
-      ]
-    },
-    {
-      "qid": "Q3381567",
-      "en": "Photocurrent",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Photocurrent",
-        "https://www.wikidata.org/wiki/Q3381567"
       ]
     },
     {
@@ -63928,21 +61248,6 @@
       "zhCandidate": "分段線性函數"
     },
     {
-      "qid": "Q7191425",
-      "en": "Piecewise linear manifold",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Piecewise_linear_manifold",
-        "https://ncatlab.org/nlab/show/piecewise-linear+manifold",
-        "https://www.wikidata.org/wiki/Q7191425"
-      ],
-      "zhCandidate": "PL结构"
-    },
-    {
       "qid": "Q7191426",
       "en": "Piecewise syndetic set",
       "origins": ["wikipedia-categories-and-core"],
@@ -63980,16 +61285,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Pines%27_demon",
         "https://www.wikidata.org/wiki/Q121909586"
-      ]
-    },
-    {
-      "qid": "Q7196358",
-      "en": "Pinning force",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Pinning_force",
-        "https://www.wikidata.org/wiki/Q7196358"
       ]
     },
     {
@@ -64203,20 +61498,6 @@
         "https://ncatlab.org/nlab/show/plane+geometry",
         "https://www.wikidata.org/wiki/Q3760348"
       ]
-    },
-    {
-      "qid": "Q48996986",
-      "en": "Plane of polarization",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Plane_of_polarization",
-        "https://www.wikidata.org/wiki/Q48996986"
-      ],
-      "zhCandidate": "極化平面"
     },
     {
       "qid": "Q7201017",
@@ -64673,22 +61954,6 @@
       ]
     },
     {
-      "qid": "Q1419329",
-      "en": "Pointed space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Pointed_space",
-        "https://ncatlab.org/nlab/show/pointed+space",
-        "https://ncatlab.org/nlab/show/pointed+topological+space",
-        "https://www.wikidata.org/wiki/Q1419329"
-      ],
-      "zhCandidate": "點標空間"
-    },
-    {
       "qid": "Q25099302",
       "en": "Pointer state",
       "origins": ["wikipedia-categories-and-core"],
@@ -65083,13 +62348,6 @@
       "zhCandidate": "Pomeau–Manneville場景"
     },
     {
-      "qid": "Q1126045",
-      "en": "Pomeron",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": ["https://en.wikipedia.org/wiki/Pomeron", "https://www.wikidata.org/wiki/Q1126045"]
-    },
-    {
       "qid": "Q7227460",
       "en": "Pompeiu derivative",
       "origins": ["wikipedia-categories-and-core"],
@@ -65108,21 +62366,6 @@
         "https://en.wikipedia.org/wiki/Poncelet_map",
         "https://www.wikidata.org/wiki/Q139499749"
       ]
-    },
-    {
-      "qid": "Q40007",
-      "en": "Pontryagin class",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Pontryagin_class",
-        "https://ncatlab.org/nlab/show/Pontryagin+class",
-        "https://www.wikidata.org/wiki/Q40007"
-      ],
-      "zhCandidate": "庞特里亚金类"
     },
     {
       "qid": "Q7228372",
@@ -65275,21 +62518,6 @@
         "https://en.wikipedia.org/wiki/Positive_linear_operator",
         "https://www.wikidata.org/wiki/Q96399850"
       ]
-    },
-    {
-      "qid": "Q2627013",
-      "en": "Positive operator",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Positive_operator",
-        "https://ncatlab.org/nlab/show/positive+operator",
-        "https://www.wikidata.org/wiki/Q2627013"
-      ],
-      "zhCandidate": "正算子"
     },
     {
       "qid": "Q7233206",
@@ -65565,21 +62793,6 @@
       "zhCandidate": "極度精確的預測值"
     },
     {
-      "qid": "Q1754327",
-      "en": "Preconditioner",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Preconditioner",
-        "https://ncatlab.org/nlab/show/preconditioner",
-        "https://www.wikidata.org/wiki/Q1754327"
-      ],
-      "zhCandidate": "預處理"
-    },
-    {
       "qid": "Q2534066",
       "en": "Predictability",
       "origins": ["wikipedia-categories-and-core"],
@@ -65617,20 +62830,6 @@
         "https://ncatlab.org/nlab/show/predual",
         "https://www.wikidata.org/wiki/Q7239729"
       ]
-    },
-    {
-      "qid": "Q7239845",
-      "en": "Preferred frame",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Preferred_frame",
-        "https://www.wikidata.org/wiki/Q7239845"
-      ],
-      "zhCandidate": "優先參考系"
     },
     {
       "qid": "Q17105355",
@@ -66280,16 +63479,6 @@
       "zhCandidate": "最小能量原理"
     },
     {
-      "qid": "Q141284593",
-      "en": "Prismatic cohomology",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Prismatic_cohomology",
-        "https://www.wikidata.org/wiki/Q141284593"
-      ]
-    },
-    {
       "qid": "Q140611118",
       "en": "Private simultaneous message passing",
       "origins": ["wikipedia-categories-and-core"],
@@ -66307,16 +63496,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Probabilistic_argumentation",
         "https://www.wikidata.org/wiki/Q7246848"
-      ]
-    },
-    {
-      "qid": "Q7246858",
-      "en": "Probabilistic metric space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Probabilistic_metric_space",
-        "https://www.wikidata.org/wiki/Q7246858"
       ]
     },
     {
@@ -66715,21 +63894,6 @@
       ]
     },
     {
-      "qid": "Q7249475",
-      "en": "Projective unitary group",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Projective_unitary_group",
-        "https://ncatlab.org/nlab/show/projective+unitary+group",
-        "https://www.wikidata.org/wiki/Q7249475"
-      ]
-    },
-    {
       "qid": "Q3554818",
       "en": "Projective variety",
       "origins": ["nlab-wikidata"],
@@ -66964,20 +64128,6 @@
       ]
     },
     {
-      "qid": "Q1434913",
-      "en": "Propagation constant",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Propagation_constant",
-        "https://www.wikidata.org/wiki/Q1434913"
-      ],
-      "zhCandidate": "传播常数"
-    },
-    {
       "qid": "Q112571087",
       "en": "Propagation of singularities theorem",
       "origins": ["wikipedia-categories-and-core"],
@@ -67151,21 +64301,6 @@
         "https://en.wikipedia.org/wiki/Proximity_effect_(superconductivity)",
         "https://www.wikidata.org/wiki/Q7252874"
       ]
-    },
-    {
-      "qid": "Q7252877",
-      "en": "Proximity space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Proximity_space",
-        "https://ncatlab.org/nlab/show/proximity+space",
-        "https://www.wikidata.org/wiki/Q7252877"
-      ],
-      "zhCandidate": "近接空間"
     },
     {
       "qid": "Q7253243",
@@ -67786,16 +64921,6 @@
         "https://www.wikidata.org/wiki/Q1258900"
       ],
       "zhCandidate": "九龍杯"
-    },
-    {
-      "qid": "Q2120067",
-      "en": "Pythagorean field",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Pythagorean_field",
-        "https://www.wikidata.org/wiki/Q2120067"
-      ]
     },
     {
       "qid": "Q4374749",
@@ -68542,16 +65667,6 @@
       ]
     },
     {
-      "qid": "Q7269030",
-      "en": "Quantum critical point",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_critical_point",
-        "https://www.wikidata.org/wiki/Q7269030"
-      ]
-    },
-    {
       "qid": "Q48802382",
       "en": "Quantum crystallography",
       "origins": ["wikipedia-categories-and-core"],
@@ -68673,16 +65788,6 @@
       ]
     },
     {
-      "qid": "Q7269042",
-      "en": "Quantum dynamics",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_dynamics",
-        "https://www.wikidata.org/wiki/Q7269042"
-      ]
-    },
-    {
       "qid": "Q131782954",
       "en": "Quantum energy teleportation",
       "origins": ["wikipedia-categories-and-core"],
@@ -68761,20 +65866,6 @@
         "https://en.wikipedia.org/wiki/Quantum_Flagship",
         "https://www.wikidata.org/wiki/Q105483431"
       ]
-    },
-    {
-      "qid": "Q7269050",
-      "en": "Quantum fluid",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_fluid",
-        "https://www.wikidata.org/wiki/Q7269050"
-      ],
-      "zhCandidate": "量子流体"
     },
     {
       "qid": "Q7269051",
@@ -69048,20 +66139,6 @@
       ]
     },
     {
-      "qid": "Q4439348",
-      "en": "Quantum limit",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_limit",
-        "https://www.wikidata.org/wiki/Q4439348"
-      ],
-      "zhCandidate": "量子极限"
-    },
-    {
       "qid": "Q7269067",
       "en": "Quantum lithography",
       "origins": ["wikipedia-categories-and-core"],
@@ -69070,21 +66147,6 @@
         "https://en.wikipedia.org/wiki/Quantum_lithography",
         "https://www.wikidata.org/wiki/Q7269067"
       ]
-    },
-    {
-      "qid": "Q1206311",
-      "en": "Quantum logic",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_logic",
-        "https://ncatlab.org/nlab/show/quantum+logic",
-        "https://www.wikidata.org/wiki/Q1206311"
-      ],
-      "zhCandidate": "量子逻辑"
     },
     {
       "qid": "Q7269026",
@@ -69212,20 +66274,6 @@
       ]
     },
     {
-      "qid": "Q7269077",
-      "en": "Quantum nondemolition measurement",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_nondemolition_measurement",
-        "https://www.wikidata.org/wiki/Q7269077"
-      ],
-      "zhCandidate": "量子非破坏性测量"
-    },
-    {
       "qid": "Q7269079",
       "en": "Quantum nonlocality",
       "origins": ["wikipedia-categories-and-core"],
@@ -69336,26 +66384,6 @@
         "https://www.wikidata.org/wiki/Q7269089"
       ],
       "zhCandidate": "量子参考系"
-    },
-    {
-      "qid": "Q7269090",
-      "en": "Quantum register",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_register",
-        "https://www.wikidata.org/wiki/Q7269090"
-      ]
-    },
-    {
-      "qid": "Q7269092",
-      "en": "Quantum revival",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quantum_revival",
-        "https://www.wikidata.org/wiki/Q7269092"
-      ]
     },
     {
       "qid": "Q7430214",
@@ -69579,16 +66607,6 @@
       ]
     },
     {
-      "qid": "Q283684",
-      "en": "Quasi-algebraically closed field",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quasi-algebraically_closed_field",
-        "https://www.wikidata.org/wiki/Q283684"
-      ]
-    },
-    {
       "qid": "Q96400619",
       "en": "Quasi-complete space",
       "origins": ["wikipedia-categories-and-core"],
@@ -69656,16 +66674,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Quasi-Frobenius_ring",
         "https://www.wikidata.org/wiki/Q7269430"
-      ]
-    },
-    {
-      "qid": "Q7269453",
-      "en": "Quasi-harmonic approximation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quasi-harmonic_approximation",
-        "https://www.wikidata.org/wiki/Q7269453"
       ]
     },
     {
@@ -70199,21 +67207,6 @@
       ]
     },
     {
-      "qid": "Q7272896",
-      "en": "Quotient category",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Quotient_category",
-        "https://ncatlab.org/nlab/show/quotient+category",
-        "https://www.wikidata.org/wiki/Q7272896"
-      ]
-    },
-    {
       "qid": "Q1432554",
       "en": "Quotient module",
       "origins": ["nlab-wikidata"],
@@ -70358,16 +67351,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Radial_basis_function_interpolation",
         "https://www.wikidata.org/wiki/Q65063433"
-      ]
-    },
-    {
-      "qid": "Q7280269",
-      "en": "Radial function",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Radial_function",
-        "https://www.wikidata.org/wiki/Q7280269"
       ]
     },
     {
@@ -70537,16 +67520,6 @@
       "zhCandidate": "分歧覆蓋"
     },
     {
-      "qid": "Q7289549",
-      "en": "Ramification group",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Ramification_group",
-        "https://www.wikidata.org/wiki/Q7289549"
-      ]
-    },
-    {
       "qid": "Q5365385",
       "en": "Ramond–Ramond field",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -70575,21 +67548,6 @@
         "https://ncatlab.org/nlab/show/Ran+space",
         "https://www.wikidata.org/wiki/Q17144166"
       ]
-    },
-    {
-      "qid": "Q1135677",
-      "en": "Randall–Sundrum model",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Randall%E2%80%93Sundrum_model",
-        "https://ncatlab.org/nlab/show/Randall-Sundrum+model",
-        "https://www.wikidata.org/wiki/Q1135677"
-      ],
-      "zhCandidate": "藍道爾·桑壯模型"
     },
     {
       "qid": "Q136345534",
@@ -71208,16 +68166,6 @@
       ]
     },
     {
-      "qid": "Q7301169",
-      "en": "Real representation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Real_representation",
-        "https://www.wikidata.org/wiki/Q7301169"
-      ]
-    },
-    {
       "qid": "Q105356166",
       "en": "real sign function",
       "origins": ["nlab-wikidata"],
@@ -71279,16 +68227,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Realized_variance",
         "https://www.wikidata.org/wiki/Q7301291"
-      ]
-    },
-    {
-      "qid": "Q3421817",
-      "en": "Recalescence",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Recalescence",
-        "https://www.wikidata.org/wiki/Q3421817"
       ]
     },
     {
@@ -72045,21 +68983,6 @@
       ]
     },
     {
-      "qid": "Q3925845",
-      "en": "Regular singular point",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Regular_singular_point",
-        "https://ncatlab.org/nlab/show/regular+singular+point",
-        "https://www.wikidata.org/wiki/Q3925845"
-      ],
-      "zhCandidate": "正则奇点"
-    },
-    {
       "qid": "Q77880977",
       "en": "Regular value",
       "origins": ["nlab-wikidata"],
@@ -72380,16 +69303,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Relativistic_disk",
         "https://www.wikidata.org/wiki/Q7310825"
-      ]
-    },
-    {
-      "qid": "Q7310826",
-      "en": "Relativistic dynamics",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Relativistic_dynamics",
-        "https://www.wikidata.org/wiki/Q7310826"
       ]
     },
     {
@@ -72753,21 +69666,6 @@
         "https://en.wikipedia.org/wiki/Residue_at_infinity",
         "https://www.wikidata.org/wiki/Q3457759"
       ]
-    },
-    {
-      "qid": "Q7315530",
-      "en": "Residue field",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Residue_field",
-        "https://ncatlab.org/nlab/show/residue+field",
-        "https://www.wikidata.org/wiki/Q7315530"
-      ],
-      "zhCandidate": "剩餘域"
     },
     {
       "qid": "Q7315527",
@@ -74136,20 +71034,6 @@
       ]
     },
     {
-      "qid": "Q643156",
-      "en": "Rotation number",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Rotation_number",
-        "https://www.wikidata.org/wiki/Q643156"
-      ],
-      "zhCandidate": "旋转数"
-    },
-    {
       "qid": "Q7370311",
       "en": "Rotation of axes in two dimensions",
       "origins": ["wikipedia-categories-and-core"],
@@ -74200,17 +71084,6 @@
       ]
     },
     {
-      "qid": "Q1086480",
-      "en": "Roton",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": ["https://en.wikipedia.org/wiki/Roton", "https://www.wikidata.org/wiki/Q1086480"],
-      "zhCandidate": "旋子"
-    },
-    {
       "qid": "Q7370888",
       "en": "Rough path",
       "origins": ["wikipedia-categories-and-core"],
@@ -74258,16 +71131,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Row_equivalence",
         "https://www.wikidata.org/wiki/Q3444264"
-      ]
-    },
-    {
-      "qid": "Q591732",
-      "en": "Rowland ring",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Rowland_ring",
-        "https://www.wikidata.org/wiki/Q591732"
       ]
     },
     {
@@ -75068,21 +71931,6 @@
       "zhCandidate": "散佈序"
     },
     {
-      "qid": "Q1322810",
-      "en": "Scattering amplitude",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Scattering_amplitude",
-        "https://ncatlab.org/nlab/show/scattering+amplitude",
-        "https://www.wikidata.org/wiki/Q1322810"
-      ],
-      "zhCandidate": "散射振幅"
-    },
-    {
       "qid": "Q4843854",
       "en": "Scattering cross-section",
       "origins": ["nlab-wikidata"],
@@ -75101,16 +71949,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Scattering_generator",
         "https://www.wikidata.org/wiki/Q141254129"
-      ]
-    },
-    {
-      "qid": "Q7430624",
-      "en": "Scattering rate",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Scattering_rate",
-        "https://www.wikidata.org/wiki/Q7430624"
       ]
     },
     {
@@ -75314,20 +72152,6 @@
       ]
     },
     {
-      "qid": "Q7432777",
-      "en": "Schottky anomaly",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Schottky_anomaly",
-        "https://www.wikidata.org/wiki/Q7432777"
-      ],
-      "zhCandidate": "肖特基異常"
-    },
-    {
       "qid": "Q1758077",
       "en": "Schottky effect",
       "origins": ["wikipedia-categories-and-core"],
@@ -75340,16 +72164,6 @@
         "https://www.wikidata.org/wiki/Q1758077"
       ],
       "zhCandidate": "朔特基效应"
-    },
-    {
-      "qid": "Q7432778",
-      "en": "Schottky group",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Schottky_group",
-        "https://www.wikidata.org/wiki/Q7432778"
-      ]
     },
     {
       "qid": "Q4454676",
@@ -75664,21 +72478,6 @@
       "zhCandidate": "施瓦茨三角鑲嵌法"
     },
     {
-      "qid": "Q864589",
-      "en": "Schwarzian derivative",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Schwarzian_derivative",
-        "https://ncatlab.org/nlab/show/Schwarzian+derivative",
-        "https://www.wikidata.org/wiki/Q864589"
-      ],
-      "zhCandidate": "施瓦茨导数"
-    },
-    {
       "qid": "Q110905030",
       "en": "Schwinger boson representation",
       "origins": ["wikipedia-categories-and-core"],
@@ -75891,20 +72690,6 @@
         "https://www.wikidata.org/wiki/Q1353947"
       ],
       "zhCandidate": "二次量子化"
-    },
-    {
-      "qid": "Q233699",
-      "en": "Second sound",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Second_sound",
-        "https://www.wikidata.org/wiki/Q233699"
-      ],
-      "zhCandidate": "第二類聲"
     },
     {
       "qid": "Q137710193",
@@ -76266,16 +73051,6 @@
       "zhCandidate": "自伴"
     },
     {
-      "qid": "Q7448024",
-      "en": "Self-averaging",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Self-averaging",
-        "https://www.wikidata.org/wiki/Q7448024"
-      ]
-    },
-    {
       "qid": "Q17105732",
       "en": "Self-dual Palatini action",
       "origins": ["wikipedia-categories-and-core"],
@@ -76297,20 +73072,6 @@
         "https://ncatlab.org/nlab/show/self-dual+Yang-Mills+theory",
         "https://www.wikidata.org/wiki/Q75195445"
       ]
-    },
-    {
-      "qid": "Q1171303",
-      "en": "Self-energy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Self-energy",
-        "https://www.wikidata.org/wiki/Q1171303"
-      ],
-      "zhCandidate": "自身能量"
     },
     {
       "qid": "Q7447973",
@@ -76361,16 +73122,6 @@
       ]
     },
     {
-      "qid": "Q4056366",
-      "en": "Self-similar solution",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Self-similar_solution",
-        "https://www.wikidata.org/wiki/Q4056366"
-      ]
-    },
-    {
       "qid": "Q7448234",
       "en": "Self-verifying theories",
       "origins": ["wikipedia-categories-and-core"],
@@ -76378,16 +73129,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Self-verifying_theories",
         "https://www.wikidata.org/wiki/Q7448234"
-      ]
-    },
-    {
-      "qid": "Q7448760",
-      "en": "Selmer group",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Selmer_group",
-        "https://www.wikidata.org/wiki/Q7448760"
       ]
     },
     {
@@ -76885,21 +73626,6 @@
         "https://en.wikipedia.org/wiki/Separatrix_(mathematics)",
         "https://www.wikidata.org/wiki/Q2902561"
       ]
-    },
-    {
-      "qid": "Q289411",
-      "en": "Sequence space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Sequence_space",
-        "https://ncatlab.org/nlab/show/sequence+space",
-        "https://www.wikidata.org/wiki/Q289411"
-      ],
-      "zhCandidate": "序列空間"
     },
     {
       "qid": "Q3509394",
@@ -77528,16 +74254,6 @@
       ]
     },
     {
-      "qid": "Q138754723",
-      "en": "Shor code",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Shor_code",
-        "https://www.wikidata.org/wiki/Q138754723"
-      ]
-    },
-    {
       "qid": "Q25305341",
       "en": "Short integer solution problem",
       "origins": ["wikipedia-categories-and-core"],
@@ -77773,21 +74489,6 @@
         "https://en.wikipedia.org/wiki/Sigma_approximation",
         "https://www.wikidata.org/wiki/Q2858951"
       ]
-    },
-    {
-      "qid": "Q7512415",
-      "en": "Sigma model",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Sigma_model",
-        "https://ncatlab.org/nlab/show/sigma-model",
-        "https://www.wikidata.org/wiki/Q7512415"
-      ],
-      "zhCandidate": "Σ模型"
     },
     {
       "qid": "Q28456160",
@@ -78061,20 +74762,6 @@
         "https://en.wikipedia.org/wiki/Simple_homotopy_theory",
         "https://www.wikidata.org/wiki/Q113504696"
       ]
-    },
-    {
-      "qid": "Q78502771",
-      "en": "Simple Lie algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Simple_Lie_algebra",
-        "https://www.wikidata.org/wiki/Q78502771"
-      ],
-      "zhCandidate": "单李代数"
     },
     {
       "qid": "Q4200303",
@@ -78782,16 +75469,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Slater%E2%80%93Pauling_rule",
         "https://www.wikidata.org/wiki/Q104856373"
-      ]
-    },
-    {
-      "qid": "Q2383244",
-      "en": "Slave boson",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Slave_boson",
-        "https://www.wikidata.org/wiki/Q2383244"
       ]
     },
     {
@@ -79644,20 +76321,6 @@
       ]
     },
     {
-      "qid": "Q4381552",
-      "en": "Space form",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Space_form",
-        "https://www.wikidata.org/wiki/Q4381552"
-      ],
-      "zhCandidate": "空間形式"
-    },
-    {
       "qid": "Q5165477",
       "en": "Space of continuous functions on a compact space",
       "origins": ["wikipedia-categories-and-core"],
@@ -79960,16 +76623,6 @@
       ]
     },
     {
-      "qid": "Q1431214",
-      "en": "Spectral leakage",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Spectral_leakage",
-        "https://www.wikidata.org/wiki/Q1431214"
-      ]
-    },
-    {
       "qid": "Q7575206",
       "en": "Spectral set",
       "origins": ["wikipedia-categories-and-core"],
@@ -80116,21 +76769,6 @@
         "https://www.wikidata.org/wiki/Q733336"
       ],
       "zhCandidate": "斯波纳引理"
-    },
-    {
-      "qid": "Q51544038",
-      "en": "Sphere bundle",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Sphere_bundle",
-        "https://ncatlab.org/nlab/show/sphere+fiber+bundle",
-        "https://www.wikidata.org/wiki/Q51544038"
-      ]
     },
     {
       "qid": "Q139854345",
@@ -80494,16 +77132,6 @@
       ]
     },
     {
-      "qid": "Q7577417",
-      "en": "Spin stiffness",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Spin_stiffness",
-        "https://www.wikidata.org/wiki/Q7577417"
-      ]
-    },
-    {
       "qid": "Q7577418",
       "en": "Spin structure",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -80747,16 +77375,6 @@
       ]
     },
     {
-      "qid": "Q7578643",
-      "en": "Split Lie algebra",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Split_Lie_algebra",
-        "https://www.wikidata.org/wiki/Q7578643"
-      ]
-    },
-    {
       "qid": "Q121773562",
       "en": "split monomorphism",
       "origins": ["nlab-wikidata"],
@@ -80848,13 +77466,6 @@
         "https://en.wikipedia.org/wiki/Spt_function",
         "https://www.wikidata.org/wiki/Q7581467"
       ]
-    },
-    {
-      "qid": "Q7581562",
-      "en": "Spurion",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": ["https://en.wikipedia.org/wiki/Spurion", "https://www.wikidata.org/wiki/Q7581562"]
     },
     {
       "qid": "Q7582059",
@@ -82005,20 +78616,6 @@
       "zhCandidate": "隨機電磁學"
     },
     {
-      "qid": "Q1666739",
-      "en": "Stochastic geometry",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Stochastic_geometry",
-        "https://www.wikidata.org/wiki/Q1666739"
-      ],
-      "zhCandidate": "隨機幾何"
-    },
-    {
       "qid": "Q108821995",
       "en": "Stochastic Gronwall inequality",
       "origins": ["wikipedia-categories-and-core"],
@@ -82061,16 +78658,6 @@
         "https://www.wikidata.org/wiki/Q7617830"
       ],
       "zhCandidate": "隨機過程和邊界值問題"
-    },
-    {
-      "qid": "Q7617833",
-      "en": "Stochastic quantization",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Stochastic_quantization",
-        "https://www.wikidata.org/wiki/Q7617833"
-      ]
     },
     {
       "qid": "Q7617820",
@@ -82237,36 +78824,6 @@
         "https://en.wikipedia.org/wiki/Stokesian_dynamics",
         "https://www.wikidata.org/wiki/Q7618559"
       ]
-    },
-    {
-      "qid": "Q7619060",
-      "en": "Stone duality",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Stone_duality",
-        "https://ncatlab.org/nlab/show/Stone+duality",
-        "https://www.wikidata.org/wiki/Q7619060"
-      ],
-      "zhCandidate": "史东对偶性"
-    },
-    {
-      "qid": "Q30587585",
-      "en": "Stone space",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Stone_space",
-        "https://ncatlab.org/nlab/show/Stone+space",
-        "https://www.wikidata.org/wiki/Q30587585"
-      ],
-      "zhCandidate": "斯通空间"
     },
     {
       "qid": "Q7619072",
@@ -82438,20 +78995,6 @@
       ]
     },
     {
-      "qid": "Q2029236",
-      "en": "Stream function",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Stream_function",
-        "https://www.wikidata.org/wiki/Q2029236"
-      ],
-      "zhCandidate": "流函數"
-    },
-    {
       "qid": "Q7622678",
       "en": "Stream thrust averaging",
       "origins": ["wikipedia-categories-and-core"],
@@ -82489,16 +79032,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Strength_(mathematical_logic)",
         "https://www.wikidata.org/wiki/Q1989404"
-      ]
-    },
-    {
-      "qid": "Q7623438",
-      "en": "Stress field",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Stress_field",
-        "https://www.wikidata.org/wiki/Q7623438"
       ]
     },
     {
@@ -82704,16 +79237,6 @@
         "https://www.wikidata.org/wiki/Q7624462"
       ],
       "zhCandidate": "强相互作用的CP问题"
-    },
-    {
-      "qid": "Q96406607",
-      "en": "Strong dual space",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Strong_dual_space",
-        "https://www.wikidata.org/wiki/Q96406607"
-      ]
     },
     {
       "qid": "Q49000648",
@@ -83179,16 +79702,6 @@
       "zhCandidate": "子幺半群"
     },
     {
-      "qid": "Q7631728",
-      "en": "Subnormal operator",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Subnormal_operator",
-        "https://www.wikidata.org/wiki/Q7631728"
-      ]
-    },
-    {
       "qid": "Q2547089",
       "en": "Subobject",
       "origins": ["nlab-wikidata"],
@@ -83636,20 +80149,6 @@
       ]
     },
     {
-      "qid": "Q2042163",
-      "en": "Superdense coding",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Superdense_coding",
-        "https://www.wikidata.org/wiki/Q2042163"
-      ],
-      "zhCandidate": "密集编码"
-    },
-    {
       "qid": "Q716221",
       "en": "Superfield",
       "origins": ["nlab-wikidata"],
@@ -83862,16 +80361,6 @@
       ]
     },
     {
-      "qid": "Q3063080",
-      "en": "Superradiance",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Superradiance",
-        "https://www.wikidata.org/wiki/Q3063080"
-      ]
-    },
-    {
       "qid": "Q13557554",
       "en": "Superradiant phase transition",
       "origins": ["wikipedia-categories-and-core"],
@@ -83969,21 +80458,6 @@
         "https://www.wikidata.org/wiki/Q333195"
       ],
       "zhCandidate": "超音速風洞"
-    },
-    {
-      "qid": "Q6501705",
-      "en": "Superspace",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Superspace",
-        "https://ncatlab.org/nlab/show/superspace",
-        "https://www.wikidata.org/wiki/Q6501705"
-      ],
-      "zhCandidate": "超空间"
     },
     {
       "qid": "Q7644228",
@@ -84460,21 +80934,6 @@
       "zhCandidate": "符号数值计算"
     },
     {
-      "qid": "Q1052674",
-      "en": "Symmetric algebra",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Symmetric_algebra",
-        "https://ncatlab.org/nlab/show/symmetric+algebra",
-        "https://www.wikidata.org/wiki/Q1052674"
-      ],
-      "zhCandidate": "对称代数"
-    },
-    {
       "qid": "Q17107455",
       "en": "Symmetric cone",
       "origins": ["wikipedia-categories-and-core"],
@@ -84568,20 +81027,6 @@
         "https://ncatlab.org/nlab/show/symmetric+spectrum",
         "https://www.wikidata.org/wiki/Q17090831"
       ]
-    },
-    {
-      "qid": "Q2204117",
-      "en": "Symmetric tensor",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Symmetric_tensor",
-        "https://www.wikidata.org/wiki/Q2204117"
-      ],
-      "zhCandidate": "對稱張量"
     },
     {
       "qid": "Q7661319",
@@ -85073,16 +81518,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Table_of_thermodynamic_equations",
         "https://www.wikidata.org/wiki/Q8214306"
-      ]
-    },
-    {
-      "qid": "Q17156833",
-      "en": "Tachyonic field",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Tachyonic_field",
-        "https://www.wikidata.org/wiki/Q17156833"
       ]
     },
     {
@@ -85910,16 +82345,6 @@
         "https://www.wikidata.org/wiki/Q428091"
       ],
       "zhCandidate": "張量縮併"
-    },
-    {
-      "qid": "Q904927",
-      "en": "Tensor density",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Tensor_density",
-        "https://www.wikidata.org/wiki/Q904927"
-      ]
     },
     {
       "qid": "Q105638008",
@@ -86971,20 +83396,6 @@
       ]
     },
     {
-      "qid": "Q7797027",
-      "en": "Thouless energy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Thouless_energy",
-        "https://www.wikidata.org/wiki/Q7797027"
-      ],
-      "zhCandidate": "索利斯能"
-    },
-    {
       "qid": "Q3735412",
       "en": "Three-jet event",
       "origins": ["wikipedia-categories-and-core"],
@@ -87036,16 +83447,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Threshold_displacement_energy",
         "https://www.wikidata.org/wiki/Q7798099"
-      ]
-    },
-    {
-      "qid": "Q162794",
-      "en": "Threshold energy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Threshold_energy",
-        "https://www.wikidata.org/wiki/Q162794"
       ]
     },
     {
@@ -87284,21 +83685,6 @@
       "sources": [
         "https://ncatlab.org/nlab/show/Todd+class",
         "https://www.wikidata.org/wiki/Q2438393"
-      ]
-    },
-    {
-      "qid": "Q7812935",
-      "en": "Toeplitz operator",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Toeplitz_operator",
-        "https://ncatlab.org/nlab/show/Toeplitz+operator",
-        "https://www.wikidata.org/wiki/Q7812935"
       ]
     },
     {
@@ -87717,20 +84103,6 @@
       "zhCandidate": "拓扑量子计算机"
     },
     {
-      "qid": "Q634781",
-      "en": "Topological quantum number",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Topological_quantum_number",
-        "https://www.wikidata.org/wiki/Q634781"
-      ],
-      "zhCandidate": "拓扑荷"
-    },
-    {
       "qid": "Q28456143",
       "en": "Topological recursion",
       "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
@@ -87946,16 +84318,6 @@
         "https://www.wikidata.org/wiki/Q728969"
       ],
       "zhCandidate": "托里拆利定律"
-    },
-    {
-      "qid": "Q3822160",
-      "en": "Torsion constant",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Torsion_constant",
-        "https://www.wikidata.org/wiki/Q3822160"
-      ]
     },
     {
       "qid": "Q7827207",
@@ -88639,20 +85001,6 @@
       "zhCandidate": "横观各向同性"
     },
     {
-      "qid": "Q7835439",
-      "en": "Transverse mass",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Transverse_mass",
-        "https://www.wikidata.org/wiki/Q7835439"
-      ],
-      "zhCandidate": "横向质量"
-    },
-    {
       "qid": "Q107261213",
       "en": "Transverse momentum distributions",
       "origins": ["wikipedia-categories-and-core"],
@@ -88670,16 +85018,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Transylvania_lottery",
         "https://www.wikidata.org/wiki/Q7835490"
-      ]
-    },
-    {
-      "qid": "Q7835643",
-      "en": "Trapped surface",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Trapped_surface",
-        "https://www.wikidata.org/wiki/Q7835643"
       ]
     },
     {
@@ -88762,21 +85100,6 @@
       ]
     },
     {
-      "qid": "Q7840150",
-      "en": "Triangulated category",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Triangulated_category",
-        "https://ncatlab.org/nlab/show/triangulated+category",
-        "https://www.wikidata.org/wiki/Q7840150"
-      ]
-    },
-    {
       "qid": "Q7840154",
       "en": "Triangulation (topology)",
       "origins": ["wikipedia-categories-and-core"],
@@ -88801,16 +85124,6 @@
       "sources": [
         "https://ncatlab.org/nlab/show/tricategory",
         "https://www.wikidata.org/wiki/Q16958581"
-      ]
-    },
-    {
-      "qid": "Q7841310",
-      "en": "Tricritical point",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Tricritical_point",
-        "https://www.wikidata.org/wiki/Q7841310"
       ]
     },
     {
@@ -89219,16 +85532,6 @@
       ]
     },
     {
-      "qid": "Q56273850",
-      "en": "Turing pattern",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Turing_pattern",
-        "https://www.wikidata.org/wiki/Q56273850"
-      ]
-    },
-    {
       "qid": "Q7854954",
       "en": "Turing's proof",
       "origins": ["wikipedia-categories-and-core"],
@@ -89511,16 +85814,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Two-dimensional_Yang%E2%80%93Mills_theory",
         "https://www.wikidata.org/wiki/Q105474755"
-      ]
-    },
-    {
-      "qid": "Q11838863",
-      "en": "Two-fluid model",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Two-fluid_model",
-        "https://www.wikidata.org/wiki/Q11838863"
       ]
     },
     {
@@ -89861,21 +86154,6 @@
       ]
     },
     {
-      "qid": "Q3032228",
-      "en": "Ultraviolet divergence",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Ultraviolet_divergence",
-        "https://ncatlab.org/nlab/show/ultraviolet+divergence",
-        "https://www.wikidata.org/wiki/Q3032228"
-      ],
-      "zhCandidate": "紫外發散"
-    },
-    {
       "qid": "Q7880722",
       "en": "Ultraweak topology",
       "origins": ["nlab-wikidata"],
@@ -89967,20 +86245,6 @@
         "https://en.wikipedia.org/wiki/UNCOVER",
         "https://www.wikidata.org/wiki/Q136653271"
       ]
-    },
-    {
-      "qid": "Q4316110",
-      "en": "Underdetermined system",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Underdetermined_system",
-        "https://www.wikidata.org/wiki/Q4316110"
-      ],
-      "zhCandidate": "欠定系统"
     },
     {
       "qid": "Q25325340",
@@ -90202,16 +86466,6 @@
       ]
     },
     {
-      "qid": "Q7886915",
-      "en": "Unipotent representation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Unipotent_representation",
-        "https://www.wikidata.org/wiki/Q7886915"
-      ]
-    },
-    {
       "qid": "Q132573452",
       "en": "Uniqueness of identity proofs",
       "origins": ["wikipedia-categories-and-core"],
@@ -90344,20 +86598,6 @@
       "zhCandidate": "么正表示"
     },
     {
-      "qid": "Q2495534",
-      "en": "Unitary transformation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Unitary_transformation",
-        "https://www.wikidata.org/wiki/Q2495534"
-      ],
-      "zhCandidate": "幺正"
-    },
-    {
       "qid": "Q56276344",
       "en": "Unitary transformation (quantum mechanics)",
       "origins": ["wikipedia-categories-and-core"],
@@ -90365,21 +86605,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Unitary_transformation_(quantum_mechanics)",
         "https://www.wikidata.org/wiki/Q56276344"
-      ]
-    },
-    {
-      "qid": "Q7894108",
-      "en": "Universal bundle",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart",
-        "no-chinese-label-or-zhwiki-sitelink"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Universal_bundle",
-        "https://ncatlab.org/nlab/show/universal+bundle",
-        "https://www.wikidata.org/wiki/Q7894108"
       ]
     },
     {
@@ -90465,21 +86690,6 @@
         "https://www.wikidata.org/wiki/Q7894172"
       ],
       "zhCandidate": "全體波函數"
-    },
-    {
-      "qid": "Q25098515",
-      "en": "Universality class",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Universality_class",
-        "https://ncatlab.org/nlab/show/universality+class",
-        "https://www.wikidata.org/wiki/Q25098515"
-      ],
-      "zhCandidate": "普遍类"
     },
     {
       "qid": "Q7894192",
@@ -90640,20 +86850,6 @@
       "zhCandidate": "二硅化二钌铀"
     },
     {
-      "qid": "Q7901160",
-      "en": "Ursell function",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Ursell_function",
-        "https://www.wikidata.org/wiki/Q7901160"
-      ],
-      "zhCandidate": "连通格林函数"
-    },
-    {
       "qid": "Q20011504",
       "en": "USC-Lockheed Martin Quantum Computing Center",
       "origins": ["wikipedia-categories-and-core"],
@@ -90763,16 +86959,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Vafa%E2%80%93Witten_theorem",
         "https://www.wikidata.org/wiki/Q10859514"
-      ]
-    },
-    {
-      "qid": "Q17125297",
-      "en": "Vague topology",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Vague_topology",
-        "https://www.wikidata.org/wiki/Q17125297"
       ]
     },
     {
@@ -90930,16 +87116,6 @@
       ]
     },
     {
-      "qid": "Q27826761",
-      "en": "Variable-mass system",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Variable-mass_system",
-        "https://www.wikidata.org/wiki/Q27826761"
-      ]
-    },
-    {
       "qid": "Q17016064",
       "en": "Variance function",
       "origins": ["wikipedia-categories-and-core"],
@@ -91079,21 +87255,6 @@
         "https://www.wikidata.org/wiki/Q13471665"
       ],
       "zhCandidate": "矢量"
-    },
-    {
-      "qid": "Q2563571",
-      "en": "Vector boson",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Vector_boson",
-        "https://ncatlab.org/nlab/show/vector+boson",
-        "https://www.wikidata.org/wiki/Q2563571"
-      ],
-      "zhCandidate": "矢量玻色子"
     },
     {
       "qid": "Q7917823",
@@ -91269,20 +87430,6 @@
         "https://en.wikipedia.org/wiki/Vertex_cover_in_hypergraphs",
         "https://www.wikidata.org/wiki/Q2866200"
       ]
-    },
-    {
-      "qid": "Q7922778",
-      "en": "Vertex function",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Vertex_function",
-        "https://www.wikidata.org/wiki/Q7922778"
-      ],
-      "zhCandidate": "頂點函數"
     },
     {
       "qid": "Q7922777",
@@ -91551,20 +87698,6 @@
       "zhCandidate": "虛光子"
     },
     {
-      "qid": "Q7935171",
-      "en": "Virtual state",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Virtual_state",
-        "https://www.wikidata.org/wiki/Q7935171"
-      ],
-      "zhCandidate": "虚拟态"
-    },
-    {
       "qid": "Q7935201",
       "en": "Virtually",
       "origins": ["wikipedia-categories-and-core"],
@@ -91624,20 +87757,6 @@
         "https://en.wikipedia.org/wiki/Viterbi_semiring",
         "https://www.wikidata.org/wiki/Q135921296"
       ]
-    },
-    {
-      "qid": "Q2323892",
-      "en": "Vlasov equation",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Vlasov_equation",
-        "https://www.wikidata.org/wiki/Q2323892"
-      ],
-      "zhCandidate": "符拉索夫方程"
     },
     {
       "qid": "Q7939367",
@@ -91943,20 +88062,6 @@
         "https://www.wikidata.org/wiki/Q28129961"
       ],
       "zhCandidate": "旋涡脱落"
-    },
-    {
-      "qid": "Q16916679",
-      "en": "Vortex sheet",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Vortex_sheet",
-        "https://www.wikidata.org/wiki/Q16916679"
-      ],
-      "zhCandidate": "涡片"
     },
     {
       "qid": "Q7941936",
@@ -92286,16 +88391,6 @@
       "zhCandidate": "波函數重整化"
     },
     {
-      "qid": "Q136259746",
-      "en": "Wave impedance",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Wave_impedance",
-        "https://www.wikidata.org/wiki/Q136259746"
-      ]
-    },
-    {
       "qid": "Q25111098",
       "en": "Wave method",
       "origins": ["wikipedia-categories-and-core"],
@@ -92418,20 +88513,6 @@
       "zhCandidate": "弱逆"
     },
     {
-      "qid": "Q2252683",
-      "en": "Weak localization",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Weak_localization",
-        "https://www.wikidata.org/wiki/Q2252683"
-      ],
-      "zhCandidate": "弱局域化"
-    },
-    {
       "qid": "Q7977957",
       "en": "Weak n-category",
       "origins": ["wikipedia-categories-and-core"],
@@ -92464,20 +88545,6 @@
         "https://www.wikidata.org/wiki/Q1414271"
       ],
       "zhCandidate": "全預序"
-    },
-    {
-      "qid": "Q505760",
-      "en": "Weak topology",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Weak_topology",
-        "https://www.wikidata.org/wiki/Q505760"
-      ],
-      "zhCandidate": "弱拓扑"
     },
     {
       "qid": "Q31202180",
@@ -92859,16 +88926,6 @@
       ]
     },
     {
-      "qid": "Q7980400",
-      "en": "Weiss magneton",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Weiss_magneton",
-        "https://www.wikidata.org/wiki/Q7980400"
-      ]
-    },
-    {
       "qid": "Q7980430",
       "en": "Weitzenböck identity",
       "origins": ["wikipedia-categories-and-core"],
@@ -93043,21 +89100,6 @@
         "https://www.wikidata.org/wiki/Q7990334"
       ],
       "zhCandidate": "外爾符號"
-    },
-    {
-      "qid": "Q869108",
-      "en": "Weyl tensor",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Weyl_tensor",
-        "https://ncatlab.org/nlab/show/Weyl+tensor",
-        "https://www.wikidata.org/wiki/Q869108"
-      ],
-      "zhCandidate": "外爾曲率"
     },
     {
       "qid": "Q3997736",
@@ -93534,20 +89576,6 @@
         "https://www.wikidata.org/wiki/Q2874804"
       ],
       "zhCandidate": "公理化量子场论"
-    },
-    {
-      "qid": "Q1999609",
-      "en": "Wigner crystal",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Wigner_crystal",
-        "https://www.wikidata.org/wiki/Q1999609"
-      ],
-      "zhCandidate": "維格納晶體"
     },
     {
       "qid": "Q25303636",
@@ -94028,16 +90056,6 @@
       ]
     },
     {
-      "qid": "Q907952",
-      "en": "Wulff construction",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Wulff_construction",
-        "https://www.wikidata.org/wiki/Q907952"
-      ]
-    },
-    {
       "qid": "Q8039427",
       "en": "Wu–Sprung potential",
       "origins": ["wikipedia-categories-and-core"],
@@ -94478,20 +90496,6 @@
       ]
     },
     {
-      "qid": "Q8068452",
-      "en": "Zeeman energy",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Zeeman_energy",
-        "https://www.wikidata.org/wiki/Q8068452"
-      ],
-      "zhCandidate": "塞曼能"
-    },
-    {
       "qid": "Q139760666",
       "en": "Zeldovich amplification",
       "origins": ["wikipedia-categories-and-core"],
@@ -94583,31 +90587,6 @@
       "sources": [
         "https://en.wikipedia.org/wiki/Zero_object_(algebra)",
         "https://www.wikidata.org/wiki/Q16089841"
-      ]
-    },
-    {
-      "qid": "Q1652969",
-      "en": "Zero ring",
-      "origins": ["nlab-wikidata", "wikipedia-categories-and-core"],
-      "reasons": [
-        "Chinese Wikidata label only; translation requires editorial review",
-        "No Chinese Wikipedia counterpart"
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Zero_ring",
-        "https://ncatlab.org/nlab/show/trivial+ring",
-        "https://www.wikidata.org/wiki/Q1652969"
-      ],
-      "zhCandidate": "平凡环"
-    },
-    {
-      "qid": "Q4327976",
-      "en": "Zero sound",
-      "origins": ["wikipedia-categories-and-core"],
-      "reasons": ["No Chinese Wikipedia counterpart"],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Zero_sound",
-        "https://www.wikidata.org/wiki/Q4327976"
       ]
     },
     {

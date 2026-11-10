@@ -34,7 +34,10 @@ def main(catalog_path, workdir=None):
     catalog = json.loads(Path(catalog_path).read_text())
     expected = {}
     for entry in catalog["entries"]:
-        page_id = entry["sources"]["zhWikipedia"]["pageId"]
+        chinese_page = entry["sources"].get("zhWikipedia")
+        if chinese_page is None:
+            continue
+        page_id = chinese_page["pageId"]
         qid = entry["qid"]
         if not isinstance(page_id, int) or page_id <= 0 or not qid:
             raise ValueError(f"Invalid Wikipedia identity for {entry['id']}")

@@ -360,7 +360,7 @@
       "canonical": "Symmetric algebra",
       "wikidata_id": "Q1052674",
       "status": "labelBased",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Clifford algebra",
@@ -456,7 +456,7 @@
       "canonical": "Direct sum",
       "wikidata_id": "Q13582243",
       "status": "labelBased",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Orthogonality",
@@ -512,7 +512,7 @@
       "canonical": "Symmetric tensor",
       "wikidata_id": "Q2204117",
       "status": "labelBased",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Antisymmetric tensor",
@@ -640,7 +640,7 @@
       "canonical": "Triangulated category",
       "wikidata_id": "Q7840150",
       "status": "pending",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Model category",
@@ -728,7 +728,7 @@
       "canonical": "Epimorphism",
       "wikidata_id": "Q1347208",
       "status": "labelBased",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Product (category theory)",
@@ -936,7 +936,7 @@
       "canonical": "Classifying space",
       "wikidata_id": "Q5128445",
       "status": "labelBased",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Homotopy limit",
@@ -3528,7 +3528,7 @@
       "canonical": "Scattering amplitude",
       "wikidata_id": "Q1322810",
       "status": "labelBased",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Feynman path integral",
@@ -3728,7 +3728,7 @@
       "canonical": "Deformation quantization",
       "wikidata_id": "Q131143202",
       "status": "pending",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Canonical quantization",
@@ -4008,7 +4008,7 @@
       "canonical": "Cosmological perturbation theory",
       "wikidata_id": "Q3526841",
       "status": "labelBased",
-      "publicationStatus": "pending-or-excluded"
+      "publicationStatus": "published"
     },
     {
       "seed": "Large-scale structure of the universe",

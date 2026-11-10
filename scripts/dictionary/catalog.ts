@@ -13,6 +13,31 @@ export interface WikipediaPage {
   variantRevisionId?: number
 }
 
+export interface TranslationReference {
+  title: string
+  url: string
+  publisher: string
+  sourceZh: string
+  sourceEn: string
+  locator?: string
+  kind?: string
+}
+
+export interface TranslationEvidence {
+  basis: "official-terminology" | "academic-usage"
+  verifiedOn: string
+  sources: TranslationReference[]
+  note?: string
+}
+
+export interface WikipediaVerification {
+  verifiedOn: string
+  enQid: string
+  enPageId: number
+  enRevisionId: number
+  zhSitelink: null
+}
+
 export interface CatalogEntry {
   id: string
   qid: string
@@ -20,9 +45,11 @@ export interface CatalogEntry {
   en: string
   variants: string[]
   subjects: string[]
+  translation?: TranslationEvidence
+  wikipediaVerification?: WikipediaVerification
   sources: {
     enWikipedia: WikipediaPage
-    zhWikipedia: WikipediaPage
+    zhWikipedia?: WikipediaPage
     wikidata: { url: string; revisionId: number }
     nlab: { title: string; url: string; sourcePath: string }[]
   }
@@ -36,14 +63,103 @@ export interface Catalog {
 }
 
 function simplifiedChinese(entry: CatalogEntry): string {
+  if (!entry.sources.zhWikipedia) {
+    assert(entry.translation, `missing Chinese translation evidence: ${entry.id}`)
+    // This is the reviewed Simplified Chinese name. Keep source spellings in the
+    // evidence and aliases; do not invent a Wikipedia title or guess a conversion.
+    return entry.zh
+  }
   const title = entry.sources.zhWikipedia.titleVariants?.["zh-hans"]
   assert(title && title.trim(), `missing verified Simplified Chinese title: ${entry.id}`)
   return title
 }
 
+function validateDate(value: string, label: string): void {
+  assert.equal(typeof value, "string", `invalid ${label}`)
+  assert.match(value, /^\d{4}-\d{2}-\d{2}$/, `invalid ${label}`)
+  const date = new Date(`${value}T00:00:00Z`)
+  assert(Number.isFinite(date.getTime()), `invalid ${label}`)
+  assert.equal(date.toISOString().slice(0, 10), value, `invalid ${label}`)
+}
+
+function validateTranslation(entry: CatalogEntry): void {
+  const translation = entry.translation
+  if (!translation) {
+    assert(entry.sources.zhWikipedia, `missing Chinese translation evidence: ${entry.id}`)
+    return
+  }
+  assert(
+    translation.basis === "official-terminology" || translation.basis === "academic-usage",
+    `unsupported Chinese translation basis: ${entry.id}`,
+  )
+  validateDate(translation.verifiedOn, `translation verification date: ${entry.id}`)
+  assert(
+    Array.isArray(translation.sources) && translation.sources.length > 0,
+    `missing Chinese translation references: ${entry.id}`,
+  )
+  if (translation.note !== undefined) {
+    assert(
+      typeof translation.note === "string" && translation.note.trim(),
+      `invalid translation note: ${entry.id}`,
+    )
+  }
+  for (const reference of translation.sources) {
+    assert(reference && typeof reference === "object", `invalid translation reference: ${entry.id}`)
+    for (const field of ["title", "url", "publisher", "sourceZh", "sourceEn"] as const) {
+      assert(
+        typeof reference[field] === "string" && reference[field].trim(),
+        `missing translation reference ${field}: ${entry.id}`,
+      )
+    }
+    for (const field of ["locator", "kind"] as const) {
+      if (reference[field] !== undefined) {
+        assert(
+          typeof reference[field] === "string" && reference[field].trim(),
+          `invalid translation reference ${field}: ${entry.id}`,
+        )
+      }
+    }
+    assert(!/[\s<>]/u.test(reference.url), `invalid translation reference URL: ${entry.id}`)
+    const url = new URL(reference.url)
+    assert.equal(url.protocol, "https:", `translation reference must use HTTPS: ${entry.id}`)
+    assert(!url.username && !url.password, `translation reference URL has credentials: ${entry.id}`)
+    if (reference.sourceZh !== entry.zh) {
+      assert(
+        entry.variants.includes(reference.sourceZh),
+        `missing original translation alias: ${entry.id}`,
+      )
+    }
+  }
+}
+
+function validateWikipediaVerification(entry: CatalogEntry): void {
+  const verification = entry.wikipediaVerification
+  if (!verification) {
+    assert(entry.sources.zhWikipedia, `missing Wikipedia verification: ${entry.id}`)
+    return
+  }
+  validateDate(verification.verifiedOn, `Wikipedia verification date: ${entry.id}`)
+  assert.equal(verification.enQid, entry.qid, `Wikipedia verification QID mismatch: ${entry.id}`)
+  assert.equal(
+    verification.enPageId,
+    entry.sources.enWikipedia.pageId,
+    `Wikipedia verification page ID mismatch: ${entry.id}`,
+  )
+  assert.equal(
+    verification.enRevisionId,
+    entry.sources.enWikipedia.revisionId,
+    `Wikipedia verification revision ID mismatch: ${entry.id}`,
+  )
+  assert.equal(
+    verification.zhSitelink,
+    null,
+    `Wikipedia verification must record absent Chinese sitelink: ${entry.id}`,
+  )
+}
+
 export function validateCatalog(catalog: Catalog, subjects: Record<string, string>): void {
   assert.equal(catalog.schemaVersion, 1, "unsupported catalog schema")
-  assert.match(catalog.collectedOn, /^\d{4}-\d{2}-\d{2}$/)
+  validateDate(catalog.collectedOn, "catalog collection date")
   assert.match(catalog.nlabSnapshot, /^[a-f0-9]{40}$/)
   const ids = new Set<string>()
   const qids = new Set<string>()
@@ -56,14 +172,15 @@ export function validateCatalog(catalog: Catalog, subjects: Record<string, strin
     ids.add(entry.id)
     qids.add(entry.qid)
     assert(entry.en.trim() && entry.zh.trim(), `missing names: ${entry.id}`)
+    validateTranslation(entry)
     assert.equal(
       entry.zh,
       simplifiedChinese(entry),
       `Chinese primary title must use zh-hans: ${entry.id}`,
     )
     for (const sourceTitle of [
-      entry.sources.zhWikipedia.title,
-      entry.sources.zhWikipedia.titleVariants?.["zh-hant"],
+      entry.sources.zhWikipedia?.title,
+      entry.sources.zhWikipedia?.titleVariants?.["zh-hant"],
     ]) {
       if (sourceTitle && sourceTitle !== entry.zh && sourceTitle !== entry.en) {
         assert(
@@ -75,10 +192,13 @@ export function validateCatalog(catalog: Catalog, subjects: Record<string, strin
     assert(entry.subjects.length > 0, `missing subject: ${entry.id}`)
     for (const subject of entry.subjects) assert(subjects[subject], `unknown subject: ${subject}`)
     assert(entry.variants.every((variant) => typeof variant === "string" && variant.trim()))
+    assert(entry.sources.enWikipedia, `missing English Wikipedia page: ${entry.id}`)
+    validateWikipediaVerification(entry)
     for (const [language, page] of [
       ["en", entry.sources.enWikipedia],
       ["zh", entry.sources.zhWikipedia],
     ] as const) {
+      if (!page) continue
       assert(page.title.trim())
       assert(Number.isSafeInteger(page.pageId) && page.pageId > 0)
       const pageIdentity = `${language}:${page.pageId}`
@@ -140,16 +260,25 @@ export function renderConcept(
     dictionarySource: {
       qid: entry.qid,
       collectedOn: catalog.collectedOn,
-      translationBasis: "wikipedia-same-wikidata-item",
+      translationBasis: entry.sources.zhWikipedia
+        ? "wikipedia-same-wikidata-item"
+        : entry.translation!.basis,
+      ...(entry.translation ? { translationVerifiedOn: entry.translation.verifiedOn } : {}),
+      ...(entry.wikipediaVerification
+        ? { wikipediaVerifiedOn: entry.wikipediaVerification.verifiedOn }
+        : {}),
     },
   }
   const wikipedia = [
     ["中文 Wikipedia", entry.sources.zhWikipedia, "zh"],
     ["English Wikipedia", entry.sources.enWikipedia, "en"],
   ] as const
-  const sources = wikipedia.map(
-    ([label, page, language]) =>
-      `- ${link(`${label}：${language === "zh" ? chinese : page.title}`, page.url)}（${link("采集时版本", `https://${language}.wikipedia.org/w/index.php?oldid=${page.revisionId}`)}）`,
+  const sources = wikipedia.flatMap(([label, page, language]) =>
+    page
+      ? [
+          `- ${link(`${label}：${language === "zh" ? chinese : page.title}`, page.url)}（${link("采集时版本", `https://${language}.wikipedia.org/w/index.php?oldid=${page.revisionId}`)}）`,
+        ]
+      : [],
   )
   for (const page of entry.sources.nlab) {
     sources.push(`- ${link(`nLab：${page.title}`, page.url)}`)
@@ -160,6 +289,24 @@ export function renderConcept(
   const variants = entry.variants.length
     ? `\n## 别名 / Variants\n\n保留来源中的不同译名及简繁写法，便于检索。\n\n${entry.variants.map(plain).join("； ")}\n`
     : ""
+  const translation = entry.translation
+  const translationReferences = translation
+    ? `
+
+## 中文译名依据 / Chinese translation references
+
+${translation.basis === "official-terminology" ? "术语来源译名" : "学术文献用法"}。核验日期：${translation.verifiedOn}。采用简体名：**${plain(chinese)}**。
+
+${translation.sources
+  .map(
+    (reference) =>
+      `- ${link(reference.title, reference.url)}（${plain(reference.publisher)}）。来源原译名：${plain(reference.sourceZh)}；原文英文：${plain(reference.sourceEn)}。${reference.locator ? `定位：${plain(reference.locator)}。` : ""}`,
+  )
+  .join("\n")}${translation.note ? `\n\n${plain(translation.note)}` : ""}`
+    : ""
+  const namingBasis = entry.sources.zhWikipedia
+    ? "中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。"
+    : `${entry.wikipediaVerification!.verifiedOn} 核验时未找到对应的中文 Wikipedia 页面；采用${translation!.basis === "official-terminology" ? "术语来源译名" : "学术文献用法"}。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。`
   return `---\n${yaml.dump(metadata, { lineWidth: -1, noRefs: true, quotingType: '"' })}---
 
 **${plain(chinese)}** · **${plain(entry.en)}**
@@ -168,9 +315,9 @@ ${entry.subjects.map((subject) => plain(subjects[subject])).join(" · ")}
 ${variants}
 ## 参考来源 / Sources
 
-${sources.join("\n")}
+${sources.join("\n")}${translationReferences}
 
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。${entry.sources.nlab.length ? "nLab 对应关系经其官方源码快照及 Wikidata 标识核对。" : ""}
+${namingBasis}这里收录术语名称与来源索引，定义及说明请参阅原文${entry.sources.zhWikipedia ? "；译名和别名尚未逐条人工审定。" : "。"}${entry.sources.nlab.length ? "nLab 对应关系经其官方源码快照及 Wikidata 标识核对。" : ""}
 
 采集日期：${catalog.collectedOn}。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
