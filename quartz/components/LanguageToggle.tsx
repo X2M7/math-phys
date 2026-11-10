@@ -4,9 +4,9 @@ const LanguageToggle: QuartzComponent = (props?: QuartzComponentProps) => {
   // 关键：防止 props 为 undefined
   if (!props || !props.fileData) return null
 
-  const fm = props.fileData.frontmatter ?? {}
-  const lang = (fm.lang as string) ?? "en"
-  const alt = fm.alt as string | undefined
+  const fm = props.fileData.frontmatter
+  const lang = fm?.lang ?? "en"
+  const alt = fm?.alt as string | undefined
 
   // 没有 alt 的页面不显示按钮
   if (!alt) return null

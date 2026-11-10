@@ -3,21 +3,23 @@ name: Build and Test
 on:
   pull_request:
     branches:
+      - main
       - v4
   push:
     branches:
+      - main
       - v4
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   build-and-test:
-    if: ${{ github.repository == 'jackyzha0/quartz' }}
     strategy:
       matrix:
         os: [windows-latest, macos-latest, ubuntu-latest]
     runs-on: ${{ matrix.os }}
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v6
         with:
@@ -26,7 +28,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
-          node-version: 22
+          node-version-file: .node-version
 
       - name: Cache dependencies
         uses: actions/cache@v5
@@ -44,8 +46,11 @@ jobs:
       - name: Test
         run: npm test
 
-      - name: Ensure Quartz builds, check bundle info
-        run: npx quartz build --bundleInfo -d docs
+      - name: Build site
+        run: npx quartz build --bundleInfo
+
+      - name: Build Quartz documentation
+        run: npx quartz build --bundleInfo -d docs -o public/docs
 
   publish-tag:
     if: ${{ github.repository == 'jackyzha0/quartz' && github.ref == 'refs/heads/v4' }}
@@ -59,7 +64,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
-          node-version: 22
+          node-version-file: .node-version
       - name: Get package version
         run: node -p -e '`PACKAGE_VERSION=${require("./package.json").version}`' >> $GITHUB_ENV
       - name: Create release tag

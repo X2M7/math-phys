@@ -309,7 +309,9 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
         }
 
         if (!cfg.baseUrl) {
-          throw new Error("baseUrl must be defined when using Google Fonts without cfg.theme.cdnCaching")
+          throw new Error(
+            "baseUrl must be defined when using Google Fonts without cfg.theme.cdnCaching",
+          )
         }
 
         const { processedStylesheet, fontFiles } = await processGoogleFonts(

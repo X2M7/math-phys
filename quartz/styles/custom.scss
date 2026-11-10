@@ -54,7 +54,9 @@ p.upmath-block[data-eq]::after {
   color: currentColor;
   text-decoration: none;
 
-  transition: transform 0.15s ease, opacity 0.15s ease;
+  transition:
+    transform 0.15s ease,
+    opacity 0.15s ease;
 }
 
 .lang-toggle:hover {
