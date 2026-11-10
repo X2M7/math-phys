@@ -43,7 +43,7 @@ function coerceToArray(input: string | string[]): string[] | undefined {
 function getAliasSlugs(aliases: string[]): FullSlug[] {
   const res: FullSlug[] = []
   for (const alias of aliases) {
-    const isMd = getFileExtension(alias) === "md"
+    const isMd = getFileExtension(alias) === ".md"
     const mockFp = isMd ? alias : alias + ".md"
     const slug = slugifyFilePath(mockFp as FilePath)
     res.push(slug)

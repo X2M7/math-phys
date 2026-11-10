@@ -5,6 +5,7 @@ import rehypeMathjax from "rehype-mathjax/svg"
 import rehypeTypst from "@myriaddreamin/rehype-typst"
 import { QuartzTransformerPlugin } from "../types"
 import { KatexOptions } from "katex"
+import katexPackage from "katex/package.json" with { type: "json" }
 import { Options as MathjaxOptions } from "rehype-mathjax/svg"
 //@ts-ignore
 import { Options as TypstOptions } from "@myriaddreamin/rehype-typst"
@@ -23,7 +24,7 @@ interface MacroType {
   [key: string]: string | Args[]
 }
 
-export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
+export const Latex = ((opts?: Partial<Options>) => {
   const engine = opts?.renderEngine ?? "katex"
   const macros = opts?.customMacros ?? {}
   return {
@@ -60,11 +61,15 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
       switch (engine) {
         case "katex":
           return {
-            css: [{ content: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" }],
+            css: [
+              {
+                content: `https://cdn.jsdelivr.net/npm/katex@${katexPackage.version}/dist/katex.min.css`,
+              },
+            ],
             js: [
               {
                 // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
-                src: "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js",
+                src: `https://cdn.jsdelivr.net/npm/katex@${katexPackage.version}/dist/contrib/copy-tex.min.js`,
                 loadTime: "afterDOMReady",
                 contentType: "external",
               },
@@ -73,4 +78,4 @@ export const Latex: QuartzTransformerPlugin<Partial<Options>> = (opts) => {
       }
     },
   }
-}
+}) satisfies QuartzTransformerPlugin<Partial<Options>>
