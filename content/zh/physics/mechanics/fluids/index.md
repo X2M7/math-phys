@@ -1,0 +1,335 @@
+---
+title: 流体动力学与界面
+description: 流场、黏性、湍流、自由表面及地球物理流动。
+lang: zh
+alt: /en/physics/mechanics/fluids/
+pageType: concept-tree
+cssclasses:
+  - concept-tree-page
+graph: false
+socialImage: og-image.png
+navOrder: 7
+treeNode: physics-mechanics-fluids
+treePathZh:
+  - 物理学
+  - 经典力学与连续介质
+  - 流体动力学与界面
+treePathEn:
+  - Physics
+  - Classical and continuum mechanics
+  - Fluid dynamics and interfaces
+treeConcepts:
+  - fluid
+  - fluid-dynamics
+  - flow-velocity
+  - pressure
+  - viscosity
+  - stream-function
+  - turbulence
+  - added-mass
+  - aerosol
+  - antibubble
+  - archimedes-principle
+  - atmospheric-physics
+  - atmospheric-science
+  - baroclinity
+  - barotropic-fluid
+  - bernoulli-s-principle
+  - beta-plane
+  - blasius-theorem
+  - boussinesq-approximation-water-waves
+  - bruntvaisala-frequency
+  - capillary-action
+  - capillary-pressure
+  - capillary-wave
+  - cavitation
+  - center-of-pressure-fluid-mechanics
+  - chezy-formula
+  - circulation-physics
+  - cnoidal-wave
+  - compressed-fluid
+  - compressibility
+  - compression-physics
+  - confluence
+  - control-volume
+  - convection
+  - convective-available-potential-energy
+  - couette-flow
+  - d-alembert-s-paradox
+  - dilatant
+  - drag-crisis
+  - drop-liquid
+  - dynamic-pressure
+  - ekman-number
+  - ekman-transport
+  - electro-osmosis
+  - enstrophy
+  - eotvos-number
+  - fanning-friction-factor
+  - faraday-wave
+  - flow-coefficient
+  - flow-separation
+  - fluid-parcel
+  - fluidstructure-interaction
+  - friction-loss
+  - geostrophic-wind
+  - gravity-current
+  - gortler-vortices
+  - heat-transfer-fluid
+  - hemodynamics
+  - hodograph
+  - hydraulic-fluid
+  - hydraulic-machinery
+  - hydrodynamic-stability
+  - hydrostatic-stress
+  - infragravity-wave
+  - internal-wave
+  - intrinsic-viscosity
+  - inviscid-flow
+  - jet-fluid
+  - jurin-s-law
+  - kelvinhelmholtz-instability
+  - knudsen-layer
+  - kutta-condition
+  - laminarturbulent-transition
+  - laplace-pressure
+  - large-eddy-simulation
+  - law-of-the-wall
+  - lift-force
+  - liquid-rope-coil-effect
+  - mach-number
+  - mach-reflection
+  - mach-tuck
+  - mach-wave
+  - magnetic-pressure
+  - magnetohydrodynamic-drive
+  - magnetohydrodynamics
+  - magnus-effect
+  - manning-formula
+  - mass-flow-rate
+  - material-derivative
+  - microfluidics
+  - moody-chart
+  - navierstokes-existence-and-smoothness
+  - newtonian-fluid
+  - non-newtonian-fluid
+  - oblique-shock
+  - open-channel-flow
+  - pipe-flow
+  - positive-pressure
+  - potential-flow
+  - prandtlmeyer-expansion-fan
+  - pressure-drop
+  - pressure-gradient-force
+  - ram-pressure
+  - rankinehugoniot-conditions
+  - rayleigh-problem
+  - rayleightaylor-instability
+  - relative-permeability
+  - reynolds-transport-theorem
+  - richtmyermeshkov-instability
+  - river-mouth
+  - rivlinericksen-tensor
+  - rogue-wave
+  - rotating-tank
+  - self-similar-solution
+  - slosh-dynamics
+  - smart-fluid
+  - soap-bubble
+  - stagnation-point
+  - stagnation-pressure
+  - static-pressure
+  - stokes-flow
+  - stokes-number
+  - stokes-stream-function
+  - stokes-theorem
+  - stokes-s-law
+  - streamlines-streaklines-and-pathlines
+  - supercavitation
+  - supercritical-flow
+  - superficial-velocity
+  - superfluidity
+  - surface-tension
+  - taylorcouette-flow
+  - terminal-velocity
+  - thixotropy
+  - tidal-bore
+  - turbidity
+  - turbidity-current
+  - turbulent-prandtl-number
+  - two-fluid-model
+  - velocity-potential
+  - venturi-effect
+  - volume-viscosity
+  - volumetric-flow-rate
+  - vortex
+  - vortex-sheet
+  - vorticity
+  - wake-physics
+  - wave-base
+  - wave-power
+---
+
+<!-- concept-tree:start -->
+
+[数学物理 Wiki](/zh/) → [物理学](/zh/physics/) → [经典力学与连续介质](/zh/physics/mechanics/)
+
+流场、黏性、湍流、自由表面及地球物理流动。
+
+本分支及下级分类收录 **149 个概念**。
+
+## 概念词条
+
+- [流体 / Fluid](/concepts/fluid)
+- [流体动力学 / Fluid dynamics](/concepts/fluid-dynamics)
+- [流速 / Flow velocity](/concepts/flow-velocity)
+- [压强 / Pressure](/concepts/pressure)
+- [黏度 / Viscosity](/concepts/viscosity)
+- [流函数 / Stream function](/concepts/stream-function)
+- [湍流 / Turbulence](/concepts/turbulence)
+- [附加质量 / Added mass](/concepts/added-mass)
+- [气溶胶 / Aerosol](/concepts/aerosol)
+- [反泡泡 / Antibubble](/concepts/antibubble)
+- [阿基米德浮体原理 / Archimedes' principle](/concepts/archimedes-principle)
+- [大气物理学 / Atmospheric physics](/concepts/atmospheric-physics)
+- [大气科学 / Atmospheric science](/concepts/atmospheric-science)
+- [斜压 / Baroclinity](/concepts/baroclinity)
+- [正压大气 / Barotropic fluid](/concepts/barotropic-fluid)
+- [伯努利定律 / Bernoulli's principle](/concepts/bernoulli-s-principle)
+- [Β平面 / Beta plane](/concepts/beta-plane)
+- [布拉休斯定理 / Blasius theorem](/concepts/blasius-theorem)
+- [博欣内斯克方程 / Boussinesq approximation (water waves)](/concepts/boussinesq-approximation-water-waves)
+- [布伦特-维赛拉频率 / Brunt–Väisälä frequency](/concepts/bruntvaisala-frequency)
+- [毛细现象 / Capillary action](/concepts/capillary-action)
+- [毛细压强 / Capillary pressure](/concepts/capillary-pressure)
+- [表面张力波 / Capillary wave](/concepts/capillary-wave)
+- [空穴现象 / Cavitation](/concepts/cavitation)
+- [压力中心 (流体力学) / Center of pressure (fluid mechanics)](/concepts/center-of-pressure-fluid-mechanics)
+- [蔡希公式 / Chézy formula](/concepts/chezy-formula)
+- [环量 / Circulation (physics)](/concepts/circulation-physics)
+- [椭圆余弦波 / Cnoidal wave](/concepts/cnoidal-wave)
+- [压缩流体 / Compressed fluid](/concepts/compressed-fluid)
+- [压缩性 / Compressibility](/concepts/compressibility)
+- [压缩 (物理) / Compression (physics)](/concepts/compression-physics)
+- [合流点 / Confluence](/concepts/confluence)
+- [控制体积 / Control volume](/concepts/control-volume)
+- [对流 / Convection](/concepts/convection)
+- [对流可用位能 / Convective available potential energy](/concepts/convective-available-potential-energy)
+- [拖曳流动 / Couette flow](/concepts/couette-flow)
+- [达朗贝尔佯谬 / D'Alembert's paradox](/concepts/d-alembert-s-paradox)
+- [胀流性 / Dilatant](/concepts/dilatant)
+- [阻力危机 / Drag crisis](/concepts/drag-crisis)
+- [滴 / Drop (liquid)](/concepts/drop-liquid)
+- [动压 / Dynamic pressure](/concepts/dynamic-pressure)
+- [埃克曼数 / Ekman number](/concepts/ekman-number)
+- [埃克曼输送 / Ekman transport](/concepts/ekman-transport)
+- [电渗流 / Electro-osmosis](/concepts/electro-osmosis)
+- [涡度拟能 / Enstrophy](/concepts/enstrophy)
+- [厄特沃什数 / Eötvös number](/concepts/eotvos-number)
+- [范甯摩擦系数 / Fanning friction factor](/concepts/fanning-friction-factor)
+- [法拉第波 / Faraday wave](/concepts/faraday-wave)
+- [流量系数 / Flow coefficient](/concepts/flow-coefficient)
+- [边界层分离 / Flow separation](/concepts/flow-separation)
+- [流体质点 / Fluid parcel](/concepts/fluid-parcel)
+- [流固耦合 / Fluid–structure interaction](/concepts/fluidstructure-interaction)
+- [阻力损失 / Friction loss](/concepts/friction-loss)
+- [地转风 / Geostrophic wind](/concepts/geostrophic-wind)
+- [密度流 / Gravity current](/concepts/gravity-current)
+- [高德勒涡旋 / Görtler vortices](/concepts/gortler-vortices)
+- [有机热载体 / Heat-transfer fluid](/concepts/heat-transfer-fluid)
+- [血液动力学 / Hemodynamics](/concepts/hemodynamics)
+- [速端曲线 / Hodograph](/concepts/hodograph)
+- [液压液 / Hydraulic fluid](/concepts/hydraulic-fluid)
+- [液压机械 / Hydraulic machinery](/concepts/hydraulic-machinery)
+- [流体动力稳定性 / Hydrodynamic stability](/concepts/hydrodynamic-stability)
+- [静应力 / Hydrostatic stress](/concepts/hydrostatic-stress)
+- [重力外波 / Infragravity wave](/concepts/infragravity-wave)
+- [重力内波 / Internal wave](/concepts/internal-wave)
+- [特性黏度 / Intrinsic viscosity](/concepts/intrinsic-viscosity)
+- [无粘性流 / Inviscid flow](/concepts/inviscid-flow)
+- [射流 (流体) / Jet (fluid)](/concepts/jet-fluid)
+- [朱林定律 / Jurin's law](/concepts/jurin-s-law)
+- [开尔文-亥姆霍兹不稳定性 / Kelvin–Helmholtz instability](/concepts/kelvinhelmholtz-instability)
+- [克努森层 / Knudsen layer](/concepts/knudsen-layer)
+- [库塔条件 / Kutta condition](/concepts/kutta-condition)
+- [过渡流 / Laminar–turbulent transition](/concepts/laminarturbulent-transition)
+- [拉普拉斯压力 / Laplace pressure](/concepts/laplace-pressure)
+- [大涡模拟 / Large eddy simulation](/concepts/large-eddy-simulation)
+- [壁面定律 / Law of the wall](/concepts/law-of-the-wall)
+- [升力 / Lift (force)](/concepts/lift-force)
+- [液体绳卷 / Liquid rope coil effect](/concepts/liquid-rope-coil-effect)
+- [马赫 / Mach number](/concepts/mach-number)
+- [马赫反射 / Mach reflection](/concepts/mach-reflection)
+- [马赫下俯 / Mach tuck](/concepts/mach-tuck)
+- [马赫波 / Mach wave](/concepts/mach-wave)
+- [磁压 / Magnetic pressure](/concepts/magnetic-pressure)
+- [磁流体推进器 / Magnetohydrodynamic drive](/concepts/magnetohydrodynamic-drive)
+- [磁流体力学 / Magnetohydrodynamics](/concepts/magnetohydrodynamics)
+- [马格努斯效应 / Magnus effect](/concepts/magnus-effect)
+- [曼宁公式 / Manning formula](/concepts/manning-formula)
+- [流量 / Mass flow rate](/concepts/mass-flow-rate)
+- [物质导数 / Material derivative](/concepts/material-derivative)
+- [微流控 / Microfluidics](/concepts/microfluidics)
+- [穆迪图 / Moody chart](/concepts/moody-chart)
+- [纳维-斯托克斯存在性与光滑性 / Navier–Stokes existence and smoothness](/concepts/navierstokes-existence-and-smoothness)
+- [牛顿流体 / Newtonian fluid](/concepts/newtonian-fluid)
+- [非牛顿流体 / Non-Newtonian fluid](/concepts/non-newtonian-fluid)
+- [斜激波 / Oblique shock](/concepts/oblique-shock)
+- [明渠流 / Open-channel flow](/concepts/open-channel-flow)
+- [管流 / Pipe flow](/concepts/pipe-flow)
+- [正压 / Positive pressure](/concepts/positive-pressure)
+- [位流 / Potential flow](/concepts/potential-flow)
+- [普朗特-迈耶膨胀扇 / Prandtl–Meyer expansion fan](/concepts/prandtlmeyer-expansion-fan)
+- [压降 / Pressure drop](/concepts/pressure-drop)
+- [压强梯度力 / Pressure-gradient force](/concepts/pressure-gradient-force)
+- [冲压力 / Ram pressure](/concepts/ram-pressure)
+- [兰金-雨贡纽条件 / Rankine–Hugoniot conditions](/concepts/rankinehugoniot-conditions)
+- [瑞利问题 / Rayleigh problem](/concepts/rayleigh-problem)
+- [瑞利-泰勒不稳定性 / Rayleigh–Taylor instability](/concepts/rayleightaylor-instability)
+- [相对渗透率 / Relative permeability](/concepts/relative-permeability)
+- [雷诺传输定理 / Reynolds transport theorem](/concepts/reynolds-transport-theorem)
+- [里克特迈耶-梅什科夫不稳定性 / Richtmyer–Meshkov instability](/concepts/richtmyermeshkov-instability)
+- [河口 / River mouth](/concepts/river-mouth)
+- [里夫林-埃里克森张量 / Rivlin–Ericksen tensor](/concepts/rivlinericksen-tensor)
+- [疯狗浪 / Rogue wave](/concepts/rogue-wave)
+- [旋转水槽 / Rotating tank](/concepts/rotating-tank)
+- [自相似解 / Self-similar solution](/concepts/self-similar-solution)
+- [液体晃动动力学 / Slosh dynamics](/concepts/slosh-dynamics)
+- [智能流体 / Smart fluid](/concepts/smart-fluid)
+- [肥皂泡 / Soap bubble](/concepts/soap-bubble)
+- [滞点 / Stagnation point](/concepts/stagnation-point)
+- [滞止压强 / Stagnation pressure](/concepts/stagnation-pressure)
+- [静压 / Static pressure](/concepts/static-pressure)
+- [斯托克斯流 / Stokes flow](/concepts/stokes-flow)
+- [斯托克斯数 / Stokes number](/concepts/stokes-number)
+- [斯托克斯流函数 / Stokes stream function](/concepts/stokes-stream-function)
+- [斯托克斯定理 / Stokes' theorem](/concepts/stokes-theorem)
+- [斯托克斯定律 / Stokes's law](/concepts/stokes-s-law)
+- [流线型 / Streamlines, streaklines, and pathlines](/concepts/streamlines-streaklines-and-pathlines)
+- [超空蚀效应 / Supercavitation](/concepts/supercavitation)
+- [超临界流 / Supercritical flow](/concepts/supercritical-flow)
+- [表观速度 / Superficial velocity](/concepts/superficial-velocity)
+- [超流体 / Superfluidity](/concepts/superfluidity)
+- [表面张力 / Surface tension](/concepts/surface-tension)
+- [泰勒-库埃特流 / Taylor–Couette flow](/concepts/taylorcouette-flow)
+- [终端速度 / Terminal velocity](/concepts/terminal-velocity)
+- [触变性 / Thixotropy](/concepts/thixotropy)
+- [涌潮 / Tidal bore](/concepts/tidal-bore)
+- [浊度 / Turbidity](/concepts/turbidity)
+- [浊积流 / Turbidity current](/concepts/turbidity-current)
+- [湍流普朗特数 / Turbulent Prandtl number](/concepts/turbulent-prandtl-number)
+- [二流体模型 / Two-fluid model](/concepts/two-fluid-model)
+- [速度位 / Velocity potential](/concepts/velocity-potential)
+- [文丘里效应 / Venturi effect](/concepts/venturi-effect)
+- [体积黏度 / Volume viscosity](/concepts/volume-viscosity)
+- [体积流率 / Volumetric flow rate](/concepts/volumetric-flow-rate)
+- [涡旋 / Vortex](/concepts/vortex)
+- [涡旋片 / Vortex sheet](/concepts/vortex-sheet)
+- [涡量 / Vorticity](/concepts/vorticity)
+- [开尔文船波 / Wake (physics)](/concepts/wake-physics)
+- [波蚀基面 / Wave base](/concepts/wave-base)
+- [波浪能 / Wave power](/concepts/wave-power)
+
+> 各分支按研究方向的历史形成与后续发展分层排列。年代说明的是方向的形成时期，并非组内每个术语的首次出现年份；同一时期的概念兼顾先修关系。交叉概念在多个分支中列出，均指向同一个词条。
+
+<!-- concept-tree:end -->

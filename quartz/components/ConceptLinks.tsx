@@ -1,5 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { getDictionaryConcepts } from "../util/dictionary"
+import { getConceptPlacements } from "../util/conceptTree"
 import { resolveRelative } from "../util/path"
 
 const ConceptLinks: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
@@ -13,11 +14,36 @@ const ConceptLinks: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPr
   )
   // Imported pages already include aliases in the searchable Markdown body.
   const showVariants = !fm?.dictionarySource && !!current?.variants.length
-  if (!current?.articles.length && !showVariants && !related.length) return null
+  const placements = current ? (getConceptPlacements(allFiles).get(current.id) ?? []) : []
+  if (!current?.articles.length && !showVariants && !related.length && !placements.length)
+    return null
 
   return (
     <aside class="concept-links" aria-label="概念与词条 / Concepts and articles">
       {current && showVariants && <p>其他名称 / Also known as: {current.variants.join(" · ")}</p>}
+      {placements.length > 0 && (
+        <section class="concept-classifications">
+          <h2>概念树分类 / In the concept tree</h2>
+          <ul>
+            {placements.map((placement) => (
+              <li>
+                <a class="internal" lang="zh" href={resolveRelative(fileData.slug!, placement.zh)}>
+                  {placement.pathZh.join(" → ")}
+                </a>
+                {placement.en && (
+                  <a
+                    class="internal concept-classification-en"
+                    lang="en"
+                    href={resolveRelative(fileData.slug!, placement.en)}
+                  >
+                    {placement.pathEn.join(" → ")}
+                  </a>
+                )}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
       {related.length > 0 && (
         <section>
           <h2>相关概念 / Concepts</h2>
@@ -53,5 +79,7 @@ const ConceptLinks: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPr
 ConceptLinks.css = `
 .concept-links { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--lightgray); }
 .concept-links h2 { font-size: 1.1rem; }
+.concept-classifications li { margin-block: .7rem; overflow-wrap: anywhere; }
+.concept-classification-en { display: block; font-size: .85rem; }
 `
 export default (() => ConceptLinks) satisfies QuartzComponentConstructor

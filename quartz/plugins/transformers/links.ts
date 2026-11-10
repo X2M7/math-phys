@@ -129,6 +129,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 if (
                   opts.prettyLinks &&
                   isInternal &&
+                  !classes.includes("alias") &&
                   node.children.length === 1 &&
                   node.children[0].type === "text" &&
                   !node.children[0].value.startsWith("#")

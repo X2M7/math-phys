@@ -63,3 +63,18 @@ p.upmath-block[data-eq]::after {
   transform: scale(1.12);
   opacity: 0.85;
 }
+
+.concept-tree-page {
+  li {
+    margin-block: 0.5rem;
+    overflow-wrap: anywhere;
+  }
+
+  ul {
+    padding-inline-start: 1.4rem;
+  }
+
+  h2 {
+    margin-top: 2rem;
+  }
+}

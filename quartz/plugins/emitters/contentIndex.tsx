@@ -20,6 +20,7 @@ export type ContentDetails = {
   date?: Date
   description?: string
   excludeFromGraph?: boolean
+  navOrder?: number
 }
 
 interface Options {
@@ -117,6 +118,10 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             date: date,
             description: file.data.description ?? "",
             excludeFromGraph: file.data.frontmatter?.graph === false ? true : undefined,
+            navOrder:
+              typeof file.data.frontmatter?.navOrder === "number"
+                ? file.data.frontmatter.navOrder
+                : undefined,
           })
         }
       }
