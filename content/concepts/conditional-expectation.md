@@ -23,20 +23,12 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-conditional expectation； conditional expected value； 條件期望
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：条件期望](https://zh.wikipedia.org/wiki/%E6%9D%A1%E4%BB%B6%E6%9C%9F%E6%9C%9B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=76193815)）
 - [English Wikipedia：Conditional expectation](https://en.wikipedia.org/wiki/Conditional_expectation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1363997958)）
 - [nLab：conditional expectation](https://ncatlab.org/nlab/show/conditional+expectation)
 - [Wikidata：Q772232](https://www.wikidata.org/wiki/Q772232)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2513188538)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

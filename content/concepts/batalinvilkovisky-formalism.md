@@ -26,20 +26,12 @@ dictionarySource:
 
 几何学 / Geometry · 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Batalin-Vilkovisky代數； Batalin-Vilkovisky代数； Batalin–Vilkovisky algebra； BV-algebra； 巴塔林-維爾可維斯基代數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：巴塔林-维尔可维斯基代数](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A1%94%E6%9E%97-%E7%BB%B4%E5%B0%94%E5%8F%AF%E7%BB%B4%E6%96%AF%E5%9F%BA%E4%BB%A3%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=75941198)）
 - [English Wikipedia：Batalin–Vilkovisky formalism](https://en.wikipedia.org/wiki/Batalin%E2%80%93Vilkovisky_formalism)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1323866317)）
 - [nLab：BV-algebra](https://ncatlab.org/nlab/show/BV-algebra)
 - [Wikidata：Q4868564](https://www.wikidata.org/wiki/Q4868564)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2375375459)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -20,3 +20,32 @@
   align-items: center;
   justify-content: center;
 }
+
+.concept-breadcrumbs {
+  min-width: 0;
+
+  .concept-breadcrumb-trail {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    &[hidden] {
+      display: none;
+    }
+  }
+
+  .breadcrumb-element {
+    min-width: 0;
+    max-width: 100%;
+    justify-content: flex-start;
+    overflow-wrap: anywhere;
+  }
+
+  .breadcrumb-separator {
+    flex-shrink: 0;
+    margin-left: 0.5rem;
+  }
+}

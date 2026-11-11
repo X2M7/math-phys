@@ -22,20 +22,12 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-shape theory； 形狀理論
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：形状理论](https://zh.wikipedia.org/wiki/%E5%BD%A2%E7%8A%B6%E7%90%86%E8%AE%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95124037)）
 - [English Wikipedia：Shape theory \(mathematics\)](<https://en.wikipedia.org/wiki/Shape_theory_(mathematics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1377879976)）
 - [nLab：shape theory](https://ncatlab.org/nlab/show/shape+theory)
 - [Wikidata：Q7489245](https://www.wikidata.org/wiki/Q7489245)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2499506750)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

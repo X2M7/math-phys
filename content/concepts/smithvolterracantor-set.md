@@ -22,19 +22,11 @@ dictionarySource:
 
 分析学 / Analysis · 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-史密斯-沃爾泰拉-康托爾集
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：史密斯-沃尔泰拉-康托尔集](https://zh.wikipedia.org/wiki/%E5%8F%B2%E5%AF%86%E6%96%AF-%E6%B2%83%E5%B0%94%E6%B3%B0%E6%8B%89-%E5%BA%B7%E6%89%98%E5%B0%94%E9%9B%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=67250174)）
 - [English Wikipedia：Smith–Volterra–Cantor set](https://en.wikipedia.org/wiki/Smith%E2%80%93Volterra%E2%80%93Cantor_set)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384068504)）
 - [Wikidata：Q909569](https://www.wikidata.org/wiki/Q909569)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2542200539)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

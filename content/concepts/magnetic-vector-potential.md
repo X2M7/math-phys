@@ -25,19 +25,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics · 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-磁勢； magnetic vector potential； magnetic potential； 磁矢勢
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：磁矢势](https://zh.wikipedia.org/wiki/%E7%A3%81%E7%9F%A2%E5%8A%BF)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92837279)）
 - [English Wikipedia：Magnetic vector potential](https://en.wikipedia.org/wiki/Magnetic_vector_potential)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1381874567)）
 - [Wikidata：Q2299100](https://www.wikidata.org/wiki/Q2299100)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2516240120)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

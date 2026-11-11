@@ -25,20 +25,12 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-完全Heyting代数； complete Heyting algebra； frame； locale； 完全海廷代數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：完全海廷代数](https://zh.wikipedia.org/wiki/%E5%AE%8C%E5%85%A8%E6%B5%B7%E5%BB%B7%E4%BB%A3%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=57783525)）
 - [English Wikipedia：Complete Heyting algebra](https://en.wikipedia.org/wiki/Complete_Heyting_algebra)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1344945412)）
 - [nLab：complete Heyting algebra](https://ncatlab.org/nlab/show/complete+Heyting+algebra)
 - [Wikidata：Q5156470](https://www.wikidata.org/wiki/Q5156470)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2464452603)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

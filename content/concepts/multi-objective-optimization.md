@@ -35,19 +35,11 @@ dictionarySource:
 
 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-多目標最佳控制； 多目標優化； multi-objective optimization； multi-objective programming； vector optimization； multicriteria optimization； multiattribute optimization； Pareto optimization； multiobjective optimization； multi-objective optimisation； vector optimisation； multicriteria optimisation； multiattribute optimisation； Pareto optimisation； multiobjective optimisation
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：多目标优化](https://zh.wikipedia.org/wiki/%E5%A4%9A%E7%9B%AE%E6%A0%87%E4%BC%98%E5%8C%96)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=89781509)）
 - [English Wikipedia：Multi-objective optimization](https://en.wikipedia.org/wiki/Multi-objective_optimization)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380947347)）
 - [Wikidata：Q2052203](https://www.wikidata.org/wiki/Q2052203)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515917161)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

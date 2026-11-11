@@ -21,19 +21,11 @@ dictionarySource:
 
 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-平坦擬譜法
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：平坦拟谱法](https://zh.wikipedia.org/wiki/%E5%B9%B3%E5%9D%A6%E6%93%AC%E8%AD%9C%E6%B3%95)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=80080825)）
 - [English Wikipedia：Flat pseudospectral method](https://en.wikipedia.org/wiki/Flat_pseudospectral_method)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1071402838)）
 - [Wikidata：Q5457845](https://www.wikidata.org/wiki/Q5457845)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=1577472760)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

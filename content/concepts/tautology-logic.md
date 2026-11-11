@@ -25,19 +25,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-重言式； 套套逻辑； 套套邏輯； tautology； 恆真式
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：恒真式](https://zh.wikipedia.org/wiki/%E6%81%86%E7%9C%9F%E5%BC%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94701680)）
 - [English Wikipedia：Tautology \(logic\)](<https://en.wikipedia.org/wiki/Tautology_(logic)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1374888675)）
 - [Wikidata：Q209555](https://www.wikidata.org/wiki/Q209555)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2559430903)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

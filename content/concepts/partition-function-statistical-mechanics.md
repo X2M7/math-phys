@@ -22,19 +22,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-partition function； 配分函數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：配分函数](https://zh.wikipedia.org/wiki/%E9%85%8D%E5%88%86%E5%87%BD%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94317249)）
 - [English Wikipedia：Partition function \(statistical mechanics\)](<https://en.wikipedia.org/wiki/Partition_function_(statistical_mechanics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380271609)）
 - [Wikidata：Q230963](https://www.wikidata.org/wiki/Q230963)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2517531237)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -28,19 +28,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-位矢； 向径； 径矢； position vector； location vector； radius vector； position； spatial position
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：位置向量](https://zh.wikipedia.org/wiki/%E4%BD%8D%E7%BD%AE%E5%90%91%E9%87%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=76674429)）
 - [English Wikipedia：Position \(geometry\)](<https://en.wikipedia.org/wiki/Position_(geometry)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1355170584)）
 - [Wikidata：Q192388](https://www.wikidata.org/wiki/Q192388)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563853884)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

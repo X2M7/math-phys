@@ -24,12 +24,6 @@ dictionarySource:
 
 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Weyl curvature； Weyl curvature tensor
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Weyl tensor](https://en.wikipedia.org/wiki/Weyl_tensor)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1281002654)）
@@ -43,8 +37,6 @@ Weyl curvature； Weyl curvature tensor
 - [术语在线：《物理学名词》（2019，第三版）—外尔张量](https://www.termonline.cn/wordDetail?base=1&subject=c8285a3e26ac11ee9db6b068e6519520&termName=%E5%A4%96%E5%B0%94%E5%BC%A0%E9%87%8F)（全国科学技术名词审定委员会）。来源原译名：外尔张量；原文英文：Weyl tensor。定位：术语编码 06\.0263；物理学\_相对论、量子理论\_相对论；公布年度 2019；记录 ID c8285a3e26ac11ee9db6b068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

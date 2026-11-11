@@ -28,19 +28,11 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-概率公理； 柯爾莫果洛夫公理； 柯爾莫哥洛夫公理； 機率公理； 科尔莫戈罗夫公理； probability axioms； Kolmogorov axioms； 機率公設
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：机率公设](https://zh.wikipedia.org/wiki/%E6%A9%9F%E7%8E%87%E5%85%AC%E8%A8%AD)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88075766)）
 - [English Wikipedia：Probability axioms](https://en.wikipedia.org/wiki/Probability_axioms)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1374928479)）
 - [Wikidata：Q974605](https://www.wikidata.org/wiki/Q974605)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553788559)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

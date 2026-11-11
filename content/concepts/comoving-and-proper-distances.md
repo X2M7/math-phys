@@ -25,19 +25,11 @@ dictionarySource:
 
 宇宙学 / Cosmology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-共动距离； 互动距离； 同移距離； comoving distance； co-moving distance
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：同移距离](https://zh.wikipedia.org/wiki/%E5%90%8C%E7%A7%BB%E8%B7%9D%E7%A6%BB)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=82720791)）
 - [English Wikipedia：Comoving and proper distances](https://en.wikipedia.org/wiki/Comoving_and_proper_distances)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1368675317)）
 - [Wikidata：Q2092045](https://www.wikidata.org/wiki/Q2092045)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2514333985)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

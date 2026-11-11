@@ -27,20 +27,12 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-勒让德方程； 勒壤得多項式； 勒让德微分方程； Legendre多项式； 勒讓德多項式； Legendre polynomial； legendre polynomials
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：勒让德多项式](https://zh.wikipedia.org/wiki/%E5%8B%92%E8%AE%A9%E5%BE%B7%E5%A4%9A%E9%A1%B9%E5%BC%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93121787)）
 - [English Wikipedia：Legendre polynomials](https://en.wikipedia.org/wiki/Legendre_polynomials)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1370673668)）
 - [nLab：Legendre polynomial](https://ncatlab.org/nlab/show/Legendre+polynomial)
 - [Wikidata：Q215405](https://www.wikidata.org/wiki/Q215405)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2506397217)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

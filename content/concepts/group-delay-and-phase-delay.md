@@ -22,19 +22,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-群延遲； 群延遲與相位延遲
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：群延迟与相位延迟](https://zh.wikipedia.org/wiki/%E7%BE%A4%E5%BB%B6%E8%BF%9F%E4%B8%8E%E7%9B%B8%E4%BD%8D%E5%BB%B6%E8%BF%9F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94765921)）
 - [English Wikipedia：Group delay and phase delay](https://en.wikipedia.org/wiki/Group_delay_and_phase_delay)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1351829420)）
 - [Wikidata：Q365988](https://www.wikidata.org/wiki/Q365988)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565454481)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

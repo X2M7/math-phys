@@ -25,20 +25,12 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-解析映射； 实解析； 实解析函数； 解析函數； analytic function
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：解析函数](https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%9E%90%E5%87%BD%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88308588)）
 - [English Wikipedia：Analytic function](https://en.wikipedia.org/wiki/Analytic_function)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1374300783)）
 - [nLab：analytic function](https://ncatlab.org/nlab/show/analytic+function)
 - [Wikidata：Q215084](https://www.wikidata.org/wiki/Q215084)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2556438439)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -29,19 +29,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-超高能宇宙线； 超高能量宇宙射線； 極高能宇宙線； 超高能宇宙線； ultra-high-energy cosmic ray； extreme-energy cosmic ray； UHECR； EECR； 超高能宇宙射線
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：超高能宇宙射线](https://zh.wikipedia.org/wiki/%E8%B6%85%E9%AB%98%E8%83%BD%E5%AE%87%E5%AE%99%E5%B0%84%E7%B7%9A)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93576027)）
 - [English Wikipedia：Ultra-high-energy cosmic ray](https://en.wikipedia.org/wiki/Ultra-high-energy_cosmic_ray)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379282469)）
 - [Wikidata：Q1770333](https://www.wikidata.org/wiki/Q1770333)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2557080084)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

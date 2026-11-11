@@ -23,19 +23,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-闭包代数； 拓扑布尔代数； 內部代數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：内部代数](https://zh.wikipedia.org/wiki/%E5%86%85%E9%83%A8%E4%BB%A3%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=50736908)）
 - [English Wikipedia：Interior algebra](https://en.wikipedia.org/wiki/Interior_algebra)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1295577828)）
 - [Wikidata：Q10894825](https://www.wikidata.org/wiki/Q10894825)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2006852372)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

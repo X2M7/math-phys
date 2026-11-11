@@ -22,20 +22,12 @@ dictionarySource:
 
 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-volume form； 體積形式
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：体积形式](https://zh.wikipedia.org/wiki/%E4%BD%93%E7%A7%AF%E5%BD%A2%E5%BC%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=74533792)）
 - [English Wikipedia：Volume form](https://en.wikipedia.org/wiki/Volume_form)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1346656690)）
 - [nLab：volume form](https://ncatlab.org/nlab/show/volume+form)
 - [Wikidata：Q781415](https://www.wikidata.org/wiki/Q781415)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2466251434)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -24,19 +24,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-rogue black hole； wandering black hole； RBH； runaway black hole
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：孤立黑洞](https://zh.wikipedia.org/wiki/%E5%AD%A4%E7%AB%8B%E9%BB%91%E6%B4%9E)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95130477)）
 - [English Wikipedia：Rogue black hole](https://en.wikipedia.org/wiki/Rogue_black_hole)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380577360)）
 - [Wikidata：Q111181539](https://www.wikidata.org/wiki/Q111181539)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2463271633)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

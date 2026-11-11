@@ -25,19 +25,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-米罗流体工程； 微流體； 微流體學； microfluidics； microhydrodynamics
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：微流控](https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%B5%81%E6%8E%A7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94649802)）
 - [English Wikipedia：Microfluidics](https://en.wikipedia.org/wiki/Microfluidics)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382353548)）
 - [Wikidata：Q138845](https://www.wikidata.org/wiki/Q138845)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2549735913)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

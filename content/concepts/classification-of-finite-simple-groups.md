@@ -25,20 +25,12 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-有限单群的分类； 有限簡單群分類； classification of finite simple groups； Enormous Theorem； 有限單群分類
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：有限单群分类](https://zh.wikipedia.org/wiki/%E6%9C%89%E9%99%90%E5%96%AE%E7%BE%A4%E5%88%86%E9%A1%9E)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93003782)）
 - [English Wikipedia：Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382295842)）
 - [nLab：classification of finite simple groups](https://ncatlab.org/nlab/show/classification+of+finite+simple+groups)
 - [Wikidata：Q1340623](https://www.wikidata.org/wiki/Q1340623)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2562790083)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

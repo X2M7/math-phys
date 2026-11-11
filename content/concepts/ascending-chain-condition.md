@@ -25,19 +25,11 @@ dictionarySource:
 
 代数 / Algebra · 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-降链条件； 升鏈條件； ascending chain condition； ACC
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：升链条件](https://zh.wikipedia.org/wiki/%E5%8D%87%E9%93%BE%E6%9D%A1%E4%BB%B6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=73981459)）
 - [English Wikipedia：Ascending chain condition](https://en.wikipedia.org/wiki/Ascending_chain_condition)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1354298532)）
 - [Wikidata：Q2528476](https://www.wikidata.org/wiki/Q2528476)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2551687635)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

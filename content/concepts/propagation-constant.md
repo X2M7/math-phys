@@ -24,12 +24,6 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-propagation coefficient； propagation constant
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Propagation constant](https://en.wikipedia.org/wiki/Propagation_constant)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1345340134)）
@@ -42,8 +36,6 @@ propagation coefficient； propagation constant
 - [术语在线：《光学名词》（2021，第一版）—传播常数](https://www.termonline.cn/wordDetail?base=1&subject=396590ca26a711ee9e4fb068e6519520&termName=%E4%BC%A0%E6%92%AD%E5%B8%B8%E6%95%B0)（全国科学技术名词审定委员会）。来源原译名：传播常数；原文英文：propagation constant。定位：术语编码 01\.388；光学\_基础光学；公布年度 2021；记录 ID 396590ca26a711ee9e4fb068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

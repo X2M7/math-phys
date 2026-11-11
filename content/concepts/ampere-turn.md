@@ -26,19 +26,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-安培转； 安培轉； ampere-turn； At； Ampere turn； 安培-匝數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：安培-匝数](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%9F%B9-%E5%8C%9D%E6%95%B8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=85906787)）
 - [English Wikipedia：Ampere-turn](https://en.wikipedia.org/wiki/Ampere-turn)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1332740337)）
 - [Wikidata：Q474533](https://www.wikidata.org/wiki/Q474533)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2524202964)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

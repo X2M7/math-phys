@@ -27,19 +27,11 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-獨立同分配； 獨立同分佈； independent and identically distributed random variables； IID； iid； i\.i\.d\.； 獨立同分布
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：独立同分布](https://zh.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B%E5%90%8C%E5%88%86%E5%B8%83)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92827699)）
 - [English Wikipedia：Independent and identically distributed random variables](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1361303929)）
 - [Wikidata：Q378542](https://www.wikidata.org/wiki/Q378542)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2550362460)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

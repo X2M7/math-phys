@@ -25,20 +25,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-相依选择公理； 相依選擇公理； axiom of dependent choice； D C； 依賴選擇公理
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：依赖选择公理](https://zh.wikipedia.org/wiki/%E4%BE%9D%E8%B3%B4%E9%81%B8%E6%93%87%E5%85%AC%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93249289)）
 - [English Wikipedia：Axiom of dependent choice](https://en.wikipedia.org/wiki/Axiom_of_dependent_choice)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375599793)）
 - [nLab：dependent choice](https://ncatlab.org/nlab/show/dependent+choice)
 - [Wikidata：Q3303153](https://www.wikidata.org/wiki/Q3303153)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2464906995)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

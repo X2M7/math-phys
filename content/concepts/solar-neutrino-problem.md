@@ -25,19 +25,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-太陽微中子問題； 太阳中微子缺失问题； solar neutrino problem； solar neutrino deficit； 太陽中微子問題
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：太阳中微子问题](https://zh.wikipedia.org/wiki/%E5%A4%AA%E9%98%B3%E4%B8%AD%E5%BE%AE%E5%AD%90%E9%97%AE%E9%A2%98)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88966677)）
 - [English Wikipedia：Solar neutrino problem](https://en.wikipedia.org/wiki/Solar_neutrino_problem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380766886)）
 - [Wikidata：Q31937](https://www.wikidata.org/wiki/Q31937)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2526116641)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

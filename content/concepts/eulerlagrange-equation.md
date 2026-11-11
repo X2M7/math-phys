@@ -26,19 +26,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-欧拉－拉格朗日方程； 歐拉－拉格朗日方程； 歐拉-拉格朗日方程式； Lagrange's equations of the second kind； Euler-Lagrange equation； 歐拉-拉格朗日方程
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：欧拉-拉格朗日方程](https://zh.wikipedia.org/wiki/%E6%AD%90%E6%8B%89-%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E6%96%B9%E7%A8%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91263458)）
 - [English Wikipedia：Euler–Lagrange equation](https://en.wikipedia.org/wiki/Euler%E2%80%93Lagrange_equation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1377262229)）
 - [Wikidata：Q875744](https://www.wikidata.org/wiki/Q875744)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541695482)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

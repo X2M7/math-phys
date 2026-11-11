@@ -29,20 +29,12 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-单纯对象； 單純集合； 面對映； 退化對映； 面映射； 退化映射； simplicial set； c\.s\.s\. complex； simplical set
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：单纯集合](https://zh.wikipedia.org/wiki/%E5%8D%95%E7%BA%AF%E9%9B%86%E5%90%88)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93544570)）
 - [English Wikipedia：Simplicial set](https://en.wikipedia.org/wiki/Simplicial_set)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384389823)）
 - [nLab：simplicial set](https://ncatlab.org/nlab/show/simplicial+set)
 - [Wikidata：Q1467124](https://www.wikidata.org/wiki/Q1467124)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2564044901)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

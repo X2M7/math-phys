@@ -22,19 +22,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-multiple time dimensions； 多時間維度
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：多时间维度](https://zh.wikipedia.org/wiki/%E5%A4%9A%E6%97%B6%E9%97%B4%E7%BB%B4%E5%BA%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=74781980)）
 - [English Wikipedia：Multiple time dimensions](https://en.wikipedia.org/wiki/Multiple_time_dimensions)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1372348957)）
 - [Wikidata：Q4298882](https://www.wikidata.org/wiki/Q4298882)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2289936717)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

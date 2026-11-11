@@ -7,6 +7,7 @@ import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
+import { getDictionaryConcepts } from "../../util/dictionary"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
@@ -21,6 +22,7 @@ export type ContentDetails = {
   description?: string
   excludeFromGraph?: boolean
   navOrder?: number
+  aliases?: string[]
 }
 
 interface Options {
@@ -101,6 +103,11 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
     async *emit(ctx, content) {
       const cfg = ctx.cfg.configuration
       const linkIndex: ContentIndexMap = new Map()
+      const aliases = new Map(
+        getDictionaryConcepts(content.map(([, file]) => file.data))
+          .filter((concept) => concept.variants.length)
+          .map((concept) => [concept.slug, concept.variants]),
+      )
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
@@ -112,6 +119,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
             content: file.data.text ?? "",
+            aliases: aliases.get(slug),
             richContent: opts?.rssFullHtml
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,

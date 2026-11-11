@@ -12,15 +12,11 @@ const ConceptLinks: QuartzComponent = ({ fileData, allFiles }: QuartzComponentPr
   const related = concepts.filter((concept) =>
     concept.articles.some((article) => article.slug === fileData.slug),
   )
-  // Imported pages already include aliases in the searchable Markdown body.
-  const showVariants = !fm?.dictionarySource && !!current?.variants.length
   const placements = current ? (getConceptPlacements(allFiles).get(current.id) ?? []) : []
-  if (!current?.articles.length && !showVariants && !related.length && !placements.length)
-    return null
+  if (!current?.articles.length && !related.length && !placements.length) return null
 
   return (
     <aside class="concept-links" aria-label="概念与词条 / Concepts and articles">
-      {current && showVariants && <p>其他名称 / Also known as: {current.variants.join(" · ")}</p>}
       {placements.length > 0 && (
         <section class="concept-classifications">
           <h2>概念树分类 / In the concept tree</h2>

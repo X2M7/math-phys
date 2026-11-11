@@ -25,12 +25,6 @@ dictionarySource:
 
 分析学 / Analysis · 微分方程与动力系统 / Differential equations and dynamics · 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Schwarz derivative
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Schwarzian derivative](https://en.wikipedia.org/wiki/Schwarzian_derivative)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1372782618)）
@@ -45,8 +39,6 @@ Schwarz derivative
 - [不连续导电模式 DC-DC 变换器的倍周期分岔机理研究](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.57.2728)（中国物理学会《物理学报》）。来源原译名：施瓦茨导数；原文英文：Schwarzian derivative。定位：王学梅、张波、丘东元；2008，57\(5\)，2728–2736；中英文关键词；DOI：10\.7498/aps\.57\.2728。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。TU Berlin Complex Analysis II 习题 10 的 Exercise 2 标题使用 Schwarzian derivative，\(ii\) 对同一算子 S 使用 Schwarz derivative；据此核对《物理学名词》2019 的英文词形。物理学报 2008,57\(5\),2728–2736 的双语关键词亦直接对应“施瓦茨导数 / Schwarzian derivative”。来源英文 Schwarz derivative 保留。核对链接：https://www3\.math\.tu-berlin\.de/geometrie/Lehre/WS15/ComplexAnalysisII/exercises/complex\_analysis2\_sheet10\.pdf ；https://wulixb\.iphy\.ac\.cn/article/doi/10\.7498/aps\.57\.2728 。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

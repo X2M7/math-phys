@@ -22,19 +22,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Seiberg–Witten invariant； 塞伯格-維騰不變量
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：塞伯格-维腾不变量](https://zh.wikipedia.org/wiki/%E5%A1%9E%E4%BC%AF%E6%A0%BC-%E7%B6%AD%E9%A8%B0%E4%B8%8D%E8%AE%8A%E9%87%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=49238783)）
 - [English Wikipedia：Seiberg–Witten invariants](https://en.wikipedia.org/wiki/Seiberg%E2%80%93Witten_invariants)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1374516363)）
 - [Wikidata：Q7446569](https://www.wikidata.org/wiki/Q7446569)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2307002796)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

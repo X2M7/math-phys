@@ -23,19 +23,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-磁層永坍縮體； magnetospheric eternally collapsing object； MECO
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：磁层永坍缩体](https://zh.wikipedia.org/wiki/%E7%A3%81%E5%B1%82%E6%B0%B8%E5%9D%8D%E7%BC%A9%E4%BD%93)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=63683819)）
 - [English Wikipedia：Magnetospheric eternally collapsing object](https://en.wikipedia.org/wiki/Magnetospheric_eternally_collapsing_object)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373727742)）
 - [Wikidata：Q3772242](https://www.wikidata.org/wiki/Q3772242)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2483567980)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

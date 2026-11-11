@@ -23,20 +23,12 @@ dictionarySource:
 
 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Gerstenhaber代數； Gerstenhaber代数； 格爾斯滕哈伯代數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：格尔斯滕哈伯代数](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%B0%94%E6%96%AF%E6%BB%95%E5%93%88%E4%BC%AF%E4%BB%A3%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=46488493)）
 - [English Wikipedia：Gerstenhaber algebra](https://en.wikipedia.org/wiki/Gerstenhaber_algebra)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1225496515)）
 - [nLab：Gerstenhaber algebra](https://ncatlab.org/nlab/show/Gerstenhaber+algebra)
 - [Wikidata：Q5553164](https://www.wikidata.org/wiki/Q5553164)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2542247103)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

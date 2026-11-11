@@ -26,19 +26,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-超冷凍； 過冷現象； 超冷冻； 過冷； supercooling； undercooling
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：过冷](https://zh.wikipedia.org/wiki/%E8%BF%87%E5%86%B7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92235992)）
 - [English Wikipedia：Supercooling](https://en.wikipedia.org/wiki/Supercooling)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383322679)）
 - [Wikidata：Q213659](https://www.wikidata.org/wiki/Q213659)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2550600784)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

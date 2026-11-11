@@ -535,7 +535,7 @@ function fillDocument(data: ContentIndex): Promise<void> {
           id,
           slug: slug as FullSlug,
           title: fileData.title,
-          content: fileData.content,
+          content: [fileData.content, ...(fileData.aliases ?? [])].join("\n"),
           tags: fileData.tags,
         }),
       )

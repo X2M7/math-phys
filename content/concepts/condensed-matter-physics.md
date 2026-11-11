@@ -27,19 +27,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-凝聚态物理； 凝聚態物理學； 凝態物理學； 凝態物理； condensed matter physics； physics of condensed matter； condensed-matter physics
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：凝聚态物理学](https://zh.wikipedia.org/wiki/%E5%87%9D%E8%81%9A%E6%80%81%E7%89%A9%E7%90%86%E5%AD%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95130652)）
 - [English Wikipedia：Condensed matter physics](https://en.wikipedia.org/wiki/Condensed_matter_physics)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1378570758)）
 - [Wikidata：Q214781](https://www.wikidata.org/wiki/Q214781)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2556192889)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

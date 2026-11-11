@@ -24,19 +24,11 @@ dictionarySource:
 
 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-二次非剩余； 平方剩余； 二次剩餘； quadratic residue
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：二次剩余](https://zh.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E5%89%A9%E4%BD%99)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95118528)）
 - [English Wikipedia：Quadratic residue](https://en.wikipedia.org/wiki/Quadratic_residue)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382019666)）
 - [Wikidata：Q878259](https://www.wikidata.org/wiki/Q878259)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563584754)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

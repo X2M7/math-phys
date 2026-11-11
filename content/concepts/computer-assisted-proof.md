@@ -22,19 +22,11 @@ dictionarySource:
 
 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-computer-assisted proof； 電腦協助證明
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：电脑协助证明](https://zh.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E5%8D%94%E5%8A%A9%E8%AD%89%E6%98%8E)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88187908)）
 - [English Wikipedia：Computer-assisted proof](https://en.wikipedia.org/wiki/Computer-assisted_proof)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382466823)）
 - [Wikidata：Q1150675](https://www.wikidata.org/wiki/Q1150675)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2503694816)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

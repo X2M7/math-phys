@@ -24,19 +24,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics · 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-二格骨牌平鋪； domino tiling； 雙體模型
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：双体模型](https://zh.wikipedia.org/wiki/%E5%8F%8C%E4%BD%93%E6%A8%A1%E5%9E%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=73503382)）
 - [English Wikipedia：Domino tiling](https://en.wikipedia.org/wiki/Domino_tiling)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1351759258)）
 - [Wikidata：Q21042776](https://www.wikidata.org/wiki/Q21042776)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2481738485)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -22,19 +22,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Liouville-Arnold theorem； 劉維爾–阿諾德定理
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：刘维尔–阿诺德定理](https://zh.wikipedia.org/wiki/%E5%88%98%E7%BB%B4%E5%B0%94%E2%80%93%E9%98%BF%E8%AF%BA%E5%BE%B7%E5%AE%9A%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91456521)）
 - [English Wikipedia：Liouville–Arnold theorem](https://en.wikipedia.org/wiki/Liouville%E2%80%93Arnold_theorem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1332591284)）
 - [Wikidata：Q14943261](https://www.wikidata.org/wiki/Q14943261)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2430319244)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

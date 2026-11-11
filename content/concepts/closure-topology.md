@@ -24,19 +24,11 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-拓扑闭包； closure； set closure； 閉包 \(拓撲學\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：闭包 \(拓扑学\)](<https://zh.wikipedia.org/wiki/%E9%97%AD%E5%8C%85_(%E6%8B%93%E6%89%91%E5%AD%A6)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90674611)）
 - [English Wikipedia：Closure \(topology\)](<https://en.wikipedia.org/wiki/Closure_(topology)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1377316235)）
 - [Wikidata：Q320346](https://www.wikidata.org/wiki/Q320346)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2547700301)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

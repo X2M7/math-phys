@@ -23,19 +23,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Chirp-Z 轉換； Bluestein's FFT algorithm； Chirp-Z轉換
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：Chirp-Z转换](https://zh.wikipedia.org/wiki/Chirp-Z%E8%BD%89%E6%8F%9B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=75780799)）
 - [English Wikipedia：Chirp Z-transform](https://en.wikipedia.org/wiki/Chirp_Z-transform)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1363905973)）
 - [Wikidata：Q886077](https://www.wikidata.org/wiki/Q886077)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2320445410)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

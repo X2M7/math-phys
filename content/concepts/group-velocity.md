@@ -24,19 +24,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics · 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-群速； group velocity； group speed
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：群速度](https://zh.wikipedia.org/wiki/%E7%BE%A4%E9%80%9F%E5%BA%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=82982125)）
 - [English Wikipedia：Group velocity](https://en.wikipedia.org/wiki/Group_velocity)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379069533)）
 - [Wikidata：Q217361](https://www.wikidata.org/wiki/Q217361)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515853916)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

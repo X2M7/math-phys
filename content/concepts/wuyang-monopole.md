@@ -21,19 +21,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-吳-楊磁單極子
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：吴-杨磁单极子](https://zh.wikipedia.org/wiki/%E5%90%B4-%E6%9D%A8%E7%A3%81%E5%8D%95%E6%9E%81%E5%AD%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=85953508)）
 - [English Wikipedia：Wu–Yang monopole](https://en.wikipedia.org/wiki/Wu%E2%80%93Yang_monopole)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1365272738)）
 - [Wikidata：Q8039428](https://www.wikidata.org/wiki/Q8039428)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2494057287)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

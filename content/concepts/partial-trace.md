@@ -24,12 +24,6 @@ dictionarySource:
 
 代数 / Algebra · 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-partial trace
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Partial trace](https://en.wikipedia.org/wiki/Partial_trace)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1352052580)）
@@ -43,8 +37,6 @@ partial trace
 - [术语在线：《物理学名词》（2019，第三版）—分迹](https://www.termonline.cn/wordDetail?base=1&subject=df10a3c326ac11ee9862b068e6519520&termName=%E5%88%86%E8%BF%B9)（全国科学技术名词审定委员会）。来源原译名：分迹；原文英文：partial trace。定位：术语编码 01\.0449；物理学\_通类\_数学；公布年度 2019；记录 ID df10a3c326ac11ee9862b068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

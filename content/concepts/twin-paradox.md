@@ -24,19 +24,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-双胞胎悖论； 孿生子悖論； twin paradox； 雙生子佯謬
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：双生子佯谬](https://zh.wikipedia.org/wiki/%E5%8F%8C%E7%94%9F%E5%AD%90%E4%BD%AF%E8%B0%AC)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90287579)）
 - [English Wikipedia：Twin paradox](https://en.wikipedia.org/wiki/Twin_paradox)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379721570)）
 - [Wikidata：Q33539](https://www.wikidata.org/wiki/Q33539)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2526024833)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

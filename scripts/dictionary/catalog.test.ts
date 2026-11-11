@@ -83,10 +83,15 @@ test("dictionary catalog rejects duplicate identities and unrelated source hosts
   assert.throws(() => validateCatalog(bad, subjects))
 })
 
-test("imported mathematical symbols remain literal text while frontmatter keeps searchable aliases", () => {
-  const result = renderConcept(catalog.entries[0], catalog, subjects)
-  assert.deepEqual(matter(result).data.concept.variants, catalog.entries[0].variants)
+test("imported names remain literal text while aliases stay only in searchable frontmatter", () => {
+  const entry = structuredClone(catalog.entries[0])
+  entry.en = "A < B · C* · [not a link](https://example.org) · $x$"
+  const result = renderConcept(entry, catalog, subjects)
+  assert.deepEqual(matter(result).data.concept.variants, entry.variants)
   const body = matter(result).content
+  assert(!body.includes("## 别名 / Variants"))
+  assert(!body.includes("保留来源中的不同译名及简繁写法"))
+  assert(!body.includes("张量乘积"))
   assert(body.includes("A &lt; B"))
   assert(body.includes("C\\*"))
   assert(body.includes("\\[not a link\\]\\(https://example\\.org\\)"))
@@ -247,8 +252,6 @@ test("terminology references preserve source identities without inventing Chines
   assert(rendered.content.includes("来源原译名：張量積；原文英文：tensor product"))
   assert(rendered.content.includes("采用简体名：**张量积**"))
   assert(rendered.content.includes("定位：术语编号 T-012；第 3 页"))
-  assert(rendered.content.includes("核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名"))
-  assert(rendered.content.includes("2026-11-09 核验时未找到"))
   assert(rendered.content.includes("核验日期：2026-11-10"))
   assert(rendered.content.includes("采用简体字形，保留词表中的原译名"))
   assert(rendered.content.includes("https://en.wikipedia.org/wiki/Tensor_product"))
@@ -270,8 +273,8 @@ test("academic usage is described distinctly and reference text stays literal", 
   assert.doesNotThrow(() => validateCatalog(data, subjects))
   const rendered = matter(renderConcept(data.entries[0], data, subjects))
   assert.equal(rendered.data.dictionarySource.translationBasis, "academic-usage")
-  assert(rendered.content.includes("采用学术文献用法"))
-  assert(!rendered.content.includes("采用术语来源译名"))
+  assert(rendered.content.includes("学术文献用法。核验日期"))
+  assert(!rendered.content.includes("术语来源译名"))
   assert(rendered.content.includes("A &lt; B and C\\* \\[paper\\]"))
   assert(rendered.content.includes("公式 \\$x\\$；第 \\[2\\] 页"))
 })
@@ -286,6 +289,42 @@ test("additional terminology evidence cannot bypass the established Chinese Wiki
   assert(!rendered.content.includes("核验时未找到"))
   data.entries[0].zh = "張量積"
   assert.throws(() => validateCatalog(data, subjects), /primary title must use zh-hans/)
+})
+
+test("concept pages omit generic import explanations for every source and translation basis", () => {
+  const official = terminologyCatalog()
+  const academic = terminologyCatalog()
+  academic.entries[0].translation!.basis = "academic-usage"
+  for (const data of [catalog, official, academic]) {
+    for (const hasNlab of [true, false]) {
+      const entry = structuredClone(data.entries[0])
+      if (!hasNlab) entry.sources.nlab = []
+      const rendered = matter(renderConcept(entry, data, subjects))
+      assert.deepEqual(rendered.data.concept.variants, entry.variants)
+      for (const explanation of [
+        "## 别名 / Variants",
+        "中英文名称依据同一 Wikidata 实体",
+        "核验时未找到对应的中文 Wikipedia 页面",
+        "这里收录术语名称与来源索引",
+        "译名和别名尚未逐条人工审定",
+        "nLab 对应关系经其官方源码快照",
+      ]) {
+        assert(!rendered.content.includes(explanation), explanation)
+      }
+      assert(rendered.content.includes("## 参考来源 / Sources"))
+      assert(rendered.content.includes(entry.sources.enWikipedia.url))
+      assert(rendered.content.includes(entry.sources.wikidata.url))
+      assert(rendered.content.includes(`oldid=${entry.sources.enWikipedia.revisionId}`))
+      assert(rendered.content.includes("采集日期：2026-11-10"))
+      assert(rendered.content.includes("../dictionary#dictionary-sources"))
+      if (hasNlab) assert(rendered.content.includes(entry.sources.nlab[0].url))
+      if (entry.translation) {
+        assert(rendered.content.includes("## 中文译名依据 / Chinese translation references"))
+        assert(rendered.content.includes(entry.translation.sources[0].url))
+        assert(rendered.content.includes(entry.translation.note!))
+      }
+    }
+  }
 })
 
 test("terminology-backed imports preserve author edits on subsequent runs", async () => {

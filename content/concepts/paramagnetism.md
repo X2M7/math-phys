@@ -23,19 +23,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-顺磁； paramagnetism； 順磁性
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：顺磁性](https://zh.wikipedia.org/wiki/%E9%A0%86%E7%A3%81%E6%80%A7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94158943)）
 - [English Wikipedia：Paramagnetism](https://en.wikipedia.org/wiki/Paramagnetism)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1365679567)）
 - [Wikidata：Q188479](https://www.wikidata.org/wiki/Q188479)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2555525281)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

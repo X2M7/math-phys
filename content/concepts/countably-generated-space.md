@@ -25,19 +25,11 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-可数生成的； 可數生成空間； countably generated space； countably tight space； space of countable tightness
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：可数生成空间](https://zh.wikipedia.org/wiki/%E5%8F%AF%E6%95%B0%E7%94%9F%E6%88%90%E7%A9%BA%E9%97%B4)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=63524327)）
 - [English Wikipedia：Countably generated space](https://en.wikipedia.org/wiki/Countably_generated_space)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1366249192)）
 - [Wikidata：Q4474437](https://www.wikidata.org/wiki/Q4474437)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541318509)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

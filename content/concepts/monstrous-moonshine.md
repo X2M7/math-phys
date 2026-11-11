@@ -25,19 +25,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-康威－诺顿猜想； 怪獸月光猜想； 康威－諾頓猜想； monstrous moonshine； 怪獸月光理論
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：怪兽月光理论](https://zh.wikipedia.org/wiki/%E6%80%AA%E5%85%BD%E6%9C%88%E5%85%89%E7%90%86%E8%AE%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93517102)）
 - [English Wikipedia：Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384654459)）
 - [Wikidata：Q392440](https://www.wikidata.org/wiki/Q392440)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541298861)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

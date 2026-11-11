@@ -25,19 +25,11 @@ dictionarySource:
 
 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-玻姆詮釋； 德布羅意-玻姆理論； Bohmian mechanics； Bohm's interpretation； causal interpretation
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：德布罗意-玻姆理论](https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%B8%83%E7%BD%97%E6%84%8F-%E7%8E%BB%E5%A7%86%E7%90%86%E8%AE%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94908321)）
 - [English Wikipedia：De Broglie–Bohm theory](https://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384264526)）
 - [Wikidata：Q899444](https://www.wikidata.org/wiki/Q899444)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2499438565)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -28,20 +28,12 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-白噪声； 杂讯； 白噪声序列； 白噪音； 白噪聲； 白色雜訊； white noise； 白雜訊
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：白杂讯](https://zh.wikipedia.org/wiki/%E7%99%BD%E9%9B%9C%E8%A8%8A)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95298510)）
 - [English Wikipedia：White noise](https://en.wikipedia.org/wiki/White_noise)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1378872016)）
 - [nLab：white noise](https://ncatlab.org/nlab/show/white+noise)
 - [Wikidata：Q381287](https://www.wikidata.org/wiki/Q381287)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2542523160)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

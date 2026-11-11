@@ -28,19 +28,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-機械功； 電功； 作功； 做功； 物理功； work； physical work； mechanical work
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：功](https://zh.wikipedia.org/wiki/%E5%8A%9F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94496012)）
 - [English Wikipedia：Work \(physics\)](<https://en.wikipedia.org/wiki/Work_(physics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384705362)）
 - [Wikidata：Q42213](https://www.wikidata.org/wiki/Q42213)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565099582)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

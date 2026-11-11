@@ -26,19 +26,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Dice's 系数； Sørensen similarity index； Sørensen–Dice coefficient； Sørensen index； Dice's coefficient； Dice係數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：Dice系数](https://zh.wikipedia.org/wiki/Dice%E7%B3%BB%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=85102159)）
 - [English Wikipedia：Dice-Sørensen coefficient](https://en.wikipedia.org/wiki/Dice-S%C3%B8rensen_coefficient)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383954233)）
 - [Wikidata：Q2613728](https://www.wikidata.org/wiki/Q2613728)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2542237724)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

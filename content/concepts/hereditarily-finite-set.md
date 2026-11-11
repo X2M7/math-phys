@@ -23,20 +23,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-遗传有限集合； hereditarily finite set； 繼承有限集合
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：继承有限集合](https://zh.wikipedia.org/wiki/%E7%BB%A7%E6%89%BF%E6%9C%89%E9%99%90%E9%9B%86%E5%90%88)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=68409631)）
 - [English Wikipedia：Hereditarily finite set](https://en.wikipedia.org/wiki/Hereditarily_finite_set)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375670198)）
 - [nLab：hereditarily finite set](https://ncatlab.org/nlab/show/hereditarily+finite+set)
 - [Wikidata：Q5737811](https://www.wikidata.org/wiki/Q5737811)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2206626585)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

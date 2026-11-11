@@ -25,20 +25,12 @@ dictionarySource:
 
 宇宙学 / Cosmology · 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-星体形成； 星體形成； structure formation； 結構形成
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：结构形成](https://zh.wikipedia.org/wiki/%E7%B5%90%E6%A7%8B%E5%BD%A2%E6%88%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92988747)）
 - [English Wikipedia：Structure formation](https://en.wikipedia.org/wiki/Structure_formation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1376287164)）
 - [nLab：structure formation](https://ncatlab.org/nlab/show/structure+formation)
 - [Wikidata：Q2914363](https://www.wikidata.org/wiki/Q2914363)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2509394830)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -25,20 +25,12 @@ dictionarySource:
 
 代数 / Algebra · 几何学 / Geometry · 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Bott周期性定理； Bott周期性； 博特周期性
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：博特周期性定理](https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%89%B9%E5%91%A8%E6%9C%9F%E6%80%A7%E5%AE%9A%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=57174351)）
 - [English Wikipedia：Bott periodicity theorem](https://en.wikipedia.org/wiki/Bott_periodicity_theorem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1345548938)）
 - [nLab：Bott periodicity](https://ncatlab.org/nlab/show/Bott+periodicity)
 - [Wikidata：Q4948983](https://www.wikidata.org/wiki/Q4948983)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2549656095)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

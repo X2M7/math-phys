@@ -27,20 +27,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-enumerated type； enumeration； enum； enumerated type \(computer programming\)； factor； enum type； 枚舉
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：枚举](https://zh.wikipedia.org/wiki/%E6%9E%9A%E4%B8%BE)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=83640716)）
 - [English Wikipedia：Enumerated type](https://en.wikipedia.org/wiki/Enumerated_type)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375672046)）
 - [nLab：enumerated type](https://ncatlab.org/nlab/show/enumerated+type)
 - [Wikidata：Q760170](https://www.wikidata.org/wiki/Q760170)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2431202893)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

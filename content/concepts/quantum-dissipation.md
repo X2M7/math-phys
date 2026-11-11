@@ -23,19 +23,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics · 量子力学与量子信息 / Quantum mechanics and information · 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-quantum dissipation
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：量子耗散](https://zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E8%80%97%E6%95%A3)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90781002)）
 - [English Wikipedia：Quantum dissipation](https://en.wikipedia.org/wiki/Quantum_dissipation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380846002)）
 - [Wikidata：Q7269039](https://www.wikidata.org/wiki/Q7269039)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2282236315)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

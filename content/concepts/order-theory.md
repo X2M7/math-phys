@@ -23,20 +23,12 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-order theory； order-theoretic； 序理論
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：序理论](https://zh.wikipedia.org/wiki/%E5%BA%8F%E7%90%86%E8%AE%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=80288204)）
 - [English Wikipedia：Order theory](https://en.wikipedia.org/wiki/Order_theory)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1361200914)）
 - [nLab：order theory](https://ncatlab.org/nlab/show/order+theory)
 - [Wikidata：Q24175351](https://www.wikidata.org/wiki/Q24175351)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2511751740)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

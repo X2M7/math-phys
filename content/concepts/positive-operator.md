@@ -25,12 +25,6 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-positive element； positive operator； Positive element
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Positive operator](https://en.wikipedia.org/wiki/Positive_operator)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1354563348)）
@@ -44,8 +38,6 @@ positive element； positive operator； Positive element
 - [术语在线：《计算机科学技术名词》（2018，第三版）—正算子](https://www.termonline.cn/wordDetail?base=1&subject=7d3fe73926b011eea513b068e6519520&termName=%E6%AD%A3%E7%AE%97%E5%AD%90)（全国科学技术名词审定委员会）。来源原译名：正算子；原文英文：positive operator。定位：术语编码 12\.0110；计算机科学技术\_计算机交叉学科\_量子计算与量子信息学；公布年度 2018；记录 ID 7d3fe73926b011eea513b068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

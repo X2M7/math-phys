@@ -21,19 +21,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-漢勒效應
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：汉勒效应](https://zh.wikipedia.org/wiki/%E6%B1%89%E5%8B%92%E6%95%88%E5%BA%94)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88272187)）
 - [English Wikipedia：Hanle effect](https://en.wikipedia.org/wiki/Hanle_effect)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379299318)）
 - [Wikidata：Q94866](https://www.wikidata.org/wiki/Q94866)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565346667)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

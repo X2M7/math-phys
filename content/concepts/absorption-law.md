@@ -21,19 +21,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-absorption law
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：吸收律](https://zh.wikipedia.org/wiki/%E5%90%B8%E6%94%B6%E5%BE%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=51962503)）
 - [English Wikipedia：Absorption law](https://en.wikipedia.org/wiki/Absorption_law)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373730955)）
 - [Wikidata：Q1154428](https://www.wikidata.org/wiki/Q1154428)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541223724)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

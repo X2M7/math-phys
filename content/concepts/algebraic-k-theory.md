@@ -27,12 +27,6 @@ dictionarySource:
 
 代数 / Algebra · 几何学 / Geometry · 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-algebraic K-theory； algebraic 𝐾-theory； algebraic K theory
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Algebraic K-theory](https://en.wikipedia.org/wiki/Algebraic_K-theory)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382064269)）
@@ -47,8 +41,6 @@ algebraic K-theory； algebraic 𝐾-theory； algebraic K theory
 - [Algebraic K-Theory and Prismatic Cohomology](https://bicmr.pku.edu.cn/content/show/70-3167.html)（北京大学北京国际数学研究中心）。来源原译名：代数K理论；原文英文：Algebraic K-theory。定位：2023年12月短课程的中英文摘要。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。按数学\_代数几何学\_代数K理论条目核对，algebraic K theory 与英文标题 Algebraic K-theory 仅连字符有别；来源词形完整保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -23,19 +23,11 @@ dictionarySource:
 
 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-p进数分析； p-adic analysis； P進數分析
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：P进数分析](https://zh.wikipedia.org/wiki/P%E8%BF%9B%E6%95%B0%E5%88%86%E6%9E%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95264059)）
 - [English Wikipedia：P-adic analysis](https://en.wikipedia.org/wiki/P-adic_analysis)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1368883241)）
 - [Wikidata：Q2845236](https://www.wikidata.org/wiki/Q2845236)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541588659)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

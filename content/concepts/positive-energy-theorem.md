@@ -21,20 +21,12 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-positive energy theorem
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：正能量定理](https://zh.wikipedia.org/wiki/%E6%AD%A3%E8%83%BD%E9%87%8F%E5%AE%9A%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=89937457)）
 - [English Wikipedia：Positive energy theorem](https://en.wikipedia.org/wiki/Positive_energy_theorem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375037006)）
 - [nLab：positive energy theorem](https://ncatlab.org/nlab/show/positive+energy+theorem)
 - [Wikidata：Q4179283](https://www.wikidata.org/wiki/Q4179283)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2448401372)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

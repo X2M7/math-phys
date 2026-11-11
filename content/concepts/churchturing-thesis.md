@@ -32,20 +32,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-邱奇－图灵论题； Church-Turing论题； 丘奇－图灵论题； 邱奇-圖靈論題； 丘奇-图灵论题； 邱奇－圖靈論題； Turing–Church thesis； Church–Turing conjecture； Church's thesis； Church's conjecture； Turing's thesis； Church-Turing thesis
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：邱奇-图灵论题](https://zh.wikipedia.org/wiki/%E9%82%B1%E5%A5%87-%E5%9B%BE%E7%81%B5%E8%AE%BA%E9%A2%98)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94466229)）
 - [English Wikipedia：Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380356307)）
 - [nLab：Church-Turing thesis](https://ncatlab.org/nlab/show/Church-Turing+thesis)
 - [Wikidata：Q309157](https://www.wikidata.org/wiki/Q309157)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2533715808)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

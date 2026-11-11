@@ -28,20 +28,12 @@ dictionarySource:
 
 范畴论 / Category theory · 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-代数堆； 叠形； 2-层； 代數堆； stack； 2-sheaf； 疊 \(數學\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：叠 \(数学\)](<https://zh.wikipedia.org/wiki/%E5%8F%A0_(%E6%95%B0%E5%AD%A6)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91300567)）
 - [English Wikipedia：Stack \(mathematics\)](<https://en.wikipedia.org/wiki/Stack_(mathematics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1374394017)）
 - [nLab：stack](https://ncatlab.org/nlab/show/stack)
 - [Wikidata：Q7595945](https://www.wikidata.org/wiki/Q7595945)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2562959043)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

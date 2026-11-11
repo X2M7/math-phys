@@ -23,20 +23,12 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Morse勢； Morse势； 莫爾斯勢
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：莫尔斯势](https://zh.wikipedia.org/wiki/%E8%8E%AB%E5%B0%94%E6%96%AF%E5%8A%BF)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90594679)）
 - [English Wikipedia：Morse potential](https://en.wikipedia.org/wiki/Morse_potential)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1372010347)）
 - [nLab：Morse potential](https://ncatlab.org/nlab/show/Morse+potential)
 - [Wikidata：Q1783557](https://www.wikidata.org/wiki/Q1783557)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2537884244)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

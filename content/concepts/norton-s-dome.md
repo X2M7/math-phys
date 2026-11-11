@@ -21,19 +21,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-諾頓穹頂
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：诺顿穹顶](https://zh.wikipedia.org/wiki/%E8%AF%BA%E9%A1%BF%E7%A9%B9%E9%A1%B6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92727727)）
 - [English Wikipedia：Norton's dome](https://en.wikipedia.org/wiki/Norton%27s_dome)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1376826285)）
 - [Wikidata：Q18354955](https://www.wikidata.org/wiki/Q18354955)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2482687322)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

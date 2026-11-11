@@ -30,20 +30,12 @@ dictionarySource:
 
 概率与统计 / Probability and statistics · 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Grover演算法； 葛羅佛演算法； 格罗夫算法； Grover演演算法； 葛羅佛演演算法； Grover database search algorithm； Grover's search algorithm； quantum search algorithm； 格羅弗算法
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：格罗弗算法](https://zh.wikipedia.org/wiki/%E6%A0%BC%E7%BD%97%E5%BC%97%E7%AE%97%E6%B3%95)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94829113)）
 - [English Wikipedia：Grover's algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373498442)）
 - [nLab：Grover's algorithm](https://ncatlab.org/nlab/show/Grover%27s+algorithm)
 - [Wikidata：Q1028292](https://www.wikidata.org/wiki/Q1028292)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2550156398)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

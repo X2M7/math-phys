@@ -26,19 +26,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-基变化； change of basis； basis change； change of coordinates； coordinates change； 基變更
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：基变更](https://zh.wikipedia.org/wiki/%E5%9F%BA%E5%8F%98%E6%9B%B4)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94900326)）
 - [English Wikipedia：Change of basis](https://en.wikipedia.org/wiki/Change_of_basis)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1376113800)）
 - [Wikidata：Q810255](https://www.wikidata.org/wiki/Q810255)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2506833729)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

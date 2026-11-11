@@ -22,19 +22,11 @@ dictionarySource:
 
 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-朗道-拉马努金常数； 蘭道-拉馬努金常數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：兰道-拉马努金常数](https://zh.wikipedia.org/wiki/%E5%85%B0%E9%81%93-%E6%8B%89%E9%A9%AC%E5%8A%AA%E9%87%91%E5%B8%B8%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92888981)）
 - [English Wikipedia：Landau–Ramanujan constant](https://en.wikipedia.org/wiki/Landau%E2%80%93Ramanujan_constant)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1270178029)）
 - [Wikidata：Q2641368](https://www.wikidata.org/wiki/Q2641368)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2532766366)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

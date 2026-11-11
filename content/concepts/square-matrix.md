@@ -26,20 +26,12 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-正方形矩陣； 方形矩陣； 正方矩陣； 方矩阵； square matrix； 方塊矩陣
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：方块矩阵](https://zh.wikipedia.org/wiki/%E6%96%B9%E5%9D%97%E7%9F%A9%E9%98%B5)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=67754329)）
 - [English Wikipedia：Square matrix](https://en.wikipedia.org/wiki/Square_matrix)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1346164820)）
 - [nLab：square matrix](https://ncatlab.org/nlab/show/square+matrix)
 - [Wikidata：Q2739329](https://www.wikidata.org/wiki/Q2739329)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2558498126)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

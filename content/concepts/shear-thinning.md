@@ -22,19 +22,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-剪切稀化流体； 假塑性
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：剪切稀化](https://zh.wikipedia.org/wiki/%E5%89%AA%E5%88%87%E7%A8%80%E5%8C%96)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88120793)）
 - [English Wikipedia：Shear thinning](https://en.wikipedia.org/wiki/Shear_thinning)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373835959)）
 - [Wikidata：Q902458](https://www.wikidata.org/wiki/Q902458)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2339689049)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

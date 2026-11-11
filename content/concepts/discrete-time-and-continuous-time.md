@@ -25,19 +25,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-离散时间和连续时间； 連續時間及離散時間； 離散時間和連續時間； discrete time and continuous time； 離散時間與連續時間
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：离散时间与连续时间](https://zh.wikipedia.org/wiki/%E7%A6%BB%E6%95%A3%E6%97%B6%E9%97%B4%E4%B8%8E%E8%BF%9E%E7%BB%AD%E6%97%B6%E9%97%B4)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94042750)）
 - [English Wikipedia：Discrete time and continuous time](https://en.wikipedia.org/wiki/Discrete_time_and_continuous_time)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1334894545)）
 - [Wikidata：Q15963867](https://www.wikidata.org/wiki/Q15963867)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2500331755)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

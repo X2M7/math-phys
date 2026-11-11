@@ -27,19 +27,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics · 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-狄拉克单极； 磁单极； 磁單極子； 磁荷； 狄拉克單極； magnetic monopole
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：磁单极子](https://zh.wikipedia.org/wiki/%E7%A3%81%E5%8D%95%E6%9E%81%E5%AD%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94761253)）
 - [English Wikipedia：Magnetic monopole](https://en.wikipedia.org/wiki/Magnetic_monopole)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383596958)）
 - [Wikidata：Q219708](https://www.wikidata.org/wiki/Q219708)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563662806)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

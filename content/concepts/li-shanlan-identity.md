@@ -21,19 +21,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-李善蘭恆等式
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：李善兰恒等式](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%96%84%E5%85%B0%E6%81%92%E7%AD%89%E5%BC%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88481134)）
 - [English Wikipedia：Li Shanlan identity](https://en.wikipedia.org/wiki/Li_Shanlan_identity)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1310769068)）
 - [Wikidata：Q11095733](https://www.wikidata.org/wiki/Q11095733)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2383541902)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

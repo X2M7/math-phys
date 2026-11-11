@@ -23,19 +23,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-連續線性算子； continuous linear operator； continuous operator
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：连续线性算子](https://zh.wikipedia.org/wiki/%E8%BF%9E%E7%BB%AD%E7%BA%BF%E6%80%A7%E7%AE%97%E5%AD%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90596635)）
 - [English Wikipedia：Continuous linear operator](https://en.wikipedia.org/wiki/Continuous_linear_operator)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1374766679)）
 - [Wikidata：Q1091024](https://www.wikidata.org/wiki/Q1091024)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2358665053)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

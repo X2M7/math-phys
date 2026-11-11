@@ -29,20 +29,12 @@ dictionarySource:
 
 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-极坐标图； 極座標系； 球极坐标； 极坐标； 極座標； polar coordinate system； polar coordinates system； polar coordinates； 極坐標系
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：极坐标系](https://zh.wikipedia.org/wiki/%E6%9E%81%E5%9D%90%E6%A0%87%E7%B3%BB)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94258996)）
 - [English Wikipedia：Polar coordinate system](https://en.wikipedia.org/wiki/Polar_coordinate_system)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382008000)）
 - [nLab：polar coordinates](https://ncatlab.org/nlab/show/polar+coordinates)
 - [Wikidata：Q62494](https://www.wikidata.org/wiki/Q62494)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2551806890)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

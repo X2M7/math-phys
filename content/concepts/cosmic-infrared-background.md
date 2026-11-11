@@ -24,19 +24,11 @@ dictionarySource:
 
 宇宙学 / Cosmology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-cosmic infrared background； CIRB； CIB； 宇宙紅外線背景輻射
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：宇宙红外线背景辐射](https://zh.wikipedia.org/wiki/%E5%AE%87%E5%AE%99%E7%B4%85%E5%A4%96%E7%B7%9A%E8%83%8C%E6%99%AF%E8%BC%BB%E5%B0%84)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=82042147)）
 - [English Wikipedia：Cosmic infrared background](https://en.wikipedia.org/wiki/Cosmic_infrared_background)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379138862)）
 - [Wikidata：Q5174142](https://www.wikidata.org/wiki/Q5174142)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2439293101)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

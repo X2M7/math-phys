@@ -31,19 +31,11 @@ dictionarySource:
 
 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-浮点数； 浮點數； 浮點運算； 浮点； 浮点计算； 浮點數運算； floating point； floating point number； float； floating point data type； floating point representation
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：浮点数运算](https://zh.wikipedia.org/wiki/%E6%B5%AE%E7%82%B9%E6%95%B0%E8%BF%90%E7%AE%97)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92173463)）
 - [English Wikipedia：Floating-point arithmetic](https://en.wikipedia.org/wiki/Floating-point_arithmetic)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383762462)）
 - [Wikidata：Q117879](https://www.wikidata.org/wiki/Q117879)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2556555346)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

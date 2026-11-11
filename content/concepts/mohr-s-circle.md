@@ -23,19 +23,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-摩爾圓； Mohr circle； 莫爾圓
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：莫尔圆](https://zh.wikipedia.org/wiki/%E8%8E%AB%E7%88%BE%E5%9C%93)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95285025)）
 - [English Wikipedia：Mohr's circle](https://en.wikipedia.org/wiki/Mohr%27s_circle)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1330528049)）
 - [Wikidata：Q360655](https://www.wikidata.org/wiki/Q360655)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2559477795)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

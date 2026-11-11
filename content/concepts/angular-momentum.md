@@ -26,20 +26,12 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics · 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-角動量； 軌角動量； 动量矩； angular momentum； moment of momentum
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：角动量](https://zh.wikipedia.org/wiki/%E8%A7%92%E5%8A%A8%E9%87%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92264745)）
 - [English Wikipedia：Angular momentum](https://en.wikipedia.org/wiki/Angular_momentum)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380305811)）
 - [nLab：angular momentum](https://ncatlab.org/nlab/show/angular+momentum)
 - [Wikidata：Q161254](https://www.wikidata.org/wiki/Q161254)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2566531974)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

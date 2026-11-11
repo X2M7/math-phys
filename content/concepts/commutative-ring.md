@@ -24,19 +24,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-可交換環； 可交换环； 交換環； commutative ring
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：交换环](https://zh.wikipedia.org/wiki/%E4%BA%A4%E6%8D%A2%E7%8E%AF)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88543239)）
 - [English Wikipedia：Commutative ring](https://en.wikipedia.org/wiki/Commutative_ring)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1351900525)）
 - [Wikidata：Q858656](https://www.wikidata.org/wiki/Q858656)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2550655030)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -27,20 +27,12 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-亞佛加厥常數； N\_A； L； Nᴀ； Avogadro's constant； 6×10^23； 阿伏伽德羅常數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：阿伏伽德罗常数](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8F%E4%BC%BD%E5%BE%B7%E7%BD%97%E5%B8%B8%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94943613)）
 - [English Wikipedia：Avogadro constant](https://en.wikipedia.org/wiki/Avogadro_constant)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1360615018)）
 - [nLab：Avogadro constant](https://ncatlab.org/nlab/show/Avogadro+constant)
 - [Wikidata：Q6203](https://www.wikidata.org/wiki/Q6203)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2564816808)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

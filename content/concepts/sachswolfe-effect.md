@@ -23,19 +23,11 @@ dictionarySource:
 
 宇宙学 / Cosmology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-薩克斯-瓦福效應； Sachs-Wolfe effect； 薩克斯-沃爾夫效應
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：萨克斯-沃尔夫效应](https://zh.wikipedia.org/wiki/%E8%96%A9%E5%85%8B%E6%96%AF-%E6%B2%83%E7%88%BE%E5%A4%AB%E6%95%88%E6%87%89)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95391268)）
 - [English Wikipedia：Sachs–Wolfe effect](https://en.wikipedia.org/wiki/Sachs%E2%80%93Wolfe_effect)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373205875)）
 - [Wikidata：Q1617362](https://www.wikidata.org/wiki/Q1617362)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2478520640)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

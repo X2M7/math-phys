@@ -25,19 +25,11 @@ dictionarySource:
 
 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-阿代爾環； adele ring； adelic ring； ring of adeles； 賦值向量環
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：赋值向量环](https://zh.wikipedia.org/wiki/%E8%B3%A6%E5%80%BC%E5%90%91%E9%87%8F%E7%92%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=52107405)）
 - [English Wikipedia：Adele ring](https://en.wikipedia.org/wiki/Adele_ring)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1376209331)）
 - [Wikidata：Q355356](https://www.wikidata.org/wiki/Q355356)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2264599816)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

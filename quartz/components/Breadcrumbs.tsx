@@ -3,6 +3,9 @@ import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, resolveRelative, simplifySlug } from "../util/path"
 import { classNames } from "../util/lang"
 import { trieFromAllFiles } from "../util/ctx"
+import { getConceptBreadcrumbTrails } from "../util/conceptBreadcrumbs"
+// @ts-ignore
+import script from "./scripts/breadcrumbs.inline"
 
 type CrumbData = {
   displayName: string
@@ -50,6 +53,51 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     displayClass,
     ctx,
   }: QuartzComponentProps) => {
+    const conceptTrails = getConceptBreadcrumbTrails(fileData, allFiles)
+    if (conceptTrails.length) {
+      return (
+        <nav
+          class={classNames(displayClass, "breadcrumb-container", "concept-breadcrumbs")}
+          aria-label="breadcrumbs"
+        >
+          {conceptTrails.map((trail, trailIndex) => {
+            const crumbs = [
+              { displayName: options.rootName, slug: "index" as FullSlug },
+              ...trail.crumbs,
+            ]
+            if (!options.showCurrentPage) crumbs.pop()
+            return (
+              <ol
+                class="concept-breadcrumb-trail"
+                data-tree-node={trail.node}
+                lang={trail.lang}
+                hidden={trailIndex !== 0}
+              >
+                {crumbs.map((crumb, index) => (
+                  <li class="breadcrumb-element">
+                    {options.showCurrentPage && index === crumbs.length - 1 ? (
+                      <span aria-current="page">{crumb.displayName}</span>
+                    ) : (
+                      <a
+                        class="internal"
+                        href={resolveRelative(fileData.slug!, simplifySlug(crumb.slug))}
+                      >
+                        {crumb.displayName}
+                      </a>
+                    )}
+                    {index !== crumbs.length - 1 && (
+                      <span class="breadcrumb-separator" aria-hidden="true">
+                        {options.spacerSymbol}
+                      </span>
+                    )}
+                  </li>
+                ))}
+              </ol>
+            )
+          })}
+        </nav>
+      )
+    }
     const trie = (ctx.trie ??= trieFromAllFiles(allFiles))
     const slugParts = fileData.slug!.split("/")
     const pathNodes = trie.ancestryChain(slugParts)
@@ -77,7 +125,12 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     }
 
     return (
-      <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="breadcrumbs">
+      <nav
+        class={classNames(displayClass, "breadcrumb-container")}
+        aria-label="breadcrumbs"
+        data-tree-node={fileData.frontmatter?.treeNode}
+        data-tree-lang={fileData.frontmatter?.lang}
+      >
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>
@@ -88,6 +141,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     )
   }
   Breadcrumbs.css = breadcrumbsStyle
+  Breadcrumbs.afterDOMLoaded = script
 
   return Breadcrumbs
 }) satisfies QuartzComponentConstructor

@@ -24,20 +24,12 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-同態； homomorphism； homomorphic； structure-preserving map
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：同态](https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%81)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94765417)）
 - [English Wikipedia：Homomorphism](https://en.wikipedia.org/wiki/Homomorphism)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1381551549)）
 - [nLab：homomorphism](https://ncatlab.org/nlab/show/homomorphism)
 - [Wikidata：Q215111](https://www.wikidata.org/wiki/Q215111)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2506672700)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

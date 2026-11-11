@@ -23,19 +23,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-爱因斯坦热容； 愛因斯坦模型； Einstein model
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：爱因斯坦模型](https://zh.wikipedia.org/wiki/%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E6%A8%A1%E5%9E%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94879264)）
 - [English Wikipedia：Einstein solid](https://en.wikipedia.org/wiki/Einstein_solid)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1336668813)）
 - [Wikidata：Q1190709](https://www.wikidata.org/wiki/Q1190709)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2529477548)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

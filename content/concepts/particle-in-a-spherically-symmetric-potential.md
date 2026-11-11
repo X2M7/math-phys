@@ -22,19 +22,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-particle in a spherically symmetric potential； 球對稱位勢
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：球对称位势](https://zh.wikipedia.org/wiki/%E7%90%83%E5%B0%8D%E7%A8%B1%E4%BD%8D%E5%8B%A2)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93339910)）
 - [English Wikipedia：Particle in a spherically symmetric potential](https://en.wikipedia.org/wiki/Particle_in_a_spherically_symmetric_potential)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379429463)）
 - [Wikidata：Q29291](https://www.wikidata.org/wiki/Q29291)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2005208821)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

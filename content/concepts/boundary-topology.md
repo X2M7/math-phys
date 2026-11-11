@@ -29,19 +29,11 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-边界； 边界点； 邊界； boundary； frontier； boundary of a set； topological boundary； geometric boundary； 邊界 \(拓撲學\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：边界 \(拓扑学\)](<https://zh.wikipedia.org/wiki/%E8%BE%B9%E7%95%8C_(%E6%8B%93%E6%89%91%E5%AD%A6)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95113179)）
 - [English Wikipedia：Boundary \(topology\)](<https://en.wikipedia.org/wiki/Boundary_(topology)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1381678225)）
 - [Wikidata：Q875399](https://www.wikidata.org/wiki/Q875399)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553638000)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -22,19 +22,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-definable real number； 可定義數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：可定义数](https://zh.wikipedia.org/wiki/%E5%8F%AF%E5%AE%9A%E4%B9%89%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88249088)）
 - [English Wikipedia：Definable real number](https://en.wikipedia.org/wiki/Definable_real_number)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384451054)）
 - [Wikidata：Q3893614](https://www.wikidata.org/wiki/Q3893614)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2380500654)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

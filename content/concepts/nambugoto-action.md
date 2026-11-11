@@ -21,19 +21,11 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-南部-後藤作用
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：南部-后藤作用](https://zh.wikipedia.org/wiki/%E5%8D%97%E9%83%A8-%E5%90%8E%E8%97%A4%E4%BD%9C%E7%94%A8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93389211)）
 - [English Wikipedia：Nambu–Goto action](https://en.wikipedia.org/wiki/Nambu%E2%80%93Goto_action)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1376039693)）
 - [Wikidata：Q1048768](https://www.wikidata.org/wiki/Q1048768)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2039387650)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

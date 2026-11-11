@@ -24,19 +24,11 @@ dictionarySource:
 
 几何学 / Geometry · 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Wess-Zumino-Witten 模型； Wess–Zumino–Novikov–Witten model； WZW model
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：Wess-Zumino-Witten模型](https://zh.wikipedia.org/wiki/Wess-Zumino-Witten%E6%A8%A1%E5%9E%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=74840571)）
 - [English Wikipedia：Wess–Zumino–Witten model](https://en.wikipedia.org/wiki/Wess%E2%80%93Zumino%E2%80%93Witten_model)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373885593)）
 - [Wikidata：Q850946](https://www.wikidata.org/wiki/Q850946)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2517165063)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

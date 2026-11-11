@@ -22,20 +22,12 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-nine lemma； 9-lemma
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：九引理](https://zh.wikipedia.org/wiki/%E4%B9%9D%E5%BC%95%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=84504405)）
 - [English Wikipedia：Nine lemma](https://en.wikipedia.org/wiki/Nine_lemma)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1372029050)）
 - [nLab：3x3 lemma](https://ncatlab.org/nlab/show/3x3+lemma)
 - [Wikidata：Q2645980](https://www.wikidata.org/wiki/Q2645980)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2557628003)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

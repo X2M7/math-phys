@@ -22,19 +22,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-普朗特－迈耶函数； 普朗特-邁耶函數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：普朗特-迈耶函数](https://zh.wikipedia.org/wiki/%E6%99%AE%E6%9C%97%E7%89%B9-%E8%BF%88%E8%80%B6%E5%87%BD%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90558021)）
 - [English Wikipedia：Prandtl–Meyer function](https://en.wikipedia.org/wiki/Prandtl%E2%80%93Meyer_function)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1260188534)）
 - [Wikidata：Q7238345](https://www.wikidata.org/wiki/Q7238345)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2567060211)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -21,20 +21,12 @@ dictionarySource:
 
 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-黎貝定理
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：Ε-猜想](https://zh.wikipedia.org/wiki/%CE%95-%E7%8C%9C%E6%83%B3)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94246249)）
 - [English Wikipedia：Ribet's theorem](https://en.wikipedia.org/wiki/Ribet%27s_theorem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380246062)）
 - [nLab：Ribet's theorem](https://ncatlab.org/nlab/show/Ribet%27s+theorem)
 - [Wikidata：Q7322366](https://www.wikidata.org/wiki/Q7322366)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2546044522)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

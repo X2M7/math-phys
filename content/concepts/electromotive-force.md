@@ -28,19 +28,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-感生电动势； 感應電動勢； 動生電動勢； electromotive force； source tension； emf； source voltage； 電動勢
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：电动势](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%8B%95%E5%8B%A2)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92846863)）
 - [English Wikipedia：Electromotive force](https://en.wikipedia.org/wiki/Electromotive_force)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373140372)）
 - [Wikidata：Q185329](https://www.wikidata.org/wiki/Q185329)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2558019431)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

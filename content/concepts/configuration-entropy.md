@@ -23,12 +23,6 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-configurational entropy
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Configuration entropy](https://en.wikipedia.org/wiki/Configuration_entropy)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1352406103)）
@@ -41,8 +35,6 @@ configurational entropy
 - [术语在线：《物理学名词》（2019，第三版）—位形熵](https://www.termonline.cn/wordDetail?base=1&subject=f58a77fb26ac11eea8adb068e6519520&termName=%E4%BD%8D%E5%BD%A2%E7%86%B5)（全国科学技术名词审定委员会）。来源原译名：位形熵；原文英文：configurational entropy。定位：术语编码 08\.0699；物理学\_凝聚态物理学\_结构；公布年度 2019；记录 ID f58a77fb26ac11eea8adb068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。英文 Wikipedia 的 Configuration entropy 正文 Calculation 节（修订号 1352406103）明确使用 configurational entropy 指同一统计物理概念，故与《物理学名词》2019 的 configurational entropy 对应；来源英文词形保留。核对链接：https://en\.wikipedia\.org/w/index\.php?title=Configuration\_entropy&amp;oldid=1352406103 。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

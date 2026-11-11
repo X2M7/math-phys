@@ -23,19 +23,11 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity · 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Seiberg-Witten map； 塞伯格-維騰映射
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：塞伯格-维腾映射](https://zh.wikipedia.org/wiki/%E5%A1%9E%E4%BC%AF%E6%A0%BC-%E7%B6%AD%E9%A8%B0%E6%98%A0%E5%B0%84)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=75451344)）
 - [English Wikipedia：Seiberg–Witten map](https://en.wikipedia.org/wiki/Seiberg%E2%80%93Witten_map)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1140518402)）
 - [Wikidata：Q7446562](https://www.wikidata.org/wiki/Q7446562)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2201223930)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

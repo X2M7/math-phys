@@ -29,19 +29,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-全域几何； 全局几何； 時空拓樸； 全域性幾何； 全域幾何； 全局幾何； spacetime topology； spacetime； 時空拓撲
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：时空拓扑](https://zh.wikipedia.org/wiki/%E6%97%B6%E7%A9%BA%E6%8B%93%E6%89%91)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94715333)）
 - [English Wikipedia：Spacetime topology](https://en.wikipedia.org/wiki/Spacetime_topology)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1332299368)）
 - [Wikidata：Q3993516](https://www.wikidata.org/wiki/Q3993516)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2547736593)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

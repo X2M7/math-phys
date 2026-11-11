@@ -25,19 +25,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles · 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-無質量粒子； massless quantum particle； massless particle； luxon
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：无质量粒子](https://zh.wikipedia.org/wiki/%E6%97%A0%E8%B4%A8%E9%87%8F%E7%B2%92%E5%AD%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=82585050)）
 - [English Wikipedia：Massless particle](https://en.wikipedia.org/wiki/Massless_particle)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1378899351)）
 - [Wikidata：Q2024141](https://www.wikidata.org/wiki/Q2024141)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2551943088)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

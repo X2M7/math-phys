@@ -25,20 +25,12 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-HOMFLY-PT polynomial； FLYPMOTH polynomial； LYMPHOTU polynomial； HOMFLYPT polynomial； HOMFLY多項式
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：HOMFLY多项式](https://zh.wikipedia.org/wiki/HOMFLY%E5%A4%9A%E9%A0%85%E5%BC%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=58528073)）
 - [English Wikipedia：HOMFLY polynomial](https://en.wikipedia.org/wiki/HOMFLY_polynomial)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382209997)）
 - [nLab：HOMFLY-PT polynomial](https://ncatlab.org/nlab/show/HOMFLY-PT+polynomial)
 - [Wikidata：Q996437](https://www.wikidata.org/wiki/Q996437)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2462637492)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

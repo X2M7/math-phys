@@ -25,19 +25,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-邊界穩定； 边缘稳定性； marginal stability； marginally stable； 臨界穩定
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：临界稳定](https://zh.wikipedia.org/wiki/%E8%87%A8%E7%95%8C%E7%A9%A9%E5%AE%9A)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90285138)）
 - [English Wikipedia：Marginal stability](https://en.wikipedia.org/wiki/Marginal_stability)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1311306805)）
 - [Wikidata：Q618684](https://www.wikidata.org/wiki/Q618684)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2545821345)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

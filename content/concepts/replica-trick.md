@@ -21,19 +21,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-replica trick
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：副本方法](https://zh.wikipedia.org/wiki/%E5%89%AF%E6%9C%AC%E6%96%B9%E6%B3%95)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93552867)）
 - [English Wikipedia：Replica trick](https://en.wikipedia.org/wiki/Replica_trick)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1362284777)）
 - [Wikidata：Q503658](https://www.wikidata.org/wiki/Q503658)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2471847599)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -23,19 +23,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-非线性光学晶体； 非線性光學； nonlinear optics
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：非线性光学](https://zh.wikipedia.org/wiki/%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%85%89%E5%AD%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=79258833)）
 - [English Wikipedia：Nonlinear optics](https://en.wikipedia.org/wiki/Nonlinear_optics)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384405328)）
 - [Wikidata：Q756033](https://www.wikidata.org/wiki/Q756033)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2532251438)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

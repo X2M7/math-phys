@@ -25,20 +25,12 @@ dictionarySource:
 
 分析学 / Analysis · 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-生成函數； 母函数方法； 母函數； generating function
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：母函数](https://zh.wikipedia.org/wiki/%E6%AF%8D%E5%87%BD%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93507476)）
 - [English Wikipedia：Generating function](https://en.wikipedia.org/wiki/Generating_function)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383236962)）
 - [nLab：generating function](https://ncatlab.org/nlab/show/generating+function)
 - [Wikidata：Q860609](https://www.wikidata.org/wiki/Q860609)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2559212546)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

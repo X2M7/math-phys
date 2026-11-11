@@ -23,19 +23,11 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity · 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-九點模版； 九點模板
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：九点模板](https://zh.wikipedia.org/wiki/%E4%B9%9D%E9%BB%9E%E6%A8%A1%E6%9D%BF)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93958892)）
 - [English Wikipedia：Nine-point stencil](https://en.wikipedia.org/wiki/Nine-point_stencil)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375771075)）
 - [Wikidata：Q119840944](https://www.wikidata.org/wiki/Q119840944)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2533513784)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

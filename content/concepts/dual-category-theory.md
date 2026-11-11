@@ -26,19 +26,11 @@ dictionarySource:
 
 范畴论 / Category theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-对偶； 對偶； 雙對（範疇論）； dual \(category theory\)； dual； 對偶 \(範疇論\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：对偶 \(范畴论\)](<https://zh.wikipedia.org/wiki/%E5%AF%B9%E5%81%B6_(%E8%8C%83%E7%95%B4%E8%AE%BA)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93862667)）
 - [English Wikipedia：Dual \(category theory\)](<https://en.wikipedia.org/wiki/Dual_(category_theory)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1347979576)）
 - [Wikidata：Q2361385](https://www.wikidata.org/wiki/Q2361385)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2542201165)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

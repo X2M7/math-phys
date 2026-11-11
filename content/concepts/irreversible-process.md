@@ -21,19 +21,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-irreversible process
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：不可逆性](https://zh.wikipedia.org/wiki/%E4%B8%8D%E5%8F%AF%E9%80%86%E6%80%A7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95268222)）
 - [English Wikipedia：Irreversible process](https://en.wikipedia.org/wiki/Irreversible_process)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373728133)）
 - [Wikidata：Q632388](https://www.wikidata.org/wiki/Q632388)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2543108219)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

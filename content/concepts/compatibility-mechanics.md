@@ -24,19 +24,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-compatibility； strain compatibility； compatibility \(mechanics\)； 應變協調性
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：应变协调性](https://zh.wikipedia.org/wiki/%E5%BA%94%E5%8F%98%E5%8D%8F%E8%B0%83%E6%80%A7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90547278)）
 - [English Wikipedia：Compatibility \(mechanics\)](<https://en.wikipedia.org/wiki/Compatibility_(mechanics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1371054016)）
 - [Wikidata：Q5156153](https://www.wikidata.org/wiki/Q5156153)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2478261274)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

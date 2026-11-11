@@ -22,19 +22,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-相對論量子化學； relativistic quantum chemistry
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：相对论量子化学](https://zh.wikipedia.org/wiki/%E7%9B%B8%E5%AF%B9%E8%AE%BA%E9%87%8F%E5%AD%90%E5%8C%96%E5%AD%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95383158)）
 - [English Wikipedia：Relativistic quantum chemistry](https://en.wikipedia.org/wiki/Relativistic_quantum_chemistry)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379997690)）
 - [Wikidata：Q7330289](https://www.wikidata.org/wiki/Q7330289)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2557756856)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -27,8 +27,6 @@ dictionarySource:
 - [nLab：Wronskian](https://ncatlab.org/nlab/show/Wronskian)
 - [Wikidata：Q124743](https://www.wikidata.org/wiki/Q124743)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2560962321)）
 
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
-
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
 <!-- 可在这里编写自己的定义、例子、公式与注解。重新运行导入脚本不会覆盖已有文件。 -->

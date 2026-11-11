@@ -21,19 +21,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-斜漢彌爾頓矩陣
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：斜汉弥尔顿矩阵](https://zh.wikipedia.org/wiki/%E6%96%9C%E6%BC%A2%E5%BD%8C%E7%88%BE%E9%A0%93%E7%9F%A9%E9%99%A3)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=69183177)）
 - [English Wikipedia：Skew-Hamiltonian matrix](https://en.wikipedia.org/wiki/Skew-Hamiltonian_matrix)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1360037105)）
 - [Wikidata：Q3851920](https://www.wikidata.org/wiki/Q3851920)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2291045603)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

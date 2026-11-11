@@ -23,19 +23,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-準週期運動； quasiperiodic motion； 准周期運動
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：准周期运动](https://zh.wikipedia.org/wiki/%E5%87%86%E5%91%A8%E6%9C%9F%E8%BF%90%E5%8A%A8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=82970874)）
 - [English Wikipedia：Quasiperiodic motion](https://en.wikipedia.org/wiki/Quasiperiodic_motion)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375272152)）
 - [Wikidata：Q3866307](https://www.wikidata.org/wiki/Q3866307)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553707531)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

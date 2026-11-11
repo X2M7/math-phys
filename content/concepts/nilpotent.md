@@ -25,19 +25,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-幂零； 冪零元； nilpotent element； nilpotent； nilpotency
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：幂零元](https://zh.wikipedia.org/wiki/%E5%B9%82%E9%9B%B6%E5%85%83)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90764154)）
 - [English Wikipedia：Nilpotent](https://en.wikipedia.org/wiki/Nilpotent)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1360418862)）
 - [Wikidata：Q840023](https://www.wikidata.org/wiki/Q840023)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2350214174)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

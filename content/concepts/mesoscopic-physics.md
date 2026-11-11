@@ -24,19 +24,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics · 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-介觀體系； mesoscopic physics； 介觀物理學
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：介观物理学](https://zh.wikipedia.org/wiki/%E4%BB%8B%E8%A7%82%E7%89%A9%E7%90%86%E5%AD%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94917018)）
 - [English Wikipedia：Mesoscopic physics](https://en.wikipedia.org/wiki/Mesoscopic_physics)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1339010078)）
 - [Wikidata：Q2622244](https://www.wikidata.org/wiki/Q2622244)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2461189725)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -26,19 +26,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-音波； 聲波； 聲學波動； acoustic wave； sound wave； pressure wave
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：声波](https://zh.wikipedia.org/wiki/%E5%A3%B0%E6%B3%A2)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92493572)）
 - [English Wikipedia：Acoustic wave](https://en.wikipedia.org/wiki/Acoustic_wave)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1340776904)）
 - [Wikidata：Q3882459](https://www.wikidata.org/wiki/Q3882459)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2562997387)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

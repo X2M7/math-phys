@@ -23,19 +23,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-費米子場； fermionic field； 狄拉克場
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：狄拉克场](https://zh.wikipedia.org/wiki/%E7%8B%84%E6%8B%89%E5%85%8B%E5%A0%B4)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=69647470)）
 - [English Wikipedia：Fermionic field](https://en.wikipedia.org/wiki/Fermionic_field)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1355469147)）
 - [Wikidata：Q768979](https://www.wikidata.org/wiki/Q768979)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2384961669)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -22,20 +22,12 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-D-膜； Dirichlet brane
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：D膜](https://zh.wikipedia.org/wiki/D%E8%86%9C)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=80407497)）
 - [English Wikipedia：D-brane](https://en.wikipedia.org/wiki/D-brane)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1356193747)）
 - [nLab：D-brane](https://ncatlab.org/nlab/show/D-brane)
 - [Wikidata：Q137880](https://www.wikidata.org/wiki/Q137880)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515841877)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

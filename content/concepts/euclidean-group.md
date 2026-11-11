@@ -23,19 +23,11 @@ dictionarySource:
 
 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-欧几里德群； 歐幾里得群； 歐幾里德群
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：欧几里得群](https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E7%BE%A4)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=55209768)）
 - [English Wikipedia：Euclidean group](https://en.wikipedia.org/wiki/Euclidean_group)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1371653962)）
 - [Wikidata：Q852195](https://www.wikidata.org/wiki/Q852195)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2542201356)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

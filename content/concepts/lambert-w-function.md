@@ -23,20 +23,12 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-product logarithm； omega function； 朗伯W函數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：朗伯W函数](https://zh.wikipedia.org/wiki/%E6%9C%97%E4%BC%AFW%E5%87%BD%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95461007)）
 - [English Wikipedia：Lambert W function](https://en.wikipedia.org/wiki/Lambert_W_function)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384648384)）
 - [nLab：Lambert W-function](https://ncatlab.org/nlab/show/Lambert+W-function)
 - [Wikidata：Q429331](https://www.wikidata.org/wiki/Q429331)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2540907960)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

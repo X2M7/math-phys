@@ -29,19 +29,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-inference typing； type inference type； type inference type system； type inference typing system； type inference； inferred typing； type-inferred； type reconstruction； 類型推論
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：类型推论](https://zh.wikipedia.org/wiki/%E7%B1%BB%E5%9E%8B%E6%8E%A8%E8%AE%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90850297)）
 - [English Wikipedia：Type inference](https://en.wikipedia.org/wiki/Type_inference)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383137194)）
 - [Wikidata：Q586459](https://www.wikidata.org/wiki/Q586459)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2431195128)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

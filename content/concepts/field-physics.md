@@ -29,19 +29,11 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-场； 物理场； 物理場； 力場； 场物质； 場； field； physical field； 場 \(物理\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：场 \(物理\)](<https://zh.wikipedia.org/wiki/%E5%9C%BA_(%E7%89%A9%E7%90%86)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93408817)）
 - [English Wikipedia：Field \(physics\)](<https://en.wikipedia.org/wiki/Field_(physics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383614779)）
 - [Wikidata：Q185674](https://www.wikidata.org/wiki/Q185674)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563267925)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

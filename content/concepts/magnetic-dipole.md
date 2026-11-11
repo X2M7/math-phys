@@ -24,12 +24,6 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics · 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-magnetic dipole
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Magnetic dipole](https://en.wikipedia.org/wiki/Magnetic_dipole)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373869139)）
@@ -42,8 +36,6 @@ magnetic dipole
 - [术语在线：《电力名词》（2020，第三版）—磁偶极子](https://www.termonline.cn/wordDetail?base=1&subject=7550989e26ad11ee8ae7b068e6519520&termName=%E7%A3%81%E5%81%B6%E6%9E%81%E5%AD%90)（全国科学技术名词审定委员会）。来源原译名：磁偶极子；原文英文：magnetic dipole。定位：术语编码 01\.088；电力\_总论；公布年度 2020；记录 ID 7550989e26ad11ee8ae7b068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

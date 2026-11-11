@@ -22,19 +22,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-波茲曼分布； 玻爾茲曼分布
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：玻尔兹曼分布](https://zh.wikipedia.org/wiki/%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E5%88%86%E5%B8%83)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95243262)）
 - [English Wikipedia：Boltzmann distribution](https://en.wikipedia.org/wiki/Boltzmann_distribution)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1368789212)）
 - [Wikidata：Q834200](https://www.wikidata.org/wiki/Q834200)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541696765)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

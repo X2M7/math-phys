@@ -23,19 +23,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-德哈斯-万尔芬效应； dHvA； 德哈斯-范阿爾芬效應
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：德哈斯-范阿尔芬效应](https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%93%88%E6%96%AF-%E8%8C%83%E9%98%BF%E5%B0%94%E8%8A%AC%E6%95%88%E5%BA%94)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94604784)）
 - [English Wikipedia：De Haas–Van Alphen effect](https://en.wikipedia.org/wiki/De_Haas%E2%80%93Van_Alphen_effect)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1292195401)）
 - [Wikidata：Q249399](https://www.wikidata.org/wiki/Q249399)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2562083598)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

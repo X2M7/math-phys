@@ -23,19 +23,11 @@ dictionarySource:
 
 宇宙学 / Cosmology · 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Tolman metric； 托爾曼度規
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：托尔曼度规](https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%94%E6%9B%BC%E5%BA%A6%E8%A7%84)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88068245)）
 - [English Wikipedia：Lemaître–Tolman metric](https://en.wikipedia.org/wiki/Lema%C3%AEtre%E2%80%93Tolman_metric)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1314468261)）
 - [Wikidata：Q6521045](https://www.wikidata.org/wiki/Q6521045)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2509266449)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -21,19 +21,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-調變在時頻分析的應用
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：调变在时频分析的应用](https://zh.wikipedia.org/wiki/%E8%AA%BF%E8%AE%8A%E5%9C%A8%E6%99%82%E9%A0%BB%E5%88%86%E6%9E%90%E7%9A%84%E6%87%89%E7%94%A8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=80251068)）
 - [English Wikipedia：Motions in the time-frequency distribution](https://en.wikipedia.org/wiki/Motions_in_the_time-frequency_distribution)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1314839103)）
 - [Wikidata：Q17099114](https://www.wikidata.org/wiki/Q17099114)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=1339255293)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -22,19 +22,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-伴四元數； 分裂四元數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：分裂四元数](https://zh.wikipedia.org/wiki/%E5%88%86%E8%A3%82%E5%9B%9B%E5%85%83%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94172384)）
 - [English Wikipedia：Split-quaternion](https://en.wikipedia.org/wiki/Split-quaternion)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382166036)）
 - [Wikidata：Q2996919](https://www.wikidata.org/wiki/Q2996919)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2243375104)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

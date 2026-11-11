@@ -22,19 +22,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-locally integrable function； 局部可積函數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：局部可积函数](https://zh.wikipedia.org/wiki/%E5%B1%80%E9%83%A8%E5%8F%AF%E7%A7%AF%E5%87%BD%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91374352)）
 - [English Wikipedia：Locally integrable function](https://en.wikipedia.org/wiki/Locally_integrable_function)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382127792)）
 - [Wikidata：Q1318586](https://www.wikidata.org/wiki/Q1318586)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2548987882)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

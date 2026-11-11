@@ -23,19 +23,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-柯西－利普希茨定理； Picard's existence theorem； Cauchy–Lipschitz theorem
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：柯西-利普希茨定理](https://zh.wikipedia.org/wiki/%E6%9F%AF%E8%A5%BF-%E5%88%A9%E6%99%AE%E5%B8%8C%E8%8C%A8%E5%AE%9A%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92987393)）
 - [English Wikipedia：Picard–Lindelöf theorem](https://en.wikipedia.org/wiki/Picard%E2%80%93Lindel%C3%B6f_theorem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382058160)）
 - [Wikidata：Q530152](https://www.wikidata.org/wiki/Q530152)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515808496)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

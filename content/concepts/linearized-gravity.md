@@ -29,19 +29,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-linearized gravity； Fierz–Pauli action； weak-field approximation； linearized general relativity； linearised gravity； linearised general relativity； linearized GR； linearised GR； 線性化重力
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：线性化重力](https://zh.wikipedia.org/wiki/%E7%B7%9A%E6%80%A7%E5%8C%96%E9%87%8D%E5%8A%9B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88113581)）
 - [English Wikipedia：Linearized gravity](https://en.wikipedia.org/wiki/Linearized_gravity)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1359061841)）
 - [Wikidata：Q546984](https://www.wikidata.org/wiki/Q546984)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2477674166)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

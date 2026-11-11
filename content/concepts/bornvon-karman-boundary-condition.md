@@ -23,19 +23,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-玻恩-卡曼边界条件； 玻恩-冯卡门边界条件； 玻恩-馮·卡門邊界條件
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：玻恩-冯·卡门边界条件](https://zh.wikipedia.org/wiki/%E7%8E%BB%E6%81%A9-%E5%86%AF%C2%B7%E5%8D%A1%E9%97%A8%E8%BE%B9%E7%95%8C%E6%9D%A1%E4%BB%B6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=52125458)）
 - [English Wikipedia：Born–von Karman boundary condition](https://en.wikipedia.org/wiki/Born%E2%80%93von_Karman_boundary_condition)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1346892429)）
 - [Wikidata：Q893911](https://www.wikidata.org/wiki/Q893911)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2467565562)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

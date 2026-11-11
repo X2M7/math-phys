@@ -23,19 +23,11 @@ dictionarySource:
 
 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-lower–upper decomposition； LU factorization； lower–upper factorization
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：LU分解](https://zh.wikipedia.org/wiki/LU%E5%88%86%E8%A7%A3)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92292924)）
 - [English Wikipedia：LU decomposition](https://en.wikipedia.org/wiki/LU_decomposition)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380927710)）
 - [Wikidata：Q833089](https://www.wikidata.org/wiki/Q833089)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2482880067)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

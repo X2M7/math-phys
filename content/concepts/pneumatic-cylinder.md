@@ -24,19 +24,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-氣動缸； pneumatic cylinder； air cylinder； 氣壓缸
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：气压缸](https://zh.wikipedia.org/wiki/%E6%B0%A3%E5%A3%93%E7%BC%B8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94468695)）
 - [English Wikipedia：Pneumatic cylinder](https://en.wikipedia.org/wiki/Pneumatic_cylinder)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1353588031)）
 - [Wikidata：Q4567087](https://www.wikidata.org/wiki/Q4567087)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2508659177)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

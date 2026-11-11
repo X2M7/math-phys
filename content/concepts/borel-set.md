@@ -26,20 +26,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic · 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Borel-measurable set； Borel subset； Borel measurable set； Borel Set； 博雷爾集
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：博雷尔集](https://zh.wikipedia.org/wiki/%E5%8D%9A%E9%9B%B7%E7%88%BE%E9%9B%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91105311)）
 - [English Wikipedia：Borel set](https://en.wikipedia.org/wiki/Borel_set)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1378441404)）
 - [nLab：Borel subset](https://ncatlab.org/nlab/show/Borel+subset)
 - [Wikidata：Q21086747](https://www.wikidata.org/wiki/Q21086747)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2533810278)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

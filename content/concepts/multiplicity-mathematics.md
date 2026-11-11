@@ -23,19 +23,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-重覆度； multiplicity； 重複度
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：重复度](https://zh.wikipedia.org/wiki/%E9%87%8D%E8%A4%87%E5%BA%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=77302354)）
 - [English Wikipedia：Multiplicity \(mathematics\)](<https://en.wikipedia.org/wiki/Multiplicity_(mathematics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1364696762)）
 - [Wikidata：Q2228257](https://www.wikidata.org/wiki/Q2228257)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2555922839)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

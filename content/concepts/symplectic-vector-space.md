@@ -23,20 +23,12 @@ dictionarySource:
 
 代数 / Algebra · 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-辛向量空間； symplectic vector space
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：辛向量空间](https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=47821802)）
 - [English Wikipedia：Symplectic vector space](https://en.wikipedia.org/wiki/Symplectic_vector_space)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1360740175)）
 - [nLab：symplectic vector space](https://ncatlab.org/nlab/show/symplectic+vector+space)
 - [Wikidata：Q766774](https://www.wikidata.org/wiki/Q766774)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2345502182)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

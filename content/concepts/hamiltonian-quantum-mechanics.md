@@ -24,19 +24,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-哈密顿量； Hamiltonian operator； Hamiltonian； 哈密頓算符
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：哈密顿算符](https://zh.wikipedia.org/wiki/%E5%93%88%E5%AF%86%E9%A1%BF%E7%AE%97%E7%AC%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93998200)）
 - [English Wikipedia：Hamiltonian \(quantum mechanics\)](<https://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1378811157)）
 - [Wikidata：Q660488](https://www.wikidata.org/wiki/Q660488)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553331059)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

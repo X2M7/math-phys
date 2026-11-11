@@ -23,19 +23,11 @@ dictionarySource:
 
 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-diagonally dominant matrix； weak diagonally dominant matrix； 對角優勢矩陣
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：对角优势矩阵](https://zh.wikipedia.org/wiki/%E5%AF%B9%E8%A7%92%E4%BC%98%E5%8A%BF%E7%9F%A9%E9%98%B5)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90673463)）
 - [English Wikipedia：Diagonally dominant matrix](https://en.wikipedia.org/wiki/Diagonally_dominant_matrix)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380983546)）
 - [Wikidata：Q952222](https://www.wikidata.org/wiki/Q952222)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2431579585)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -31,19 +31,11 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-统计独立性； 統計獨立性； 統計獨立； 独立性； 独立； independent events； independent； statistically independent； stochastically independent； independence； 獨立 \(概率論\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：独立 \(概率论\)](<https://zh.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B_(%E6%A6%82%E7%8E%87%E8%AE%BA)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=86842014)）
 - [English Wikipedia：Independence \(probability theory\)](<https://en.wikipedia.org/wiki/Independence_(probability_theory)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1337466346)）
 - [Wikidata：Q625303](https://www.wikidata.org/wiki/Q625303)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553803849)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

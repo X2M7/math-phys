@@ -22,20 +22,12 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-vacuum polarization； 真空極化
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：真空极化](https://zh.wikipedia.org/wiki/%E7%9C%9F%E7%A9%BA%E6%A5%B5%E5%8C%96)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=89424049)）
 - [English Wikipedia：Vacuum polarization](https://en.wikipedia.org/wiki/Vacuum_polarization)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384662113)）
 - [nLab：vacuum polarization](https://ncatlab.org/nlab/show/vacuum+polarization)
 - [Wikidata：Q1886497](https://www.wikidata.org/wiki/Q1886497)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515914380)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

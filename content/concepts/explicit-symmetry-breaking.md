@@ -23,19 +23,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-顯性對稱破缺； 顯明對稱性破缺； 明顯對稱性破缺
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：明显对称性破缺](https://zh.wikipedia.org/wiki/%E6%98%8E%E9%A1%AF%E5%B0%8D%E7%A8%B1%E6%80%A7%E7%A0%B4%E7%BC%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=69254297)）
 - [English Wikipedia：Explicit symmetry breaking](https://en.wikipedia.org/wiki/Explicit_symmetry_breaking)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1351800836)）
 - [Wikidata：Q1105337](https://www.wikidata.org/wiki/Q1105337)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2015177204)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

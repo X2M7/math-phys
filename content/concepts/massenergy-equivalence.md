@@ -36,19 +36,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-质能转换公式； 质能转换方程； 質能守恆； 质能公式； 質能等价； 愛因斯坦質能關係； 質能方程； 質能方程式； 质能关系式； 质能方程； 質能轉換公式； mass–energy equivalence； mass-energy equivalence； equivalence of mass and energy； Einstein formula； 質能等價
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：质能等价](https://zh.wikipedia.org/wiki/%E8%B3%AA%E8%83%BD%E7%AD%89%E5%83%B9)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95055899)）
 - [English Wikipedia：Mass–energy equivalence](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384521568)）
 - [Wikidata：Q35875](https://www.wikidata.org/wiki/Q35875)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2566127935)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

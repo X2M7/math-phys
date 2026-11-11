@@ -21,19 +21,11 @@ dictionarySource:
 
 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-普羅海特-蘇-摩爾斯常數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：普罗海特-苏-摩尔斯常数](https://zh.wikipedia.org/wiki/%E6%99%AE%E7%BE%85%E6%B5%B7%E7%89%B9-%E8%98%87-%E6%91%A9%E7%88%BE%E6%96%AF%E5%B8%B8%E6%95%B8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92757446)）
 - [English Wikipedia：Prouhet–Thue–Morse constant](https://en.wikipedia.org/wiki/Prouhet%E2%80%93Thue%E2%80%93Morse_constant)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1336366388)）
 - [Wikidata：Q2994918](https://www.wikidata.org/wiki/Q2994918)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2514181563)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

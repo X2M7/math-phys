@@ -22,19 +22,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-昂薩格倒易關係； reciprocal theorem
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：昂萨格倒易关系](https://zh.wikipedia.org/wiki/%E6%98%82%E8%90%A8%E6%A0%BC%E5%80%92%E6%98%93%E5%85%B3%E7%B3%BB)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94715367)）
 - [English Wikipedia：Onsager reciprocal relations](https://en.wikipedia.org/wiki/Onsager_reciprocal_relations)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1355014688)）
 - [Wikidata：Q901483](https://www.wikidata.org/wiki/Q901483)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2550357497)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

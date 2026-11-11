@@ -23,19 +23,11 @@ dictionarySource:
 
 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-noisy intermediate-scale quantum era； NISQ； 含噪聲中尺度量子計算
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：含噪声中尺度量子计算](https://zh.wikipedia.org/wiki/%E5%90%AB%E5%99%AA%E5%A3%B0%E4%B8%AD%E5%B0%BA%E5%BA%A6%E9%87%8F%E5%AD%90%E8%AE%A1%E7%AE%97)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94470476)）
 - [English Wikipedia：Noisy intermediate-scale quantum computing](https://en.wikipedia.org/wiki/Noisy_intermediate-scale_quantum_computing)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383485662)）
 - [Wikidata：Q97323823](https://www.wikidata.org/wiki/Q97323823)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2405660180)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

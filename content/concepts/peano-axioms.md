@@ -27,19 +27,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-皮亞諾公理； 皮阿諾公設； 皮阿诺公理； 皮亚诺公设； 形式算术； Dedekind–Peano axioms； Peano postulates
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：皮亚诺公理](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E8%AF%BA%E5%85%AC%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94816445)）
 - [English Wikipedia：Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384761040)）
 - [Wikidata：Q842755](https://www.wikidata.org/wiki/Q842755)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2492523770)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

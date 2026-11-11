@@ -23,19 +23,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics · 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Scott连续性； 斯科特連續性
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：斯科特连续性](https://zh.wikipedia.org/wiki/%E6%96%AF%E7%A7%91%E7%89%B9%E8%BF%9E%E7%BB%AD%E6%80%A7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=33128402)）
 - [English Wikipedia：Scott continuity](https://en.wikipedia.org/wiki/Scott_continuity)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384071998)）
 - [Wikidata：Q895815](https://www.wikidata.org/wiki/Q895815)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565455729)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

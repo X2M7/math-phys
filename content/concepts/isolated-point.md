@@ -22,19 +22,11 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-孤點； isolated point
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：孤点](https://zh.wikipedia.org/wiki/%E5%AD%A4%E7%82%B9)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93812149)）
 - [English Wikipedia：Isolated point](https://en.wikipedia.org/wiki/Isolated_point)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1185362761)）
 - [Wikidata：Q1142889](https://www.wikidata.org/wiki/Q1142889)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2089060087)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

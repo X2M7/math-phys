@@ -23,19 +23,11 @@ dictionarySource:
 
 宇宙学 / Cosmology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-模糊暗物质； fuzzy cold dark matter； 模糊冷暗物質
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：模糊冷暗物质](https://zh.wikipedia.org/wiki/%E6%A8%A1%E7%B3%8A%E5%86%B7%E6%9A%97%E7%89%A9%E8%B4%A8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94454673)）
 - [English Wikipedia：Fuzzy cold dark matter](https://en.wikipedia.org/wiki/Fuzzy_cold_dark_matter)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1351259173)）
 - [Wikidata：Q16929832](https://www.wikidata.org/wiki/Q16929832)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2547741983)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

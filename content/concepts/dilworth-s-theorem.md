@@ -22,19 +22,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-迪爾沃思定理； 狄爾沃斯定理
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：狄尔沃斯定理](https://zh.wikipedia.org/wiki/%E7%8B%84%E5%B0%94%E6%B2%83%E6%96%AF%E5%AE%9A%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93719759)）
 - [English Wikipedia：Dilworth's theorem](https://en.wikipedia.org/wiki/Dilworth%27s_theorem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383233951)）
 - [Wikidata：Q1134776](https://www.wikidata.org/wiki/Q1134776)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2398130695)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

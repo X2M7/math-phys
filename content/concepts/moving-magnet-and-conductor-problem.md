@@ -24,19 +24,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics · 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-移動中的磁鐵跟導體問題； moving magnet and conductor problem； 移動中的磁鐵與導體問題
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：移动中的磁铁与导体问题](https://zh.wikipedia.org/wiki/%E7%A7%BB%E5%8B%95%E4%B8%AD%E7%9A%84%E7%A3%81%E9%90%B5%E8%88%87%E5%B0%8E%E9%AB%94%E5%95%8F%E9%A1%8C)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92306497)）
 - [English Wikipedia：Moving magnet and conductor problem](https://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1378512115)）
 - [Wikidata：Q4817630](https://www.wikidata.org/wiki/Q4817630)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2380686306)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

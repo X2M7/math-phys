@@ -21,19 +21,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-萊特希爾八次方律
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：莱特希尔八次方律](https://zh.wikipedia.org/wiki/%E8%8E%B1%E7%89%B9%E5%B8%8C%E5%B0%94%E5%85%AB%E6%AC%A1%E6%96%B9%E5%BE%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90591509)）
 - [English Wikipedia：Lighthill's eighth power law](https://en.wikipedia.org/wiki/Lighthill%27s_eighth_power_law)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=991954596)）
 - [Wikidata：Q48816584](https://www.wikidata.org/wiki/Q48816584)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=1911005936)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

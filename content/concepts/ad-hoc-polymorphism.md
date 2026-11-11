@@ -22,19 +22,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-ad hoc polymorphism； 特設多態
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：特设多态](https://zh.wikipedia.org/wiki/%E7%89%B9%E8%AE%BE%E5%A4%9A%E6%80%81)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90851376)）
 - [English Wikipedia：Ad hoc polymorphism](https://en.wikipedia.org/wiki/Ad_hoc_polymorphism)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379280851)）
 - [Wikidata：Q4678197](https://www.wikidata.org/wiki/Q4678197)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2461901687)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

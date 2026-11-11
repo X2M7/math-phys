@@ -25,19 +25,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-步階響應； 阶梯响应； 阶跃； step response； 階躍響應
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：阶跃响应](https://zh.wikipedia.org/wiki/%E9%9A%8E%E8%BA%8D%E9%9F%BF%E6%87%89)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95048444)）
 - [English Wikipedia：Step response](https://en.wikipedia.org/wiki/Step_response)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1366905783)）
 - [Wikidata：Q2142864](https://www.wikidata.org/wiki/Q2142864)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2543278271)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

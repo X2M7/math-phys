@@ -23,12 +23,6 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-pinning force
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Pinning force](https://en.wikipedia.org/wiki/Pinning_force)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=973540400)）
@@ -41,8 +35,6 @@ pinning force
 - [术语在线：《物理学名词》（2019，第三版）—钉扎力](https://www.termonline.cn/wordDetail?base=1&subject=dd30d09e26ac11eeaa81b068e6519520&termName=%E9%92%89%E6%89%8E%E5%8A%9B)（全国科学技术名词审定委员会）。来源原译名：钉扎力；原文英文：pinning force。定位：术语编码 08\.3232；物理学\_凝聚态物理学\_特殊物相与极端条件；公布年度 2019；记录 ID dd30d09e26ac11eeaa81b068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

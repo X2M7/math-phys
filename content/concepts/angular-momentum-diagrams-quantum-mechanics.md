@@ -23,19 +23,11 @@ dictionarySource:
 
 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-angular momentum diagram； angular momentum graph； 角動量圖
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：角动量图](https://zh.wikipedia.org/wiki/%E8%A7%92%E5%8B%95%E9%87%8F%E5%9C%96)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=87030764)）
 - [English Wikipedia：Angular momentum diagrams \(quantum mechanics\)](<https://en.wikipedia.org/wiki/Angular_momentum_diagrams_(quantum_mechanics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1365952085)）
 - [Wikidata：Q17002183](https://www.wikidata.org/wiki/Q17002183)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2362205218)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

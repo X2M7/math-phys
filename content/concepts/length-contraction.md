@@ -28,19 +28,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-勞侖茲收縮； 尺缩效应； 动尺缩短； 長度收縮； length contraction； Lorentz contraction； Lorentz–FitzGerald contraction； Lorentz-FitzGerald contraction
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：长度收缩](https://zh.wikipedia.org/wiki/%E9%95%BF%E5%BA%A6%E6%94%B6%E7%BC%A9)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93127543)）
 - [English Wikipedia：Length contraction](https://en.wikipedia.org/wiki/Length_contraction)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382103259)）
 - [Wikidata：Q836595](https://www.wikidata.org/wiki/Q836595)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2547548997)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

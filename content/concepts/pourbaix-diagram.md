@@ -24,19 +24,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-電位-pH圖； potential/pH diagram； pE/pH diagram； EH-pH diagram
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：电位-pH图](https://zh.wikipedia.org/wiki/%E7%94%B5%E4%BD%8D-pH%E5%9B%BE)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90850709)）
 - [English Wikipedia：Pourbaix diagram](https://en.wikipedia.org/wiki/Pourbaix_diagram)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1361942991)）
 - [Wikidata：Q898583](https://www.wikidata.org/wiki/Q898583)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2355280754)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

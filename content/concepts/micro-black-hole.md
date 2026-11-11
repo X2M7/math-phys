@@ -23,19 +23,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-micro black hole； quantum mechanical black hole； mini black hole
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：微型黑洞](https://zh.wikipedia.org/wiki/%E5%BE%AE%E5%9E%8B%E9%BB%91%E6%B4%9E)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=85917833)）
 - [English Wikipedia：Micro black hole](https://en.wikipedia.org/wiki/Micro_black_hole)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375768544)）
 - [Wikidata：Q609501](https://www.wikidata.org/wiki/Q609501)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2536002596)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

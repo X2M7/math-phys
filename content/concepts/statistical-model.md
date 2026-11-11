@@ -23,19 +23,11 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-statistical model； Models, Statistical； statistical models
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：概率模型](https://zh.wikipedia.org/wiki/%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94784274)）
 - [English Wikipedia：Statistical model](https://en.wikipedia.org/wiki/Statistical_model)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382078677)）
 - [Wikidata：Q3284399](https://www.wikidata.org/wiki/Q3284399)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2517068211)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

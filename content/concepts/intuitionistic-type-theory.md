@@ -28,19 +28,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-直觉类型理论； Per Martin-Lof； 依赖类型论； Martin-Löf 类型论； 归纳类型； 直覺類型論； intuitionistic type theory； Martin-Löf type theory
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：直觉类型论](https://zh.wikipedia.org/wiki/%E7%9B%B4%E8%A7%89%E7%B1%BB%E5%9E%8B%E8%AE%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88632130)）
 - [English Wikipedia：Intuitionistic type theory](https://en.wikipedia.org/wiki/Intuitionistic_type_theory)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384845844)）
 - [Wikidata：Q6059147](https://www.wikidata.org/wiki/Q6059147)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2433929865)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

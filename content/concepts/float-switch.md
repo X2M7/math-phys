@@ -22,19 +22,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-float switch； 浮動開關
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：浮动开关](https://zh.wikipedia.org/wiki/%E6%B5%AE%E5%8B%95%E9%96%8B%E9%97%9C)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=87460028)）
 - [English Wikipedia：Float switch](https://en.wikipedia.org/wiki/Float_switch)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1368815830)）
 - [Wikidata：Q624912](https://www.wikidata.org/wiki/Q624912)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2365952617)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

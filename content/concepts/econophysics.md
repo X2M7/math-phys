@@ -26,19 +26,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-經濟物理學家； econophysics； econo-physics； economophysics； economic physics； 經濟物理學
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：经济物理学](https://zh.wikipedia.org/wiki/%E7%B6%93%E6%BF%9F%E7%89%A9%E7%90%86%E5%AD%B8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90313783)）
 - [English Wikipedia：Econophysics](https://en.wikipedia.org/wiki/Econophysics)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1372954464)）
 - [Wikidata：Q295430](https://www.wikidata.org/wiki/Q295430)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2531294684)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

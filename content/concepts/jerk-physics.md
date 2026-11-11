@@ -29,19 +29,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-變加速度； 急动度； 急动导； 急動度； 急動導； jerk； jolt； surge； lurch
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：加加速度](https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%8A%A0%E9%80%9F%E5%BA%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88806269)）
 - [English Wikipedia：Jerk \(physics\)](<https://en.wikipedia.org/wiki/Jerk_(physics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383557716)）
 - [Wikidata：Q497332](https://www.wikidata.org/wiki/Q497332)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541642470)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

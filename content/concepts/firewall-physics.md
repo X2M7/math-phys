@@ -24,19 +24,11 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity · 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-firewall； Black hole firewall； 黑洞火牆
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：黑洞火墙](https://zh.wikipedia.org/wiki/%E9%BB%91%E6%B4%9E%E7%81%AB%E7%89%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90620455)）
 - [English Wikipedia：Firewall \(physics\)](<https://en.wikipedia.org/wiki/Firewall_(physics)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1364285592)）
 - [Wikidata：Q5452017](https://www.wikidata.org/wiki/Q5452017)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2549858157)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -23,20 +23,12 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-linear combination； superposition； 線性組合
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：线性组合](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%80%A7%E7%BB%84%E5%90%88)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88114601)）
 - [English Wikipedia：Linear combination](https://en.wikipedia.org/wiki/Linear_combination)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383919894)）
 - [nLab：linear combination](https://ncatlab.org/nlab/show/linear+combination)
 - [Wikidata：Q27628](https://www.wikidata.org/wiki/Q27628)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553147875)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

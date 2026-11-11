@@ -23,19 +23,11 @@ dictionarySource:
 
 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-截断误差； truncation error； 截尾誤差
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：截尾误差](https://zh.wikipedia.org/wiki/%E6%88%AA%E5%B0%BE%E8%AA%A4%E5%B7%AE)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93729268)）
 - [English Wikipedia：Truncation error](https://en.wikipedia.org/wiki/Truncation_error)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1302579951)）
 - [Wikidata：Q3434686](https://www.wikidata.org/wiki/Q3434686)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2485403231)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

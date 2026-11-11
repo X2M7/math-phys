@@ -25,20 +25,12 @@ dictionarySource:
 
 数论 / Number theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-abc猜想； abc conjecture； Oesterlé–Masser conjecture； Oesterlé-Masser conjecture； Oesterlé Masser conjecture
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：Abc猜想](https://zh.wikipedia.org/wiki/Abc%E7%8C%9C%E6%83%B3)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93987081)）
 - [English Wikipedia：Abc conjecture](https://en.wikipedia.org/wiki/Abc_conjecture)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382062810)）
 - [nLab：abc conjecture](https://ncatlab.org/nlab/show/abc+conjecture)
 - [Wikidata：Q306393](https://www.wikidata.org/wiki/Q306393)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2567438253)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

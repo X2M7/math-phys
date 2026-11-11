@@ -24,12 +24,6 @@ dictionarySource:
 
 宇宙学 / Cosmology · 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-cosmological perturbation theory
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Cosmological perturbation theory](https://en.wikipedia.org/wiki/Cosmological_perturbation_theory)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1363640684)）
@@ -42,8 +36,6 @@ cosmological perturbation theory
 - [术语在线：《天文学名词》（2024，第三版）—宇宙微扰论](https://www.termonline.cn/wordDetail?base=1&subject=da15c4c4774511f080660242ac110003&termName=%E5%AE%87%E5%AE%99%E5%BE%AE%E6%89%B0%E8%AE%BA)（全国科学技术名词审定委员会）。来源原译名：宇宙微扰论；原文英文：cosmological perturbation theory。定位：术语编码 07\.013；天文学\_星系和宇宙学；公布年度 2024；记录 ID da15c4c4774511f080660242ac110003。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

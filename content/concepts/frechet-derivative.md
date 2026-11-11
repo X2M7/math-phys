@@ -23,20 +23,12 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Fréchet導數； Frechet derivative； 弗雷歇導數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：弗雷歇导数](https://zh.wikipedia.org/wiki/%E5%BC%97%E9%9B%B7%E6%AD%87%E5%AF%BC%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92842544)）
 - [English Wikipedia：Fréchet derivative](https://en.wikipedia.org/wiki/Fr%C3%A9chet_derivative)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1376856817)）
 - [nLab：Fréchet derivative](https://ncatlab.org/nlab/show/Fr%C3%A9chet+derivative)
 - [Wikidata：Q1305350](https://www.wikidata.org/wiki/Q1305350)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541643242)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

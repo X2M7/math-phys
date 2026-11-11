@@ -31,19 +31,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-recursively enumerable set； computably enumerable set； c\.e\. set； r\.e\. set； semidecidable set； partially decidable set； listable set； provable set； Turing-recognizable set； provable； 遞歸可枚舉集合
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：递归可枚举集合](https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92%E5%8F%AF%E6%9E%9A%E4%B8%BE%E9%9B%86%E5%90%88)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94042489)）
 - [English Wikipedia：Computably enumerable set](https://en.wikipedia.org/wiki/Computably_enumerable_set)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1377993818)）
 - [Wikidata：Q676835](https://www.wikidata.org/wiki/Q676835)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563268138)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

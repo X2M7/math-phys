@@ -21,19 +21,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-鏡像法
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：镜像法](https://zh.wikipedia.org/wiki/%E9%8F%A1%E5%83%8F%E6%B3%95)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=89441138)）
 - [English Wikipedia：Method of image charges](https://en.wikipedia.org/wiki/Method_of_image_charges)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1352900527)）
 - [Wikidata：Q1372220](https://www.wikidata.org/wiki/Q1372220)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2448813662)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

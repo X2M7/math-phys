@@ -24,19 +24,11 @@ dictionarySource:
 
 宇宙学 / Cosmology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-波尔兹曼大脑； Boltzmann mind； Boltzmann's brain； 玻爾茲曼大腦
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：玻尔兹曼大脑](https://zh.wikipedia.org/wiki/%E7%8E%BB%E5%B0%94%E5%85%B9%E6%9B%BC%E5%A4%A7%E8%84%91)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92121293)）
 - [English Wikipedia：Boltzmann brain](https://en.wikipedia.org/wiki/Boltzmann_brain)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375460310)）
 - [Wikidata：Q646419](https://www.wikidata.org/wiki/Q646419)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2487739700)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

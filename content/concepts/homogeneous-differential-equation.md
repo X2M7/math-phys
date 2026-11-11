@@ -23,19 +23,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-齊次微分方程式； homogeneous differential equation； 齊次微分方程
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：齐次微分方程](https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%AC%A1%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94058757)）
 - [English Wikipedia：Homogeneous differential equation](https://en.wikipedia.org/wiki/Homogeneous_differential_equation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1365069553)）
 - [Wikidata：Q2434565](https://www.wikidata.org/wiki/Q2434565)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2556704080)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -24,19 +24,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-arithmetic–geometric mean； AGM method； AGM； 算術-幾何平均數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：算术-几何平均数](https://zh.wikipedia.org/wiki/%E7%AE%97%E6%9C%AF-%E5%87%A0%E4%BD%95%E5%B9%B3%E5%9D%87%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=85969788)）
 - [English Wikipedia：Arithmetic–geometric mean](https://en.wikipedia.org/wiki/Arithmetic%E2%80%93geometric_mean)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1370712781)）
 - [Wikidata：Q476167](https://www.wikidata.org/wiki/Q476167)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565114105)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

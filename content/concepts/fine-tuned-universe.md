@@ -26,19 +26,11 @@ dictionarySource:
 
 宇宙学 / Cosmology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-调和宇宙； 微調宇宙； 精細調節問題； 調和宇宙； fine-tuned universe； 精細調節宇宙
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：精细调节宇宙](https://zh.wikipedia.org/wiki/%E7%B2%BE%E7%BB%86%E8%B0%83%E8%8A%82%E5%AE%87%E5%AE%99)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95385036)）
 - [English Wikipedia：Fine-tuned universe](https://en.wikipedia.org/wiki/Fine-tuned_universe)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383042518)）
 - [Wikidata：Q1401749](https://www.wikidata.org/wiki/Q1401749)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2548102538)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

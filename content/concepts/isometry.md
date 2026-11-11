@@ -28,20 +28,12 @@ dictionarySource:
 
 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-等度变换； 等度； 等距； 保距映射； 等距同構； isometry； congruence； congruent transformation
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：等距同构](https://zh.wikipedia.org/wiki/%E7%AD%89%E8%B7%9D%E5%90%8C%E6%9E%84)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92373197)）
 - [English Wikipedia：Isometry](https://en.wikipedia.org/wiki/Isometry)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384702919)）
 - [nLab：isometry](https://ncatlab.org/nlab/show/isometry)
 - [Wikidata：Q740207](https://www.wikidata.org/wiki/Q740207)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2556090661)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

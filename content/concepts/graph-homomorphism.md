@@ -22,19 +22,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-graph homomorphism； 圖同態
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：图同态](https://zh.wikipedia.org/wiki/%E5%9C%96%E5%90%8C%E6%85%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95408948)）
 - [English Wikipedia：Graph homomorphism](https://en.wikipedia.org/wiki/Graph_homomorphism)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1350336725)）
 - [Wikidata：Q3385162](https://www.wikidata.org/wiki/Q3385162)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2542201185)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

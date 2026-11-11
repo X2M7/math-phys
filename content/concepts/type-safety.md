@@ -28,19 +28,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-safe typing； type soundness； type-safe； type safety typing； type safety system； type safety； safety typing； 型別安全
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：型别安全](https://zh.wikipedia.org/wiki/%E5%9E%8B%E5%88%A5%E5%AE%89%E5%85%A8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91697159)）
 - [English Wikipedia：Type safety](https://en.wikipedia.org/wiki/Type_safety)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384114913)）
 - [Wikidata：Q736866](https://www.wikidata.org/wiki/Q736866)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563268121)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

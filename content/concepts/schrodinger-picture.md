@@ -22,19 +22,11 @@ dictionarySource:
 
 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Schroedinger picture； 薛丁格繪景
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：薛丁格绘景](https://zh.wikipedia.org/wiki/%E8%96%9B%E4%B8%81%E6%A0%BC%E7%B9%AA%E6%99%AF)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=84137863)）
 - [English Wikipedia：Schrödinger picture](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_picture)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1168945790)）
 - [Wikidata：Q898601](https://www.wikidata.org/wiki/Q898601)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2529732371)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

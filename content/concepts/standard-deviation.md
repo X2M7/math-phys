@@ -30,19 +30,11 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-标准差； 均方差； 标准方差； 標準差； 標準機差； 样本标准差； 標準方差； standard deviation； root-mean-square deviation, root mean square deviation, RMSD； 標準偏差
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：标准偏差](https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%81%8F%E5%B7%AE)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94959463)）
 - [English Wikipedia：Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383106258)）
 - [Wikidata：Q159375](https://www.wikidata.org/wiki/Q159375)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563196387)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

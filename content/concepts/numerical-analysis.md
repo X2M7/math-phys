@@ -27,20 +27,12 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity · 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-numerical analysis； numerical computation； numerical mathematics； numerical modelling； computer-assisted analysis； 數值分析
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：数值分析](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88069423)）
 - [English Wikipedia：Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383924514)）
 - [nLab：numerical analysis](https://ncatlab.org/nlab/show/numerical+analysis)
 - [Wikidata：Q11216](https://www.wikidata.org/wiki/Q11216)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2544321504)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

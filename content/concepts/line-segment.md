@@ -25,19 +25,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-線段； line segment； line； segment； straight-line segment
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：线段](https://zh.wikipedia.org/wiki/%E7%BA%BF%E6%AE%B5)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94306133)）
 - [English Wikipedia：Line segment](https://en.wikipedia.org/wiki/Line_segment)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375693923)）
 - [Wikidata：Q166154](https://www.wikidata.org/wiki/Q166154)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565115799)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -24,19 +24,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-內能； 热力学能； internal energy； thermodynamic energy
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：内能](https://zh.wikipedia.org/wiki/%E5%86%85%E8%83%BD)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94497988)）
 - [English Wikipedia：Internal energy](https://en.wikipedia.org/wiki/Internal_energy)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1382994725)）
 - [Wikidata：Q180241](https://www.wikidata.org/wiki/Q180241)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565487774)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

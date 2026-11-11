@@ -24,19 +24,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-pneumatic motor； Compressed air engine； air motor； 氣動馬達
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：气动马达](https://zh.wikipedia.org/wiki/%E6%B0%94%E5%8A%A8%E9%A9%AC%E8%BE%BE)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91053948)）
 - [English Wikipedia：Pneumatic motor](https://en.wikipedia.org/wiki/Pneumatic_motor)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384122685)）
 - [Wikidata：Q906480](https://www.wikidata.org/wiki/Q906480)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2543103329)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

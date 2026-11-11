@@ -25,20 +25,12 @@ dictionarySource:
 
 几何学 / Geometry
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-交叉比例； cross-ratio； cross ratio； anharmonic ratio； anharmonic section
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：交比](https://zh.wikipedia.org/wiki/%E4%BA%A4%E6%AF%94)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91439870)）
 - [English Wikipedia：Cross-ratio](https://en.wikipedia.org/wiki/Cross-ratio)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380801487)）
 - [nLab：cross ratio](https://ncatlab.org/nlab/show/cross+ratio)
 - [Wikidata：Q899539](https://www.wikidata.org/wiki/Q899539)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2483385865)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -23,12 +23,6 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-ergodic hypothesis
-
 ## 参考来源 / Sources
 
 - [English Wikipedia：Ergodic hypothesis](https://en.wikipedia.org/wiki/Ergodic_hypothesis)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1369283921)）
@@ -42,8 +36,6 @@ ergodic hypothesis
 - [术语在线：《物理学名词》（2019，第三版）—遍历假说](https://www.termonline.cn/wordDetail?base=1&subject=b2b99d7f26ac11eebfebb068e6519520&termName=%E9%81%8D%E5%8E%86%E5%81%87%E8%AF%B4)（全国科学技术名词审定委员会）。来源原译名：遍历假说；原文英文：ergodic hypothesis。定位：术语编码 05\.0493；物理学\_热学、统计物理学\_统计物理学；公布年度 2019；记录 ID b2b99d7f26ac11eebfebb068e6519520。
 
 采用全国科学技术名词审定委员会已公布名词；来源原文、学科、公布年与术语编码均保留。
-
-2026-11-10 核验时未找到对应的中文 Wikipedia 页面；采用术语来源译名。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。这里收录术语名称与来源索引，定义及说明请参阅原文。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

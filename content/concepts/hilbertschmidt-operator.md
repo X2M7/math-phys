@@ -22,19 +22,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Hilbert-Schmidt operator； 希爾伯特-施密特算子
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：希尔伯特-施密特算子](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%B0%94%E4%BC%AF%E7%89%B9-%E6%96%BD%E5%AF%86%E7%89%B9%E7%AE%97%E5%AD%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93581073)）
 - [English Wikipedia：Hilbert–Schmidt operator](https://en.wikipedia.org/wiki/Hilbert%E2%80%93Schmidt_operator)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1356121513)）
 - [Wikidata：Q1518047](https://www.wikidata.org/wiki/Q1518047)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565918611)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

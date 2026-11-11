@@ -22,19 +22,11 @@ dictionarySource:
 
 分析学 / Analysis · 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-馮諾依曼穩定性分析
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：冯诺依曼稳定性分析](https://zh.wikipedia.org/wiki/%E5%86%AF%E8%AF%BA%E4%BE%9D%E6%9B%BC%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92945879)）
 - [English Wikipedia：Von Neumann stability analysis](https://en.wikipedia.org/wiki/Von_Neumann_stability_analysis)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1345503727)）
 - [Wikidata：Q458556](https://www.wikidata.org/wiki/Q458556)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2540978734)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

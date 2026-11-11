@@ -22,19 +22,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-analytical ultracentrifugation； 分析型超速離心機
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：分析型超速离心机](https://zh.wikipedia.org/wiki/%E5%88%86%E6%9E%90%E5%9E%8B%E8%B6%85%E9%80%9F%E7%A6%BB%E5%BF%83%E6%9C%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94171927)）
 - [English Wikipedia：Analytical ultracentrifugation](https://en.wikipedia.org/wiki/Analytical_ultracentrifugation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1353645427)）
 - [Wikidata：Q85741465](https://www.wikidata.org/wiki/Q85741465)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2510377562)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

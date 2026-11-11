@@ -26,19 +26,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-drinking bird； insatiable birdy； dipping bird； drinky bird； dunking bird； 飲水鳥
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：饮水鸟](https://zh.wikipedia.org/wiki/%E9%A5%AE%E6%B0%B4%E9%B8%9F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93485892)）
 - [English Wikipedia：Drinking bird](https://en.wikipedia.org/wiki/Drinking_bird)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379190177)）
 - [Wikidata：Q125526](https://www.wikidata.org/wiki/Q125526)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2459596284)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

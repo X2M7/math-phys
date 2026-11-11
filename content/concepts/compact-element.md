@@ -25,20 +25,12 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-代数格； 代数偏序集合； 代数有向完全偏序； compact element； 緊緻元素
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：紧致元素](https://zh.wikipedia.org/wiki/%E7%B4%A7%E8%87%B4%E5%85%83%E7%B4%A0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=53570996)）
 - [English Wikipedia：Compact element](https://en.wikipedia.org/wiki/Compact_element)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1375338724)）
 - [nLab：compact element](https://ncatlab.org/nlab/show/compact+element)
 - [Wikidata：Q5155306](https://www.wikidata.org/wiki/Q5155306)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=1912378278)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

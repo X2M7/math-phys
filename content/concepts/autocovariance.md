@@ -22,19 +22,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-autocovariance； 自協方差
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：自协方差](https://zh.wikipedia.org/wiki/%E8%87%AA%E5%8D%8F%E6%96%B9%E5%B7%AE)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88132069)）
 - [English Wikipedia：Autocovariance](https://en.wikipedia.org/wiki/Autocovariance)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1268925957)）
 - [Wikidata：Q786973](https://www.wikidata.org/wiki/Q786973)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515882712)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

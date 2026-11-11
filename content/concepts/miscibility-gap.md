@@ -23,19 +23,11 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-混溶間隙； miscibility gap； 溶解度間隙
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：溶解度间隙](https://zh.wikipedia.org/wiki/%E6%BA%B6%E8%A7%A3%E5%BA%A6%E9%97%B4%E9%9A%99)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94650300)）
 - [English Wikipedia：Miscibility gap](https://en.wikipedia.org/wiki/Miscibility_gap)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1366573939)）
 - [Wikidata：Q1938712](https://www.wikidata.org/wiki/Q1938712)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2490190159)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

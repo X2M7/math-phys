@@ -23,19 +23,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics · 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-複雜網絡； complex network
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：复杂网络](https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95254877)）
 - [English Wikipedia：Complex network](https://en.wikipedia.org/wiki/Complex_network)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1359672615)）
 - [Wikidata：Q665189](https://www.wikidata.org/wiki/Q665189)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515877146)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

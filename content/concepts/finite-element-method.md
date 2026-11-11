@@ -27,19 +27,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics · 微分方程与动力系统 / Differential equations and dynamics · 数值分析与优化 / Numerical analysis and optimization
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-有限元方法； 有限单元法； finite element method； finite element methods； FEM
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：有限元素法](https://zh.wikipedia.org/wiki/%E6%9C%89%E9%99%90%E5%85%83%E7%B4%A0%E6%B3%95)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94739924)）
 - [English Wikipedia：Finite element method](https://en.wikipedia.org/wiki/Finite_element_method)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373533703)）
 - [Wikidata：Q220184](https://www.wikidata.org/wiki/Q220184)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2515854241)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -22,19 +22,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-开普勒问题； 克卜勒問題
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：克卜勒问题](https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8D%9C%E5%8B%92%E5%95%8F%E9%A1%8C)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93379202)）
 - [English Wikipedia：Kepler problem](https://en.wikipedia.org/wiki/Kepler_problem)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1377223577)）
 - [Wikidata：Q2564682](https://www.wikidata.org/wiki/Q2564682)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2460717743)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

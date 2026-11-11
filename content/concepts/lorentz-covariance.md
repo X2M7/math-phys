@@ -31,19 +31,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-洛伦兹共变性； 洛伦兹协变性； 勞侖茲不變量； 洛仑兹不变性； 勞侖茲不變性； 洛侖茲不變量； 洛伦兹协变； 洛侖茲協變性； 洛伦兹不变性； Lorentz Invariance； 勞侖茲協變性
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：劳仑兹协变性](https://zh.wikipedia.org/wiki/%E5%8B%9E%E4%BE%96%E8%8C%B2%E5%8D%94%E8%AE%8A%E6%80%A7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94114302)）
 - [English Wikipedia：Lorentz covariance](https://en.wikipedia.org/wiki/Lorentz_covariance)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1369617467)）
 - [Wikidata：Q1093427](https://www.wikidata.org/wiki/Q1093427)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2516316161)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

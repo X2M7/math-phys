@@ -23,20 +23,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic · 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-extremally disconnected space； 極端不連通空間
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：极端不连通空间](https://zh.wikipedia.org/wiki/%E6%A5%B5%E7%AB%AF%E4%B8%8D%E9%80%A3%E9%80%9A%E7%A9%BA%E9%96%93)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93554045)）
 - [English Wikipedia：Extremally disconnected space](https://en.wikipedia.org/wiki/Extremally_disconnected_space)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1327022226)）
 - [nLab：extremally disconnected topological space](https://ncatlab.org/nlab/show/extremally+disconnected+topological+space)
 - [Wikidata：Q1385462](https://www.wikidata.org/wiki/Q1385462)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541316184)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

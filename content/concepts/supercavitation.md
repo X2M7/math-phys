@@ -23,19 +23,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-超空泡效应； supercavitation； 超空蝕效應
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：超空蚀效应](https://zh.wikipedia.org/wiki/%E8%B6%85%E7%A9%BA%E8%9D%95%E6%95%88%E6%87%89)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88344667)）
 - [English Wikipedia：Supercavitation](https://en.wikipedia.org/wiki/Supercavitation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384503029)）
 - [Wikidata：Q1571978](https://www.wikidata.org/wiki/Q1571978)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2491285882)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

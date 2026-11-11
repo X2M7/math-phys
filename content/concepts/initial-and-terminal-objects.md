@@ -28,19 +28,11 @@ dictionarySource:
 
 范畴论 / Category theory
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-终结对象； 初始对象； 零对象； 终对象； 始对象； initial and terminal objects； initial, terminal and zero objects； 始對象和終對象
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：始对象和终对象](https://zh.wikipedia.org/wiki/%E5%A7%8B%E5%AF%B9%E8%B1%A1%E5%92%8C%E7%BB%88%E5%AF%B9%E8%B1%A1)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=70641896)）
 - [English Wikipedia：Initial and terminal objects](https://en.wikipedia.org/wiki/Initial_and_terminal_objects)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1350926837)）
 - [Wikidata：Q529752](https://www.wikidata.org/wiki/Q529752)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2554958200)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

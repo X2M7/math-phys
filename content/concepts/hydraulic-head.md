@@ -24,19 +24,11 @@ dictionarySource:
 
 经典力学与连续介质 / Classical and continuum mechanics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-水頭； 揚程； hydraulic head； piezometric head
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：扬程](https://zh.wikipedia.org/wiki/%E6%89%AC%E7%A8%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90694463)）
 - [English Wikipedia：Hydraulic head](https://en.wikipedia.org/wiki/Hydraulic_head)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1368161580)）
 - [Wikidata：Q369743](https://www.wikidata.org/wiki/Q369743)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2494011959)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

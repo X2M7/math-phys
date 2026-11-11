@@ -21,19 +21,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-巴恩斯積分
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：巴恩斯积分](https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%81%A9%E6%96%AF%E7%A7%AF%E5%88%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94943218)）
 - [English Wikipedia：Barnes integral](https://en.wikipedia.org/wiki/Barnes_integral)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1235393000)）
 - [Wikidata：Q4201931](https://www.wikidata.org/wiki/Q4201931)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2561510761)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -23,19 +23,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles · 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Bethe-Salpeter equation； 貝特–薩爾皮特方程
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：贝特–萨尔皮特方程](https://zh.wikipedia.org/wiki/%E8%B4%9D%E7%89%B9%E2%80%93%E8%90%A8%E5%B0%94%E7%9A%AE%E7%89%B9%E6%96%B9%E7%A8%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90595244)）
 - [English Wikipedia：Bethe–Salpeter equation](https://en.wikipedia.org/wiki/Bethe%E2%80%93Salpeter_equation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1344344333)）
 - [Wikidata：Q288509](https://www.wikidata.org/wiki/Q288509)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2470398777)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

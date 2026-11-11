@@ -24,19 +24,11 @@ dictionarySource:
 
 拓扑学 / Topology
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-紐結； 纽结论； knot theory； 紐結理論
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：纽结理论](https://zh.wikipedia.org/wiki/%E7%B4%90%E7%B5%90%E7%90%86%E8%AB%96)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94873499)）
 - [English Wikipedia：Knot theory](https://en.wikipedia.org/wiki/Knot_theory)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1377274443)）
 - [Wikidata：Q849798](https://www.wikidata.org/wiki/Q849798)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541102403)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

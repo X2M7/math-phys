@@ -22,19 +22,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-pointwise； 逐點
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：逐点](https://zh.wikipedia.org/wiki/%E9%80%90%E7%82%B9)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90597109)）
 - [English Wikipedia：Pointwise](https://en.wikipedia.org/wiki/Pointwise)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1298665805)）
 - [Wikidata：Q122391649](https://www.wikidata.org/wiki/Q122391649)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2534691228)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

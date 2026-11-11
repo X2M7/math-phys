@@ -23,19 +23,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-magnet； magnets； 磁鐵
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：磁铁](https://zh.wikipedia.org/wiki/%E7%A3%81%E9%90%B5)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95188673)）
 - [English Wikipedia：Magnet](https://en.wikipedia.org/wiki/Magnet)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384724052)）
 - [Wikidata：Q11421](https://www.wikidata.org/wiki/Q11421)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565331988)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

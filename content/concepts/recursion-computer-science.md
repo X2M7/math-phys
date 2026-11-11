@@ -25,19 +25,11 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-递归； recursion； recursive algorithm； recursing； 遞歸 \(計算機科學\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：递归 \(计算机科学\)](<https://zh.wikipedia.org/wiki/%E9%80%92%E5%BD%92_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92831749)）
 - [English Wikipedia：Recursion \(computer science\)](<https://en.wikipedia.org/wiki/Recursion_(computer_science)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1361825212)）
 - [Wikidata：Q264164](https://www.wikidata.org/wiki/Q264164)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2540202297)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

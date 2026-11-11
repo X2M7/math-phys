@@ -22,19 +22,11 @@ dictionarySource:
 
 相对论与引力 / Relativity and gravitation
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-velocity-addition formula； relativistic composition of velocities
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：速度加成式](https://zh.wikipedia.org/wiki/%E9%80%9F%E5%BA%A6%E5%8A%A0%E6%88%90%E5%BC%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94060966)）
 - [English Wikipedia：Velocity-addition formula](https://en.wikipedia.org/wiki/Velocity-addition_formula)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379283888)）
 - [Wikidata：Q1715792](https://www.wikidata.org/wiki/Q1715792)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2410885269)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

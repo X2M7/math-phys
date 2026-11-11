@@ -286,9 +286,6 @@ export function renderConcept(
   sources.push(
     `- ${link(`Wikidata：${entry.qid}`, entry.sources.wikidata.url)}（${link("采集时版本", `https://www.wikidata.org/w/index.php?oldid=${entry.sources.wikidata.revisionId}`)}）`,
   )
-  const variants = entry.variants.length
-    ? `\n## 别名 / Variants\n\n保留来源中的不同译名及简繁写法，便于检索。\n\n${entry.variants.map(plain).join("； ")}\n`
-    : ""
   const translation = entry.translation
   const translationReferences = translation
     ? `
@@ -304,20 +301,15 @@ ${translation.sources
   )
   .join("\n")}${translation.note ? `\n\n${plain(translation.note)}` : ""}`
     : ""
-  const namingBasis = entry.sources.zhWikipedia
-    ? "中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。"
-    : `${entry.wikipediaVerification!.verifiedOn} 核验时未找到对应的中文 Wikipedia 页面；采用${translation!.basis === "official-terminology" ? "术语来源译名" : "学术文献用法"}。中文采用经核对的简体名称，并保留来源原译名；其他译名与适用语境仍可补充核对。英文 Wikipedia 与 Wikidata 用于确认概念身份。`
   return `---\n${yaml.dump(metadata, { lineWidth: -1, noRefs: true, quotingType: '"' })}---
 
 **${plain(chinese)}** · **${plain(entry.en)}**
 
 ${entry.subjects.map((subject) => plain(subjects[subject])).join(" · ")}
-${variants}
+
 ## 参考来源 / Sources
 
 ${sources.join("\n")}${translationReferences}
-
-${namingBasis}这里收录术语名称与来源索引，定义及说明请参阅原文${entry.sources.zhWikipedia ? "；译名和别名尚未逐条人工审定。" : "。"}${entry.sources.nlab.length ? "nLab 对应关系经其官方源码快照及 Wikidata 标识核对。" : ""}
 
 采集日期：${catalog.collectedOn}。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

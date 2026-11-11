@@ -22,19 +22,11 @@ dictionarySource:
 
 电磁学与光学 / Electromagnetism and optics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-magnetic hysteresis； 磁滯現象
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：磁滞现象](https://zh.wikipedia.org/wiki/%E7%A3%81%E6%BB%9E%E7%8E%B0%E8%B1%A1)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=92832750)）
 - [English Wikipedia：Magnetic hysteresis](https://en.wikipedia.org/wiki/Magnetic_hysteresis)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1345846153)）
 - [Wikidata：Q9691942](https://www.wikidata.org/wiki/Q9691942)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2543314862)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -23,19 +23,11 @@ dictionarySource:
 
 概率与统计 / Probability and statistics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-佛客－普朗克方程式； Kolmogorov forward equation \(diffusion\)； Smoluchowski equation
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：福克-普朗克方程](https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%85%8B-%E6%99%AE%E6%9C%97%E5%85%8B%E6%96%B9%E7%A8%8B)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=89508424)）
 - [English Wikipedia：Fokker–Planck equation](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1379962081)）
 - [Wikidata：Q891766](https://www.wikidata.org/wiki/Q891766)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541695598)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

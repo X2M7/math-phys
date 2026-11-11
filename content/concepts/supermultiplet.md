@@ -22,19 +22,11 @@ dictionarySource:
 
 量子场论与粒子物理 / Quantum field theory and particles
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-supermultiplet； 超多重態
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：超多重态](https://zh.wikipedia.org/wiki/%E8%B6%85%E5%A4%9A%E9%87%8D%E6%80%81)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95072616)）
 - [English Wikipedia：Supermultiplet](https://en.wikipedia.org/wiki/Supermultiplet)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1341983811)）
 - [Wikidata：Q3977994](https://www.wikidata.org/wiki/Q3977994)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553212238)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

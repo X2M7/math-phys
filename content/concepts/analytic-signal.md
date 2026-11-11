@@ -24,19 +24,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-解析表示； 解析訊號； 復包絡； 解析信號
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：解析信号](https://zh.wikipedia.org/wiki/%E8%A7%A3%E6%9E%90%E4%BF%A1%E5%8F%B7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91383037)）
 - [English Wikipedia：Analytic signal](https://en.wikipedia.org/wiki/Analytic_signal)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383733150)）
 - [Wikidata：Q485394](https://www.wikidata.org/wiki/Q485394)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565389226)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

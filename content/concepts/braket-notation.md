@@ -30,19 +30,11 @@ dictionarySource:
 
 代数 / Algebra · 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-右括向量； Bra-ket记号； 狄拉克標記； 左括向量； 右矢； bra–ket notation； Dirac notation； bra-ket notation； 狄拉克符號
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：狄拉克符号](https://zh.wikipedia.org/wiki/%E7%8B%84%E6%8B%89%E5%85%8B%E7%AC%A6%E5%8F%B7)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93262240)）
 - [English Wikipedia：Bra–ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1377684197)）
 - [Wikidata：Q59090](https://www.wikidata.org/wiki/Q59090)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2555462634)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -23,19 +23,11 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-收斂區域； 收斂半徑； radius of convergence
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：收敛半径](https://zh.wikipedia.org/wiki/%E6%94%B6%E6%95%9B%E5%8D%8A%E5%BE%84)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95232677)）
 - [English Wikipedia：Radius of convergence](https://en.wikipedia.org/wiki/Radius_of_convergence)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1380701751)）
 - [Wikidata：Q1428097](https://www.wikidata.org/wiki/Q1428097)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2511603577)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

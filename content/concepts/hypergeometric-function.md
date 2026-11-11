@@ -24,19 +24,11 @@ dictionarySource:
 
 微分方程与动力系统 / Differential equations and dynamics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-hypergeometric function； gaussian hypergeometric function； ordinary hypergeometric function； 超幾何函數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：超几何函数](https://zh.wikipedia.org/wiki/%E8%B6%85%E5%87%A0%E4%BD%95%E5%87%BD%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94565745)）
 - [English Wikipedia：Hypergeometric function](https://en.wikipedia.org/wiki/Hypergeometric_function)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1372763081)）
 - [Wikidata：Q21028472](https://www.wikidata.org/wiki/Q21028472)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2499933979)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

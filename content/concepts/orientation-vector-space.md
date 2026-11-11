@@ -22,19 +22,11 @@ dictionarySource:
 
 代数 / Algebra
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-orientation \(vector space\)； 定向 \(向量空間\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：定向 \(向量空间\)](<https://zh.wikipedia.org/wiki/%E5%AE%9A%E5%90%91_(%E5%90%91%E9%87%8F%E7%A9%BA%E9%96%93)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=91563350)）
 - [English Wikipedia：Orientation \(vector space\)](<https://en.wikipedia.org/wiki/Orientation_(vector_space)>)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1342638631)）
 - [Wikidata：Q107472979](https://www.wikidata.org/wiki/Q107472979)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2503053430)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

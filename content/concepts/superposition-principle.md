@@ -25,19 +25,11 @@ dictionarySource:
 
 数学物理与量子引力 / Mathematical physics and quantum gravity
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-线性叠加； 線性疊加； superposition principle； principle of superposition； 疊加原理
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：叠加原理](https://zh.wikipedia.org/wiki/%E5%8F%A0%E5%8A%A0%E5%8E%9F%E7%90%86)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94776461)）
 - [English Wikipedia：Superposition principle](https://en.wikipedia.org/wiki/Superposition_principle)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383626364)）
 - [Wikidata：Q284885](https://www.wikidata.org/wiki/Q284885)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2563770587)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

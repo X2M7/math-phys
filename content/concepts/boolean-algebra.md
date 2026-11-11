@@ -31,19 +31,11 @@ dictionarySource:
 
 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-布尔代数； 开关代数； 布爾代數； 邏輯代數； 開關代數； 布林代數； 布林代数； 布林邏輯； Boolean logic； switching algebra； digital logic
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：逻辑代数](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E4%BB%A3%E6%95%B0)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=88535961)）
 - [English Wikipedia：Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384514441)）
 - [Wikidata：Q173183](https://www.wikidata.org/wiki/Q173183)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2565117455)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

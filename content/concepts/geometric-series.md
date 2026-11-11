@@ -23,20 +23,12 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-等比級數； geometric series； 幾何級數
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：几何级数](https://zh.wikipedia.org/wiki/%E5%B9%BE%E4%BD%95%E7%B4%9A%E6%95%B8)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=95394071)）
 - [English Wikipedia：Geometric series](https://en.wikipedia.org/wiki/Geometric_series)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1373309957)）
 - [nLab：geometric series](https://ncatlab.org/nlab/show/geometric+series)
 - [Wikidata：Q1306887](https://www.wikidata.org/wiki/Q1306887)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541642643)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

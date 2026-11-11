@@ -26,20 +26,12 @@ dictionarySource:
 
 代数 / Algebra · 离散数学 / Discrete mathematics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-对称群； 對稱群； symmetric group； bijective group； 對稱群 \(n次對稱群\)
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：对称群 \(n次对称群\)](<https://zh.wikipedia.org/wiki/%E5%AF%B9%E7%A7%B0%E7%BE%A4_(n%E6%AC%A1%E5%AF%B9%E7%A7%B0%E7%BE%A4)>)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=76942954)）
 - [English Wikipedia：Symmetric group](https://en.wikipedia.org/wiki/Symmetric_group)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1384698259)）
 - [nLab：symmetric group](https://ncatlab.org/nlab/show/symmetric+group)
 - [Wikidata：Q849512](https://www.wikidata.org/wiki/Q849512)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2551131456)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

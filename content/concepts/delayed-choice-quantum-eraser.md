@@ -24,19 +24,11 @@ dictionarySource:
 
 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-延遲選擇量子消除實驗； delayed-choice quantum eraser； delayed choice quantum eraser； 延遲選擇量子擦除實驗
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：延迟选择量子擦除实验](https://zh.wikipedia.org/wiki/%E5%BB%B6%E9%81%B2%E9%81%B8%E6%93%87%E9%87%8F%E5%AD%90%E6%93%A6%E9%99%A4%E5%AF%A6%E9%A9%97)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=90129810)）
 - [English Wikipedia：Delayed-choice quantum eraser](https://en.wikipedia.org/wiki/Delayed-choice_quantum_eraser)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1372397052)）
 - [Wikidata：Q3062477](https://www.wikidata.org/wiki/Q3062477)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2553459434)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

@@ -25,19 +25,11 @@ dictionarySource:
 
 凝聚态物理 / Condensed matter physics · 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-居里温度； 居里點； 居禮溫度； Curie point
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：居里点](https://zh.wikipedia.org/wiki/%E5%B1%85%E9%87%8C%E7%82%B9)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94496977)）
 - [English Wikipedia：Curie temperature](https://en.wikipedia.org/wiki/Curie_temperature)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1371456543)）
 - [Wikidata：Q191073](https://www.wikidata.org/wiki/Q191073)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2559231988)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

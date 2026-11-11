@@ -33,20 +33,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-逻辑算子； 逻辑连结词； 逻辑联结词； 布尔运算符； 二元连结词； 连结词； 邏輯運算符； logical operator； sentential connective； sentential operator； propositional connective； connective； logical connective
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：逻辑运算符](https://zh.wikipedia.org/wiki/%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94751836)）
 - [English Wikipedia：Logical connective](https://en.wikipedia.org/wiki/Logical_connective)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1355803467)）
 - [nLab：logical connective](https://ncatlab.org/nlab/show/logical+connective)
 - [Wikidata：Q211790](https://www.wikidata.org/wiki/Q211790)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2556435068)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

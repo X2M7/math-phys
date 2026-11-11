@@ -22,19 +22,11 @@ dictionarySource:
 
 量子力学与量子信息 / Quantum mechanics and information
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-ghost imaging； 幽靈成像
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：幽灵成像](https://zh.wikipedia.org/wiki/%E5%B9%BD%E7%81%B5%E6%88%90%E5%83%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=86976580)）
 - [English Wikipedia：Ghost imaging](https://en.wikipedia.org/wiki/Ghost_imaging)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1383333688)）
 - [Wikidata：Q12367738](https://www.wikidata.org/wiki/Q12367738)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2250101550)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

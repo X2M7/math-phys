@@ -23,20 +23,12 @@ dictionarySource:
 
 数学基础与逻辑 / Foundations and logic
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-Burali-Forti悖论； Burali-Forti悖論； 布拉利-福爾蒂悖論
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：布拉利-福尔蒂悖论](https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E5%88%A9-%E7%A6%8F%E5%B0%94%E8%92%82%E6%82%96%E8%AE%BA)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=94692193)）
 - [English Wikipedia：Burali-Forti paradox](https://en.wikipedia.org/wiki/Burali-Forti_paradox)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1338500475)）
 - [nLab：Burali-Forti's paradox](https://ncatlab.org/nlab/show/Burali-Forti%27s+paradox)
 - [Wikidata：Q1010269](https://www.wikidata.org/wiki/Q1010269)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2502531275)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

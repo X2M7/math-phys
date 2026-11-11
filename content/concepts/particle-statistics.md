@@ -26,20 +26,12 @@ dictionarySource:
 
 热力学与统计物理 / Thermodynamics and statistical physics
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-量子统计； 量子統計； 量子統計學； 粒子統計； particle statistics； 近獨立粒子統計
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：近独立粒子统计](https://zh.wikipedia.org/wiki/%E8%BF%91%E7%8B%AC%E7%AB%8B%E7%B2%92%E5%AD%90%E7%BB%9F%E8%AE%A1)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=93722438)）
 - [English Wikipedia：Particle statistics](https://en.wikipedia.org/wiki/Particle_statistics)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1322021848)）
 - [nLab：particle statistics](https://ncatlab.org/nlab/show/particle+statistics)
 - [Wikidata：Q611755](https://www.wikidata.org/wiki/Q611755)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2555022351)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。nLab 对应关系经其官方源码快照及 Wikidata 标识核对。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 

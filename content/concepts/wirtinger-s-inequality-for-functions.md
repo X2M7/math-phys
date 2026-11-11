@@ -23,19 +23,11 @@ dictionarySource:
 
 分析学 / Analysis
 
-## 别名 / Variants
-
-保留来源中的不同译名及简繁写法，便于检索。
-
-維爾丁格函數不等式； 維爾丁格函式不等式； 維廷格函數不等式
-
 ## 参考来源 / Sources
 
 - [中文 Wikipedia：维廷格函数不等式](https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%BB%B7%E6%A0%BC%E5%87%BD%E6%95%B8%E4%B8%8D%E7%AD%89%E5%BC%8F)（[采集时版本](https://zh.wikipedia.org/w/index.php?oldid=80213215)）
 - [English Wikipedia：Wirtinger's inequality for functions](https://en.wikipedia.org/wiki/Wirtinger%27s_inequality_for_functions)（[采集时版本](https://en.wikipedia.org/w/index.php?oldid=1334945204)）
 - [Wikidata：Q947364](https://www.wikidata.org/wiki/Q947364)（[采集时版本](https://www.wikidata.org/w/index.php?oldid=2541643500)）
-
-中英文名称依据同一 Wikidata 实体对应的 Wikipedia 页面整理。这里收录术语名称与来源索引，定义及说明请参阅原文；译名和别名尚未逐条人工审定。
 
 采集日期：2026-11-10。参阅[收录范围与来源说明](../dictionary#dictionary-sources)。
 
