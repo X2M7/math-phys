@@ -121,6 +121,9 @@ function clearActivePopover() {
 }
 
 document.addEventListener("nav", () => {
+  // A preview request from the previous page may finish after SPA navigation.
+  // Invalidate its anchor before it can display a stale overlay on the new page.
+  clearActivePopover()
   const links = [...document.querySelectorAll("a.internal")] as HTMLAnchorElement[]
   for (const link of links) {
     link.addEventListener("mouseenter", mouseEnterHandler)
